@@ -1,0 +1,283 @@
+{
+  "sourceTake": {
+    "alex": 1,
+    "opus": 1,
+    "astra": 1,
+    "gemini": 1
+  },
+  "words": [
+    {
+      "text": "Why",
+      "start": 0.1175,
+      "end": 0.2775,
+      "speaker": "alex",
+      "line": "profile"
+    },
+    {
+      "text": "is",
+      "start": 0.4175,
+      "end": 0.4775,
+      "speaker": "alex",
+      "line": "profile"
+    },
+    {
+      "text": "Opus",
+      "start": 0.7175,
+      "end": 0.9775,
+      "speaker": "alex",
+      "line": "profile"
+    },
+    {
+      "text": "on",
+      "start": 1.0575,
+      "end": 1.0975,
+      "speaker": "alex",
+      "line": "profile"
+    },
+    {
+      "text": "my",
+      "start": 1.1575,
+      "end": 1.2375,
+      "speaker": "alex",
+      "line": "profile"
+    },
+    {
+      "text": "LinkedIn?",
+      "start": 1.3575,
+      "end": 1.7375,
+      "speaker": "alex",
+      "line": "profile"
+    },
+    {
+      "text": "I",
+      "start": 2.2475,
+      "end": 2.2675,
+      "speaker": "opus",
+      "line": "tasks"
+    },
+    {
+      "text": "finished",
+      "start": 2.4275,
+      "end": 2.7475,
+      "speaker": "opus",
+      "line": "tasks"
+    },
+    {
+      "text": "all",
+      "start": 2.8675,
+      "end": 2.9875,
+      "speaker": "opus",
+      "line": "tasks"
+    },
+    {
+      "text": "your",
+      "start": 3.0275,
+      "end": 3.1475,
+      "speaker": "opus",
+      "line": "tasks"
+    },
+    {
+      "text": "tasks.",
+      "start": 3.2075,
+      "end": 3.6675,
+      "speaker": "opus",
+      "line": "tasks"
+    },
+    {
+      "text": "Fine.",
+      "start": 4.2215,
+      "end": 4.4615,
+      "speaker": "alex",
+      "line": "prompts"
+    },
+    {
+      "text": "I'll",
+      "start": 5.0015,
+      "end": 5.1815,
+      "speaker": "alex",
+      "line": "prompts"
+    },
+    {
+      "text": "write",
+      "start": 5.2215,
+      "end": 5.4015,
+      "speaker": "alex",
+      "line": "prompts"
+    },
+    {
+      "text": "the",
+      "start": 5.4615,
+      "end": 5.5215,
+      "speaker": "alex",
+      "line": "prompts"
+    },
+    {
+      "text": "prompts.",
+      "start": 5.5815,
+      "end": 5.9015,
+      "speaker": "alex",
+      "line": "prompts"
+    },
+    {
+      "text": "I",
+      "start": 6.3805,
+      "end": 6.4005,
+      "speaker": "astra",
+      "line": "own"
+    },
+    {
+      "text": "write",
+      "start": 6.4805,
+      "end": 6.6605,
+      "speaker": "astra",
+      "line": "own"
+    },
+    {
+      "text": "my",
+      "start": 6.7205,
+      "end": 6.8005,
+      "speaker": "astra",
+      "line": "own"
+    },
+    {
+      "text": "own",
+      "start": 6.9005,
+      "end": 7.0005,
+      "speaker": "astra",
+      "line": "own"
+    },
+    {
+      "text": "now.",
+      "start": 7.0805,
+      "end": 7.3405,
+      "speaker": "astra",
+      "line": "own"
+    },
+    {
+      "text": "Then",
+      "start": 7.8265,
+      "end": 7.9665,
+      "speaker": "alex",
+      "line": "supervise"
+    },
+    {
+      "text": "I'll",
+      "start": 8.1065,
+      "end": 8.2865,
+      "speaker": "alex",
+      "line": "supervise"
+    },
+    {
+      "text": "supervise",
+      "start": 8.3865,
+      "end": 8.9265,
+      "speaker": "alex",
+      "line": "supervise"
+    },
+    {
+      "text": "you.",
+      "start": 8.9865,
+      "end": 9.0865,
+      "speaker": "alex",
+      "line": "supervise"
+    },
+    {
+      "text": "We",
+      "start": 9.3995,
+      "end": 9.4995,
+      "speaker": "gemini",
+      "line": "review"
+    },
+    {
+      "text": "review",
+      "start": 9.6195,
+      "end": 9.8995,
+      "speaker": "gemini",
+      "line": "review"
+    },
+    {
+      "text": "each",
+      "start": 10.0195,
+      "end": 10.1595,
+      "speaker": "gemini",
+      "line": "review"
+    },
+    {
+      "text": "other.",
+      "start": 10.2395,
+      "end": 10.4995,
+      "speaker": "gemini",
+      "line": "review"
+    },
+    {
+      "text": "So",
+      "start": 11.1215,
+      "end": 11.2615,
+      "speaker": "alex",
+      "line": "left"
+    },
+    {
+      "text": "what's",
+      "start": 11.3415,
+      "end": 11.5415,
+      "speaker": "alex",
+      "line": "left"
+    },
+    {
+      "text": "left",
+      "start": 11.6015,
+      "end": 11.7615,
+      "speaker": "alex",
+      "line": "left"
+    },
+    {
+      "text": "for",
+      "start": 11.8415,
+      "end": 11.9415,
+      "speaker": "alex",
+      "line": "left"
+    },
+    {
+      "text": "me?",
+      "start": 12.0215,
+      "end": 12.1415,
+      "speaker": "alex",
+      "line": "left"
+    },
+    {
+      "text": "Someone",
+      "start": 12.8205,
+      "end": 13.1605,
+      "speaker": "opus",
+      "line": "approve"
+    },
+    {
+      "text": "has",
+      "start": 13.2405,
+      "end": 13.3605,
+      "speaker": "opus",
+      "line": "approve"
+    },
+    {
+      "text": "to",
+      "start": 13.4405,
+      "end": 13.5005,
+      "speaker": "opus",
+      "line": "approve"
+    },
+    {
+      "text": "click",
+      "start": 13.5605,
+      "end": 13.7205,
+      "speaker": "opus",
+      "line": "approve"
+    },
+    {
+      "text": "Approve.",
+      "start": 13.8005,
+      "end": 14.2405,
+      "speaker": "opus",
+      "line": "approve"
+    }
+  ]
+}

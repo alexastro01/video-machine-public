@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "lonely-motion",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "lonely-around-people",
+  "title": "Why do you feel lonely even around people?",
+  "number": 22,
+  "shadowLeadSeconds": 0,
+  "premise": "A fictional party illustrates loneliness as a gap in felt connection. One conversation is a possible starting point for Miko, not a universal remedy.",
+  "fiction": true,
+  "duration": 30.066666666666666,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "miko",
+    "mia"
+  ],
+  "audio": {
+    "narration": "episodes/lonely-around-people/narration.wav",
+    "music": "episodes/lonely-around-people/music.wav",
+    "effects": "episodes/lonely-around-people/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.9120625000000011,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0.0,
+      "duration": 2.2,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "Why do you feel alone?",
+      "label": "hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "included",
+      "start": 2.2,
+      "duration": 3.4333333333333336,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "Being included doesn't always mean feeling understood.",
+      "label": "included",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "gap",
+      "start": 5.633333333333334,
+      "duration": 4.583333333333333,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "Loneliness is the gap between the connection you want and the connection you feel.",
+      "label": "gap",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "more",
+      "start": 10.216666666666667,
+      "duration": 2.633333333333333,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "More people won't always close that gap.",
+      "label": "more",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "fine",
+      "start": 12.85,
+      "duration": 4.4,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "Sometimes you laugh, say you're fine, and go home feeling invisible.",
+      "label": "fine",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "trust",
+      "start": 17.25,
+      "duration": 3.533333333333335,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "One place to start is an honest answer to someone you trust.",
+      "label": "trust",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "honest",
+      "start": 20.783333333333335,
+      "duration": 2.9166666666666643,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "Honestly? It's been a rough week.",
+      "label": "honest",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "snacks",
+      "start": 23.7,
+      "duration": 3.133333333333333,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "Same. I only came for the snacks.",
+      "label": "snacks",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "payoff",
+      "start": 26.833333333333332,
+      "duration": 3.2333333333333343,
+      "set": "lonely-room",
+      "action": "reveal",
+      "anchor": "First real conversation of the night.",
+      "label": "payoff",
+      "timeOfDay": "evening"
+    }
+  ]
+}

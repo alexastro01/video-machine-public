@@ -1,0 +1,373 @@
+[
+  {
+    "text": "Why does",
+    "startMs": 240,
+    "endMs": 560,
+    "timestampMs": 240,
+    "confidence": null
+  },
+  {
+    "text": "beer make",
+    "startMs": 740,
+    "endMs": 1140,
+    "timestampMs": 740,
+    "confidence": null
+  },
+  {
+    "text": "you feel",
+    "startMs": 1140,
+    "endMs": 1640,
+    "timestampMs": 1140,
+    "confidence": null
+  },
+  {
+    "text": "good?",
+    "startMs": 1640,
+    "endMs": 2680,
+    "timestampMs": 1640,
+    "confidence": null
+  },
+  {
+    "text": "Alcohol travels",
+    "startMs": 2680,
+    "endMs": 3520,
+    "timestampMs": 2680,
+    "confidence": null
+  },
+  {
+    "text": "through your",
+    "startMs": 3520,
+    "endMs": 4120,
+    "timestampMs": 3520,
+    "confidence": null
+  },
+  {
+    "text": "blood and",
+    "startMs": 4240,
+    "endMs": 4700,
+    "timestampMs": 4240,
+    "confidence": null
+  },
+  {
+    "text": "into your",
+    "startMs": 4900,
+    "endMs": 5220,
+    "timestampMs": 4900,
+    "confidence": null
+  },
+  {
+    "text": "brain.",
+    "startMs": 5220,
+    "endMs": 5460,
+    "timestampMs": 5220,
+    "confidence": null
+  },
+  {
+    "text": "It strengthens",
+    "startMs": 6060,
+    "endMs": 6560,
+    "timestampMs": 6060,
+    "confidence": null
+  },
+  {
+    "text": "some calming",
+    "startMs": 6560,
+    "endMs": 7440,
+    "timestampMs": 6560,
+    "confidence": null
+  },
+  {
+    "text": "signals, and",
+    "startMs": 7440,
+    "endMs": 8440,
+    "timestampMs": 7440,
+    "confidence": null
+  },
+  {
+    "text": "turns down",
+    "startMs": 8480,
+    "endMs": 9040,
+    "timestampMs": 8480,
+    "confidence": null
+  },
+  {
+    "text": "some activating",
+    "startMs": 9040,
+    "endMs": 9840,
+    "timestampMs": 9040,
+    "confidence": null
+  },
+  {
+    "text": "ones.",
+    "startMs": 9840,
+    "endMs": 9940,
+    "timestampMs": 9840,
+    "confidence": null
+  },
+  {
+    "text": "Your worries",
+    "startMs": 10780,
+    "endMs": 11300,
+    "timestampMs": 10780,
+    "confidence": null
+  },
+  {
+    "text": "can feel",
+    "startMs": 11300,
+    "endMs": 11840,
+    "timestampMs": 11300,
+    "confidence": null
+  },
+  {
+    "text": "quieter.",
+    "startMs": 11840,
+    "endMs": 12280,
+    "timestampMs": 11840,
+    "confidence": null
+  },
+  {
+    "text": "Your inhibitions",
+    "startMs": 12820,
+    "endMs": 13660,
+    "timestampMs": 12820,
+    "confidence": null
+  },
+  {
+    "text": "loosen.",
+    "startMs": 13660,
+    "endMs": 14200,
+    "timestampMs": 13660,
+    "confidence": null
+  },
+  {
+    "text": "Alcohol also",
+    "startMs": 14840,
+    "endMs": 15700,
+    "timestampMs": 14840,
+    "confidence": null
+  },
+  {
+    "text": "activates reward",
+    "startMs": 15700,
+    "endMs": 16720,
+    "timestampMs": 15700,
+    "confidence": null
+  },
+  {
+    "text": "circuits, including",
+    "startMs": 16720,
+    "endMs": 17820,
+    "timestampMs": 16720,
+    "confidence": null
+  },
+  {
+    "text": "dopamine.",
+    "startMs": 17820,
+    "endMs": 18180,
+    "timestampMs": 17820,
+    "confidence": null
+  },
+  {
+    "text": "Your brain",
+    "startMs": 18900,
+    "endMs": 19320,
+    "timestampMs": 18900,
+    "confidence": null
+  },
+  {
+    "text": "starts learning:",
+    "startMs": 19320,
+    "endMs": 20040,
+    "timestampMs": 19320,
+    "confidence": null
+  },
+  {
+    "text": "let's do",
+    "startMs": 20580,
+    "endMs": 20980,
+    "timestampMs": 20580,
+    "confidence": null
+  },
+  {
+    "text": "that again.",
+    "startMs": 20980,
+    "endMs": 21660,
+    "timestampMs": 20980,
+    "confidence": null
+  },
+  {
+    "text": "But the",
+    "startMs": 22140,
+    "endMs": 22420,
+    "timestampMs": 22140,
+    "confidence": null
+  },
+  {
+    "text": "same chemistry",
+    "startMs": 22420,
+    "endMs": 23140,
+    "timestampMs": 22420,
+    "confidence": null
+  },
+  {
+    "text": "can slow",
+    "startMs": 23200,
+    "endMs": 23820,
+    "timestampMs": 23200,
+    "confidence": null
+  },
+  {
+    "text": "your reactions",
+    "startMs": 23820,
+    "endMs": 24560,
+    "timestampMs": 23820,
+    "confidence": null
+  },
+  {
+    "text": "and weaken",
+    "startMs": 24560,
+    "endMs": 25180,
+    "timestampMs": 24560,
+    "confidence": null
+  },
+  {
+    "text": "your judgment.",
+    "startMs": 25340,
+    "endMs": 25560,
+    "timestampMs": 25340,
+    "confidence": null
+  },
+  {
+    "text": "And as",
+    "startMs": 26360,
+    "endMs": 26600,
+    "timestampMs": 26360,
+    "confidence": null
+  },
+  {
+    "text": "alcohol wears",
+    "startMs": 26660,
+    "endMs": 27380,
+    "timestampMs": 26660,
+    "confidence": null
+  },
+  {
+    "text": "off, that",
+    "startMs": 27380,
+    "endMs": 28320,
+    "timestampMs": 27380,
+    "confidence": null
+  },
+  {
+    "text": "calm can",
+    "startMs": 28320,
+    "endMs": 28960,
+    "timestampMs": 28320,
+    "confidence": null
+  },
+  {
+    "text": "give way",
+    "startMs": 29080,
+    "endMs": 29440,
+    "timestampMs": 29080,
+    "confidence": null
+  },
+  {
+    "text": "to broken",
+    "startMs": 29440,
+    "endMs": 29940,
+    "timestampMs": 29440,
+    "confidence": null
+  },
+  {
+    "text": "sleep or",
+    "startMs": 30300,
+    "endMs": 30800,
+    "timestampMs": 30300,
+    "confidence": null
+  },
+  {
+    "text": "anxiety.",
+    "startMs": 30800,
+    "endMs": 31300,
+    "timestampMs": 30800,
+    "confidence": null
+  },
+  {
+    "text": "The buzz",
+    "startMs": 32000,
+    "endMs": 32400,
+    "timestampMs": 32000,
+    "confidence": null
+  },
+  {
+    "text": "is a",
+    "startMs": 32400,
+    "endMs": 32960,
+    "timestampMs": 32400,
+    "confidence": null
+  },
+  {
+    "text": "temporary shift",
+    "startMs": 32980,
+    "endMs": 33840,
+    "timestampMs": 32980,
+    "confidence": null
+  },
+  {
+    "text": "in brain",
+    "startMs": 33840,
+    "endMs": 34360,
+    "timestampMs": 33840,
+    "confidence": null
+  },
+  {
+    "text": "chemistry.",
+    "startMs": 34360,
+    "endMs": 34460,
+    "timestampMs": 34360,
+    "confidence": null
+  },
+  {
+    "text": "So your",
+    "startMs": 35360,
+    "endMs": 35640,
+    "timestampMs": 35360,
+    "confidence": null
+  },
+  {
+    "text": "confidence can",
+    "startMs": 35680,
+    "endMs": 36360,
+    "timestampMs": 35680,
+    "confidence": null
+  },
+  {
+    "text": "go up...",
+    "startMs": 36360,
+    "endMs": 36860,
+    "timestampMs": 36360,
+    "confidence": null
+  },
+  {
+    "text": "while your",
+    "startMs": 37400,
+    "endMs": 37700,
+    "timestampMs": 37400,
+    "confidence": null
+  },
+  {
+    "text": "coordination goes",
+    "startMs": 37700,
+    "endMs": 38860,
+    "timestampMs": 37700,
+    "confidence": null
+  },
+  {
+    "text": "down.",
+    "startMs": 38860,
+    "endMs": 39240,
+    "timestampMs": 38860,
+    "confidence": null
+  }
+]

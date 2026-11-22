@@ -1,0 +1,274 @@
+{
+  "full": [
+    {
+      "at": 0,
+      "pose": "defense"
+    },
+    {
+      "at": 153,
+      "pose": "point"
+    },
+    {
+      "at": 307,
+      "pose": "proud"
+    },
+    {
+      "at": 460,
+      "pose": "defense"
+    },
+    {
+      "at": 588,
+      "pose": "doubt"
+    },
+    {
+      "at": 767,
+      "pose": "turn-away"
+    },
+    {
+      "at": 920,
+      "pose": "relief"
+    },
+    {
+      "at": 1074,
+      "pose": "point"
+    },
+    {
+      "at": 1227,
+      "pose": "proud"
+    },
+    {
+      "at": 1380,
+      "pose": "snap"
+    },
+    {
+      "at": 1534,
+      "pose": "doubt"
+    },
+    {
+      "at": 1687,
+      "pose": "snap"
+    },
+    {
+      "at": 1841,
+      "pose": "turn-away"
+    },
+    {
+      "at": 1994,
+      "pose": "point"
+    },
+    {
+      "at": 2140,
+      "pose": "proud"
+    },
+    {
+      "at": 2286,
+      "pose": "defense"
+    },
+    {
+      "at": 2432,
+      "pose": "doubt"
+    },
+    {
+      "at": 2578,
+      "pose": "point"
+    },
+    {
+      "at": 2724,
+      "pose": "snap"
+    },
+    {
+      "at": 2870,
+      "pose": "turn-away"
+    },
+    {
+      "at": 3016,
+      "pose": "point"
+    },
+    {
+      "at": 3162,
+      "pose": "proud"
+    },
+    {
+      "at": 3308,
+      "pose": "defense"
+    },
+    {
+      "at": 3455,
+      "pose": "doubt"
+    },
+    {
+      "at": 3601,
+      "pose": "snap"
+    },
+    {
+      "at": 3747,
+      "pose": "point"
+    },
+    {
+      "at": 3893,
+      "pose": "turn-away"
+    },
+    {
+      "at": 4039,
+      "pose": "relief"
+    },
+    {
+      "at": 4185,
+      "pose": "proud"
+    },
+    {
+      "at": 4331,
+      "pose": "doubt"
+    },
+    {
+      "at": 4477,
+      "pose": "defense"
+    },
+    {
+      "at": 4623,
+      "pose": "cover"
+    },
+    {
+      "at": 4785,
+      "pose": "snap"
+    },
+    {
+      "at": 4947,
+      "pose": "turn-away"
+    },
+    {
+      "at": 5109,
+      "pose": "point"
+    },
+    {
+      "at": 5271,
+      "pose": "puff"
+    }
+  ],
+  "short": [
+    {
+      "at": 0,
+      "pose": "defense"
+    },
+    {
+      "at": 150,
+      "pose": "point"
+    },
+    {
+      "at": 300,
+      "pose": "proud"
+    },
+    {
+      "at": 451,
+      "pose": "defense"
+    },
+    {
+      "at": 588,
+      "pose": "doubt"
+    },
+    {
+      "at": 751,
+      "pose": "turn-away"
+    },
+    {
+      "at": 901,
+      "pose": "relief"
+    },
+    {
+      "at": 1051,
+      "pose": "point"
+    },
+    {
+      "at": 1201,
+      "pose": "proud"
+    },
+    {
+      "at": 1352,
+      "pose": "snap"
+    },
+    {
+      "at": 1502,
+      "pose": "turn-away"
+    },
+    {
+      "at": 1652,
+      "pose": "point"
+    },
+    {
+      "at": 1797,
+      "pose": "proud"
+    },
+    {
+      "at": 1942,
+      "pose": "defense"
+    },
+    {
+      "at": 2088,
+      "pose": "point"
+    },
+    {
+      "at": 2233,
+      "pose": "defense"
+    },
+    {
+      "at": 2378,
+      "pose": "turn-away"
+    },
+    {
+      "at": 2523,
+      "pose": "point"
+    },
+    {
+      "at": 2668,
+      "pose": "proud"
+    },
+    {
+      "at": 2814,
+      "pose": "defense"
+    },
+    {
+      "at": 2959,
+      "pose": "point"
+    },
+    {
+      "at": 3104,
+      "pose": "proud"
+    },
+    {
+      "at": 3249,
+      "pose": "turn-away"
+    },
+    {
+      "at": 3394,
+      "pose": "defense"
+    },
+    {
+      "at": 3540,
+      "pose": "doubt"
+    },
+    {
+      "at": 3685,
+      "pose": "snap"
+    },
+    {
+      "at": 3830,
+      "pose": "cover"
+    },
+    {
+      "at": 3992,
+      "pose": "relief"
+    },
+    {
+      "at": 4154,
+      "pose": "proud"
+    },
+    {
+      "at": 4316,
+      "pose": "point"
+    },
+    {
+      "at": 4478,
+      "pose": "puff"
+    }
+  ]
+}

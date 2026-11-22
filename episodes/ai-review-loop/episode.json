@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "review-loop",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "ai-review-loop",
+  "title": "The AI Review Loop",
+  "number": 31,
+  "shadowLeadSeconds": 0,
+  "premise": "Three AI reviews return a developer\u2019s code to its original state.",
+  "fiction": true,
+  "duration": 22.633333333333333,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus",
+    "astra",
+    "gemini"
+  ],
+  "audio": {
+    "narration": "episodes/ai-review-loop/narration.wav",
+    "music": "episodes/ai-review-loop/music.wav",
+    "effects": "episodes/ai-review-loop/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 0.3237503333333329,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0,
+      "duration": 2.85,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Opus, can you help me review Astra's code?",
+      "label": "hook",
+      "description": "The price formatter already turns 5 into \u00a35.00. Alex asks Opus to help review Astra\u2019s code.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "opus_first",
+      "start": 2.85,
+      "duration": 2.359458333333334,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Too complicated. I'll simplify it.",
+      "label": "opus_first",
+      "description": "Opus shortens the function. Its price stays visible.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "gemini_request",
+      "start": 5.209458333333334,
+      "duration": 1.4205000000000005,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Gemini, check her fix.",
+      "label": "gemini_request",
+      "description": "Alex turns to Gemini and asks her to check Opus\u2019s fix.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "gemini_first",
+      "start": 6.6299583333333345,
+      "duration": 3.0312916666666663,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Too simple. It needs a proper architecture.",
+      "label": "gemini_first",
+      "description": "Alex glances across as Gemini proposes a proper architecture. Three modules pile up around the same price.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "astra_request",
+      "start": 9.66125,
+      "duration": 0.6410625000000003,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Astra?",
+      "label": "astra_request",
+      "description": "Astra enters the same open stage for the next review.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "astra_first",
+      "start": 10.302312500000001,
+      "duration": 2.276979166666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Overengineered. I'll clean it up.",
+      "label": "astra_first",
+      "description": "Astra collapses the modules back into the original function.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "again",
+      "start": 12.579291666666668,
+      "duration": 1.9655000000000005,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Opus. One more review.",
+      "label": "again",
+      "description": "Alex hovers over Merge, then pulls away as he requests another review.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "simplify",
+      "start": 14.544791666666669,
+      "duration": 1.2593750000000004,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Let's simplify.",
+      "label": "simplify",
+      "description": "The editor contracts into a file card over Opus\u2019s hand as she says Let\u2019s simplify.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "rebuild",
+      "start": 15.804166666666669,
+      "duration": 0.8208958333333332,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Rebuild.",
+      "label": "rebuild",
+      "description": "The same file swings to Gemini on Rebuild and she changes its contents.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "restart",
+      "start": 16.625062500000002,
+      "duration": 1.0888333333333335,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Start over.",
+      "label": "restart",
+      "description": "The third and quickest pass lands with Astra. The original code returns.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "compare",
+      "start": 17.713895833333336,
+      "duration": 1.3260000000000005,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Any change?",
+      "label": "compare",
+      "description": "Astra\u2019s card opens into the comparison. Alex asks Any change and the blue zero answers.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "hours",
+      "start": 19.039895833333336,
+      "duration": 2.0748749999999987,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "We've been here for three hours.",
+      "label": "hours",
+      "description": "Alex facepalms beside the zero-change comparison.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "cleaner",
+      "start": 21.114770833333335,
+      "duration": 1.518562499999998,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Much cleaner.",
+      "label": "cleaner",
+      "description": "Opus proudly says Much cleaner and holds her reaction.",
+      "timeOfDay": "day"
+    }
+  ]
+}

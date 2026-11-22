@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "coffee-motion",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "is-coffee-actually-a-drug",
+  "title": "Is Coffee Actually a Drug?",
+  "number": 34,
+  "shadowLeadSeconds": 0,
+  "premise": "Miko follows caffeine from a coffee plant to a brain receptor. Two characters take turns in one green chair to explain why alertness can outlast tiredness for a while.",
+  "fiction": false,
+  "duration": 34.0,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "miko"
+  ],
+  "audio": {
+    "narration": "episodes/is-coffee-actually-a-drug/narration.wav",
+    "music": "episodes/is-coffee-actually-a-drug/music.wav",
+    "effects": "episodes/is-coffee-actually-a-drug/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 0.4366669999999999,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "question",
+      "start": 0,
+      "action": "serve",
+      "anchor": "Is coffee",
+      "set": "cafe",
+      "label": "Miko sips in the morning cafe",
+      "timeOfDay": "day",
+      "duration": 2.3666666666666667
+    },
+    {
+      "id": "cup",
+      "start": 2.3666666666666667,
+      "action": "reveal",
+      "anchor": "That cup",
+      "set": "cafe",
+      "label": "Move through the rim of Miko's cup",
+      "timeOfDay": "day",
+      "duration": 1.5833333333333335
+    },
+    {
+      "id": "caffeine",
+      "start": 3.95,
+      "action": "reveal",
+      "anchor": "Caffeine. It's",
+      "set": "neuron-gallery",
+      "label": "One amber shape rises from the coffee and the cherry opens around it",
+      "timeOfDay": "day",
+      "duration": 4.233333333333333
+    },
+    {
+      "id": "awake",
+      "start": 8.183333333333334,
+      "action": "wake",
+      "anchor": "While you're awake",
+      "set": "cafe",
+      "label": "A turning clock establishes Miko\u2019s waking day",
+      "timeOfDay": "day",
+      "duration": 1.083333333333334
+    },
+    {
+      "id": "brain",
+      "start": 9.266666666666667,
+      "action": "reveal",
+      "anchor": "a chemical called",
+      "set": "neuron-gallery",
+      "label": "Adenosine collects inside the brain and one particle fills the frame",
+      "timeOfDay": "day",
+      "duration": 3.75
+    },
+    {
+      "id": "receptor",
+      "start": 13.016666666666667,
+      "action": "reveal",
+      "anchor": "Picture a receptor",
+      "set": "neuron-gallery",
+      "label": "A membrane binding pocket unfolds into the chair around the same particle",
+      "timeOfDay": "day",
+      "duration": 2.333333333333332
+    },
+    {
+      "id": "sleepy",
+      "start": 15.35,
+      "action": "land",
+      "anchor": "When adenosine",
+      "set": "neuron-gallery",
+      "label": "The seated adenosine sends a packet along the wire to the moon",
+      "timeOfDay": "day",
+      "duration": 3.166666666666666
+    },
+    {
+      "id": "compete",
+      "start": 18.516666666666666,
+      "action": "approach",
+      "anchor": "Caffeine can",
+      "set": "neuron-gallery",
+      "label": "Caffeine occupies the same seat while the moon goes dark",
+      "timeOfDay": "day",
+      "duration": 2.666666666666668
+    },
+    {
+      "id": "blocked",
+      "start": 21.183333333333334,
+      "action": "stop",
+      "anchor": "Now adenosine",
+      "set": "neuron-gallery",
+      "label": "Cut to the binding pocket as the returning particle meets occupied caffeine",
+      "timeOfDay": "day",
+      "duration": 3.1999999999999993
+    },
+    {
+      "id": "alert",
+      "start": 24.383333333333333,
+      "action": "wake",
+      "anchor": "You feel more",
+      "set": "cafe",
+      "label": "Miko finds his place and turns a page in the caf\u00e9",
+      "timeOfDay": "day",
+      "duration": 1.533333333333335
+    },
+    {
+      "id": "sleep",
+      "start": 25.916666666666668,
+      "action": "recall",
+      "anchor": "even though",
+      "set": "study-desk",
+      "label": "The same book takes us to Miko awake in bed at 2:13 a.m.",
+      "timeOfDay": "day",
+      "duration": 2.4833333333333307
+    },
+    {
+      "id": "clears",
+      "start": 28.4,
+      "action": "recover",
+      "anchor": "As your body",
+      "set": "neuron-gallery",
+      "label": "Return to the pocket, see caffeine leave, and follow the restored signal",
+      "timeOfDay": "day",
+      "duration": 3.5666666666666664
+    },
+    {
+      "id": "yawn",
+      "start": 31.966666666666665,
+      "action": "recover",
+      "anchor": "And there's",
+      "set": "cafe",
+      "label": "Carry the restored crescent into the caf\u00e9 as Miko yawns",
+      "timeOfDay": "day",
+      "duration": 2.033333333333335
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "text": "Eight seconds",
+    "startMs": 85,
+    "endMs": 845,
+    "timestampMs": 85,
+    "confidence": null
+  },
+  {
+    "text": "and my",
+    "startMs": 845,
+    "endMs": 1165,
+    "timestampMs": 845,
+    "confidence": null
+  },
+  {
+    "text": "inbox is",
+    "startMs": 1165,
+    "endMs": 1765,
+    "timestampMs": 1165,
+    "confidence": null
+  },
+  {
+    "text": "still loading?",
+    "startMs": 1765,
+    "endMs": 2690,
+    "timestampMs": 1765,
+    "confidence": null
+  },
+  {
+    "text": "Try it",
+    "startMs": 2840,
+    "endMs": 3220,
+    "timestampMs": 2840,
+    "confidence": null
+  },
+  {
+    "text": "now.",
+    "startMs": 3220,
+    "endMs": 3585,
+    "timestampMs": 3220,
+    "confidence": null
+  },
+  {
+    "text": "Whoa.",
+    "startMs": 3900,
+    "endMs": 4385,
+    "timestampMs": 3900,
+    "confidence": null
+  },
+  {
+    "text": "Gemini,",
+    "startMs": 4840,
+    "endMs": 5365,
+    "timestampMs": 4840,
+    "confidence": null
+  },
+  {
+    "text": "delete that",
+    "startMs": 5480,
+    "endMs": 5960,
+    "timestampMs": 5480,
+    "confidence": null
+  },
+  {
+    "text": "spam.",
+    "startMs": 5960,
+    "endMs": 6395,
+    "timestampMs": 5960,
+    "confidence": null
+  },
+  {
+    "text": "I've clicked",
+    "startMs": 6560,
+    "endMs": 7160,
+    "timestampMs": 6560,
+    "confidence": null
+  },
+  {
+    "text": "the trash",
+    "startMs": 7160,
+    "endMs": 7800,
+    "timestampMs": 7160,
+    "confidence": null
+  },
+  {
+    "text": "three times.",
+    "startMs": 7800,
+    "endMs": 8985,
+    "timestampMs": 7800,
+    "confidence": null
+  },
+  {
+    "text": "Astra,",
+    "startMs": 9260,
+    "endMs": 9765,
+    "timestampMs": 9260,
+    "confidence": null
+  },
+  {
+    "text": "try dragging",
+    "startMs": 9900,
+    "endMs": 10660,
+    "timestampMs": 9900,
+    "confidence": null
+  },
+  {
+    "text": "the email.",
+    "startMs": 10660,
+    "endMs": 11205,
+    "timestampMs": 10660,
+    "confidence": null
+  },
+  {
+    "text": "Why is",
+    "startMs": 11420,
+    "endMs": 11860,
+    "timestampMs": 11420,
+    "confidence": null
+  },
+  {
+    "text": "the trash",
+    "startMs": 11860,
+    "endMs": 12540,
+    "timestampMs": 11860,
+    "confidence": null
+  },
+  {
+    "text": "coming with",
+    "startMs": 12540,
+    "endMs": 13120,
+    "timestampMs": 12540,
+    "confidence": null
+  },
+  {
+    "text": "it?",
+    "startMs": 13120,
+    "endMs": 13335,
+    "timestampMs": 13120,
+    "confidence": null
+  },
+  {
+    "text": "Opus.",
+    "startMs": 13570,
+    "endMs": 14055,
+    "timestampMs": 13570,
+    "confidence": null
+  },
+  {
+    "text": "Is my",
+    "startMs": 14370,
+    "endMs": 14690,
+    "timestampMs": 14370,
+    "confidence": null
+  },
+  {
+    "text": "inbox a",
+    "startMs": 14690,
+    "endMs": 15230,
+    "timestampMs": 14690,
+    "confidence": null
+  },
+  {
+    "text": "screenshot?",
+    "startMs": 15230,
+    "endMs": 15935,
+    "timestampMs": 15230,
+    "confidence": null
+  },
+  {
+    "text": "I made",
+    "startMs": 16300,
+    "endMs": 16640,
+    "timestampMs": 16300,
+    "confidence": null
+  },
+  {
+    "text": "a dark",
+    "startMs": 16640,
+    "endMs": 17160,
+    "timestampMs": 16640,
+    "confidence": null
+  },
+  {
+    "text": "one too.",
+    "startMs": 17160,
+    "endMs": 17845,
+    "timestampMs": 17160,
+    "confidence": null
+  }
+]

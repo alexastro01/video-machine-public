@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "inbox-png",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "inbox-dot-png",
+  "title": "Inbox.png",
+  "number": 36,
+  "shadowLeadSeconds": 0,
+  "premise": "Opus speeds up Alex's inbox by shipping a screenshot. Gemini tries the trash button and Astra drags the entire inbox by one email.",
+  "fiction": true,
+  "duration": 18.1,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus",
+    "gemini",
+    "astra"
+  ],
+  "audio": {
+    "narration": "episodes/inbox-dot-png/narration.wav",
+    "music": "episodes/inbox-dot-png/music.wav",
+    "effects": "episodes/inbox-dot-png/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.325,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "wait",
+      "label": "wait",
+      "start": 0,
+      "duration": 2.77,
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "anchor": "Eight seconds and my inbox is still loading?",
+      "description": "Alex watches the elapsed time tick past eight seconds. Opus stands beside him."
+    },
+    {
+      "id": "now",
+      "label": "now",
+      "start": 2.77,
+      "duration": 1.0350000000000001,
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "anchor": "Try it now.",
+      "description": "Opus opens the inbox. The waiting screen gives way to one unread message."
+    },
+    {
+      "id": "delete",
+      "label": "delete",
+      "start": 3.805,
+      "duration": 2.6699999999999995,
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "anchor": "Whoa. Gemini, delete that spam.",
+      "description": "Alex lowers his coffee. Gemini gets a single email and a trash button."
+    },
+    {
+      "id": "clicks",
+      "label": "clicks",
+      "start": 6.475,
+      "duration": 2.6799999999999997,
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "anchor": "I've clicked the trash three times.",
+      "description": "Three distinct clicks land on Trash. The unread count stays at one."
+    },
+    {
+      "id": "drag",
+      "label": "drag",
+      "start": 9.155,
+      "duration": 2.119999999999999,
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "anchor": "Astra, try dragging the email.",
+      "description": "Astra picks up the message by its subject and pulls toward the bin."
+    },
+    {
+      "id": "bin",
+      "label": "bin",
+      "start": 11.274999999999999,
+      "duration": 2.1899999999999995,
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "anchor": "Why is the trash coming with it?",
+      "description": "The entire inbox tilts off a checkerboard. Its trash button is stuck to the same sheet as the email."
+    },
+    {
+      "id": "file",
+      "label": "file",
+      "start": 13.464999999999998,
+      "duration": 2.5900000000000016,
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "anchor": "Opus. Is my inbox a screenshot?",
+      "description": "Alex follows the loose image. Its filename appears as he says screenshot."
+    },
+    {
+      "id": "dark",
+      "label": "dark",
+      "start": 16.055,
+      "duration": 2.0450000000000017,
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "anchor": "I made a dark one too.",
+      "description": "Opus produces a second image. The same spam and bin appear in dark mode."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "text": "Claude killed",
+    "startMs": 90,
+    "endMs": 810,
+    "timestampMs": 90,
+    "confidence": null
+  },
+  {
+    "text": "finance.",
+    "startMs": 810,
+    "endMs": 1380,
+    "timestampMs": 810,
+    "confidence": null
+  },
+  {
+    "text": "Claude killed",
+    "startMs": 2580,
+    "endMs": 3310,
+    "timestampMs": 2580,
+    "confidence": null
+  },
+  {
+    "text": "accounting.",
+    "startMs": 3320,
+    "endMs": 3930,
+    "timestampMs": 3320,
+    "confidence": null
+  },
+  {
+    "text": "Claude killed",
+    "startMs": 4650,
+    "endMs": 5460,
+    "timestampMs": 4650,
+    "confidence": null
+  },
+  {
+    "text": "video editing.",
+    "startMs": 5670,
+    "endMs": 6480,
+    "timestampMs": 5670,
+    "confidence": null
+  },
+  {
+    "text": "I wrote",
+    "startMs": 8795,
+    "endMs": 9610,
+    "timestampMs": 8795,
+    "confidence": null
+  },
+  {
+    "text": "one blog post.",
+    "startMs": 9780,
+    "endMs": 10830,
+    "timestampMs": 9780,
+    "confidence": null
+  },
+  {
+    "text": "Okay.",
+    "startMs": 12580,
+    "endMs": 12930,
+    "timestampMs": 12580,
+    "confidence": null
+  },
+  {
+    "text": "That one was",
+    "startMs": 13260,
+    "endMs": 13920,
+    "timestampMs": 13260,
+    "confidence": null
+  },
+  {
+    "text": "kind of cool.",
+    "startMs": 13920,
+    "endMs": 14430,
+    "timestampMs": 13920,
+    "confidence": null
+  },
+  {
+    "text": "Wait for it.",
+    "startMs": 17680,
+    "endMs": 18270,
+    "timestampMs": 17680,
+    "confidence": null
+  },
+  {
+    "text": "Claude killed",
+    "startMs": 20510,
+    "endMs": 21050,
+    "timestampMs": 20510,
+    "confidence": null
+  },
+  {
+    "text": "programmers.",
+    "startMs": 21050,
+    "endMs": 21680,
+    "timestampMs": 21050,
+    "confidence": null
+  },
+  {
+    "text": "Alex?",
+    "startMs": 24550,
+    "endMs": 24860,
+    "timestampMs": 24550,
+    "confidence": null
+  },
+  {
+    "text": "Got a second?",
+    "startMs": 25390,
+    "endMs": 26020,
+    "timestampMs": 25390,
+    "confidence": null
+  },
+  {
+    "text": "…You're",
+    "startMs": 30500,
+    "endMs": 30939,
+    "timestampMs": 30500,
+    "confidence": null
+  },
+  {
+    "text": "absolutely right.",
+    "startMs": 31017,
+    "endMs": 32000,
+    "timestampMs": 31017,
+    "confidence": null
+  }
+]

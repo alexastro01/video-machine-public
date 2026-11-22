@@ -1,0 +1,14 @@
+{
+  "voice": "current",
+  "playbackRate": 1.2,
+  "pitchPreserved": true,
+  "sourceEpisode": "ok-message-motion",
+  "sourceDuration": 36.766666666666666,
+  "duration": 30.633333333333333,
+  "fps": 60,
+  "frames": 1838,
+  "mixFile": "episodes/ok-message-motion/mix-1p2x.wav",
+  "captionFile": "episodes/ok-message-motion/captions-1p2x.json",
+  "composition": "OKCurrent1p2x",
+  "sourceNarrationSha256": "5dd34f001061a818c514785fd75763f79b01da74b550c111ec1773adec139008"
+}

@@ -1,0 +1,433 @@
+{
+  "id": "astra-one-quick-test",
+  "fps": 60,
+  "duration": 20.6,
+  "frames": 1236,
+  "narrationSpeed": 1,
+  "lines": [
+    {
+      "id": "hook",
+      "speaker": "alex",
+      "text": "One bug left. Oh, a new model dropped.",
+      "afterPause": 0.03,
+      "start": 0,
+      "end": 3.02,
+      "duration": 3.02,
+      "words": [
+        {
+          "text": "One",
+          "start": 0,
+          "end": 0.32,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "bug",
+          "start": 0.32,
+          "end": 0.52,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "left.",
+          "start": 0.52,
+          "end": 0.94,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "Oh,",
+          "start": 1.5,
+          "end": 1.82,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "a",
+          "start": 1.9,
+          "end": 2.16,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "new",
+          "start": 2.16,
+          "end": 2.28,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "model",
+          "start": 2.28,
+          "end": 2.56,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "dropped.",
+          "start": 2.56,
+          "end": 2.98,
+          "speaker": "alex",
+          "line": "hook"
+        }
+      ]
+    },
+    {
+      "id": "rank",
+      "speaker": "alex",
+      "text": "Number one on a benchmark I\u2019ve never heard of. One quick test.",
+      "afterPause": 0.34,
+      "start": 3.05,
+      "end": 6.84,
+      "duration": 3.79,
+      "words": [
+        {
+          "text": "Number",
+          "start": 3.095,
+          "end": 3.37,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "one",
+          "start": 3.37,
+          "end": 3.71,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "on",
+          "start": 3.71,
+          "end": 3.85,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "a",
+          "start": 3.85,
+          "end": 4.13,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "benchmark",
+          "start": 4.13,
+          "end": 4.33,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "I\u2019ve",
+          "start": 4.33,
+          "end": 4.75,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "never",
+          "start": 4.75,
+          "end": 5.05,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "heard",
+          "start": 5.05,
+          "end": 5.25,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "of.",
+          "start": 5.25,
+          "end": 5.63,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "One",
+          "start": 6.05,
+          "end": 6.19,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "quick",
+          "start": 6.19,
+          "end": 6.39,
+          "speaker": "alex",
+          "line": "rank"
+        },
+        {
+          "text": "test.",
+          "start": 6.39,
+          "end": 6.772,
+          "speaker": "alex",
+          "line": "rank"
+        }
+      ]
+    },
+    {
+      "id": "prompt",
+      "speaker": "alex",
+      "text": "Make a cube do a backflip.",
+      "afterPause": 1.44,
+      "start": 7.18,
+      "end": 8.66,
+      "duration": 1.48,
+      "words": [
+        {
+          "text": "Make",
+          "start": 7.23,
+          "end": 7.4,
+          "speaker": "alex",
+          "line": "prompt"
+        },
+        {
+          "text": "a",
+          "start": 7.4,
+          "end": 7.7,
+          "speaker": "alex",
+          "line": "prompt"
+        },
+        {
+          "text": "cube",
+          "start": 7.7,
+          "end": 7.8,
+          "speaker": "alex",
+          "line": "prompt"
+        },
+        {
+          "text": "do",
+          "start": 7.8,
+          "end": 7.98,
+          "speaker": "alex",
+          "line": "prompt"
+        },
+        {
+          "text": "a",
+          "start": 7.98,
+          "end": 8.2,
+          "speaker": "alex",
+          "line": "prompt"
+        },
+        {
+          "text": "backflip.",
+          "start": 8.2,
+          "end": 8.51,
+          "speaker": "alex",
+          "line": "prompt"
+        }
+      ]
+    },
+    {
+      "id": "awe",
+      "speaker": "alex",
+      "text": "This changes everything.",
+      "afterPause": 0.2,
+      "start": 10.1,
+      "end": 11.84,
+      "duration": 1.74,
+      "words": [
+        {
+          "text": "This",
+          "start": 10.158,
+          "end": 10.54,
+          "speaker": "alex",
+          "line": "awe"
+        },
+        {
+          "text": "changes",
+          "start": 10.54,
+          "end": 10.92,
+          "speaker": "alex",
+          "line": "awe"
+        },
+        {
+          "text": "everything.",
+          "start": 10.92,
+          "end": 11.767,
+          "speaker": "alex",
+          "line": "awe"
+        }
+      ]
+    },
+    {
+      "id": "fix",
+      "speaker": "alex",
+      "text": "Okay, now fix the Pay button.",
+      "afterPause": 0.68,
+      "start": 12.04,
+      "end": 13.899999999999999,
+      "duration": 1.86,
+      "words": [
+        {
+          "text": "Okay,",
+          "start": 12.092,
+          "end": 12.4,
+          "speaker": "alex",
+          "line": "fix"
+        },
+        {
+          "text": "now",
+          "start": 12.44,
+          "end": 12.78,
+          "speaker": "alex",
+          "line": "fix"
+        },
+        {
+          "text": "fix",
+          "start": 12.78,
+          "end": 13.06,
+          "speaker": "alex",
+          "line": "fix"
+        },
+        {
+          "text": "the",
+          "start": 13.06,
+          "end": 13.3,
+          "speaker": "alex",
+          "line": "fix"
+        },
+        {
+          "text": "Pay",
+          "start": 13.3,
+          "end": 13.5,
+          "speaker": "alex",
+          "line": "fix"
+        },
+        {
+          "text": "button.",
+          "start": 13.5,
+          "end": 13.826,
+          "speaker": "alex",
+          "line": "fix"
+        }
+      ]
+    },
+    {
+      "id": "rebuilt",
+      "speaker": "astra",
+      "text": "I rebuilt the whole checkout.",
+      "afterPause": 0.135,
+      "start": 14.579999999999998,
+      "end": 16.424999999999997,
+      "duration": 1.845,
+      "words": [
+        {
+          "text": "I",
+          "start": 14.641,
+          "end": 14.835,
+          "speaker": "astra",
+          "line": "rebuilt"
+        },
+        {
+          "text": "rebuilt",
+          "start": 14.835,
+          "end": 15.195,
+          "speaker": "astra",
+          "line": "rebuilt"
+        },
+        {
+          "text": "the",
+          "start": 15.195,
+          "end": 15.395,
+          "speaker": "astra",
+          "line": "rebuilt"
+        },
+        {
+          "text": "whole",
+          "start": 15.395,
+          "end": 15.815,
+          "speaker": "astra",
+          "line": "rebuilt"
+        },
+        {
+          "text": "checkout.",
+          "start": 15.815,
+          "end": 16.34,
+          "speaker": "astra",
+          "line": "rebuilt"
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "speaker": "alex",
+      "text": "Can it take a payment?",
+      "afterPause": 0.77,
+      "start": 16.56,
+      "end": 17.7,
+      "duration": 1.14,
+      "words": [
+        {
+          "text": "Can",
+          "start": 16.615,
+          "end": 16.75,
+          "speaker": "alex",
+          "line": "payment"
+        },
+        {
+          "text": "it",
+          "start": 16.75,
+          "end": 16.89,
+          "speaker": "alex",
+          "line": "payment"
+        },
+        {
+          "text": "take",
+          "start": 16.89,
+          "end": 17.03,
+          "speaker": "alex",
+          "line": "payment"
+        },
+        {
+          "text": "a",
+          "start": 17.03,
+          "end": 17.25,
+          "speaker": "alex",
+          "line": "payment"
+        },
+        {
+          "text": "payment?",
+          "start": 17.25,
+          "end": 17.605,
+          "speaker": "alex",
+          "line": "payment"
+        }
+      ]
+    },
+    {
+      "id": "backflip",
+      "speaker": "astra",
+      "text": "The backflip works.",
+      "afterPause": 0.42999791666666665,
+      "start": 18.47,
+      "end": 20.169999999999998,
+      "duration": 1.7,
+      "words": [
+        {
+          "text": "The",
+          "start": 18.535,
+          "end": 18.765,
+          "speaker": "astra",
+          "line": "backflip"
+        },
+        {
+          "text": "backflip",
+          "start": 18.765,
+          "end": 19.385,
+          "speaker": "astra",
+          "line": "backflip"
+        },
+        {
+          "text": "works.",
+          "start": 19.385,
+          "end": 20.055,
+          "speaker": "astra",
+          "line": "backflip"
+        }
+      ]
+    }
+  ]
+}

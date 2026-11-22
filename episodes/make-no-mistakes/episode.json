@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "make-no-mistakes",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "make-no-mistakes",
+  "title": "Make No Mistakes",
+  "number": 39,
+  "shadowLeadSeconds": 0,
+  "premise": "Astra traces Alex’s login-page prompt, compares its input tokens and reveals the four-word example in OpenAI’s GPT-5 launch post.",
+  "fiction": false,
+  "duration": 89.85,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "astra",
+    "alex"
+  ],
+  "audio": {
+    "narration": "episodes/make-no-mistakes/narration.wav",
+    "music": "episodes/make-no-mistakes/music.wav",
+    "effects": "episodes/make-no-mistakes/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.12482599999999877,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0.0,
+      "duration": 3.316666666666667,
+      "anchor": "Typing 'MAKE NO MISTAKES' in caps literally costs double. And it doesn't even work. But 4 other words can.",
+      "description": "The mature presenter opens on the three and six input tokens. A fast riser lands on the ×2 stamp. Four words stay blurred. The blossom turns into Astra’s circular portrait.",
+      "label": "hook",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "front",
+      "start": 3.316666666666667,
+      "duration": 6.933333333333334,
+      "anchor": "Your message hits Cloudflare, then OpenAI checks who you are and whether you've hit your limit.",
+      "description": "Alex’s login-01 arrives at Cloudflare. The daily messages counter appears here with its own 2025 source. Identity and rate checks are separated by twelve frames.",
+      "label": "front",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "route",
+      "start": 10.25,
+      "duration": 4.266666666666667,
+      "anchor": "Let's follow one prompt and see how it's checked, read, answered and saved.",
+      "description": "One stationary five-stop map previews the verbs. The last stop holds through the full word saved and the next half-second.",
+      "label": "route",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "token",
+      "start": 14.516666666666667,
+      "duration": 5.65,
+      "anchor": "The model reads chunks called tokens. 'Make no mistakes' is three of them.",
+      "description": "The request stays above two rows. Three ordinary tokens and six capitalized tokens split apart on their spoken counts.",
+      "label": "token",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "gpu",
+      "start": 20.166666666666668,
+      "duration": 10.983333333333333,
+      "anchor": "Then, the GPUs. Your prompt is batched with others, and the model predicts your answer one token at a time.",
+      "description": "An occupied worker frees a slot. The waiting login-01 ticket enters that exact slot. A partial reply grows by one token.",
+      "label": "gpu",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "stream",
+      "start": 31.15,
+      "duration": 8.6,
+      "anchor": "Then, streaming. Pieces of the answer are sent as they're ready. That's why the answer types itself out.",
+      "description": "Astra hands off the first piece. Subsequent chunks travel to Alex, and the same reply grows inside his chat bubble.",
+      "label": "stream",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "database",
+      "start": 39.75,
+      "duration": 20.816666666666666,
+      "anchor": "Finally, the database. ChatGPT's core PostgreSQL database has just one main server taking all the writes.",
+      "description": "The saved conversation leads into a dated close-up of OpenAI’s PostgreSQL deployment. The writer, replicas and reused connection remain in place.",
+      "label": "database",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "recap",
+      "start": 60.56666666666667,
+      "duration": 8.0,
+      "anchor": "So it's a front door that checks you, a tokenizer that chops you up, GPUs that guess one token at a time, a stream that ships it live, and one very tired database.",
+      "description": "Five rows reuse the diagrams from the walk-through. Each row opens on its spoken noun.",
+      "label": "recap",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "twist",
+      "start": 68.56666666666666,
+      "duration": 10.25,
+      "anchor": "In a whole year, that database had only one top-level emergency: when image generation launched, over 100 million people signed up in a week, and writes jumped more than ten times.",
+      "description": "The writer returns alongside two measured comparisons from the image-generation launch. Astra covers her mouth.",
+      "label": "twist",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "payoff",
+      "start": 78.81666666666666,
+      "duration": 11.033333333333333,
+      "anchor": "So does 'make no mistakes' work? To the model, it's three more tokens. But OpenAI's GPT-5 launch post says 'think hard about this' can route you to a thinking model.",
+      "description": "The three original tokens sit next to the four-word GPT-5 launch example. The words appear on Astra’s voice. She looks away and puffs her cheek at the cut.",
+      "label": "payoff",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "alex-astro": {
+    "name": "Alex Astro",
+    "profile": "channel/developer/profile.json",
+    "styleGuide": "channel/developer/style.md",
+    "cast": "channel/developer/cast.json",
+    "legacyEpisodes": [
+      "absolutely-right",
+      "ai-review-loop",
+      "ai-typo",
+      "astra-born-yesterday",
+      "astra-one-quick-test",
+      "full-stack-subscriber",
+      "human-in-the-loop",
+      "inbox-dot-png",
+      "make-no-mistakes",
+      "make-no-mistakes-story",
+      "rip"
+    ]
+  },
+  "norbert-explains": {
+    "name": "Norbert Explains",
+    "profile": "channel/profile.json",
+    "styleGuide": "channel/motion-pixel-style.md",
+    "cast": "channel/cast.json",
+    "legacyEpisodes": [
+      "beer-feels-good",
+      "billionaire-body-swap",
+      "billionaire-body-swap-2",
+      "billionaire-body-swap-3",
+      "billionaire-body-swap-4",
+      "billionaire-body-swap-5",
+      "brain-upload",
+      "deja-vu",
+      "girlfriend-spy-test",
+      "guitar-pickup",
+      "happens-for-a-reason",
+      "immortal",
+      "inventions-since-2000",
+      "is-coffee-actually-a-drug",
+      "lonely-around-people",
+      "microwave",
+      "nvidia-four-trillion",
+      "ok-message",
+      "ok-message-motion",
+      "ok-message-motion-teen",
+      "one-second-ahead",
+      "paid-for-lying",
+      "profile-checks",
+      "restless-friend",
+      "shower-singing",
+      "start-the-task",
+      "survive-1500",
+      "time-speeds-up",
+      "uk-disappears",
+      "where-did-my-year-go"
+    ]
+  }
+}

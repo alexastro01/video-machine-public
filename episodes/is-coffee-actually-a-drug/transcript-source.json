@@ -1,0 +1,467 @@
+{
+  "sourceTake": 1,
+  "editVersion": 2,
+  "basis": "Selected continuous Kai take, local small.en forced alignment, ElevenLabs Scribe and independent OpenAI whisper-1 transcription. Disputed word edges cross-checked against source energy. Display times follow the nine measured silence trims in audio-edits.json.",
+  "acousticAdjustments": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    9,
+    21,
+    89
+  ],
+  "words": [
+    {
+      "text": "Is",
+      "start": 0.12,
+      "end": 0.26
+    },
+    {
+      "text": "coffee",
+      "start": 0.3,
+      "end": 0.84
+    },
+    {
+      "text": "actually",
+      "start": 0.94,
+      "end": 1.43
+    },
+    {
+      "text": "a",
+      "start": 1.43,
+      "end": 1.61
+    },
+    {
+      "text": "drug?",
+      "start": 1.65,
+      "end": 2.16
+    },
+    {
+      "text": "That",
+      "start": 2.36,
+      "end": 2.56
+    },
+    {
+      "text": "cup",
+      "start": 2.66,
+      "end": 2.84
+    },
+    {
+      "text": "contains",
+      "start": 2.88,
+      "end": 3.24
+    },
+    {
+      "text": "one.",
+      "start": 3.24,
+      "end": 3.74
+    },
+    {
+      "text": "Caffeine.",
+      "start": 3.943333,
+      "end": 4.753333
+    },
+    {
+      "text": "It's",
+      "start": 5.253333,
+      "end": 5.353333
+    },
+    {
+      "text": "a",
+      "start": 5.353333,
+      "end": 5.453333
+    },
+    {
+      "text": "stimulant",
+      "start": 5.453333,
+      "end": 6.053333
+    },
+    {
+      "text": "that",
+      "start": 6.073333,
+      "end": 6.253333
+    },
+    {
+      "text": "coffee",
+      "start": 6.333333,
+      "end": 6.593333
+    },
+    {
+      "text": "plants",
+      "start": 6.593333,
+      "end": 6.893333
+    },
+    {
+      "text": "make",
+      "start": 6.893333,
+      "end": 7.233333
+    },
+    {
+      "text": "naturally.",
+      "start": 7.233333,
+      "end": 7.983333
+    },
+    {
+      "text": "While",
+      "start": 8.176667,
+      "end": 8.316667
+    },
+    {
+      "text": "you're",
+      "start": 8.316667,
+      "end": 8.556667
+    },
+    {
+      "text": "awake,",
+      "start": 8.556667,
+      "end": 8.996667
+    },
+    {
+      "text": "a",
+      "start": 9.266667,
+      "end": 9.416667
+    },
+    {
+      "text": "chemical",
+      "start": 9.436667,
+      "end": 9.636667
+    },
+    {
+      "text": "called",
+      "start": 9.636667,
+      "end": 10.156667
+    },
+    {
+      "text": "adenosine",
+      "start": 10.156667,
+      "end": 10.936667
+    },
+    {
+      "text": "builds",
+      "start": 11.116667,
+      "end": 11.296667
+    },
+    {
+      "text": "up",
+      "start": 11.296667,
+      "end": 11.556667
+    },
+    {
+      "text": "in",
+      "start": 11.556667,
+      "end": 11.736667
+    },
+    {
+      "text": "parts",
+      "start": 11.836667,
+      "end": 11.936667
+    },
+    {
+      "text": "of",
+      "start": 11.936667,
+      "end": 12.156667
+    },
+    {
+      "text": "your",
+      "start": 12.156667,
+      "end": 12.276667
+    },
+    {
+      "text": "brain.",
+      "start": 12.276667,
+      "end": 12.616667
+    },
+    {
+      "text": "Picture",
+      "start": 13.016667,
+      "end": 13.136667
+    },
+    {
+      "text": "a",
+      "start": 13.196667,
+      "end": 13.456667
+    },
+    {
+      "text": "receptor",
+      "start": 13.456667,
+      "end": 13.836667
+    },
+    {
+      "text": "as",
+      "start": 13.956667,
+      "end": 14.256667
+    },
+    {
+      "text": "a",
+      "start": 14.256667,
+      "end": 14.456667
+    },
+    {
+      "text": "seat.",
+      "start": 14.456667,
+      "end": 15.206667
+    },
+    {
+      "text": "When",
+      "start": 15.356667,
+      "end": 15.456667
+    },
+    {
+      "text": "adenosine",
+      "start": 15.456667,
+      "end": 16.016667
+    },
+    {
+      "text": "sits",
+      "start": 16.016667,
+      "end": 16.256667
+    },
+    {
+      "text": "down,",
+      "start": 16.256667,
+      "end": 16.696667
+    },
+    {
+      "text": "it",
+      "start": 17.096667,
+      "end": 17.116667
+    },
+    {
+      "text": "helps",
+      "start": 17.116667,
+      "end": 17.336667
+    },
+    {
+      "text": "you",
+      "start": 17.336667,
+      "end": 17.516667
+    },
+    {
+      "text": "feel",
+      "start": 17.576667,
+      "end": 17.676667
+    },
+    {
+      "text": "sleepy.",
+      "start": 17.676667,
+      "end": 18.126667
+    },
+    {
+      "text": "Caffeine",
+      "start": 18.516667,
+      "end": 19.076667
+    },
+    {
+      "text": "can",
+      "start": 19.196667,
+      "end": 19.296667
+    },
+    {
+      "text": "take",
+      "start": 19.296667,
+      "end": 19.556667
+    },
+    {
+      "text": "that",
+      "start": 19.556667,
+      "end": 19.796667
+    },
+    {
+      "text": "same",
+      "start": 19.796667,
+      "end": 20.156667
+    },
+    {
+      "text": "seat.",
+      "start": 20.156667,
+      "end": 20.576667
+    },
+    {
+      "text": "Now",
+      "start": 21.183333,
+      "end": 21.443333
+    },
+    {
+      "text": "adenosine",
+      "start": 21.443333,
+      "end": 22.243333
+    },
+    {
+      "text": "can't",
+      "start": 22.503333,
+      "end": 22.723333
+    },
+    {
+      "text": "sit",
+      "start": 22.723333,
+      "end": 22.903333
+    },
+    {
+      "text": "there",
+      "start": 23.023333,
+      "end": 23.123333
+    },
+    {
+      "text": "to",
+      "start": 23.123333,
+      "end": 23.283333
+    },
+    {
+      "text": "send",
+      "start": 23.283333,
+      "end": 23.503333
+    },
+    {
+      "text": "its",
+      "start": 23.503333,
+      "end": 23.703333
+    },
+    {
+      "text": "signal.",
+      "start": 23.703333,
+      "end": 23.963333
+    },
+    {
+      "text": "You",
+      "start": 24.383333,
+      "end": 24.463333
+    },
+    {
+      "text": "feel",
+      "start": 24.463333,
+      "end": 24.763333
+    },
+    {
+      "text": "more",
+      "start": 24.763333,
+      "end": 25.023333
+    },
+    {
+      "text": "alert,",
+      "start": 25.023333,
+      "end": 25.383333
+    },
+    {
+      "text": "even",
+      "start": 25.923333,
+      "end": 26.023333
+    },
+    {
+      "text": "though",
+      "start": 26.023333,
+      "end": 26.243333
+    },
+    {
+      "text": "you",
+      "start": 26.243333,
+      "end": 26.483333
+    },
+    {
+      "text": "still",
+      "start": 26.723333,
+      "end": 26.823333
+    },
+    {
+      "text": "need",
+      "start": 26.823333,
+      "end": 27.063333
+    },
+    {
+      "text": "the",
+      "start": 27.063333,
+      "end": 27.243333
+    },
+    {
+      "text": "sleep",
+      "start": 27.383333,
+      "end": 27.483333
+    },
+    {
+      "text": "you",
+      "start": 27.483333,
+      "end": 27.703333
+    },
+    {
+      "text": "missed.",
+      "start": 27.703333,
+      "end": 27.923333
+    },
+    {
+      "text": "As",
+      "start": 28.406667,
+      "end": 28.506667
+    },
+    {
+      "text": "your",
+      "start": 28.506667,
+      "end": 28.666667
+    },
+    {
+      "text": "body",
+      "start": 28.726667,
+      "end": 28.886667
+    },
+    {
+      "text": "clears",
+      "start": 28.886667,
+      "end": 29.246667
+    },
+    {
+      "text": "the",
+      "start": 29.246667,
+      "end": 29.446667
+    },
+    {
+      "text": "caffeine,",
+      "start": 29.446667,
+      "end": 29.946667
+    },
+    {
+      "text": "the",
+      "start": 30.326667,
+      "end": 30.426667
+    },
+    {
+      "text": "seat",
+      "start": 30.426667,
+      "end": 30.686667
+    },
+    {
+      "text": "opens",
+      "start": 30.686667,
+      "end": 31.046667
+    },
+    {
+      "text": "up",
+      "start": 31.046667,
+      "end": 31.286667
+    },
+    {
+      "text": "again.",
+      "start": 31.286667,
+      "end": 31.446667
+    },
+    {
+      "text": "And",
+      "start": 31.973333,
+      "end": 32.133333
+    },
+    {
+      "text": "there's",
+      "start": 32.233333,
+      "end": 32.653333
+    },
+    {
+      "text": "that",
+      "start": 32.673333,
+      "end": 32.893333
+    },
+    {
+      "text": "yawn.",
+      "start": 32.973333,
+      "end": 33.563333
+    }
+  ]
+}

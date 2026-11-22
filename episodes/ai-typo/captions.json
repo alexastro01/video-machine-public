@@ -1,0 +1,331 @@
+[
+  {
+    "text": "I asked",
+    "startMs": 112,
+    "endMs": 452,
+    "timestampMs": 112,
+    "confidence": null
+  },
+  {
+    "text": "AI to",
+    "startMs": 592,
+    "endMs": 1012,
+    "timestampMs": 592,
+    "confidence": null
+  },
+  {
+    "text": "fix 1",
+    "startMs": 1072,
+    "endMs": 1672,
+    "timestampMs": 1072,
+    "confidence": null
+  },
+  {
+    "text": "typo.",
+    "startMs": 1812,
+    "endMs": 2252,
+    "timestampMs": 1812,
+    "confidence": null
+  },
+  {
+    "text": "Of course.",
+    "startMs": 2527,
+    "endMs": 3278,
+    "timestampMs": 2527,
+    "confidence": null
+  },
+  {
+    "text": "Small change.",
+    "startMs": 3778,
+    "endMs": 4418,
+    "timestampMs": 3778,
+    "confidence": null
+  },
+  {
+    "text": "12 files?",
+    "startMs": 4792,
+    "endMs": 5792,
+    "timestampMs": 4792,
+    "confidence": null
+  },
+  {
+    "text": "It's 1",
+    "startMs": 6192,
+    "endMs": 6572,
+    "timestampMs": 6192,
+    "confidence": null
+  },
+  {
+    "text": "button.",
+    "startMs": 6732,
+    "endMs": 7092,
+    "timestampMs": 6732,
+    "confidence": null
+  },
+  {
+    "text": "I noticed",
+    "startMs": 7390,
+    "endMs": 7810,
+    "timestampMs": 7390,
+    "confidence": null
+  },
+  {
+    "text": "your components",
+    "startMs": 7810,
+    "endMs": 8550,
+    "timestampMs": 7810,
+    "confidence": null
+  },
+  {
+    "text": "could be",
+    "startMs": 8550,
+    "endMs": 9130,
+    "timestampMs": 8550,
+    "confidence": null
+  },
+  {
+    "text": "cleaner.",
+    "startMs": 9130,
+    "endMs": 9450,
+    "timestampMs": 9130,
+    "confidence": null
+  },
+  {
+    "text": "Fine.",
+    "startMs": 10019,
+    "endMs": 10339,
+    "timestampMs": 10019,
+    "confidence": null
+  },
+  {
+    "text": "Why is",
+    "startMs": 10919,
+    "endMs": 11179,
+    "timestampMs": 10919,
+    "confidence": null
+  },
+  {
+    "text": "there a",
+    "startMs": 11219,
+    "endMs": 11399,
+    "timestampMs": 11219,
+    "confidence": null
+  },
+  {
+    "text": "new framework?",
+    "startMs": 11419,
+    "endMs": 12159,
+    "timestampMs": 11419,
+    "confidence": null
+  },
+  {
+    "text": "The previous",
+    "startMs": 12520,
+    "endMs": 13060,
+    "timestampMs": 12520,
+    "confidence": null
+  },
+  {
+    "text": "architecture was",
+    "startMs": 13060,
+    "endMs": 13940,
+    "timestampMs": 13060,
+    "confidence": null
+  },
+  {
+    "text": "holding us",
+    "startMs": 13940,
+    "endMs": 14480,
+    "timestampMs": 13940,
+    "confidence": null
+  },
+  {
+    "text": "back.",
+    "startMs": 14480,
+    "endMs": 14820,
+    "timestampMs": 14480,
+    "confidence": null
+  },
+  {
+    "text": "Us?",
+    "startMs": 15256,
+    "endMs": 15516,
+    "timestampMs": 15256,
+    "confidence": null
+  },
+  {
+    "text": "It's a",
+    "startMs": 15976,
+    "endMs": 16216,
+    "timestampMs": 15976,
+    "confidence": null
+  },
+  {
+    "text": "login screen.",
+    "startMs": 16276,
+    "endMs": 17116,
+    "timestampMs": 16276,
+    "confidence": null
+  },
+  {
+    "text": "I also",
+    "startMs": 17471,
+    "endMs": 17971,
+    "timestampMs": 17471,
+    "confidence": null
+  },
+  {
+    "text": "replaced authentication",
+    "startMs": 17971,
+    "endMs": 18991,
+    "timestampMs": 17971,
+    "confidence": null
+  },
+  {
+    "text": "and updated",
+    "startMs": 18991,
+    "endMs": 19891,
+    "timestampMs": 18991,
+    "confidence": null
+  },
+  {
+    "text": "your dependencies.",
+    "startMs": 19891,
+    "endMs": 20611,
+    "timestampMs": 19891,
+    "confidence": null
+  },
+  {
+    "text": "You changed",
+    "startMs": 21171,
+    "endMs": 21611,
+    "timestampMs": 21171,
+    "confidence": null
+  },
+  {
+    "text": "the login",
+    "startMs": 21671,
+    "endMs": 22151,
+    "timestampMs": 21671,
+    "confidence": null
+  },
+  {
+    "text": "system to",
+    "startMs": 22251,
+    "endMs": 22731,
+    "timestampMs": 22251,
+    "confidence": null
+  },
+  {
+    "text": "swap 2",
+    "startMs": 22791,
+    "endMs": 23351,
+    "timestampMs": 22791,
+    "confidence": null
+  },
+  {
+    "text": "letters?",
+    "startMs": 23491,
+    "endMs": 23911,
+    "timestampMs": 23491,
+    "confidence": null
+  },
+  {
+    "text": "All done.",
+    "startMs": 24226,
+    "endMs": 24766,
+    "timestampMs": 24226,
+    "confidence": null
+  },
+  {
+    "text": "Your app",
+    "startMs": 25126,
+    "endMs": 25586,
+    "timestampMs": 25126,
+    "confidence": null
+  },
+  {
+    "text": "is now",
+    "startMs": 25586,
+    "endMs": 26226,
+    "timestampMs": 25586,
+    "confidence": null
+  },
+  {
+    "text": "future-proof.",
+    "startMs": 26226,
+    "endMs": 26926,
+    "timestampMs": 26226,
+    "confidence": null
+  },
+  {
+    "text": "Great.",
+    "startMs": 27382,
+    "endMs": 27682,
+    "timestampMs": 27382,
+    "confidence": null
+  },
+  {
+    "text": "Did you",
+    "startMs": 28122,
+    "endMs": 28342,
+    "timestampMs": 28122,
+    "confidence": null
+  },
+  {
+    "text": "fix the",
+    "startMs": 28382,
+    "endMs": 28662,
+    "timestampMs": 28382,
+    "confidence": null
+  },
+  {
+    "text": "typo?",
+    "startMs": 28702,
+    "endMs": 29022,
+    "timestampMs": 28702,
+    "confidence": null
+  },
+  {
+    "text": "Here's your",
+    "startMs": 29527,
+    "endMs": 29947,
+    "timestampMs": 29527,
+    "confidence": null
+  },
+  {
+    "text": "improved login",
+    "startMs": 29947,
+    "endMs": 30647,
+    "timestampMs": 29947,
+    "confidence": null
+  },
+  {
+    "text": "screen.",
+    "startMs": 30647,
+    "endMs": 31027,
+    "timestampMs": 30647,
+    "confidence": null
+  },
+  {
+    "text": "It still",
+    "startMs": 31468,
+    "endMs": 31868,
+    "timestampMs": 31468,
+    "confidence": null
+  },
+  {
+    "text": "says sing",
+    "startMs": 31988,
+    "endMs": 32808,
+    "timestampMs": 31988,
+    "confidence": null
+  },
+  {
+    "text": "in.",
+    "startMs": 32908,
+    "endMs": 33168,
+    "timestampMs": 32908,
+    "confidence": null
+  }
+]

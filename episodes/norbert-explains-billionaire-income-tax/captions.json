@@ -1,0 +1,128 @@
+[
+  {
+    "text": "Miko",
+    "startMs": 139,
+    "endMs": 559,
+    "timestampMs": 139,
+    "confidence": null
+  },
+  {
+    "text": "woke up",
+    "startMs": 559,
+    "endMs": 999,
+    "timestampMs": 559,
+    "confidence": null
+  },
+  {
+    "text": "a billion",
+    "startMs": 999,
+    "endMs": 1679,
+    "timestampMs": 999,
+    "confidence": null
+  },
+  {
+    "text": "dollars richer.",
+    "startMs": 1679,
+    "endMs": 2669,
+    "timestampMs": 1679,
+    "confidence": null
+  },
+  {
+    "text": "He owes",
+    "startMs": 2946,
+    "endMs": 3406,
+    "timestampMs": 2946,
+    "confidence": null
+  },
+  {
+    "text": "zero",
+    "startMs": 3406,
+    "endMs": 3926,
+    "timestampMs": 3406,
+    "confidence": null
+  },
+  {
+    "text": "federal",
+    "startMs": 3926,
+    "endMs": 4366,
+    "timestampMs": 3926,
+    "confidence": null
+  },
+  {
+    "text": "income tax",
+    "startMs": 4366,
+    "endMs": 5006,
+    "timestampMs": 4366,
+    "confidence": null
+  },
+  {
+    "text": "on that",
+    "startMs": 5006,
+    "endMs": 5326,
+    "timestampMs": 5006,
+    "confidence": null
+  },
+  {
+    "text": "gain.",
+    "startMs": 5326,
+    "endMs": 5736,
+    "timestampMs": 5326,
+    "confidence": null
+  },
+  {
+    "text": "His stock",
+    "startMs": 6052,
+    "endMs": 6663,
+    "timestampMs": 6052,
+    "confidence": null
+  },
+  {
+    "text": "doubled",
+    "startMs": 6712,
+    "endMs": 7152,
+    "timestampMs": 6712,
+    "confidence": null
+  },
+  {
+    "text": "in price",
+    "startMs": 7152,
+    "endMs": 7672,
+    "timestampMs": 7152,
+    "confidence": null
+  },
+  {
+    "text": "overnight.",
+    "startMs": 7672,
+    "endMs": 8402,
+    "timestampMs": 7672,
+    "confidence": null
+  },
+  {
+    "text": "He hasn’t",
+    "startMs": 8612,
+    "endMs": 9152,
+    "timestampMs": 8612,
+    "confidence": null
+  },
+  {
+    "text": "sold",
+    "startMs": 9152,
+    "endMs": 9512,
+    "timestampMs": 9152,
+    "confidence": null
+  },
+  {
+    "text": "a single",
+    "startMs": 9512,
+    "endMs": 10132,
+    "timestampMs": 9512,
+    "confidence": null
+  },
+  {
+    "text": "share.",
+    "startMs": 10132,
+    "endMs": 10662,
+    "timestampMs": 10132,
+    "confidence": null
+  }
+]

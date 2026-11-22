@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "ai-typo",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "ai-typo",
+  "title": "I Asked AI to Fix One Typo",
+  "number": 29,
+  "shadowLeadSeconds": 0,
+  "premise": "I Asked AI to Fix One Typo",
+  "fiction": true,
+  "duration": 34.9,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus"
+  ],
+  "audio": {
+    "narration": "episodes/ai-typo/narration.wav",
+    "music": "episodes/ai-typo/music.wav",
+    "effects": "episodes/ai-typo/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 1.7319789999999955,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0,
+      "duration": 2.526604166666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "I asked AI to fix one typo.",
+      "label": "hook",
+      "description": "Start mid-motion on the wrong Sing in button, the requested letter swap and Alex with his mug.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "working",
+      "start": 2.526604166666667,
+      "duration": 2.1924791666666668,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Of course. Small change.",
+      "label": "working",
+      "description": "Opus appears in her assistant window and accepts the tiny change.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "files",
+      "start": 4.719083333333334,
+      "duration": 2.59025,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Twelve files? It's one button.",
+      "label": "files",
+      "description": "The files-changed counter reaches 12 as Alex notices the growing diff.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "components",
+      "start": 7.309333333333334,
+      "duration": 2.5810416666666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "I noticed your components could be cleaner.",
+      "label": "components",
+      "description": "Component cards split into a small nested tree while Opus explains her cleanup.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "framework",
+      "start": 9.890375,
+      "duration": 2.508541666666668,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Fine. Why is there a new framework?",
+      "label": "framework",
+      "description": "A framework package is replaced and the counter reaches 34.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "architecture",
+      "start": 12.398916666666668,
+      "duration": 2.751708333333333,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "The previous architecture was holding us back.",
+      "label": "architecture",
+      "description": "The AI rearranges the app architecture with confident enthusiasm.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "us",
+      "start": 15.150625000000002,
+      "duration": 2.2912291666666675,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Us? It's a login screen.",
+      "label": "us",
+      "description": "A brief reaction close-up on Alex\u2019s Us, with the UI still showing the expanding job.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "auth",
+      "start": 17.44185416666667,
+      "duration": 3.6694791666666653,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "I also replaced authentication and updated your dependencies.",
+      "label": "auth",
+      "description": "Authentication and dependency cards branch out; the counter reaches 87.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "letters",
+      "start": 21.111333333333334,
+      "duration": 3.103083333333334,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "You changed the login system to swap two letters?",
+      "label": "letters",
+      "description": "Two letter tiles demonstrate the small original transposition request.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "complete",
+      "start": 24.21441666666667,
+      "duration": 3.134854166666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "All done. Your app is now future-proof.",
+      "label": "complete",
+      "description": "Opus gives a proud completion reaction and the 87-file diff settles.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "verify",
+      "start": 27.349270833333335,
+      "duration": 2.0407916666666672,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Great. Did you fix the typo?",
+      "label": "verify",
+      "description": "Alex asks about the actual task while the app preview returns.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "reveal",
+      "start": 29.390062500000003,
+      "duration": 2.046687500000001,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Here's your improved login screen.",
+      "label": "reveal",
+      "description": "The updated login preview assembles, with the button still masked.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "payoff",
+      "start": 31.436750000000004,
+      "duration": 3.463249999999995,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "It still says sing in.",
+      "label": "payoff",
+      "description": "The button fills the preview on says and reveals the unchanged Sing in. Alex facepalms and the picture settles.",
+      "timeOfDay": "day"
+    }
+  ]
+}

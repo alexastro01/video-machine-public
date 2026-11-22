@@ -1,0 +1,1242 @@
+{
+  "id": "full-stack-subscriber",
+  "duration": 37.833333333333336,
+  "fps": 60,
+  "width": 1080,
+  "height": 1920,
+  "events": {
+    "ask_opus": 0,
+    "limit_opus": 1.4488958333333335,
+    "ask_astra": 2.793166666666667,
+    "limit_astra": 3.430541666666667,
+    "ask_gemini": 4.391333333333334,
+    "limit_gemini": 5.030333333333334,
+    "clock": 5.941416666666667,
+    "clock_reply": 7.830708333333334,
+    "trial": 10.169791666666667,
+    "recognize": 12.1691875,
+    "upgrade": 14.182708333333332,
+    "paid": 16.480708333333332,
+    "compare": 17.750708333333332,
+    "limit_again": 19.956916666666665,
+    "inventory": 22.666729166666663,
+    "app_check": 28.830562499999996,
+    "broken": 29.923874999999995,
+    "cv_question": 31.296874999999996,
+    "cv_title": 33.546875,
+    "clockMove": 7.060021000000001,
+    "trialSubmit": 11.379187,
+    "compareMove": 18.052708000000003,
+    "subCount": 23.343417,
+    "timerCount": 24.583417,
+    "dashboardCount": 25.903417,
+    "morning": 28.223417,
+    "cvPrefix": 33.850229,
+    "cvDeveloper": 34.298229,
+    "morph": 35.165729,
+    "end": 37.833333333333336,
+    "nodStart": 35.945729,
+    "nodDown": 36.085729,
+    "nodUp": 36.375729,
+    "nodEnd": 36.645729,
+    "payments": [
+      15.162708,
+      15.342708,
+      15.522708
+    ]
+  },
+  "lines": [
+    {
+      "id": "ask_opus",
+      "speaker": "alex",
+      "text": "Opus, fix my login.",
+      "afterPause": 0.1,
+      "start": 0,
+      "end": 1.3488958333333334,
+      "duration": 1.3488958333333334,
+      "words": [
+        {
+          "text": "Opus,",
+          "start": 0,
+          "end": 0.467792,
+          "speaker": "alex",
+          "line": "ask_opus"
+        },
+        {
+          "text": "fix",
+          "start": 0.547792,
+          "end": 0.707792,
+          "speaker": "alex",
+          "line": "ask_opus"
+        },
+        {
+          "text": "my",
+          "start": 0.787792,
+          "end": 0.867792,
+          "speaker": "alex",
+          "line": "ask_opus"
+        },
+        {
+          "text": "login.",
+          "start": 1.067792,
+          "end": 1.327792,
+          "speaker": "alex",
+          "line": "ask_opus"
+        }
+      ]
+    },
+    {
+      "id": "limit_opus",
+      "speaker": "opus",
+      "text": "Limit reached.",
+      "afterPause": 0.1,
+      "start": 1.4488958333333335,
+      "end": 2.693166666666667,
+      "duration": 1.2442708333333334,
+      "words": [
+        {
+          "text": "Limit",
+          "start": 1.55475,
+          "end": 1.87475,
+          "speaker": "opus",
+          "line": "limit_opus"
+        },
+        {
+          "text": "reached.",
+          "start": 2.03475,
+          "end": 2.67475,
+          "speaker": "opus",
+          "line": "limit_opus"
+        }
+      ]
+    },
+    {
+      "id": "ask_astra",
+      "speaker": "alex",
+      "text": "Astra?",
+      "afterPause": 0.1,
+      "start": 2.793166666666667,
+      "end": 3.330541666666667,
+      "duration": 0.537375,
+      "words": [
+        {
+          "text": "Astra?",
+          "start": 2.797542,
+          "end": 3.277542,
+          "speaker": "alex",
+          "line": "ask_astra"
+        }
+      ]
+    },
+    {
+      "id": "limit_astra",
+      "speaker": "astra",
+      "text": "Tomorrow.",
+      "afterPause": 0.1,
+      "start": 3.430541666666667,
+      "end": 4.291333333333334,
+      "duration": 0.8607916666666666,
+      "words": [
+        {
+          "text": "Tomorrow.",
+          "start": 3.430542,
+          "end": 4.003937,
+          "speaker": "astra",
+          "line": "limit_astra"
+        }
+      ]
+    },
+    {
+      "id": "ask_gemini",
+      "speaker": "alex",
+      "text": "Gemini?",
+      "afterPause": 0.1,
+      "start": 4.391333333333334,
+      "end": 4.9303333333333335,
+      "duration": 0.539,
+      "words": [
+        {
+          "text": "Gemini?",
+          "start": 4.443437,
+          "end": 4.930333,
+          "speaker": "alex",
+          "line": "ask_gemini"
+        }
+      ]
+    },
+    {
+      "id": "limit_gemini",
+      "speaker": "gemini",
+      "text": "Same.",
+      "afterPause": 0.15,
+      "start": 5.030333333333334,
+      "end": 5.7914166666666675,
+      "duration": 0.7610833333333333,
+      "words": [
+        {
+          "text": "Same.",
+          "start": 5.030333,
+          "end": 5.791417,
+          "speaker": "gemini",
+          "line": "limit_gemini"
+        }
+      ]
+    },
+    {
+      "id": "clock",
+      "speaker": "alex",
+      "text": "Fine. I'll change the clock.",
+      "afterPause": 0.14,
+      "start": 5.941416666666667,
+      "end": 7.690708333333333,
+      "duration": 1.7492916666666667,
+      "words": [
+        {
+          "text": "Fine.",
+          "start": 6.050021,
+          "end": 6.610021,
+          "speaker": "alex",
+          "line": "clock"
+        },
+        {
+          "text": "I'll",
+          "start": 6.650021,
+          "end": 6.850021,
+          "speaker": "alex",
+          "line": "clock"
+        },
+        {
+          "text": "change",
+          "start": 6.970021,
+          "end": 7.090021,
+          "speaker": "alex",
+          "line": "clock"
+        },
+        {
+          "text": "the",
+          "start": 7.170021,
+          "end": 7.250021,
+          "speaker": "alex",
+          "line": "clock"
+        },
+        {
+          "text": "clock.",
+          "start": 7.410021,
+          "end": 7.690708,
+          "speaker": "alex",
+          "line": "clock"
+        }
+      ]
+    },
+    {
+      "id": "clock_reply",
+      "speaker": "astra",
+      "text": "That isn't how tomorrow works.",
+      "afterPause": 0.16,
+      "start": 7.830708333333334,
+      "end": 10.009791666666667,
+      "duration": 2.1790833333333333,
+      "words": [
+        {
+          "text": "That",
+          "start": 8.120229,
+          "end": 8.200229,
+          "speaker": "astra",
+          "line": "clock_reply"
+        },
+        {
+          "text": "isn't",
+          "start": 8.200229,
+          "end": 8.540229,
+          "speaker": "astra",
+          "line": "clock_reply"
+        },
+        {
+          "text": "how",
+          "start": 8.540229,
+          "end": 8.800229,
+          "speaker": "astra",
+          "line": "clock_reply"
+        },
+        {
+          "text": "tomorrow",
+          "start": 8.800229,
+          "end": 9.180229,
+          "speaker": "astra",
+          "line": "clock_reply"
+        },
+        {
+          "text": "works.",
+          "start": 9.180229,
+          "end": 9.680229,
+          "speaker": "astra",
+          "line": "clock_reply"
+        }
+      ]
+    },
+    {
+      "id": "trial",
+      "speaker": "alex",
+      "text": "New email. Free trial.",
+      "afterPause": 0.16,
+      "start": 10.169791666666667,
+      "end": 12.0091875,
+      "duration": 1.8393958333333333,
+      "words": [
+        {
+          "text": "New",
+          "start": 10.283188,
+          "end": 10.299187,
+          "speaker": "alex",
+          "line": "trial"
+        },
+        {
+          "text": "email.",
+          "start": 10.379188,
+          "end": 10.859188,
+          "speaker": "alex",
+          "line": "trial"
+        },
+        {
+          "text": "Free",
+          "start": 11.019188,
+          "end": 11.179188,
+          "speaker": "alex",
+          "line": "trial"
+        },
+        {
+          "text": "trial.",
+          "start": 11.259187,
+          "end": 11.659187,
+          "speaker": "alex",
+          "line": "trial"
+        }
+      ]
+    },
+    {
+      "id": "recognize",
+      "speaker": "opus",
+      "text": "Hi, Alex. Again.",
+      "afterPause": 0.18,
+      "start": 12.1691875,
+      "end": 14.002708333333333,
+      "duration": 1.8335208333333333,
+      "words": [
+        {
+          "text": "Hi,",
+          "start": 12.251458,
+          "end": 12.491458,
+          "speaker": "opus",
+          "line": "recognize"
+        },
+        {
+          "text": "Alex.",
+          "start": 12.571458,
+          "end": 13.211458,
+          "speaker": "opus",
+          "line": "recognize"
+        },
+        {
+          "text": "Again.",
+          "start": 13.371458,
+          "end": 14.002708,
+          "speaker": "opus",
+          "line": "recognize"
+        }
+      ]
+    },
+    {
+      "id": "upgrade",
+      "speaker": "alex",
+      "text": "Fine. Upgrade all three.",
+      "afterPause": 0.14,
+      "start": 14.182708333333332,
+      "end": 16.340708333333332,
+      "duration": 2.158,
+      "words": [
+        {
+          "text": "Fine.",
+          "start": 14.532708,
+          "end": 14.712708,
+          "speaker": "alex",
+          "line": "upgrade"
+        },
+        {
+          "text": "Upgrade",
+          "start": 15.032708,
+          "end": 15.352708,
+          "speaker": "alex",
+          "line": "upgrade"
+        },
+        {
+          "text": "all",
+          "start": 15.432708,
+          "end": 15.592708,
+          "speaker": "alex",
+          "line": "upgrade"
+        },
+        {
+          "text": "three.",
+          "start": 15.752708,
+          "end": 16.112708,
+          "speaker": "alex",
+          "line": "upgrade"
+        }
+      ]
+    },
+    {
+      "id": "paid",
+      "speaker": "gemini",
+      "text": "Done!",
+      "afterPause": 0.14,
+      "start": 16.480708333333332,
+      "end": 17.61070833333333,
+      "duration": 1.13,
+      "words": [
+        {
+          "text": "Done!",
+          "start": 16.480708,
+          "end": 17.500708,
+          "speaker": "gemini",
+          "line": "paid"
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "speaker": "alex",
+      "text": "Compare the plans. Find the best one.",
+      "afterPause": 0.16,
+      "start": 17.750708333333332,
+      "end": 19.796916666666664,
+      "duration": 2.0462083333333334,
+      "words": [
+        {
+          "text": "Compare",
+          "start": 17.978708,
+          "end": 18.042708,
+          "speaker": "alex",
+          "line": "compare"
+        },
+        {
+          "text": "the",
+          "start": 18.082708,
+          "end": 18.122708,
+          "speaker": "alex",
+          "line": "compare"
+        },
+        {
+          "text": "plans.",
+          "start": 18.202708,
+          "end": 18.722708,
+          "speaker": "alex",
+          "line": "compare"
+        },
+        {
+          "text": "Find",
+          "start": 18.842708,
+          "end": 19.082708,
+          "speaker": "alex",
+          "line": "compare"
+        },
+        {
+          "text": "the",
+          "start": 19.122708,
+          "end": 19.162708,
+          "speaker": "alex",
+          "line": "compare"
+        },
+        {
+          "text": "best",
+          "start": 19.242708,
+          "end": 19.482708,
+          "speaker": "alex",
+          "line": "compare"
+        },
+        {
+          "text": "one.",
+          "start": 19.562708,
+          "end": 19.796917,
+          "speaker": "alex",
+          "line": "compare"
+        }
+      ]
+    },
+    {
+      "id": "limit_again",
+      "speaker": "astra",
+      "text": "You've used your new allowance comparing the plans.",
+      "afterPause": 0.18,
+      "start": 19.956916666666665,
+      "end": 22.486729166666663,
+      "duration": 2.5298125,
+      "words": [
+        {
+          "text": "You've",
+          "start": 20.056729,
+          "end": 20.296729,
+          "speaker": "astra",
+          "line": "limit_again"
+        },
+        {
+          "text": "used",
+          "start": 20.296729,
+          "end": 20.436729,
+          "speaker": "astra",
+          "line": "limit_again"
+        },
+        {
+          "text": "your",
+          "start": 20.436729,
+          "end": 20.636729,
+          "speaker": "astra",
+          "line": "limit_again"
+        },
+        {
+          "text": "new",
+          "start": 20.636729,
+          "end": 20.896729,
+          "speaker": "astra",
+          "line": "limit_again"
+        },
+        {
+          "text": "allowance",
+          "start": 20.896729,
+          "end": 21.236729,
+          "speaker": "astra",
+          "line": "limit_again"
+        },
+        {
+          "text": "comparing",
+          "start": 21.236729,
+          "end": 21.756729,
+          "speaker": "astra",
+          "line": "limit_again"
+        },
+        {
+          "text": "the",
+          "start": 21.756729,
+          "end": 21.976729,
+          "speaker": "astra",
+          "line": "limit_again"
+        },
+        {
+          "text": "plans.",
+          "start": 21.976729,
+          "end": 22.336729,
+          "speaker": "astra",
+          "line": "limit_again"
+        }
+      ]
+    },
+    {
+      "id": "inventory",
+      "speaker": "alex",
+      "text": "I've managed three subscriptions, six reset timers, and five billing dashboards. That's my entire morning.",
+      "afterPause": 0.18,
+      "start": 22.666729166666663,
+      "end": 28.650562499999996,
+      "duration": 5.983833333333333,
+      "words": [
+        {
+          "text": "I've",
+          "start": 22.810417,
+          "end": 22.863417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "managed",
+          "start": 23.063417,
+          "end": 23.263417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "three",
+          "start": 23.343417,
+          "end": 23.503417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "subscriptions,",
+          "start": 23.583417,
+          "end": 24.463417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "six",
+          "start": 24.583417,
+          "end": 24.703417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "reset",
+          "start": 24.783417,
+          "end": 25.103417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "timers,",
+          "start": 25.223417,
+          "end": 25.583417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "and",
+          "start": 25.623417,
+          "end": 25.663417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "five",
+          "start": 25.903417,
+          "end": 26.143417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "billing",
+          "start": 26.223417,
+          "end": 26.463417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "dashboards.",
+          "start": 26.543417,
+          "end": 27.423417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "That's",
+          "start": 27.463417,
+          "end": 27.583417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "my",
+          "start": 27.623417,
+          "end": 27.663417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "entire",
+          "start": 27.743417,
+          "end": 28.143417,
+          "speaker": "alex",
+          "line": "inventory"
+        },
+        {
+          "text": "morning.",
+          "start": 28.223417,
+          "end": 28.650562,
+          "speaker": "alex",
+          "line": "inventory"
+        }
+      ]
+    },
+    {
+      "id": "app_check",
+      "speaker": "opus",
+      "text": "And your app?",
+      "afterPause": 0.15,
+      "start": 28.830562499999996,
+      "end": 29.773874999999997,
+      "duration": 0.9433125,
+      "words": [
+        {
+          "text": "And",
+          "start": 28.851229,
+          "end": 29.011229,
+          "speaker": "opus",
+          "line": "app_check"
+        },
+        {
+          "text": "your",
+          "start": 29.091229,
+          "end": 29.251229,
+          "speaker": "opus",
+          "line": "app_check"
+        },
+        {
+          "text": "app?",
+          "start": 29.331229,
+          "end": 29.773875,
+          "speaker": "opus",
+          "line": "app_check"
+        }
+      ]
+    },
+    {
+      "id": "broken",
+      "speaker": "alex",
+      "text": "Still broken.",
+      "afterPause": 0.2,
+      "start": 29.923874999999995,
+      "end": 31.096874999999997,
+      "duration": 1.173,
+      "words": [
+        {
+          "text": "Still",
+          "start": 30.061292,
+          "end": 30.301292,
+          "speaker": "alex",
+          "line": "broken"
+        },
+        {
+          "text": "broken.",
+          "start": 30.381292,
+          "end": 30.861292,
+          "speaker": "alex",
+          "line": "broken"
+        }
+      ]
+    },
+    {
+      "id": "cv_question",
+      "speaker": "gemini",
+      "text": "What do you put on your CV?",
+      "afterPause": 0.18,
+      "start": 31.296874999999996,
+      "end": 33.36687499999999,
+      "duration": 2.07,
+      "words": [
+        {
+          "text": "What",
+          "start": 31.406875,
+          "end": 31.966875,
+          "speaker": "gemini",
+          "line": "cv_question"
+        },
+        {
+          "text": "do",
+          "start": 31.966875,
+          "end": 32.126875,
+          "speaker": "gemini",
+          "line": "cv_question"
+        },
+        {
+          "text": "you",
+          "start": 32.126875,
+          "end": 32.246875,
+          "speaker": "gemini",
+          "line": "cv_question"
+        },
+        {
+          "text": "put",
+          "start": 32.246875,
+          "end": 32.406875,
+          "speaker": "gemini",
+          "line": "cv_question"
+        },
+        {
+          "text": "on",
+          "start": 32.406875,
+          "end": 32.586875,
+          "speaker": "gemini",
+          "line": "cv_question"
+        },
+        {
+          "text": "your",
+          "start": 32.586875,
+          "end": 32.866875,
+          "speaker": "gemini",
+          "line": "cv_question"
+        },
+        {
+          "text": "CV?",
+          "start": 32.866875,
+          "end": 33.166875,
+          "speaker": "gemini",
+          "line": "cv_question"
+        }
+      ]
+    },
+    {
+      "id": "cv_title",
+      "speaker": "alex",
+      "text": "Full-stack developer.",
+      "afterPause": 2.8,
+      "start": 33.546875,
+      "end": 35.025729166666665,
+      "duration": 1.4788541666666666,
+      "words": [
+        {
+          "text": "Full-stack",
+          "start": 33.850229,
+          "end": 34.218229,
+          "speaker": "alex",
+          "line": "cv_title"
+        },
+        {
+          "text": "developer.",
+          "start": 34.298229,
+          "end": 35.025729,
+          "speaker": "alex",
+          "line": "cv_title"
+        }
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": "ask_opus",
+      "start": 0,
+      "duration": 1.4488958333333335,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Opus, fix my login.",
+      "label": "ask_opus",
+      "description": "Open mid-click on the broken app and Opus, with the first reply already approaching.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "limit_opus",
+      "start": 1.4488958333333335,
+      "duration": 1.3442708333333335,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Limit reached.",
+      "label": "limit_opus",
+      "description": "Opus allowance drains and the limit card makes the first obstacle visible.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "ask_astra",
+      "start": 2.793166666666667,
+      "duration": 0.637375,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Astra?",
+      "label": "ask_astra",
+      "description": "The active tab and assistant window switch to Astra.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "limit_astra",
+      "start": 3.430541666666667,
+      "duration": 0.9607916666666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Tomorrow.",
+      "label": "limit_astra",
+      "description": "Astra gets a tomorrow reset label and an empty allowance.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "ask_gemini",
+      "start": 4.391333333333334,
+      "duration": 0.6390000000000002,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Gemini?",
+      "label": "ask_gemini",
+      "description": "Switch immediately to Gemini as the third attempted escape.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "limit_gemini",
+      "start": 5.030333333333334,
+      "duration": 0.911083333333333,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Same.",
+      "label": "limit_gemini",
+      "description": "Gemini joins the exhausted allowances; the app is still broken.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "clock",
+      "start": 5.941416666666667,
+      "duration": 1.8892916666666668,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Fine. I'll change the clock.",
+      "label": "clock",
+      "description": "The date-and-time card opens and the digital clock jumps forward.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "clock_reply",
+      "start": 7.830708333333334,
+      "duration": 2.339083333333333,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "That isn't how tomorrow works.",
+      "label": "clock_reply",
+      "description": "The reset is still tomorrow; Astra rejects the clock trick.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "trial",
+      "start": 10.169791666666667,
+      "duration": 1.9993958333333328,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "New email. Free trial.",
+      "label": "trial",
+      "description": "A new email address types into a free-trial form.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "recognize",
+      "start": 12.1691875,
+      "duration": 2.0135208333333328,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Hi, Alex. Again.",
+      "label": "recognize",
+      "description": "The submit action becomes a welcome-back card with Alex recognized.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "upgrade",
+      "start": 14.182708333333332,
+      "duration": 2.298,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Fine. Upgrade all three.",
+      "label": "upgrade",
+      "description": "Three assistant subscriptions fan out; each payment lands with a click and cash cue.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "paid",
+      "start": 16.480708333333332,
+      "duration": 1.2699999999999996,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Done!",
+      "label": "paid",
+      "description": "Green active states restore the allowances briefly.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "compare",
+      "start": 17.750708333333332,
+      "duration": 2.2062083333333327,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Compare the plans. Find the best one.",
+      "label": "compare",
+      "description": "The subscriptions become a plan-comparison table while the restored allowance drains.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "limit_again",
+      "start": 19.956916666666665,
+      "duration": 2.709812499999998,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "You've used your new allowance comparing the plans.",
+      "label": "limit_again",
+      "description": "The new allowance is exhausted on the comparison; all three limits return.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "inventory",
+      "start": 22.666729166666663,
+      "duration": 6.163833333333333,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "I've managed three subscriptions, six reset timers, and five billing dashboards. That's my entire morning.",
+      "label": "inventory",
+      "description": "Three subscriptions, six reset timers and five billing dashboards assemble on their spoken numbers.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "app_check",
+      "start": 28.830562499999996,
+      "duration": 1.0933124999999997,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "And your app?",
+      "label": "app_check",
+      "description": "The dashboard stack clears to reveal the unchanged broken app.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "broken",
+      "start": 29.923874999999995,
+      "duration": 1.373000000000001,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Still broken.",
+      "label": "broken",
+      "description": "Alex facepalms while the error remains readable.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "cv_question",
+      "start": 31.296874999999996,
+      "duration": 2.2500000000000036,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "What do you put on your CV?",
+      "label": "cv_question",
+      "description": "A CV sheet grows from the dashboard stack and Alex becomes its profile photo.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "cv_title",
+      "start": 33.546875,
+      "duration": 4.286458333333336,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Full-stack developer.",
+      "label": "cv_title",
+      "description": "Full-stack developer appears on speech, morphs to Full-stack subscriber, then Alex gives one small reluctant nod.",
+      "timeOfDay": "day"
+    }
+  ],
+  "actors": {
+    "alex-coffee": {
+      "id": "alex-coffee",
+      "url": "episodes/ai-typo/art/alex-coffee.png",
+      "width": 1024,
+      "height": 1536,
+      "bounds": [
+        284,
+        72,
+        706,
+        1452
+      ],
+      "pivotX": 512.0,
+      "footY": 1452,
+      "bodyHeight": 1380,
+      "background": "transparent",
+      "sha256": "a1948f46af6a6165cfe8730346588a140654149d6fc65ae006ba8d9b9965b313"
+    },
+    "alex-explain": {
+      "id": "alex-explain",
+      "url": "episodes/ai-typo/art/alex-explain.png",
+      "width": 1024,
+      "height": 1536,
+      "bounds": [
+        186,
+        88,
+        902,
+        1433
+      ],
+      "pivotX": 485.5,
+      "footY": 1433,
+      "bodyHeight": 1345,
+      "background": "transparent",
+      "sha256": "54314c7b210e17347c0d8b21ad61094290f2e6fd28014bd002ff25f382462c0d"
+    },
+    "alex-frustrated": {
+      "id": "alex-frustrated",
+      "url": "episodes/ai-typo/art/alex-frustrated.png",
+      "width": 1024,
+      "height": 1536,
+      "bounds": [
+        272,
+        87,
+        744,
+        1439
+      ],
+      "pivotX": 495.5,
+      "footY": 1439,
+      "bodyHeight": 1352,
+      "background": "transparent",
+      "sha256": "8ccc5b4b224c668e62299dcb7f095e3936ba48bb3dbf453698e8ddcf921fda3b"
+    },
+    "opus-present": {
+      "id": "opus-present",
+      "url": "episodes/ai-typo/art/opus-present-shirt-v2.png",
+      "width": 2048,
+      "height": 3072,
+      "bounds": [
+        282,
+        69,
+        1765,
+        2882
+      ],
+      "pivotX": 999.5,
+      "footY": 2882,
+      "bodyHeight": 2813,
+      "background": "white assistant panel",
+      "sha256": "9cc355e66b3e44bd0651c30ca7c9acfe997d1d25409376a6401b4003e3d7572f"
+    },
+    "opus-proud": {
+      "id": "opus-proud",
+      "url": "episodes/ai-typo/art/opus-proud-shirt-v2.png",
+      "width": 2048,
+      "height": 3072,
+      "bounds": [
+        432,
+        71,
+        1676,
+        2847
+      ],
+      "pivotX": 1007.0,
+      "footY": 2847,
+      "bodyHeight": 2776,
+      "background": "white assistant panel",
+      "sha256": "eca76c32adb01a9b88ab011e1582df1fc42a3802e70f2269a09f6c59a46f2b60"
+    },
+    "opus-think": {
+      "id": "opus-think",
+      "url": "episodes/ai-typo/art/opus-think-shirt-v2.png",
+      "width": 2048,
+      "height": 3072,
+      "bounds": [
+        591,
+        89,
+        1617,
+        2893
+      ],
+      "pivotX": 1088.0,
+      "footY": 2893,
+      "bodyHeight": 2804,
+      "background": "white assistant panel",
+      "sha256": "1803b461d29ed09ac36bbf57607be40d38133ba01a8e346fb9bc8dc32ba3afd5"
+    },
+    "astra-present": {
+      "id": "astra-present",
+      "url": "developer/cast/astra-6/present-v1.png",
+      "width": 2048,
+      "height": 3072,
+      "bounds": [
+        306,
+        59,
+        1771,
+        2847
+      ],
+      "pivotX": 920.5,
+      "footY": 2847,
+      "bodyHeight": 2788,
+      "background": "opaque white, for assistant-window staging",
+      "sha256": "d830e83c01e9b68faf104d8d473183fbc39821a25860e80532ae6179630a6e17"
+    },
+    "gemini-present": {
+      "id": "gemini-present",
+      "url": "developer/cast/gemini/present-v1.png",
+      "width": 2048,
+      "height": 3072,
+      "bounds": [
+        265,
+        105,
+        1709,
+        2882
+      ],
+      "pivotX": 918.0,
+      "footY": 2882,
+      "bodyHeight": 2777,
+      "background": "opaque white, for assistant-window staging",
+      "sha256": "278bba745e7b187d062795251e1bccc689811eb9dac74b8625e893d835ac4bef"
+    },
+    "alex-cv-neutral": {
+      "id": "alex-cv-neutral",
+      "url": "episodes/full-stack-subscriber/art/alex-cv-neutral.png",
+      "width": 2048,
+      "height": 2048,
+      "bounds": [
+        328,
+        288,
+        1691,
+        1845
+      ],
+      "pivotX": 1024,
+      "footY": 1845,
+      "bodyHeight": 1557,
+      "kind": "portrait",
+      "background": "white",
+      "sha256": "fa9d8ef885ea70adc11ae598bf12a3c4cc726d647ef97fd6ec6648ecd68f204b"
+    },
+    "alex-cv-nod": {
+      "id": "alex-cv-nod",
+      "url": "episodes/full-stack-subscriber/art/alex-cv-nod.png",
+      "width": 2048,
+      "height": 2048,
+      "bounds": [
+        328,
+        325,
+        1690,
+        1845
+      ],
+      "pivotX": 1024,
+      "footY": 1845,
+      "bodyHeight": 1520,
+      "kind": "portrait",
+      "background": "white",
+      "sha256": "129b431d5cc3ef19cb4d6461e47c5f1dbaf8cc31bf082491dc20a2bc45797fc4"
+    }
+  },
+  "ui": {
+    "appTitle": "My app",
+    "appState": "Build failed",
+    "appError": "Login is broken",
+    "assistantNames": {
+      "opus": "Opus 5.5",
+      "astra": "Astra 6",
+      "gemini": "Gemini"
+    },
+    "assistantColors": {
+      "opus": "#bc7657",
+      "astra": "#7d6bba",
+      "gemini": "#4d7de0"
+    },
+    "limit": "Limit reached",
+    "tomorrow": "Back tomorrow",
+    "clockTitle": "Date & Time",
+    "clockLabel": "Set automatically",
+    "clockCurrent": "09:00",
+    "clockFuture": "23:59",
+    "trialTitle": "Create an account",
+    "email": "alex@dev.test",
+    "trialEmail": "alex.again@dev.test",
+    "trialAction": "Start free trial",
+    "recognized": "Welcome back, Alex",
+    "billingTitle": "Subscriptions",
+    "upgradeAction": "Upgrade",
+    "active": "Active",
+    "plans": [
+      "Monthly plan",
+      "Monthly plan",
+      "Monthly plan"
+    ],
+    "comparePrompt": "Compare the plans. Find the best one.",
+    "comparisonTitle": "Plan comparison",
+    "subCount": 3,
+    "timerCount": 6,
+    "dashboardCount": 5,
+    "metrics": [
+      "Subscriptions",
+      "Reset timers",
+      "Billing dashboards"
+    ],
+    "cvName": "ALEX",
+    "cvLabel": "Experience",
+    "cvPrefix": "FULL-STACK",
+    "cvBefore": "DEVELOPER",
+    "cvAfter": "SUBSCRIBER",
+    "ready": "Ready",
+    "today": "Today",
+    "compareRows": [
+      "Messages",
+      "Context",
+      "Reset",
+      "Billing"
+    ],
+    "trialPlaceholder": "you@dev.test",
+    "cvExperience": [
+      "Subscriptions",
+      "Reset timers",
+      "Billing dashboards"
+    ],
+    "appButton": "Sign in",
+    "recognizedShort": "Welcome back"
+  },
+  "audioMaster": "episodes/full-stack-subscriber/mix.wav"
+}

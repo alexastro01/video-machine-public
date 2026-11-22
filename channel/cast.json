@@ -1,0 +1,395 @@
+{
+  "miko": {
+    "name": "Miko",
+    "skin": "#DAA071",
+    "hair": "#26303C",
+    "coat": "#438989",
+    "scarf": "#E87859",
+    "trousers": "#E8DDC0",
+    "shoe": "#27313C",
+    "personality": "Curious, impulsive, expressive. Notices the consequences a beat late.",
+    "pixel": {
+      "atlas": "pixel/miko-rpg-atlas.png",
+      "metadata": "pixel/miko-rpg-atlas.json",
+      "coat": "#348A88",
+      "scarf": "#CB6B70",
+      "trousers": "#24314B",
+      "height": 2.65,
+      "digitalCopy": "Same artwork with cool tint; no separate identity design",
+      "previousAtlas": "pixel/miko-atlas.png",
+      "roles": {
+        "pilot": {
+          "atlas": "pixel/miko-pilot-four-v1.png",
+          "metadata": "pixel/miko-pilot-four-v1.json",
+          "poses": {
+            "seated": 0,
+            "alarmed": 1,
+            "braced": 2,
+            "baffled": 3
+          },
+          "animations": {
+            "cockpit": {
+              "gif": "pixel/animations/miko-pilot-reaction-v2.gif",
+              "atlas": "pixel/animations/miko-pilot-reaction-v2-atlas.png",
+              "metadata": "pixel/animations/miko-pilot-reaction-v2-atlas.json"
+            },
+            "coast": {
+              "gif": "pixel/animations/miko-coast-gif-v1.gif",
+              "atlas": "pixel/animations/miko-coast-gif-v1-atlas.png",
+              "metadata": "pixel/animations/miko-coast-gif-v1-atlas.json"
+            },
+            "tunnel": {
+              "gif": "pixel/animations/miko-tunnel-gif-v1.gif",
+              "atlas": "pixel/animations/miko-tunnel-gif-v1-atlas.png",
+              "metadata": "pixel/animations/miko-tunnel-gif-v1-atlas.json"
+            },
+            "trading": {
+              "gif": "pixel/animations/miko-trading-gif-v1.gif",
+              "atlas": "pixel/animations/miko-trading-gif-v1-atlas.png",
+              "metadata": "pixel/animations/miko-trading-gif-v1-atlas.json"
+            },
+            "throne": {
+              "gif": "pixel/animations/miko-throne-gif-v1.gif",
+              "atlas": "pixel/animations/miko-throne-gif-v1-atlas.png",
+              "metadata": "pixel/animations/miko-throne-gif-v1-atlas.json"
+            }
+          }
+        },
+        "traveler": {
+          "atlas": "pixel/miko-rpg-atlas.png",
+          "metadata": "pixel/miko-rpg-atlas.json",
+          "animations": {
+            "wake": {
+              "gif": "pixel/animations/miko-tudor-wake-gif-v1.gif",
+              "atlas": "pixel/animations/miko-tudor-wake-gif-v1-atlas.png",
+              "metadata": "pixel/animations/miko-tudor-wake-gif-v1-atlas.json"
+            },
+            "shiver": {
+              "gif": "pixel/animations/miko-tudor-shiver-gif-v1.gif",
+              "atlas": "pixel/animations/miko-tudor-shiver-gif-v1-atlas.png",
+              "metadata": "pixel/animations/miko-tudor-shiver-gif-v1-atlas.json"
+            },
+            "strike": {
+              "gif": "pixel/animations/miko-tudor-strike-gif-v1.gif",
+              "atlas": "pixel/animations/miko-tudor-strike-gif-v1-atlas.png",
+              "metadata": "pixel/animations/miko-tudor-strike-gif-v1-atlas.json"
+            }
+          }
+        },
+        "checklist-host": {
+          "poseManifest": "episodes/girlfriend-spy-test/assets/poses-v1.json",
+          "animationManifest": "episodes/girlfriend-spy-test/assets/animations-v1.json",
+          "poses": {
+            "clipboard": "miko-clipboard-talk",
+            "point-to-viewer": "miko-point",
+            "lowered-clipboard": "miko-clipboard-asset",
+            "deadpan": "miko-clipboard-complete"
+          },
+          "animations": {
+            "talk": "miko-talk",
+            "lower-and-speak": "miko-lower",
+            "complete": "miko-complete"
+          },
+          "notes": "Finite native GIFs. Talking mouth, actual pen action, direct finger point and separate deadpan delivery. Use source frame timing and fixed foot baseline."
+        }
+      }
+    }
+  },
+  "nova": {
+    "name": "Nova",
+    "skin": "#925F49",
+    "hair": "#352D39",
+    "coat": "#D6A649",
+    "scarf": "#6F687E",
+    "trousers": "#E8DDC0",
+    "shoe": "#27313C",
+    "personality": "Observant and patient. Often understands the impossible rule before Miko."
+  },
+  "kai": {
+    "name": "Kai",
+    "skin": "#AC7952",
+    "hair": "#453122",
+    "coat": "#B1945D",
+    "scarf": "#B1945D",
+    "trousers": "#293C4F",
+    "shoe": "#E5DABF",
+    "personality": "Relaxed, friendly and habitually moving. Friend of Miko.",
+    "pixel": {
+      "height": 2.25,
+      "role": "restless-friend",
+      "poses": "episodes/restless-friend/art/kai-four",
+      "styleSheet": "output/imagegen/restless-friend-v1/kai-four.png"
+    }
+  },
+  "ada": {
+    "name": "Dr Ada",
+    "skin": "#8F634E",
+    "hair": "#2E3034",
+    "coat": "#E2DECB",
+    "scarf": "#668B8A",
+    "trousers": "#293C4F",
+    "shoe": "#483D32",
+    "personality": "Attentive, thoughtful research scientist.",
+    "pixel": {
+      "height": 2.3,
+      "role": "scientist",
+      "poses": "episodes/restless-friend/art/scientist-four",
+      "styleSheet": "output/imagegen/restless-friend-v1/scientist-four.png"
+    }
+  },
+  "witch": {
+    "name": "Witch",
+    "skin": "#B67B42",
+    "hair": "#283334",
+    "coat": "#5C536F",
+    "scarf": "#5C536F",
+    "trousers": "#2F343E",
+    "shoe": "#293339",
+    "personality": "Mischievous and dryly amused. Lets Miko reach the conclusion before correcting him.",
+    "pixel": {
+      "height": 2.4,
+      "role": "witch",
+      "atlas": "pixel/cast/witch-four-v1.png",
+      "metadata": "pixel/cast/witch-four-v1.json",
+      "poses": {
+        "idle": 0,
+        "cast": 1,
+        "present": 2,
+        "eye-roll": 3
+      },
+      "assetManifest": "episodes/happens-for-a-reason/assets/characters-v1.json",
+      "animations": {
+        "cast": {
+          "atlas": "episodes/happens-for-a-reason/art/witch-cast-atlas.png",
+          "metadata": "episodes/happens-for-a-reason/art/witch-cast-atlas.json"
+        },
+        "eye-roll": {
+          "atlas": "episodes/happens-for-a-reason/art/witch-eye-roll-atlas.png",
+          "metadata": "episodes/happens-for-a-reason/art/witch-eye-roll-atlas.json"
+        }
+      },
+      "preferredReference": "output/imagegen/immortal-film-v2/witch-alert-four.png",
+      "preferredPoseManifest": "episodes/immortal/assets/poses-v2.json",
+      "expressionRule": "Naturally open, alert eyes in neutral held poses; a brief blink is fine."
+    },
+    "recurring": true,
+    "approvalScope": [
+      "character design",
+      "Jessica voice",
+      "reuse in future videos"
+    ]
+  },
+  "bus-girl": {
+    "name": "Bus girl",
+    "skin": "#D5A064",
+    "hair": "#725137",
+    "coat": "#87916B",
+    "scarf": "#E5D9BA",
+    "trousers": "#2C3E53",
+    "shoe": "#E4D4B6",
+    "personality": "Friendly, confident and quietly amused. Meets Miko on the bus.",
+    "pixel": {
+      "height": 2.15,
+      "role": "bus-passenger",
+      "atlas": "pixel/cast/bus-girl-four-v1.png",
+      "metadata": "pixel/cast/bus-girl-four-v1.json",
+      "poses": {
+        "idle": 0,
+        "seated-curious": 1,
+        "seated-smile": 2,
+        "gesture": 3
+      },
+      "assetManifest": "episodes/happens-for-a-reason/assets/characters-v1.json"
+    }
+  },
+  "leather-nerd": {
+    "name": "Nerd",
+    "skin": "#D9B17D",
+    "hair": "#54391F",
+    "coat": "#79543A",
+    "scarf": "#C9BD9B",
+    "trousers": "#2C3C46",
+    "shoe": "#B6B5A4",
+    "personality": "Awkwardly proud AI engineer with an overconfident sense of relief.",
+    "pixel": {
+      "height": 2.27,
+      "role": "girlfriend-spy-test",
+      "poses": "episodes/girlfriend-spy-test/assets/poses-v1.json",
+      "styleSheet": "output/imagegen/girlfriend-spy-test-v1/nerd-four-magenta.png",
+      "outfits": {
+        "default": "brown leather jacket",
+        "ai-work": "navy hoodie"
+      },
+      "animations": {
+        "nerd-talk": {
+          "atlas": "episodes/girlfriend-spy-test/art/nerd-talk-atlas.png",
+          "metadata": "episodes/girlfriend-spy-test/art/nerd-talk-atlas.json",
+          "sourceGif": "output/imagegen/girlfriend-spy-test-v2/nerd-talk/nerd-talk.gif",
+          "provenance": "output/imagegen/girlfriend-spy-test-v2/nerd-talk/nerd-talk.provenance.json",
+          "frameCount": 12,
+          "frameDurationMs": 200,
+          "nativeAnimation": true
+        },
+        "nerd-type": {
+          "atlas": "episodes/girlfriend-spy-test/art/nerd-type-atlas.png",
+          "metadata": "episodes/girlfriend-spy-test/art/nerd-type-atlas.json",
+          "sourceGif": "output/imagegen/girlfriend-spy-test-v2/nerd-type/nerd-type.gif",
+          "provenance": "output/imagegen/girlfriend-spy-test-v2/nerd-type/nerd-type.provenance.json",
+          "frameCount": 12,
+          "frameDurationMs": 100,
+          "nativeAnimation": true
+        }
+      }
+    }
+  },
+  "girlfriend": {
+    "name": "Girlfriend",
+    "skin": "#E4B889",
+    "hair": "#2C2C33",
+    "coat": "#44454B",
+    "scarf": "#B9B9A1",
+    "trousers": "#9B9F8A",
+    "shoe": "#32343A",
+    "personality": "Confident, charming and suddenly very interested in the graphics card.",
+    "pixel": {
+      "height": 2.38,
+      "role": "girlfriend-spy-test",
+      "poses": "episodes/girlfriend-spy-test/assets/poses-v1.json",
+      "styleSheet": "output/imagegen/girlfriend-spy-test-v1/girlfriend-four-magenta.png"
+    }
+  },
+  "marcus": {
+    "name": "Marcus",
+    "skin": "#D2AA73",
+    "hair": "#58402B",
+    "coat": "#6C7356",
+    "scarf": "#C6B38B",
+    "trousers": "#343A40",
+    "shoe": "#6D4D34",
+    "personality": "Warm, practical and amused by Norbert. His ageing makes their different lives visible.",
+    "pixel": {
+      "height": 2.8,
+      "role": "immortal-farmer",
+      "poseManifest": "episodes/immortal/assets/poses-v1.json",
+      "styleSheet": "output/imagegen/immortal-sample-v1/marcus-young-four.png"
+    }
+  },
+  "anna": {
+    "name": "Anna",
+    "role": "Norbert's Amsterdam friend in1650",
+    "skin": "#b9815c",
+    "hair": "#69472e",
+    "coat": "#7b7651",
+    "shirt": "#d6c5a1",
+    "scarf": "#a98b51",
+    "trousers": "#34545d",
+    "shoe": "#654a34",
+    "pixel": {
+      "styleSheet": "output/imagegen/immortal-film-v2/anna-four.png",
+      "poseManifest": "episodes/immortal/assets/poses-v2.json"
+    }
+  },
+  "gate-kid": {
+    "name": "Gate kid",
+    "role": "The nine-year-old who invites Norbert to play",
+    "skin": "#d3a26e",
+    "hair": "#9c733d",
+    "coat": "#b69a53",
+    "shirt": "#d9c6a1",
+    "scarf": "#54777e",
+    "trousers": "#344c61",
+    "shoe": "#738d8d",
+    "pixel": {
+      "styleSheet": "output/imagegen/immortal-film-v2/gate-kid-four.png",
+      "poseManifest": "episodes/immortal/assets/poses-v2.json"
+    }
+  },
+  "cashier": {
+    "name": "Corner-shop cashier",
+    "skin": "#d5a56e",
+    "hair": "#6c3f35",
+    "coat": "#798064",
+    "shirt": "#ded6b7",
+    "scarf": "#798064",
+    "trousers": "#394453",
+    "shoe": "#493a30",
+    "personality": "Friendly and direct, with round glasses and an unmistakably lopsided haircut.",
+    "pixel": {
+      "height": 2.35,
+      "role": "corner-shop-cashier",
+      "poses": "episodes/paid-for-lying/assets/poses.json",
+      "styleSheet": "output/imagegen/paid-for-lying-v1/cashier-four-magenta.png"
+    }
+  },
+  "billionaire": {
+    "name": "Billionaire body",
+    "skin": "#d4a16b",
+    "hair": "#544b42",
+    "coat": "#354450",
+    "scarf": "#be3426",
+    "trousers": "#36404b",
+    "shoe": "#2a3439",
+    "personality": "Self-assured before the swap; the viewer in this body becomes surprised, indignant and anxious.",
+    "pixel": {
+      "styleSheet": "output/imagegen/billionaire-swap-v1/rich-four-magenta.png",
+      "poses": "episodes/billionaire-body-swap/assets/poses.json",
+      "height": 2.55
+    }
+  },
+  "mum": {
+    "name": "Miko's mum",
+    "skin": "#d6ac78",
+    "hair": "#6b513a",
+    "coat": "#7c805a",
+    "scarf": "#7c805a",
+    "trousers": "#34595d",
+    "shoe": "#78766a",
+    "personality": "Warm and practical, politely cautious with an unfamiliar visitor.",
+    "pixel": {
+      "styleSheet": "output/imagegen/billionaire-swap-v1/mum-four-magenta.png",
+      "poses": "episodes/billionaire-body-swap/assets/poses.json",
+      "height": 2.35
+    }
+  },
+  "mia": {
+    "name": "Mia",
+    "skin": "#E8B87C",
+    "hair": "#79552F",
+    "coat": "#81916C",
+    "scarf": "#81916C",
+    "trousers": "#3B5270",
+    "shoe": "#E6DFCF",
+    "personality": "Warm, casual and direct. Her candid reply gives Miko room to stop pretending.",
+    "assetGuide": "episodes/ok-message-motion/assets/mia.json"
+  },
+  "teacher": {
+    "name": "Maths teacher",
+    "skin": "#DEA875",
+    "hair": "#6E3F30",
+    "coat": "#7D8862",
+    "scarf": "#7D8862",
+    "trousers": "#30383E",
+    "shoe": "#5E4234",
+    "personality": "Dry, practical and unimpressed by status.",
+    "pixel": {
+      "styleSheet": "output/imagegen/billionaire-swap-3/teacher-four.png",
+      "poses": "episodes/billionaire-body-swap-3/assets/poses.json",
+      "height": 2.35
+    }
+  },
+  "assistant": {
+    "name": "Executive assistant",
+    "skin": "#D9AB73",
+    "hair": "#2E2A26",
+    "coat": "#B99857",
+    "scarf": "#B99857",
+    "trousers": "#30383E",
+    "shoe": "#5E4234",
+    "personality": "Calm and capable; expects an answer from the person in charge.",
+    "pixel": {
+      "styleSheet": "output/imagegen/billionaire-swap-3/assistant-four.png",
+      "poses": "episodes/billionaire-body-swap-3/assets/poses.json",
+      "height": 2.35
+    }
+  }
+}

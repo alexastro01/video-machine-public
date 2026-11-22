@@ -1,0 +1,40 @@
+{
+  "title": "Inbox.png",
+  "premise": "Opus speeds up Alex's inbox by shipping a screenshot. Gemini tries the trash button and Astra drags the entire inbox by one email.",
+  "fps": 60,
+  "ui": {
+    "title": "Inbox", "timerLabel": "Loading inbox", "secondsAtOpen": 7.96,
+    "unread": "1 unread", "sender": "Prize Dept.", "subject": "You won a printer!", "trash": "Trash",
+    "lightFile": "inbox.png", "darkFile": "inbox-dark.png"
+  },
+  "lines": [
+    {"id":"wait","speaker":"alex","text":"Eight seconds and my inbox is still loading?","sourceWindow":[0.01,2.70],"afterPause":0.08,"shot":"Alex watches the elapsed time tick past eight seconds. Opus stands beside him."},
+    {"id":"now","speaker":"opus","text":"Try it now.","sourceWindow":[0.005,0.91],"afterPause":0.13,"shot":"Opus opens the inbox. The waiting screen gives way to one unread message."},
+    {"id":"delete","speaker":"alex","text":"Whoa. Gemini, delete that spam.","sourceWindow":[3.02,5.61],"afterPause":0.08,"shot":"Alex lowers his coffee. Gemini gets a single email and a trash button."},
+    {"id":"clicks","speaker":"gemini","text":"I've clicked the trash three times.","sourceWindow":[0.01,2.59],"afterPause":0.10,"shot":"Three distinct clicks land on Trash. The unread count stays at one."},
+    {"id":"drag","speaker":"alex","text":"Astra, try dragging the email.","sourceWindow":[6.01,8.06],"afterPause":0.07,"shot":"Astra picks up the message by its subject and pulls toward the bin."},
+    {"id":"bin","speaker":"astra","text":"Why is the trash coming with it?","sourceWindow":[0.01,2.07],"afterPause":0.13,"shot":"The entire inbox tilts off a checkerboard. Its trash button is stuck to the same sheet as the email."},
+    {"id":"file","speaker":"alex","text":"Opus. Is my inbox a screenshot?","sourceWindow":[8.47,10.94],"afterPause":0.12,"shot":"Alex follows the loose image. Its filename appears as he says screenshot."},
+    {"id":"dark","speaker":"opus","text":"I made a dark one too.","sourceWindow":[1.07,2.86],"afterPause":0.25,"shot":"Opus produces a second image. The same spam and bin appear in dark mode."}
+  ],
+  "cues": {
+    "loaded":["now","now",0], "geminiIn":["delete","Gemini",-0.12],
+    "click1":["delete","spam",0.04], "click2":["clicks","clicked",0.04], "click3":["clicks","three",0.025],
+    "astraIn":["drag","Astra",-0.12], "approach":["drag","dragging",-0.12], "grab":["drag","email",0.015],
+    "pulled":["bin","trash",0.12], "tug":["bin","coming",0.20], "release":["bin","it",0.12],
+    "opusBack":["file","Opus",-0.11], "fileName":["file","screenshot",0], "darkMode":["dark","dark",0]
+  },
+  "music": {"source":"public/episodes/profile-checks/music-takes-v3/take-3.mp3","rms":0.018},
+  "foley": [
+    {"at":"loaded","sound":"pop","peak":0.067,"length":0.17},
+    {"at":"click1","sound":"tap","peak":0.095,"length":0.12},
+    {"at":"click2","sound":"tap","peak":0.083,"length":0.12},
+    {"at":"click3","sound":"tap","peak":0.102,"length":0.12},
+    {"at":"grab","sound":"tap","peak":0.071,"length":0.11},
+    {"at":"grab","offset":0.11,"sound":"swipe","peak":0.060,"length":0.32},
+    {"at":"tug","sound":"swipe","peak":0.032,"length":0.16},
+    {"at":"release","sound":"pop","peak":0.058,"length":0.15},
+    {"at":"fileName","sound":"tap","peak":0.044,"length":0.1},
+    {"at":"darkMode","sound":"swipe","peak":0.049,"length":0.32}
+  ]
+}

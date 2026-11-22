@@ -1,0 +1,488 @@
+{
+  "typing": {
+    "file": "episodes/start-the-task/art/miko-typing-v1-atlas.png",
+    "metadata": {
+      "nativeModelMotion": true,
+      "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis.",
+      "source": "miko-typing-v1.gif",
+      "width": 2048,
+      "height": 1536,
+      "columns": 4,
+      "rows": 3,
+      "cellWidth": 512,
+      "cellHeight": 512,
+      "frameCount": 12,
+      "frameDurationMs": 100,
+      "durationSeconds": 1.2,
+      "crop": {
+        "x": 99,
+        "y": 19,
+        "width": 298,
+        "height": 474
+      },
+      "cells": [
+        {
+          "frame": 0,
+          "originX": 0,
+          "originY": 0,
+          "left": 103,
+          "top": 24,
+          "right": 392,
+          "bottom": 488,
+          "pixels": 80392,
+          "durationMs": 100
+        },
+        {
+          "frame": 1,
+          "originX": 512,
+          "originY": 0,
+          "left": 103,
+          "top": 24,
+          "right": 392,
+          "bottom": 488,
+          "pixels": 80344,
+          "durationMs": 100
+        },
+        {
+          "frame": 2,
+          "originX": 1024,
+          "originY": 0,
+          "left": 103,
+          "top": 24,
+          "right": 392,
+          "bottom": 488,
+          "pixels": 80264,
+          "durationMs": 100
+        },
+        {
+          "frame": 3,
+          "originX": 1536,
+          "originY": 0,
+          "left": 103,
+          "top": 24,
+          "right": 392,
+          "bottom": 488,
+          "pixels": 80336,
+          "durationMs": 100
+        },
+        {
+          "frame": 4,
+          "originX": 0,
+          "originY": 512,
+          "left": 103,
+          "top": 24,
+          "right": 392,
+          "bottom": 487,
+          "pixels": 80231,
+          "durationMs": 100
+        },
+        {
+          "frame": 5,
+          "originX": 512,
+          "originY": 512,
+          "left": 103,
+          "top": 24,
+          "right": 392,
+          "bottom": 487,
+          "pixels": 80174,
+          "durationMs": 100
+        },
+        {
+          "frame": 6,
+          "originX": 1024,
+          "originY": 512,
+          "left": 103,
+          "top": 23,
+          "right": 392,
+          "bottom": 487,
+          "pixels": 80085,
+          "durationMs": 100
+        },
+        {
+          "frame": 7,
+          "originX": 1536,
+          "originY": 512,
+          "left": 103,
+          "top": 24,
+          "right": 392,
+          "bottom": 487,
+          "pixels": 80225,
+          "durationMs": 100
+        },
+        {
+          "frame": 8,
+          "originX": 0,
+          "originY": 1024,
+          "left": 103,
+          "top": 24,
+          "right": 392,
+          "bottom": 487,
+          "pixels": 80237,
+          "durationMs": 100
+        },
+        {
+          "frame": 9,
+          "originX": 512,
+          "originY": 1024,
+          "left": 103,
+          "top": 24,
+          "right": 391,
+          "bottom": 487,
+          "pixels": 80256,
+          "durationMs": 100
+        },
+        {
+          "frame": 10,
+          "originX": 1024,
+          "originY": 1024,
+          "left": 103,
+          "top": 23,
+          "right": 392,
+          "bottom": 487,
+          "pixels": 80324,
+          "durationMs": 100
+        },
+        {
+          "frame": 11,
+          "originX": 1536,
+          "originY": 1024,
+          "left": 103,
+          "top": 23,
+          "right": 392,
+          "bottom": 487,
+          "pixels": 80370,
+          "durationMs": 100
+        }
+      ],
+      "clipping": [],
+      "minimumTopMargin": 23,
+      "minimumBottomMargin": 23
+    },
+    "source": "output/imagegen/start-the-task/typing/miko-typing-v1.gif",
+    "sha256": "22099fe9bdffaec9195f04a0a7417764e041d65d2c7bbb8d0a351240f201653d"
+  },
+  "coffee": {
+    "file": "episodes/start-the-task/art/miko-coffee-v1-atlas.png",
+    "metadata": {
+      "nativeModelMotion": true,
+      "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis.",
+      "source": "miko-coffee-v1.gif",
+      "width": 2048,
+      "height": 1536,
+      "columns": 4,
+      "rows": 3,
+      "cellWidth": 512,
+      "cellHeight": 512,
+      "frameCount": 12,
+      "frameDurationMs": 100,
+      "durationSeconds": 1.2,
+      "crop": {
+        "x": 132,
+        "y": 8,
+        "width": 254,
+        "height": 497
+      },
+      "cells": [
+        {
+          "frame": 0,
+          "originX": 0,
+          "originY": 0,
+          "left": 136,
+          "top": 14,
+          "right": 381,
+          "bottom": 500,
+          "pixels": 61120,
+          "durationMs": 100
+        },
+        {
+          "frame": 1,
+          "originX": 512,
+          "originY": 0,
+          "left": 136,
+          "top": 14,
+          "right": 380,
+          "bottom": 500,
+          "pixels": 61211,
+          "durationMs": 100
+        },
+        {
+          "frame": 2,
+          "originX": 1024,
+          "originY": 0,
+          "left": 142,
+          "top": 14,
+          "right": 381,
+          "bottom": 500,
+          "pixels": 61483,
+          "durationMs": 100
+        },
+        {
+          "frame": 3,
+          "originX": 1536,
+          "originY": 0,
+          "left": 147,
+          "top": 14,
+          "right": 380,
+          "bottom": 500,
+          "pixels": 61285,
+          "durationMs": 100
+        },
+        {
+          "frame": 4,
+          "originX": 0,
+          "originY": 512,
+          "left": 147,
+          "top": 13,
+          "right": 381,
+          "bottom": 498,
+          "pixels": 61138,
+          "durationMs": 100
+        },
+        {
+          "frame": 5,
+          "originX": 512,
+          "originY": 512,
+          "left": 147,
+          "top": 12,
+          "right": 380,
+          "bottom": 498,
+          "pixels": 60814,
+          "durationMs": 100
+        },
+        {
+          "frame": 6,
+          "originX": 1024,
+          "originY": 512,
+          "left": 147,
+          "top": 13,
+          "right": 381,
+          "bottom": 498,
+          "pixels": 61054,
+          "durationMs": 100
+        },
+        {
+          "frame": 7,
+          "originX": 1536,
+          "originY": 512,
+          "left": 143,
+          "top": 13,
+          "right": 380,
+          "bottom": 498,
+          "pixels": 61068,
+          "durationMs": 100
+        },
+        {
+          "frame": 8,
+          "originX": 0,
+          "originY": 1024,
+          "left": 136,
+          "top": 13,
+          "right": 381,
+          "bottom": 499,
+          "pixels": 61313,
+          "durationMs": 100
+        },
+        {
+          "frame": 9,
+          "originX": 512,
+          "originY": 1024,
+          "left": 136,
+          "top": 13,
+          "right": 380,
+          "bottom": 499,
+          "pixels": 60873,
+          "durationMs": 100
+        },
+        {
+          "frame": 10,
+          "originX": 1024,
+          "originY": 1024,
+          "left": 136,
+          "top": 13,
+          "right": 381,
+          "bottom": 499,
+          "pixels": 60860,
+          "durationMs": 100
+        },
+        {
+          "frame": 11,
+          "originX": 1536,
+          "originY": 1024,
+          "left": 136,
+          "top": 13,
+          "right": 380,
+          "bottom": 499,
+          "pixels": 60850,
+          "durationMs": 100
+        }
+      ],
+      "clipping": [],
+      "minimumTopMargin": 12,
+      "minimumBottomMargin": 11
+    },
+    "source": "output/imagegen/start-the-task/coffee/miko-coffee-v1.gif",
+    "sha256": "2be3837846eb25f6d6432ec3b9d1fb80fcda2436bf4fb46c7f9cc52c2d6d03ae"
+  },
+  "facepalm": {
+    "file": "episodes/start-the-task/art/miko-facepalm-v1-atlas.png",
+    "metadata": {
+      "nativeModelMotion": true,
+      "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis.",
+      "source": "miko-facepalm-v1.gif",
+      "width": 2048,
+      "height": 1536,
+      "columns": 4,
+      "rows": 3,
+      "cellWidth": 512,
+      "cellHeight": 512,
+      "frameCount": 12,
+      "frameDurationMs": 100,
+      "durationSeconds": 1.2,
+      "crop": {
+        "x": 146,
+        "y": 18,
+        "width": 226,
+        "height": 484
+      },
+      "cells": [
+        {
+          "frame": 0,
+          "originX": 0,
+          "originY": 0,
+          "left": 151,
+          "top": 22,
+          "right": 367,
+          "bottom": 497,
+          "pixels": 54901,
+          "durationMs": 100
+        },
+        {
+          "frame": 1,
+          "originX": 512,
+          "originY": 0,
+          "left": 150,
+          "top": 24,
+          "right": 366,
+          "bottom": 497,
+          "pixels": 54499,
+          "durationMs": 100
+        },
+        {
+          "frame": 2,
+          "originX": 1024,
+          "originY": 0,
+          "left": 150,
+          "top": 24,
+          "right": 366,
+          "bottom": 497,
+          "pixels": 54514,
+          "durationMs": 100
+        },
+        {
+          "frame": 3,
+          "originX": 1536,
+          "originY": 0,
+          "left": 151,
+          "top": 25,
+          "right": 366,
+          "bottom": 497,
+          "pixels": 54378,
+          "durationMs": 100
+        },
+        {
+          "frame": 4,
+          "originX": 0,
+          "originY": 512,
+          "left": 151,
+          "top": 25,
+          "right": 367,
+          "bottom": 496,
+          "pixels": 54497,
+          "durationMs": 100
+        },
+        {
+          "frame": 5,
+          "originX": 512,
+          "originY": 512,
+          "left": 150,
+          "top": 25,
+          "right": 366,
+          "bottom": 496,
+          "pixels": 54604,
+          "durationMs": 100
+        },
+        {
+          "frame": 6,
+          "originX": 1024,
+          "originY": 512,
+          "left": 150,
+          "top": 25,
+          "right": 366,
+          "bottom": 497,
+          "pixels": 53757,
+          "durationMs": 100
+        },
+        {
+          "frame": 7,
+          "originX": 1536,
+          "originY": 512,
+          "left": 151,
+          "top": 26,
+          "right": 366,
+          "bottom": 496,
+          "pixels": 55404,
+          "durationMs": 100
+        },
+        {
+          "frame": 8,
+          "originX": 0,
+          "originY": 1024,
+          "left": 151,
+          "top": 27,
+          "right": 367,
+          "bottom": 496,
+          "pixels": 54687,
+          "durationMs": 100
+        },
+        {
+          "frame": 9,
+          "originX": 512,
+          "originY": 1024,
+          "left": 150,
+          "top": 27,
+          "right": 366,
+          "bottom": 496,
+          "pixels": 54258,
+          "durationMs": 100
+        },
+        {
+          "frame": 10,
+          "originX": 1024,
+          "originY": 1024,
+          "left": 150,
+          "top": 27,
+          "right": 366,
+          "bottom": 496,
+          "pixels": 54266,
+          "durationMs": 100
+        },
+        {
+          "frame": 11,
+          "originX": 1536,
+          "originY": 1024,
+          "left": 151,
+          "top": 27,
+          "right": 366,
+          "bottom": 496,
+          "pixels": 54124,
+          "durationMs": 100
+        }
+      ],
+      "clipping": [],
+      "minimumTopMargin": 22,
+      "minimumBottomMargin": 14
+    },
+    "source": "output/imagegen/start-the-task/facepalm/miko-facepalm-v1.gif",
+    "sha256": "02a0688b68357a3bbd9109e8df921848e3d2211e0cf71c07799a267213720a05"
+  }
+}

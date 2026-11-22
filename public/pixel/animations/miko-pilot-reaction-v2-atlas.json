@@ -1,0 +1,157 @@
+{
+  "nativeModelMotion": true,
+  "processing": "Decoded native GIF; removed green matte and spill; no interpolation or motion synthesis.",
+  "source": "miko-pilot-reaction-v2.gif",
+  "width": 2048,
+  "height": 1536,
+  "columns": 4,
+  "rows": 3,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "frameCount": 12,
+  "frameDurationMs": 100,
+  "durationSeconds": 1.2,
+  "crop": {
+    "x": 131,
+    "y": 46,
+    "width": 277,
+    "height": 388
+  },
+  "cells": [
+    {
+      "frame": 0,
+      "originX": 0,
+      "originY": 0,
+      "left": 135,
+      "top": 60,
+      "right": 372,
+      "bottom": 429,
+      "pixels": 63014,
+      "durationMs": 100
+    },
+    {
+      "frame": 1,
+      "originX": 512,
+      "originY": 0,
+      "left": 135,
+      "top": 60,
+      "right": 372,
+      "bottom": 429,
+      "pixels": 62862,
+      "durationMs": 100
+    },
+    {
+      "frame": 2,
+      "originX": 1024,
+      "originY": 0,
+      "left": 135,
+      "top": 60,
+      "right": 372,
+      "bottom": 429,
+      "pixels": 62868,
+      "durationMs": 100
+    },
+    {
+      "frame": 3,
+      "originX": 1536,
+      "originY": 0,
+      "left": 136,
+      "top": 60,
+      "right": 372,
+      "bottom": 429,
+      "pixels": 62791,
+      "durationMs": 100
+    },
+    {
+      "frame": 4,
+      "originX": 0,
+      "originY": 512,
+      "left": 135,
+      "top": 60,
+      "right": 372,
+      "bottom": 428,
+      "pixels": 62878,
+      "durationMs": 100
+    },
+    {
+      "frame": 5,
+      "originX": 512,
+      "originY": 512,
+      "left": 135,
+      "top": 55,
+      "right": 373,
+      "bottom": 428,
+      "pixels": 63593,
+      "durationMs": 100
+    },
+    {
+      "frame": 6,
+      "originX": 1024,
+      "originY": 512,
+      "left": 141,
+      "top": 51,
+      "right": 396,
+      "bottom": 428,
+      "pixels": 66384,
+      "durationMs": 100
+    },
+    {
+      "frame": 7,
+      "originX": 1536,
+      "originY": 512,
+      "left": 141,
+      "top": 52,
+      "right": 403,
+      "bottom": 428,
+      "pixels": 67576,
+      "durationMs": 100
+    },
+    {
+      "frame": 8,
+      "originX": 0,
+      "originY": 1024,
+      "left": 140,
+      "top": 50,
+      "right": 397,
+      "bottom": 428,
+      "pixels": 66806,
+      "durationMs": 100
+    },
+    {
+      "frame": 9,
+      "originX": 512,
+      "originY": 1024,
+      "left": 135,
+      "top": 59,
+      "right": 380,
+      "bottom": 428,
+      "pixels": 63414,
+      "durationMs": 100
+    },
+    {
+      "frame": 10,
+      "originX": 1024,
+      "originY": 1024,
+      "left": 135,
+      "top": 59,
+      "right": 372,
+      "bottom": 428,
+      "pixels": 62946,
+      "durationMs": 100
+    },
+    {
+      "frame": 11,
+      "originX": 1536,
+      "originY": 1024,
+      "left": 136,
+      "top": 59,
+      "right": 372,
+      "bottom": 428,
+      "pixels": 62924,
+      "durationMs": 100
+    }
+  ],
+  "clipping": [],
+  "minimumTopMargin": 50,
+  "minimumBottomMargin": 82
+}

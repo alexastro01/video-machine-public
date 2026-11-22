@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "start-task",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "start-the-task",
+  "title": "How to Start the Thing You Keep Avoiding",
+  "number": 25,
+  "shadowLeadSeconds": 0,
+  "premise": "How to Start the Thing You Keep Avoiding",
+  "fiction": false,
+  "duration": 20.333333333333332,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "miko"
+  ],
+  "audio": {
+    "narration": "episodes/start-the-task/narration.wav",
+    "music": "episodes/start-the-task/music.wav",
+    "effects": "episodes/start-the-task/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 1.0038750000000007,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0,
+      "duration": 3.189458333333333,
+      "set": "study-desk",
+      "action": "reveal",
+      "anchor": "Three coffees. Still zero words?",
+      "label": "hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "change",
+      "start": 3.189458333333333,
+      "duration": 3.640000000000001,
+      "set": "study-graphics",
+      "action": "reveal",
+      "anchor": "Change 'finish the project' to 'open the file.'",
+      "label": "change",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "write",
+      "start": 6.829458333333334,
+      "duration": 2.139999999999998,
+      "set": "study-graphics",
+      "action": "reveal",
+      "anchor": "Write one bad sentence.",
+      "label": "write",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "research",
+      "start": 8.969458333333332,
+      "duration": 4.98,
+      "set": "study-graphics",
+      "action": "reveal",
+      "anchor": "In experiments, people delayed tasks less when they thought about them concretely.",
+      "label": "research",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "next",
+      "start": 13.949458333333332,
+      "duration": 2.3590000000000018,
+      "set": "study-graphics",
+      "action": "reveal",
+      "anchor": "Now pick one action you can do.",
+      "label": "next",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "done",
+      "start": 16.308458333333334,
+      "duration": 1.7809999999999988,
+      "set": "study-desk",
+      "action": "reveal",
+      "anchor": "There. You started.",
+      "label": "done",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "coffee",
+      "start": 18.089458333333333,
+      "duration": 2.243874999999999,
+      "set": "study-desk",
+      "action": "reveal",
+      "anchor": "The coffee was optional.",
+      "label": "coffee",
+      "timeOfDay": "evening"
+    }
+  ]
+}

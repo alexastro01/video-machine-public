@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "id": "alex-astro-instagram-algorithm-rpg",
+  "project": "alex-astro",
+  "renderer": "remotion",
+  "world": "instagram-rpg",
+  "title": "How Does the Instagram Algorithm ACTUALLY Work?",
+  "premise": "Alex and his party meet five ranking monsters at the Reels crossroads.",
+  "fiction": false,
+  "duration": 12.45,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus",
+    "astra",
+    "gemini"
+  ],
+  "scenes": [
+    {
+      "id": "boss",
+      "action": "reveal",
+      "label": "Alex reads twelve views",
+      "set": "ruin-road",
+      "anchor": "Twelve views",
+      "start": 0.0,
+      "duration": 2.65
+    },
+    {
+      "id": "family",
+      "action": "split-boss",
+      "label": "Opus faces the boss and it splits",
+      "set": "ruin-road",
+      "anchor": "Wrong",
+      "start": 2.65,
+      "duration": 3.05
+    },
+    {
+      "id": "crossroads",
+      "action": "scatter",
+      "label": "The five monsters take their roads",
+      "set": "ruin-road",
+      "anchor": "Feed, Stories",
+      "start": 5.7,
+      "duration": 3.716666666666667
+    },
+    {
+      "id": "reels-road",
+      "action": "step",
+      "label": "The party follows Reels north",
+      "set": "ruin-road",
+      "anchor": "Your Reel",
+      "start": 9.416666666666666,
+      "duration": 3.033333333333333
+    }
+  ],
+  "audio": {
+    "narration": "episodes/alex-astro-instagram-algorithm-rpg/narration.wav",
+    "music": "episodes/alex-astro-instagram-algorithm-rpg/silence.wav",
+    "effects": "episodes/alex-astro-instagram-algorithm-rpg/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0
+  }
+}

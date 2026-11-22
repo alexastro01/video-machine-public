@@ -1,0 +1,163 @@
+[
+  {
+    "text": "Three coffees.",
+    "startMs": 89,
+    "endMs": 1069,
+    "timestampMs": 89,
+    "confidence": null
+  },
+  {
+    "text": "Still zero",
+    "startMs": 1669,
+    "endMs": 2189,
+    "timestampMs": 1669,
+    "confidence": null
+  },
+  {
+    "text": "words?",
+    "startMs": 2289,
+    "endMs": 2649,
+    "timestampMs": 2289,
+    "confidence": null
+  },
+  {
+    "text": "Change finish",
+    "startMs": 3189,
+    "endMs": 4089,
+    "timestampMs": 3189,
+    "confidence": null
+  },
+  {
+    "text": "the project",
+    "startMs": 4129,
+    "endMs": 4829,
+    "timestampMs": 4129,
+    "confidence": null
+  },
+  {
+    "text": "to open",
+    "startMs": 5049,
+    "endMs": 5789,
+    "timestampMs": 5049,
+    "confidence": null
+  },
+  {
+    "text": "the file.",
+    "startMs": 5829,
+    "endMs": 6369,
+    "timestampMs": 5829,
+    "confidence": null
+  },
+  {
+    "text": "Write one",
+    "startMs": 6829,
+    "endMs": 7529,
+    "timestampMs": 6829,
+    "confidence": null
+  },
+  {
+    "text": "bad sentence.",
+    "startMs": 7649,
+    "endMs": 8509,
+    "timestampMs": 7649,
+    "confidence": null
+  },
+  {
+    "text": "In experiments,",
+    "startMs": 8969,
+    "endMs": 9869,
+    "timestampMs": 8969,
+    "confidence": null
+  },
+  {
+    "text": "people delayed",
+    "startMs": 10109,
+    "endMs": 10789,
+    "timestampMs": 10109,
+    "confidence": null
+  },
+  {
+    "text": "tasks less",
+    "startMs": 10849,
+    "endMs": 11709,
+    "timestampMs": 10849,
+    "confidence": null
+  },
+  {
+    "text": "when they",
+    "startMs": 11789,
+    "endMs": 12089,
+    "timestampMs": 11789,
+    "confidence": null
+  },
+  {
+    "text": "thought about",
+    "startMs": 12129,
+    "endMs": 12589,
+    "timestampMs": 12129,
+    "confidence": null
+  },
+  {
+    "text": "them concretely.",
+    "startMs": 12629,
+    "endMs": 13509,
+    "timestampMs": 12629,
+    "confidence": null
+  },
+  {
+    "text": "Now pick",
+    "startMs": 13949,
+    "endMs": 14329,
+    "timestampMs": 13949,
+    "confidence": null
+  },
+  {
+    "text": "one action",
+    "startMs": 14509,
+    "endMs": 15249,
+    "timestampMs": 14509,
+    "confidence": null
+  },
+  {
+    "text": "you can",
+    "startMs": 15309,
+    "endMs": 15529,
+    "timestampMs": 15309,
+    "confidence": null
+  },
+  {
+    "text": "do.",
+    "startMs": 15629,
+    "endMs": 15869,
+    "timestampMs": 15629,
+    "confidence": null
+  },
+  {
+    "text": "There. You",
+    "startMs": 16308,
+    "endMs": 17109,
+    "timestampMs": 16308,
+    "confidence": null
+  },
+  {
+    "text": "started.",
+    "startMs": 17189,
+    "endMs": 17609,
+    "timestampMs": 17189,
+    "confidence": null
+  },
+  {
+    "text": "The coffee",
+    "startMs": 18089,
+    "endMs": 18649,
+    "timestampMs": 18089,
+    "confidence": null
+  },
+  {
+    "text": "was optional.",
+    "startMs": 18709,
+    "endMs": 19329,
+    "timestampMs": 18709,
+    "confidence": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "One word.",
+    "startMs": 0,
+    "endMs": 1000,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "And suddenly",
+    "startMs": 1000,
+    "endMs": 2120,
+    "timestampMs": 1000,
+    "confidence": null
+  },
+  {
+    "text": "you think",
+    "startMs": 2120,
+    "endMs": 2580,
+    "timestampMs": 2120,
+    "confidence": null
+  },
+  {
+    "text": "the relationship",
+    "startMs": 2580,
+    "endMs": 3200,
+    "timestampMs": 2580,
+    "confidence": null
+  },
+  {
+    "text": "is over.",
+    "startMs": 3200,
+    "endMs": 3780,
+    "timestampMs": 3200,
+    "confidence": null
+  },
+  {
+    "text": "OK.",
+    "startMs": 6080,
+    "endMs": 7140,
+    "timestampMs": 6080,
+    "confidence": null
+  }
+]

@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "subscriber",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "full-stack-subscriber",
+  "title": "Full-Stack Subscriber",
+  "number": 30,
+  "shadowLeadSeconds": 0,
+  "premise": "Full-Stack Subscriber",
+  "fiction": true,
+  "duration": 37.833333333333336,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus",
+    "astra",
+    "gemini"
+  ],
+  "audio": {
+    "narration": "episodes/full-stack-subscriber/narration.wav",
+    "music": "episodes/full-stack-subscriber/music.wav",
+    "effects": "episodes/full-stack-subscriber/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 2.8076043333333374,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "ask_opus",
+      "start": 0,
+      "duration": 1.4488958333333335,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Opus, fix my login.",
+      "label": "ask_opus",
+      "description": "Open mid-click on the broken app and Opus, with the first reply already approaching.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "limit_opus",
+      "start": 1.4488958333333335,
+      "duration": 1.3442708333333335,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Limit reached.",
+      "label": "limit_opus",
+      "description": "Opus allowance drains and the limit card makes the first obstacle visible.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "ask_astra",
+      "start": 2.793166666666667,
+      "duration": 0.637375,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Astra?",
+      "label": "ask_astra",
+      "description": "The active tab and assistant window switch to Astra.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "limit_astra",
+      "start": 3.430541666666667,
+      "duration": 0.9607916666666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Tomorrow.",
+      "label": "limit_astra",
+      "description": "Astra gets a tomorrow reset label and an empty allowance.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "ask_gemini",
+      "start": 4.391333333333334,
+      "duration": 0.6390000000000002,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Gemini?",
+      "label": "ask_gemini",
+      "description": "Switch immediately to Gemini as the third attempted escape.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "limit_gemini",
+      "start": 5.030333333333334,
+      "duration": 0.911083333333333,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Same.",
+      "label": "limit_gemini",
+      "description": "Gemini joins the exhausted allowances; the app is still broken.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "clock",
+      "start": 5.941416666666667,
+      "duration": 1.8892916666666668,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Fine. I'll change the clock.",
+      "label": "clock",
+      "description": "The date-and-time card opens and the digital clock jumps forward.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "clock_reply",
+      "start": 7.830708333333334,
+      "duration": 2.339083333333333,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "That isn't how tomorrow works.",
+      "label": "clock_reply",
+      "description": "The reset is still tomorrow; Astra rejects the clock trick.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "trial",
+      "start": 10.169791666666667,
+      "duration": 1.9993958333333328,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "New email. Free trial.",
+      "label": "trial",
+      "description": "A new email address types into a free-trial form.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "recognize",
+      "start": 12.1691875,
+      "duration": 2.0135208333333328,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Hi, Alex. Again.",
+      "label": "recognize",
+      "description": "The submit action becomes a welcome-back card with Alex recognized.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "upgrade",
+      "start": 14.182708333333332,
+      "duration": 2.298,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Fine. Upgrade all three.",
+      "label": "upgrade",
+      "description": "Three assistant subscriptions fan out; each payment lands with a click and cash cue.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "paid",
+      "start": 16.480708333333332,
+      "duration": 1.2699999999999996,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Done!",
+      "label": "paid",
+      "description": "Green active states restore the allowances briefly.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "compare",
+      "start": 17.750708333333332,
+      "duration": 2.2062083333333327,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Compare the plans. Find the best one.",
+      "label": "compare",
+      "description": "The subscriptions become a plan-comparison table while the restored allowance drains.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "limit_again",
+      "start": 19.956916666666665,
+      "duration": 2.709812499999998,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "You've used your new allowance comparing the plans.",
+      "label": "limit_again",
+      "description": "The new allowance is exhausted on the comparison; all three limits return.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "inventory",
+      "start": 22.666729166666663,
+      "duration": 6.163833333333333,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "I've managed three subscriptions, six reset timers, and five billing dashboards. That's my entire morning.",
+      "label": "inventory",
+      "description": "Three subscriptions, six reset timers and five billing dashboards assemble on their spoken numbers.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "app_check",
+      "start": 28.830562499999996,
+      "duration": 1.0933124999999997,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "And your app?",
+      "label": "app_check",
+      "description": "The dashboard stack clears to reveal the unchanged broken app.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "broken",
+      "start": 29.923874999999995,
+      "duration": 1.373000000000001,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Still broken.",
+      "label": "broken",
+      "description": "Alex facepalms while the error remains readable.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "cv_question",
+      "start": 31.296874999999996,
+      "duration": 2.2500000000000036,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "What do you put on your CV?",
+      "label": "cv_question",
+      "description": "A CV sheet grows from the dashboard stack and Alex becomes its profile photo.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "cv_title",
+      "start": 33.546875,
+      "duration": 4.286458333333336,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Full-stack developer.",
+      "label": "cv_title",
+      "description": "Full-stack developer appears on speech, morphs to Full-stack subscriber, then Alex gives one small reluctant nod.",
+      "timeOfDay": "day"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "waking": {
+    "atlas": "episodes/beer-feels-good/art/miko-waking-v2a-atlas.png",
+    "cellSize": 768,
+    "columns": 4,
+    "rows": 3,
+    "frames": 12,
+    "frameMs": 100,
+    "sourceGif": "output/imagegen/beer-feels-good/waking/miko-waking-v2a.gif",
+    "alphaGif": "output/imagegen/beer-feels-good/waking/miko-waking-v2a-transparent.gif",
+    "provenance": "output/imagegen/beer-feels-good/waking/miko-waking-v2a.provenance.json",
+    "request": "output/imagegen/beer-feels-good/waking/miko-waking-v2a.request.json",
+    "atlasSha256": "eb6fe1e9145d63494907b773370bd100cbe55f8a66cab68fecc04b514e093b12",
+    "edgeFrames": [],
+    "topMargin": 59,
+    "bottomMargin": 26,
+    "staging": "The complete bed stays in view while Miko wakes."
+  },
+  "setdown": {
+    "atlas": "episodes/beer-feels-good/art/miko-setdown-v2a-atlas.png",
+    "cellSize": 768,
+    "columns": 4,
+    "rows": 3,
+    "frames": 12,
+    "frameMs": 100,
+    "sourceGif": "output/imagegen/beer-feels-good/setdown/miko-setdown-v2a.gif",
+    "alphaGif": "output/imagegen/beer-feels-good/setdown/miko-setdown-v2a-transparent.gif",
+    "provenance": "output/imagegen/beer-feels-good/setdown/miko-setdown-v2a.provenance.json",
+    "request": "output/imagegen/beer-feels-good/setdown/miko-setdown-v2a.request.json",
+    "atlasSha256": "e5eb15c94aaaa1d429bf7a8a8ea1400fd775a596d7ebc9f529282e6ae2a523e0",
+    "edgeFrames": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "topMargin": 23,
+    "bottomMargin": 0,
+    "contactCell": 7,
+    "mugContact": {
+      "x": 142.5,
+      "y": 743
+    },
+    "mugBases": [
+      {
+        "x": 206.5,
+        "y": 481
+      },
+      {
+        "x": 201.0,
+        "y": 525
+      },
+      {
+        "x": 187.0,
+        "y": 591
+      },
+      {
+        "x": 175.5,
+        "y": 637
+      },
+      {
+        "x": 174.5,
+        "y": 670
+      },
+      {
+        "x": 161.5,
+        "y": 689
+      },
+      {
+        "x": 157.0,
+        "y": 724
+      },
+      {
+        "x": 142.5,
+        "y": 743
+      },
+      {
+        "x": 142.5,
+        "y": 744
+      },
+      {
+        "x": 139.0,
+        "y": 744
+      },
+      {
+        "x": 138.5,
+        "y": 744
+      },
+      {
+        "x": 139.5,
+        "y": 744
+      }
+    ],
+    "staging": "The counter masks the cropped hips. The complete mug and holding hand are visible at contact."
+  }
+}

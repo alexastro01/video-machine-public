@@ -1,0 +1,643 @@
+{
+  "sourceTake": 1,
+  "provider": "ElevenLabs MCP / Scribe",
+  "model": "eleven_scribe_v1",
+  "source": "public/episodes/nvidia-four-trillion/source-take-1.mp3",
+  "words": [
+    {
+      "text": "Jensen",
+      "start": 0,
+      "end": 0.4
+    },
+    {
+      "text": "Huang's",
+      "start": 0.48,
+      "end": 0.88
+    },
+    {
+      "text": "company",
+      "start": 1.12,
+      "end": 1.36
+    },
+    {
+      "text": "nearly",
+      "start": 1.52,
+      "end": 1.84
+    },
+    {
+      "text": "went",
+      "start": 1.92,
+      "end": 2.08
+    },
+    {
+      "text": "bankrupt",
+      "start": 2.32,
+      "end": 2.88
+    },
+    {
+      "text": "before",
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "text": "it",
+      "start": 3.24,
+      "end": 3.28
+    },
+    {
+      "text": "became",
+      "start": 3.36,
+      "end": 3.68
+    },
+    {
+      "text": "worth",
+      "start": 3.76,
+      "end": 4
+    },
+    {
+      "text": "four",
+      "start": 4.16,
+      "end": 4.4
+    },
+    {
+      "text": "trillion",
+      "start": 4.64,
+      "end": 5.2
+    },
+    {
+      "text": "dollars.",
+      "start": 5.28,
+      "end": 6.2
+    },
+    {
+      "text": "In",
+      "start": 6.48,
+      "end": 6.56
+    },
+    {
+      "text": "nineteen",
+      "start": 6.64,
+      "end": 6.96
+    },
+    {
+      "text": "ninety-three,",
+      "start": 7.04,
+      "end": 8
+    },
+    {
+      "text": "he",
+      "start": 8.12,
+      "end": 8.24
+    },
+    {
+      "text": "and",
+      "start": 8.32,
+      "end": 8.48
+    },
+    {
+      "text": "two",
+      "start": 8.56,
+      "end": 8.64
+    },
+    {
+      "text": "co-founders",
+      "start": 8.8,
+      "end": 9.44
+    },
+    {
+      "text": "started",
+      "start": 9.64,
+      "end": 9.84
+    },
+    {
+      "text": "Nvidia",
+      "start": 9.92,
+      "end": 10.4
+    },
+    {
+      "text": "over",
+      "start": 10.48,
+      "end": 10.72
+    },
+    {
+      "text": "diner",
+      "start": 10.88,
+      "end": 11.2
+    },
+    {
+      "text": "coffee.",
+      "start": 11.28,
+      "end": 12
+    },
+    {
+      "text": "They",
+      "start": 12.24,
+      "end": 12.32
+    },
+    {
+      "text": "wanted",
+      "start": 12.4,
+      "end": 12.64
+    },
+    {
+      "text": "to",
+      "start": 12.68,
+      "end": 12.72
+    },
+    {
+      "text": "make",
+      "start": 12.8,
+      "end": 12.88
+    },
+    {
+      "text": "computer",
+      "start": 12.96,
+      "end": 13.36
+    },
+    {
+      "text": "games",
+      "start": 13.52,
+      "end": 13.76
+    },
+    {
+      "text": "look",
+      "start": 13.84,
+      "end": 14
+    },
+    {
+      "text": "three-dimensional.",
+      "start": 14.08,
+      "end": 14.96
+    },
+    {
+      "text": "But",
+      "start": 15.44,
+      "end": 15.6
+    },
+    {
+      "text": "their",
+      "start": 15.68,
+      "end": 15.76
+    },
+    {
+      "text": "early",
+      "start": 15.84,
+      "end": 16.08
+    },
+    {
+      "text": "chip",
+      "start": 16.16,
+      "end": 16.32
+    },
+    {
+      "text": "design",
+      "start": 16.4,
+      "end": 16.8
+    },
+    {
+      "text": "hit",
+      "start": 16.88,
+      "end": 16.96
+    },
+    {
+      "text": "a",
+      "start": 17.04,
+      "end": 17.12
+    },
+    {
+      "text": "dead",
+      "start": 17.2,
+      "end": 17.36
+    },
+    {
+      "text": "end.",
+      "start": 17.44,
+      "end": 17.84
+    },
+    {
+      "text": "Cash",
+      "start": 18.24,
+      "end": 18.56
+    },
+    {
+      "text": "was",
+      "start": 18.64,
+      "end": 18.72
+    },
+    {
+      "text": "running",
+      "start": 18.8,
+      "end": 19.04
+    },
+    {
+      "text": "out.",
+      "start": 19.12,
+      "end": 19.44
+    },
+    {
+      "text": "Huang",
+      "start": 19.92,
+      "end": 20.24
+    },
+    {
+      "text": "told",
+      "start": 20.32,
+      "end": 20.48
+    },
+    {
+      "text": "Sega",
+      "start": 20.64,
+      "end": 20.88
+    },
+    {
+      "text": "to",
+      "start": 20.96,
+      "end": 21.12
+    },
+    {
+      "text": "find",
+      "start": 21.24,
+      "end": 21.36
+    },
+    {
+      "text": "another",
+      "start": 21.56,
+      "end": 21.76
+    },
+    {
+      "text": "chip",
+      "start": 21.84,
+      "end": 22.08
+    },
+    {
+      "text": "maker,",
+      "start": 22.24,
+      "end": 22.8
+    },
+    {
+      "text": "then",
+      "start": 22.96,
+      "end": 23.12
+    },
+    {
+      "text": "asked",
+      "start": 23.28,
+      "end": 23.52
+    },
+    {
+      "text": "Sega",
+      "start": 23.6,
+      "end": 23.92
+    },
+    {
+      "text": "to",
+      "start": 24,
+      "end": 24.08
+    },
+    {
+      "text": "pay",
+      "start": 24.16,
+      "end": 24.32
+    },
+    {
+      "text": "Nvidia",
+      "start": 24.4,
+      "end": 24.88
+    },
+    {
+      "text": "anyway.",
+      "start": 24.96,
+      "end": 25.52
+    },
+    {
+      "text": "They",
+      "start": 25.92,
+      "end": 26
+    },
+    {
+      "text": "agreed.",
+      "start": 26.08,
+      "end": 26.64
+    },
+    {
+      "text": "That",
+      "start": 27.04,
+      "end": 27.28
+    },
+    {
+      "text": "bought",
+      "start": 27.32,
+      "end": 27.52
+    },
+    {
+      "text": "time",
+      "start": 27.6,
+      "end": 27.84
+    },
+    {
+      "text": "for",
+      "start": 27.92,
+      "end": 28
+    },
+    {
+      "text": "a",
+      "start": 28.04,
+      "end": 28.08
+    },
+    {
+      "text": "fresh",
+      "start": 28.24,
+      "end": 28.48
+    },
+    {
+      "text": "design.",
+      "start": 28.76,
+      "end": 29.12
+    },
+    {
+      "text": "Their",
+      "start": 29.44,
+      "end": 29.6
+    },
+    {
+      "text": "new",
+      "start": 29.68,
+      "end": 29.84
+    },
+    {
+      "text": "chip,",
+      "start": 29.92,
+      "end": 30.32
+    },
+    {
+      "text": "Riva",
+      "start": 30.4,
+      "end": 30.72
+    },
+    {
+      "text": "one",
+      "start": 30.8,
+      "end": 30.88
+    },
+    {
+      "text": "twenty-eight,",
+      "start": 31.04,
+      "end": 31.76
+    },
+    {
+      "text": "took",
+      "start": 31.84,
+      "end": 32.08
+    },
+    {
+      "text": "off.",
+      "start": 32.16,
+      "end": 32.56
+    },
+    {
+      "text": "Years",
+      "start": 33.2,
+      "end": 33.44
+    },
+    {
+      "text": "later,",
+      "start": 33.52,
+      "end": 34
+    },
+    {
+      "text": "Nvidia",
+      "start": 34.12,
+      "end": 34.56
+    },
+    {
+      "text": "opened",
+      "start": 34.72,
+      "end": 34.88
+    },
+    {
+      "text": "its",
+      "start": 34.96,
+      "end": 35.04
+    },
+    {
+      "text": "graphics",
+      "start": 35.12,
+      "end": 35.52
+    },
+    {
+      "text": "chips",
+      "start": 35.6,
+      "end": 35.84
+    },
+    {
+      "text": "to",
+      "start": 35.92,
+      "end": 36
+    },
+    {
+      "text": "other",
+      "start": 36.12,
+      "end": 36.24
+    },
+    {
+      "text": "kinds",
+      "start": 36.32,
+      "end": 36.56
+    },
+    {
+      "text": "of",
+      "start": 36.6,
+      "end": 36.64
+    },
+    {
+      "text": "calculations.",
+      "start": 36.72,
+      "end": 37.72
+    },
+    {
+      "text": "That",
+      "start": 37.92,
+      "end": 38.08
+    },
+    {
+      "text": "helped",
+      "start": 38.16,
+      "end": 38.36
+    },
+    {
+      "text": "researchers",
+      "start": 38.4,
+      "end": 38.96
+    },
+    {
+      "text": "train",
+      "start": 39.04,
+      "end": 39.28
+    },
+    {
+      "text": "artificial",
+      "start": 39.36,
+      "end": 39.84
+    },
+    {
+      "text": "intelligence.",
+      "start": 39.92,
+      "end": 40.72
+    },
+    {
+      "text": "When",
+      "start": 41.12,
+      "end": 41.2
+    },
+    {
+      "text": "the",
+      "start": 41.28,
+      "end": 41.36
+    },
+    {
+      "text": "AI",
+      "start": 41.44,
+      "end": 41.76
+    },
+    {
+      "text": "boom",
+      "start": 41.84,
+      "end": 42.08
+    },
+    {
+      "text": "arrived,",
+      "start": 42.16,
+      "end": 42.72
+    },
+    {
+      "text": "Nvidia",
+      "start": 42.8,
+      "end": 43.36
+    },
+    {
+      "text": "already",
+      "start": 43.44,
+      "end": 43.92
+    },
+    {
+      "text": "had",
+      "start": 44,
+      "end": 44.08
+    },
+    {
+      "text": "the",
+      "start": 44.12,
+      "end": 44.16
+    },
+    {
+      "text": "chips",
+      "start": 44.32,
+      "end": 44.72
+    },
+    {
+      "text": "and",
+      "start": 44.84,
+      "end": 44.96
+    },
+    {
+      "text": "the",
+      "start": 45.04,
+      "end": 45.12
+    },
+    {
+      "text": "software.",
+      "start": 45.2,
+      "end": 45.76
+    },
+    {
+      "text": "In",
+      "start": 46.24,
+      "end": 46.32
+    },
+    {
+      "text": "July",
+      "start": 46.4,
+      "end": 46.72
+    },
+    {
+      "text": "twenty",
+      "start": 46.8,
+      "end": 46.96
+    },
+    {
+      "text": "twenty-five,",
+      "start": 47.12,
+      "end": 48
+    },
+    {
+      "text": "Nvidia",
+      "start": 48.12,
+      "end": 48.48
+    },
+    {
+      "text": "became",
+      "start": 48.56,
+      "end": 48.88
+    },
+    {
+      "text": "the",
+      "start": 49,
+      "end": 49.12
+    },
+    {
+      "text": "first",
+      "start": 49.2,
+      "end": 49.44
+    },
+    {
+      "text": "public",
+      "start": 49.52,
+      "end": 49.84
+    },
+    {
+      "text": "company",
+      "start": 49.92,
+      "end": 50.32
+    },
+    {
+      "text": "to",
+      "start": 50.4,
+      "end": 50.48
+    },
+    {
+      "text": "touch",
+      "start": 50.56,
+      "end": 50.72
+    },
+    {
+      "text": "four",
+      "start": 50.96,
+      "end": 51.12
+    },
+    {
+      "text": "trillion",
+      "start": 51.36,
+      "end": 51.84
+    },
+    {
+      "text": "dollars",
+      "start": 52,
+      "end": 52.4
+    },
+    {
+      "text": "in",
+      "start": 52.48,
+      "end": 52.56
+    },
+    {
+      "text": "market",
+      "start": 52.64,
+      "end": 52.88
+    },
+    {
+      "text": "value.",
+      "start": 52.96,
+      "end": 53.68
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "sourceTake": {
+    "alex": 1,
+    "opus": 1,
+    "gemini": 1,
+    "astra": 1
+  },
+  "words": [
+    {
+      "text": "Eight",
+      "start": 0.085,
+      "end": 0.3,
+      "speaker": "alex",
+      "line": "wait"
+    },
+    {
+      "text": "seconds",
+      "start": 0.385,
+      "end": 0.845,
+      "speaker": "alex",
+      "line": "wait"
+    },
+    {
+      "text": "and",
+      "start": 0.845,
+      "end": 0.965,
+      "speaker": "alex",
+      "line": "wait"
+    },
+    {
+      "text": "my",
+      "start": 0.965,
+      "end": 1.1,
+      "speaker": "alex",
+      "line": "wait"
+    },
+    {
+      "text": "inbox",
+      "start": 1.165,
+      "end": 1.52,
+      "speaker": "alex",
+      "line": "wait"
+    },
+    {
+      "text": "is",
+      "start": 1.585,
+      "end": 1.72,
+      "speaker": "alex",
+      "line": "wait"
+    },
+    {
+      "text": "still",
+      "start": 1.765,
+      "end": 2.14,
+      "speaker": "alex",
+      "line": "wait"
+    },
+    {
+      "text": "loading?",
+      "start": 2.165,
+      "end": 2.58,
+      "speaker": "alex",
+      "line": "wait"
+    },
+    {
+      "text": "Try",
+      "start": 2.84,
+      "end": 3.095,
+      "speaker": "opus",
+      "line": "now"
+    },
+    {
+      "text": "it",
+      "start": 3.1,
+      "end": 3.215,
+      "speaker": "opus",
+      "line": "now"
+    },
+    {
+      "text": "now.",
+      "start": 3.22,
+      "end": 3.455,
+      "speaker": "opus",
+      "line": "now"
+    },
+    {
+      "text": "Whoa.",
+      "start": 3.9,
+      "end": 4.255,
+      "speaker": "alex",
+      "line": "delete"
+    },
+    {
+      "text": "Gemini,",
+      "start": 4.84,
+      "end": 5.235,
+      "speaker": "alex",
+      "line": "delete"
+    },
+    {
+      "text": "delete",
+      "start": 5.48,
+      "end": 5.76,
+      "speaker": "alex",
+      "line": "delete"
+    },
+    {
+      "text": "that",
+      "start": 5.76,
+      "end": 5.955,
+      "speaker": "alex",
+      "line": "delete"
+    },
+    {
+      "text": "spam.",
+      "start": 5.96,
+      "end": 6.335,
+      "speaker": "alex",
+      "line": "delete"
+    },
+    {
+      "text": "I've",
+      "start": 6.56,
+      "end": 6.775,
+      "speaker": "gemini",
+      "line": "clicks"
+    },
+    {
+      "text": "clicked",
+      "start": 6.84,
+      "end": 7.16,
+      "speaker": "gemini",
+      "line": "clicks"
+    },
+    {
+      "text": "the",
+      "start": 7.16,
+      "end": 7.315,
+      "speaker": "gemini",
+      "line": "clicks"
+    },
+    {
+      "text": "trash",
+      "start": 7.32,
+      "end": 7.695,
+      "speaker": "gemini",
+      "line": "clicks"
+    },
+    {
+      "text": "three",
+      "start": 7.8,
+      "end": 8.135,
+      "speaker": "gemini",
+      "line": "clicks"
+    },
+    {
+      "text": "times.",
+      "start": 8.2,
+      "end": 8.855,
+      "speaker": "gemini",
+      "line": "clicks"
+    },
+    {
+      "text": "Astra,",
+      "start": 9.26,
+      "end": 9.635,
+      "speaker": "alex",
+      "line": "drag"
+    },
+    {
+      "text": "try",
+      "start": 9.9,
+      "end": 10.115,
+      "speaker": "alex",
+      "line": "drag"
+    },
+    {
+      "text": "dragging",
+      "start": 10.2,
+      "end": 10.66,
+      "speaker": "alex",
+      "line": "drag"
+    },
+    {
+      "text": "the",
+      "start": 10.66,
+      "end": 10.795,
+      "speaker": "alex",
+      "line": "drag"
+    },
+    {
+      "text": "email.",
+      "start": 10.8,
+      "end": 11.115,
+      "speaker": "alex",
+      "line": "drag"
+    },
+    {
+      "text": "Why",
+      "start": 11.42,
+      "end": 11.695,
+      "speaker": "astra",
+      "line": "bin"
+    },
+    {
+      "text": "is",
+      "start": 11.72,
+      "end": 11.855,
+      "speaker": "astra",
+      "line": "bin"
+    },
+    {
+      "text": "the",
+      "start": 11.86,
+      "end": 12.015,
+      "speaker": "astra",
+      "line": "bin"
+    },
+    {
+      "text": "trash",
+      "start": 12.08,
+      "end": 12.515,
+      "speaker": "astra",
+      "line": "bin"
+    },
+    {
+      "text": "coming",
+      "start": 12.54,
+      "end": 12.84,
+      "speaker": "astra",
+      "line": "bin"
+    },
+    {
+      "text": "with",
+      "start": 12.84,
+      "end": 13.075,
+      "speaker": "astra",
+      "line": "bin"
+    },
+    {
+      "text": "it?",
+      "start": 13.12,
+      "end": 13.315,
+      "speaker": "astra",
+      "line": "bin"
+    },
+    {
+      "text": "Opus.",
+      "start": 13.57,
+      "end": 13.925,
+      "speaker": "alex",
+      "line": "file"
+    },
+    {
+      "text": "Is",
+      "start": 14.37,
+      "end": 14.49,
+      "speaker": "alex",
+      "line": "file"
+    },
+    {
+      "text": "my",
+      "start": 14.49,
+      "end": 14.645,
+      "speaker": "alex",
+      "line": "file"
+    },
+    {
+      "text": "inbox",
+      "start": 14.69,
+      "end": 15.045,
+      "speaker": "alex",
+      "line": "file"
+    },
+    {
+      "text": "a",
+      "start": 15.11,
+      "end": 15.205,
+      "speaker": "alex",
+      "line": "file"
+    },
+    {
+      "text": "screenshot?",
+      "start": 15.23,
+      "end": 15.905,
+      "speaker": "alex",
+      "line": "file"
+    },
+    {
+      "text": "I",
+      "start": 16.3,
+      "end": 16.395,
+      "speaker": "opus",
+      "line": "dark"
+    },
+    {
+      "text": "made",
+      "start": 16.42,
+      "end": 16.64,
+      "speaker": "opus",
+      "line": "dark"
+    },
+    {
+      "text": "a",
+      "start": 16.64,
+      "end": 16.735,
+      "speaker": "opus",
+      "line": "dark"
+    },
+    {
+      "text": "dark",
+      "start": 16.74,
+      "end": 17.055,
+      "speaker": "opus",
+      "line": "dark"
+    },
+    {
+      "text": "one",
+      "start": 17.16,
+      "end": 17.315,
+      "speaker": "opus",
+      "line": "dark"
+    },
+    {
+      "text": "too.",
+      "start": 17.36,
+      "end": 17.775,
+      "speaker": "opus",
+      "line": "dark"
+    }
+  ]
+}

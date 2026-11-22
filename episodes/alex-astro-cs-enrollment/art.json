@@ -1,0 +1,87 @@
+{
+  "provider": "OpenAI Images API",
+  "model": "gpt-image-2",
+  "nativeWorld": [
+    270,
+    480
+  ],
+  "sprites": {
+    "seated": {
+      "w": 42,
+      "h": 80,
+      "anchorX": 20.0
+    },
+    "listen": {
+      "w": 47,
+      "h": 80,
+      "anchorX": 25.5
+    },
+    "call": {
+      "w": 46,
+      "h": 80,
+      "anchorX": 23.0
+    },
+    "hope": {
+      "w": 47,
+      "h": 80,
+      "anchorX": 26.0
+    },
+    "dad-clap": {
+      "w": 51,
+      "h": 80,
+      "anchorX": 25.0
+    },
+    "dad-up": {
+      "w": 49,
+      "h": 80,
+      "anchorX": 24.5
+    },
+    "mum-clap": {
+      "w": 47,
+      "h": 80,
+      "anchorX": 22.5
+    },
+    "mum-up": {
+      "w": 46,
+      "h": 80,
+      "anchorX": 22.5
+    }
+  },
+  "sources": [
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/chat-heads.png",
+      "prompt": "art-direction/chat-heads.txt",
+      "sha256": "cbf2ffe56dbdc3e96c746f4280b5f1b0e53476d4e1363d85f8265357bfc61a38",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/empty-hall.png",
+      "prompt": "art-direction/empty-hall.txt",
+      "sha256": "839ec3ff87aa8d0959e11fb578bf49b86ad73c7148878acd38e364169d10209a",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/packed-hall.png",
+      "prompt": "art-direction/packed-hall.txt",
+      "sha256": "eb69e73456098f20765b65b06d161f1fca7e06d08605063101f247a669af9bf8",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/parents.png",
+      "prompt": "art-direction/parents.txt",
+      "sha256": "588d9b73038487c28470c7a2c86fc8695e069e45d82b1a20607b45df03e4b8f0",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/seated-alex.png",
+      "prompt": "art-direction/seated-alex.txt",
+      "sha256": "be7a4d46c0d4f7c6cd1870daa865449a57217df3b1093650040246471a4148e0",
+      "quality": "high"
+    }
+  ],
+  "references": {
+    "packed-hall": "empty-hall.png",
+    "seated-alex": "public/episodes/alex-astro-job-market-hell/art/alex-listen.png",
+    "chat-heads": "output/imagegen/alex-astro-job-market-hell/portrait-question.png"
+  }
+}

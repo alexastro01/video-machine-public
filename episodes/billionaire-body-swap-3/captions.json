@@ -1,0 +1,422 @@
+[
+  {
+    "text": "You",
+    "startMs": 152,
+    "endMs": 312,
+    "timestampMs": 152,
+    "confidence": null
+  },
+  {
+    "text": "have",
+    "startMs": 432,
+    "endMs": 612,
+    "timestampMs": 432,
+    "confidence": null
+  },
+  {
+    "text": "his",
+    "startMs": 652,
+    "endMs": 812,
+    "timestampMs": 652,
+    "confidence": null
+  },
+  {
+    "text": "billions.",
+    "startMs": 972,
+    "endMs": 1672,
+    "timestampMs": 972,
+    "confidence": null
+  },
+  {
+    "text": "He",
+    "startMs": 2112,
+    "endMs": 2412,
+    "timestampMs": 2112,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 2472,
+    "endMs": 2632,
+    "timestampMs": 2472,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 2672,
+    "endMs": 2832,
+    "timestampMs": 2672,
+    "confidence": null
+  },
+  {
+    "text": "maths",
+    "startMs": 2892,
+    "endMs": 3152,
+    "timestampMs": 2892,
+    "confidence": null
+  },
+  {
+    "text": "exam.",
+    "startMs": 3212,
+    "endMs": 3672,
+    "timestampMs": 3212,
+    "confidence": null
+  },
+  {
+    "text": "Show",
+    "startMs": 4107,
+    "endMs": 4307,
+    "timestampMs": 4107,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 4407,
+    "endMs": 4527,
+    "timestampMs": 4407,
+    "confidence": null
+  },
+  {
+    "text": "working.",
+    "startMs": 4647,
+    "endMs": 5167,
+    "timestampMs": 4647,
+    "confidence": null
+  },
+  {
+    "text": "Can",
+    "startMs": 5477,
+    "endMs": 5577,
+    "timestampMs": 5477,
+    "confidence": null
+  },
+  {
+    "text": "I",
+    "startMs": 5657,
+    "endMs": 5717,
+    "timestampMs": 5657,
+    "confidence": null
+  },
+  {
+    "text": "call",
+    "startMs": 5757,
+    "endMs": 5897,
+    "timestampMs": 5757,
+    "confidence": null
+  },
+  {
+    "text": "my",
+    "startMs": 5937,
+    "endMs": 6057,
+    "timestampMs": 5937,
+    "confidence": null
+  },
+  {
+    "text": "accountant?",
+    "startMs": 6097,
+    "endMs": 6577,
+    "timestampMs": 6097,
+    "confidence": null
+  },
+  {
+    "text": "You",
+    "startMs": 7071,
+    "endMs": 7171,
+    "timestampMs": 7071,
+    "confidence": null
+  },
+  {
+    "text": "can",
+    "startMs": 7211,
+    "endMs": 7331,
+    "timestampMs": 7211,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 7391,
+    "endMs": 7511,
+    "timestampMs": 7391,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 7551,
+    "endMs": 7611,
+    "timestampMs": 7551,
+    "confidence": null
+  },
+  {
+    "text": "pencil.",
+    "startMs": 7651,
+    "endMs": 8111,
+    "timestampMs": 7651,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 8570,
+    "endMs": 8670,
+    "timestampMs": 8570,
+    "confidence": null
+  },
+  {
+    "text": "board",
+    "startMs": 8710,
+    "endMs": 8970,
+    "timestampMs": 8710,
+    "confidence": null
+  },
+  {
+    "text": "needs",
+    "startMs": 9010,
+    "endMs": 9210,
+    "timestampMs": 9010,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 9250,
+    "endMs": 9310,
+    "timestampMs": 9250,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 9350,
+    "endMs": 9450,
+    "timestampMs": 9350,
+    "confidence": null
+  },
+  {
+    "text": "sign",
+    "startMs": 9510,
+    "endMs": 9710,
+    "timestampMs": 9510,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 9750,
+    "endMs": 9910,
+    "timestampMs": 9750,
+    "confidence": null
+  },
+  {
+    "text": "40",
+    "startMs": 9970,
+    "endMs": 10250,
+    "timestampMs": 9970,
+    "confidence": null
+  },
+  {
+    "text": "million",
+    "startMs": 10450,
+    "endMs": 10790,
+    "timestampMs": 10450,
+    "confidence": null
+  },
+  {
+    "text": "pound",
+    "startMs": 10910,
+    "endMs": 11130,
+    "timestampMs": 10910,
+    "confidence": null
+  },
+  {
+    "text": "deal.",
+    "startMs": 11250,
+    "endMs": 11570,
+    "timestampMs": 11250,
+    "confidence": null
+  },
+  {
+    "text": "Can",
+    "startMs": 12136,
+    "endMs": 12296,
+    "timestampMs": 12136,
+    "confidence": null
+  },
+  {
+    "text": "I",
+    "startMs": 12456,
+    "endMs": 12496,
+    "timestampMs": 12456,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 12716,
+    "endMs": 12856,
+    "timestampMs": 12716,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 12916,
+    "endMs": 12936,
+    "timestampMs": 12916,
+    "confidence": null
+  },
+  {
+    "text": "pencil?",
+    "startMs": 13136,
+    "endMs": 13576,
+    "timestampMs": 13136,
+    "confidence": null
+  },
+  {
+    "text": "You",
+    "startMs": 14127,
+    "endMs": 14207,
+    "timestampMs": 14127,
+    "confidence": null
+  },
+  {
+    "text": "can",
+    "startMs": 14227,
+    "endMs": 14367,
+    "timestampMs": 14227,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 14427,
+    "endMs": 14527,
+    "timestampMs": 14427,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 14587,
+    "endMs": 14627,
+    "timestampMs": 14587,
+    "confidence": null
+  },
+  {
+    "text": "lawyer.",
+    "startMs": 14687,
+    "endMs": 15047,
+    "timestampMs": 14687,
+    "confidence": null
+  },
+  {
+    "text": "Help",
+    "startMs": 15748,
+    "endMs": 15908,
+    "timestampMs": 15748,
+    "confidence": null
+  },
+  {
+    "text": "me",
+    "startMs": 15948,
+    "endMs": 16068,
+    "timestampMs": 15948,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 16108,
+    "endMs": 16248,
+    "timestampMs": 16108,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 16288,
+    "endMs": 16388,
+    "timestampMs": 16288,
+    "confidence": null
+  },
+  {
+    "text": "company.",
+    "startMs": 16428,
+    "endMs": 16848,
+    "timestampMs": 16428,
+    "confidence": null
+  },
+  {
+    "text": "Help",
+    "startMs": 17537,
+    "endMs": 17677,
+    "timestampMs": 17537,
+    "confidence": null
+  },
+  {
+    "text": "me",
+    "startMs": 17697,
+    "endMs": 17837,
+    "timestampMs": 17697,
+    "confidence": null
+  },
+  {
+    "text": "pass",
+    "startMs": 17877,
+    "endMs": 18097,
+    "timestampMs": 17877,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 18137,
+    "endMs": 18237,
+    "timestampMs": 18137,
+    "confidence": null
+  },
+  {
+    "text": "exam.",
+    "startMs": 18277,
+    "endMs": 18757,
+    "timestampMs": 18277,
+    "confidence": null
+  },
+  {
+    "text": "Who's",
+    "startMs": 19642,
+    "endMs": 19902,
+    "timestampMs": 19642,
+    "confidence": null
+  },
+  {
+    "text": "giving",
+    "startMs": 19942,
+    "endMs": 20162,
+    "timestampMs": 19942,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 20202,
+    "endMs": 20302,
+    "timestampMs": 20202,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 20342,
+    "endMs": 20422,
+    "timestampMs": 20342,
+    "confidence": null
+  },
+  {
+    "text": "answers?",
+    "startMs": 20502,
+    "endMs": 21062,
+    "timestampMs": 20502,
+    "confidence": null
+  },
+  {
+    "text": "Technically\u2026",
+    "startMs": 21510,
+    "endMs": 22370,
+    "timestampMs": 21510,
+    "confidence": null
+  },
+  {
+    "text": "me.",
+    "startMs": 22870,
+    "endMs": 23130,
+    "timestampMs": 22870,
+    "confidence": null
+  }
+]

@@ -1,0 +1,46 @@
+.ap-comment {
+  width: 912px;
+  height: 548px;
+  left: 84px;
+  top: 231px;
+  color: #272332;
+  background: #fffefd;
+}
+.ap-comment-header {
+  position: absolute; inset: 0 0 auto; height: 114px;
+  display: flex; align-items: center; gap: 21px; padding: 0 44px;
+  border-bottom: 2px solid #eae6ed;
+  font-size: 53px; font-weight: 710; letter-spacing: -2.3px;
+}
+.ap-comment-header svg { width: 48px; height: 48px; color: #736087; }
+.ap-comment-you {
+  position: absolute; right: 53px; top: 120px; font-size: 26px; font-weight: 600;
+  letter-spacing: -.5px; color: #696171;
+}
+.ap-comment-input { position: absolute; display: flex; align-items: center; border: 3px solid; }
+.ap-comment-type { display: flex; align-items: center; padding-left: 30px; font-weight: 650; letter-spacing: -2.3px; line-height: 1; }
+.ap-comment-placeholder { font-size: 45px; font-weight: 490; letter-spacing: -1.5px; }
+.ap-comment-caret { width: 3px; height: .92em; margin-left: 5px; background: #75549c; }
+.ap-comment-send {
+  display: grid; place-items: center; position: absolute; right: 13px;
+  width: 83px; height: 83px; border-radius: 50%; color: #fff;
+}
+.ap-comment-send svg { width: 43px; height: 43px; }
+.ap-comment-reply { position: absolute; left: 44px; top: 276px; display: flex; align-items: center; gap: 15px; }
+.ap-comment-reply span { color: #554b60; font-weight: 680; font-size: 34px; letter-spacing: -1px; }
+.ap-comment-avatar { position: relative; width: 54px; height: 54px; overflow: hidden; border-radius: 50%; background: #e8e0f4; }
+.ap-comment-avatar img { position: absolute; width: 108px; height: 108px; top: -4px; left: -17px; }
+.ap-comment-file {
+  position: absolute; top: 342px; left: 113px; width: 745px; height: 151px;
+  display: flex; align-items: center; gap: 20px; padding: 0 24px 0 19px;
+  background: #f7f4fa; border: 2px solid #e5deec; border-radius: 27px; transform-origin: 10% 60%;
+}
+.ap-comment-covers { position: relative; flex: 0 0 115px; height: 96px; }
+.ap-comment-covers img { position: absolute; width: 90px; height: 75px; border: 3px solid white; border-radius: 10px; object-fit: cover; box-shadow: 0 3px 8px #32214929; }
+.ap-comment-back { top: 8px; left: 7px; transform: rotate(-14deg); }
+.ap-comment-front { top: 15px; left: 18px; transform: rotate(5deg); }
+.ap-comment-filename { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; }
+.ap-comment-filename strong { font-size: 42px; font-weight: 700; letter-spacing: -1.8px; }
+.ap-comment-filename span { font-size: 30px; font-weight: 490; letter-spacing: -.9px; color: #635b6c; }
+.ap-comment-download { margin-left: auto; width: 54px; height: 54px; border-radius: 50%; color: #735d91; display: grid; place-items: center; }
+.ap-comment-download svg { width: 38px; height: 38px; }

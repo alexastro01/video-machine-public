@@ -1,0 +1,912 @@
+[
+  {
+    "text": "Is",
+    "startMs": 0,
+    "endMs": 76,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 153,
+    "endMs": 229,
+    "timestampMs": 153,
+    "confidence": null
+  },
+  {
+    "text": " copy",
+    "startMs": 306,
+    "endMs": 535,
+    "timestampMs": 306,
+    "confidence": null
+  },
+  {
+    "text": " you...",
+    "startMs": 612,
+    "endMs": 994,
+    "timestampMs": 612,
+    "confidence": null
+  },
+  {
+    "text": " or",
+    "startMs": 1147,
+    "endMs": 1376,
+    "timestampMs": 1147,
+    "confidence": null
+  },
+  {
+    "text": " did",
+    "startMs": 1605,
+    "endMs": 1758,
+    "timestampMs": 1605,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 1796,
+    "endMs": 1835,
+    "timestampMs": 1796,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 1911,
+    "endMs": 2140,
+    "timestampMs": 1911,
+    "confidence": null
+  },
+  {
+    "text": " die?",
+    "startMs": 2217,
+    "endMs": 2828,
+    "timestampMs": 2217,
+    "confidence": null
+  },
+  {
+    "text": " What",
+    "startMs": 3134,
+    "endMs": 3211,
+    "timestampMs": 3134,
+    "confidence": null
+  },
+  {
+    "text": " if",
+    "startMs": 3287,
+    "endMs": 3364,
+    "timestampMs": 3287,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 3440,
+    "endMs": 3517,
+    "timestampMs": 3440,
+    "confidence": null
+  },
+  {
+    "text": " uploaded",
+    "startMs": 3708,
+    "endMs": 3899,
+    "timestampMs": 3708,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 3975,
+    "endMs": 4128,
+    "timestampMs": 3975,
+    "confidence": null
+  },
+  {
+    "text": " brain",
+    "startMs": 4243,
+    "endMs": 4357,
+    "timestampMs": 4243,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 4396,
+    "endMs": 4434,
+    "timestampMs": 4396,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4510,
+    "endMs": 4587,
+    "timestampMs": 4510,
+    "confidence": null
+  },
+  {
+    "text": " cloud?",
+    "startMs": 4663,
+    "endMs": 5504,
+    "timestampMs": 4663,
+    "confidence": null
+  },
+  {
+    "text": " Scientists",
+    "startMs": 5772,
+    "endMs": 6039,
+    "timestampMs": 5772,
+    "confidence": null
+  },
+  {
+    "text": " mapped",
+    "startMs": 6116,
+    "endMs": 6345,
+    "timestampMs": 6116,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 6421,
+    "endMs": 6498,
+    "timestampMs": 6421,
+    "confidence": null
+  },
+  {
+    "text": " tiny",
+    "startMs": 6574,
+    "endMs": 6957,
+    "timestampMs": 6574,
+    "confidence": null
+  },
+  {
+    "text": " worm",
+    "startMs": 7033,
+    "endMs": 7339,
+    "timestampMs": 7033,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 7453,
+    "endMs": 7568,
+    "timestampMs": 7453,
+    "confidence": null
+  },
+  {
+    "text": " 302",
+    "startMs": 7645,
+    "endMs": 7797,
+    "timestampMs": 7645,
+    "confidence": null
+  },
+  {
+    "text": " neurons.",
+    "startMs": 7874,
+    "endMs": 9403,
+    "timestampMs": 7874,
+    "confidence": null
+  },
+  {
+    "text": " In",
+    "startMs": 9479,
+    "endMs": 9556,
+    "timestampMs": 9479,
+    "confidence": null
+  },
+  {
+    "text": " 2024,",
+    "startMs": 9670,
+    "endMs": 10702,
+    "timestampMs": 9670,
+    "confidence": null
+  },
+  {
+    "text": " they",
+    "startMs": 10779,
+    "endMs": 10855,
+    "timestampMs": 10779,
+    "confidence": null
+  },
+  {
+    "text": " mapped",
+    "startMs": 10970,
+    "endMs": 11085,
+    "timestampMs": 10970,
+    "confidence": null
+  },
+  {
+    "text": " an",
+    "startMs": 11199,
+    "endMs": 11314,
+    "timestampMs": 11199,
+    "confidence": null
+  },
+  {
+    "text": " adult",
+    "startMs": 11390,
+    "endMs": 11620,
+    "timestampMs": 11390,
+    "confidence": null
+  },
+  {
+    "text": " fruit",
+    "startMs": 11773,
+    "endMs": 11926,
+    "timestampMs": 11773,
+    "confidence": null
+  },
+  {
+    "text": " fly",
+    "startMs": 12002,
+    "endMs": 12231,
+    "timestampMs": 12002,
+    "confidence": null
+  },
+  {
+    "text": " brain:",
+    "startMs": 12308,
+    "endMs": 12843,
+    "timestampMs": 12308,
+    "confidence": null
+  },
+  {
+    "text": " nearly",
+    "startMs": 12919,
+    "endMs": 13302,
+    "timestampMs": 12919,
+    "confidence": null
+  },
+  {
+    "text": " 140,000.",
+    "startMs": 13378,
+    "endMs": 15518,
+    "timestampMs": 13378,
+    "confidence": null
+  },
+  {
+    "text": " Yours",
+    "startMs": 15557,
+    "endMs": 15901,
+    "timestampMs": 15557,
+    "confidence": null
+  },
+  {
+    "text": " has",
+    "startMs": 15977,
+    "endMs": 16130,
+    "timestampMs": 15977,
+    "confidence": null
+  },
+  {
+    "text": " roughly",
+    "startMs": 16206,
+    "endMs": 16665,
+    "timestampMs": 16206,
+    "confidence": null
+  },
+  {
+    "text": " 86",
+    "startMs": 16742,
+    "endMs": 17353,
+    "timestampMs": 16742,
+    "confidence": null
+  },
+  {
+    "text": " billion",
+    "startMs": 17583,
+    "endMs": 17965,
+    "timestampMs": 17583,
+    "confidence": null
+  },
+  {
+    "text": " neurons.",
+    "startMs": 18041,
+    "endMs": 18959,
+    "timestampMs": 18041,
+    "confidence": null
+  },
+  {
+    "text": " Harvard",
+    "startMs": 19035,
+    "endMs": 19341,
+    "timestampMs": 19035,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 19417,
+    "endMs": 19494,
+    "timestampMs": 19417,
+    "confidence": null
+  },
+  {
+    "text": " Google",
+    "startMs": 19570,
+    "endMs": 19876,
+    "timestampMs": 19570,
+    "confidence": null
+  },
+  {
+    "text": " reconstructed",
+    "startMs": 20029,
+    "endMs": 20793,
+    "timestampMs": 20029,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 20946,
+    "endMs": 21099,
+    "timestampMs": 20946,
+    "confidence": null
+  },
+  {
+    "text": " cubic",
+    "startMs": 21252,
+    "endMs": 21558,
+    "timestampMs": 21252,
+    "confidence": null
+  },
+  {
+    "text": " millimetre",
+    "startMs": 21634,
+    "endMs": 22093,
+    "timestampMs": 21634,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 22169,
+    "endMs": 22246,
+    "timestampMs": 22169,
+    "confidence": null
+  },
+  {
+    "text": " human",
+    "startMs": 22322,
+    "endMs": 22551,
+    "timestampMs": 22322,
+    "confidence": null
+  },
+  {
+    "text": " cortex.",
+    "startMs": 22704,
+    "endMs": 23545,
+    "timestampMs": 22704,
+    "confidence": null
+  },
+  {
+    "text": " The",
+    "startMs": 23583,
+    "endMs": 23622,
+    "timestampMs": 23583,
+    "confidence": null
+  },
+  {
+    "text": " dataset",
+    "startMs": 23698,
+    "endMs": 24233,
+    "timestampMs": 23698,
+    "confidence": null
+  },
+  {
+    "text": " took",
+    "startMs": 24348,
+    "endMs": 24463,
+    "timestampMs": 24348,
+    "confidence": null
+  },
+  {
+    "text": " 1.4",
+    "startMs": 24616,
+    "endMs": 24768,
+    "timestampMs": 24616,
+    "confidence": null
+  },
+  {
+    "text": " petabytes.",
+    "startMs": 24921,
+    "endMs": 26680,
+    "timestampMs": 24921,
+    "confidence": null
+  },
+  {
+    "text": " That's",
+    "startMs": 26756,
+    "endMs": 26871,
+    "timestampMs": 26756,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 26909,
+    "endMs": 27062,
+    "timestampMs": 26909,
+    "confidence": null
+  },
+  {
+    "text": " tiny",
+    "startMs": 27253,
+    "endMs": 27444,
+    "timestampMs": 27253,
+    "confidence": null
+  },
+  {
+    "text": " speck.",
+    "startMs": 27520,
+    "endMs": 28285,
+    "timestampMs": 27520,
+    "confidence": null
+  },
+  {
+    "text": " Recreating",
+    "startMs": 28361,
+    "endMs": 28896,
+    "timestampMs": 28361,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 28973,
+    "endMs": 29011,
+    "timestampMs": 28973,
+    "confidence": null
+  },
+  {
+    "text": " conscious",
+    "startMs": 29049,
+    "endMs": 29432,
+    "timestampMs": 29049,
+    "confidence": null
+  },
+  {
+    "text": " mind",
+    "startMs": 29508,
+    "endMs": 29814,
+    "timestampMs": 29508,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 29928,
+    "endMs": 30043,
+    "timestampMs": 29928,
+    "confidence": null
+  },
+  {
+    "text": " still",
+    "startMs": 30196,
+    "endMs": 30349,
+    "timestampMs": 30196,
+    "confidence": null
+  },
+  {
+    "text": " hypothetical.",
+    "startMs": 30425,
+    "endMs": 31305,
+    "timestampMs": 30425,
+    "confidence": null
+  },
+  {
+    "text": " In",
+    "startMs": 31618,
+    "endMs": 31649,
+    "timestampMs": 31618,
+    "confidence": null
+  },
+  {
+    "text": " 2018,",
+    "startMs": 31801,
+    "endMs": 32719,
+    "timestampMs": 31801,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 32795,
+    "endMs": 32872,
+    "timestampMs": 32795,
+    "confidence": null
+  },
+  {
+    "text": " brain-preservation",
+    "startMs": 32948,
+    "endMs": 33789,
+    "timestampMs": 32948,
+    "confidence": null
+  },
+  {
+    "text": " startup",
+    "startMs": 33865,
+    "endMs": 34324,
+    "timestampMs": 33865,
+    "confidence": null
+  },
+  {
+    "text": " pitched",
+    "startMs": 34401,
+    "endMs": 34706,
+    "timestampMs": 34401,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 34745,
+    "endMs": 34783,
+    "timestampMs": 34745,
+    "confidence": null
+  },
+  {
+    "text": " method",
+    "startMs": 34859,
+    "endMs": 35165,
+    "timestampMs": 34859,
+    "confidence": null
+  },
+  {
+    "text": " called",
+    "startMs": 35241,
+    "endMs": 35471,
+    "timestampMs": 35241,
+    "confidence": null
+  },
+  {
+    "text": " 100",
+    "startMs": 35700,
+    "endMs": 36159,
+    "timestampMs": 35700,
+    "confidence": null
+  },
+  {
+    "text": " percent",
+    "startMs": 36312,
+    "endMs": 36694,
+    "timestampMs": 36312,
+    "confidence": null
+  },
+  {
+    "text": " fatal.",
+    "startMs": 36847,
+    "endMs": 37306,
+    "timestampMs": 36847,
+    "confidence": null
+  },
+  {
+    "text": " Even",
+    "startMs": 37871,
+    "endMs": 37917,
+    "timestampMs": 37871,
+    "confidence": null
+  },
+  {
+    "text": " if",
+    "startMs": 37994,
+    "endMs": 38070,
+    "timestampMs": 37994,
+    "confidence": null
+  },
+  {
+    "text": " an",
+    "startMs": 38146,
+    "endMs": 38223,
+    "timestampMs": 38146,
+    "confidence": null
+  },
+  {
+    "text": " upload",
+    "startMs": 38414,
+    "endMs": 38605,
+    "timestampMs": 38414,
+    "confidence": null
+  },
+  {
+    "text": " worked,",
+    "startMs": 38682,
+    "endMs": 39446,
+    "timestampMs": 38682,
+    "confidence": null
+  },
+  {
+    "text": " where",
+    "startMs": 39522,
+    "endMs": 39599,
+    "timestampMs": 39522,
+    "confidence": null
+  },
+  {
+    "text": " would",
+    "startMs": 39675,
+    "endMs": 39752,
+    "timestampMs": 39675,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 39828,
+    "endMs": 39866,
+    "timestampMs": 39828,
+    "confidence": null
+  },
+  {
+    "text": " wake",
+    "startMs": 39905,
+    "endMs": 40058,
+    "timestampMs": 39905,
+    "confidence": null
+  },
+  {
+    "text": " up?",
+    "startMs": 40210,
+    "endMs": 40746,
+    "timestampMs": 40210,
+    "confidence": null
+  },
+  {
+    "text": " The",
+    "startMs": 40784,
+    "endMs": 40822,
+    "timestampMs": 40784,
+    "confidence": null
+  },
+  {
+    "text": " copy",
+    "startMs": 40898,
+    "endMs": 41128,
+    "timestampMs": 40898,
+    "confidence": null
+  },
+  {
+    "text": " could",
+    "startMs": 41204,
+    "endMs": 41281,
+    "timestampMs": 41204,
+    "confidence": null
+  },
+  {
+    "text": " remember",
+    "startMs": 41357,
+    "endMs": 41663,
+    "timestampMs": 41357,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 41739,
+    "endMs": 41892,
+    "timestampMs": 41739,
+    "confidence": null
+  },
+  {
+    "text": " childhood,",
+    "startMs": 42083,
+    "endMs": 42733,
+    "timestampMs": 42083,
+    "confidence": null
+  },
+  {
+    "text": " recognize",
+    "startMs": 42886,
+    "endMs": 43192,
+    "timestampMs": 42886,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 43268,
+    "endMs": 43345,
+    "timestampMs": 43268,
+    "confidence": null
+  },
+  {
+    "text": " friends,",
+    "startMs": 43421,
+    "endMs": 43956,
+    "timestampMs": 43421,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 44033,
+    "endMs": 44109,
+    "timestampMs": 44033,
+    "confidence": null
+  },
+  {
+    "text": " insist",
+    "startMs": 44300,
+    "endMs": 44721,
+    "timestampMs": 44300,
+    "confidence": null
+  },
+  {
+    "text": " it's",
+    "startMs": 44797,
+    "endMs": 45027,
+    "timestampMs": 44797,
+    "confidence": null
+  },
+  {
+    "text": " you.",
+    "startMs": 45103,
+    "endMs": 45638,
+    "timestampMs": 45103,
+    "confidence": null
+  },
+  {
+    "text": " But",
+    "startMs": 45676,
+    "endMs": 45715,
+    "timestampMs": 45676,
+    "confidence": null
+  },
+  {
+    "text": " would",
+    "startMs": 45791,
+    "endMs": 45944,
+    "timestampMs": 45791,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 46020,
+    "endMs": 46097,
+    "timestampMs": 46020,
+    "confidence": null
+  },
+  {
+    "text": " awareness",
+    "startMs": 46173,
+    "endMs": 46632,
+    "timestampMs": 46173,
+    "confidence": null
+  },
+  {
+    "text": " continue...",
+    "startMs": 46708,
+    "endMs": 47626,
+    "timestampMs": 46708,
+    "confidence": null
+  },
+  {
+    "text": " or",
+    "startMs": 47702,
+    "endMs": 47779,
+    "timestampMs": 47702,
+    "confidence": null
+  },
+  {
+    "text": " would",
+    "startMs": 47855,
+    "endMs": 48008,
+    "timestampMs": 47855,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 48046,
+    "endMs": 48084,
+    "timestampMs": 48046,
+    "confidence": null
+  },
+  {
+    "text": " original",
+    "startMs": 48161,
+    "endMs": 48543,
+    "timestampMs": 48161,
+    "confidence": null
+  },
+  {
+    "text": " be",
+    "startMs": 48619,
+    "endMs": 48696,
+    "timestampMs": 48619,
+    "confidence": null
+  },
+  {
+    "text": " gone?",
+    "startMs": 48772,
+    "endMs": 49384,
+    "timestampMs": 48772,
+    "confidence": null
+  },
+  {
+    "text": " It's",
+    "startMs": 49422,
+    "endMs": 49537,
+    "timestampMs": 49422,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 49613,
+    "endMs": 49690,
+    "timestampMs": 49613,
+    "confidence": null
+  },
+  {
+    "text": " teleporter",
+    "startMs": 49766,
+    "endMs": 50225,
+    "timestampMs": 49766,
+    "confidence": null
+  },
+  {
+    "text": " problem,",
+    "startMs": 50301,
+    "endMs": 50913,
+    "timestampMs": 50301,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 50989,
+    "endMs": 51066,
+    "timestampMs": 50989,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 51142,
+    "endMs": 51372,
+    "timestampMs": 51142,
+    "confidence": null
+  },
+  {
+    "text": " own",
+    "startMs": 51448,
+    "endMs": 51601,
+    "timestampMs": 51448,
+    "confidence": null
+  },
+  {
+    "text": " life",
+    "startMs": 51677,
+    "endMs": 51983,
+    "timestampMs": 51677,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 52060,
+    "endMs": 52136,
+    "timestampMs": 52060,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 52212,
+    "endMs": 52251,
+    "timestampMs": 52212,
+    "confidence": null
+  },
+  {
+    "text": " line.",
+    "startMs": 52289,
+    "endMs": 52977,
+    "timestampMs": 52289,
+    "confidence": null
+  },
+  {
+    "text": " Would",
+    "startMs": 53053,
+    "endMs": 53130,
+    "timestampMs": 53053,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 53206,
+    "endMs": 53283,
+    "timestampMs": 53206,
+    "confidence": null
+  },
+  {
+    "text": " press",
+    "startMs": 53359,
+    "endMs": 53512,
+    "timestampMs": 53359,
+    "confidence": null
+  },
+  {
+    "text": " upload?",
+    "startMs": 53588,
+    "endMs": 54276,
+    "timestampMs": 53588,
+    "confidence": null
+  }
+]

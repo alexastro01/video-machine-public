@@ -1,0 +1,439 @@
+{
+  "revision": 3,
+  "fps": 60,
+  "duration": 20.333333333333332,
+  "events": {
+    "hook": 0.08945833333333333,
+    "change": 3.189458333333333,
+    "write": 6.829458333333334,
+    "research": 8.969458333333332,
+    "next": 13.949458333333332,
+    "done": 16.308458333333334,
+    "coffee": 18.089458333333333,
+    "cupImpact": 0.46945833333333337,
+    "zero": 1.9494583333333333,
+    "goalWord": 3.749458333333333,
+    "contact": 5.489458333333333,
+    "file": 6.009458333333334,
+    "type": 6.949458333333334,
+    "concrete": 12.809458333333334,
+    "means": 10.849458333333333,
+    "viewerFocus": 14.169458333333333,
+    "result": 17.189458333333334,
+    "coffeeWord": 18.249458333333333,
+    "end": 20.333333333333332,
+    "graphics": 3.009458333333333,
+    "sentenceDone": 8.689458333333333,
+    "typeDuration": 1.7399999999999984,
+    "returnDesk": 15.858458333333335,
+    "returnEnd": 16.388458333333332
+  },
+  "lines": {
+    "hook": {
+      "id": "hook",
+      "text": "Three coffees. Still zero words?",
+      "start": 0.08945833333333333,
+      "end": 2.6494583333333335,
+      "words": [
+        {
+          "text": "Three",
+          "spokenText": "Three",
+          "start": 0.08945833333333333,
+          "end": 0.30945833333333334,
+          "line": "hook"
+        },
+        {
+          "text": "coffees.",
+          "spokenText": "coffees.",
+          "start": 0.46945833333333337,
+          "end": 1.0694583333333332,
+          "line": "hook"
+        },
+        {
+          "text": "Still",
+          "spokenText": "Still",
+          "start": 1.6694583333333333,
+          "end": 1.8694583333333332,
+          "line": "hook"
+        },
+        {
+          "text": "zero",
+          "spokenText": "zero",
+          "start": 1.9494583333333333,
+          "end": 2.189458333333333,
+          "line": "hook"
+        },
+        {
+          "text": "words?",
+          "spokenText": "words?",
+          "start": 2.289458333333333,
+          "end": 2.6494583333333335,
+          "line": "hook"
+        }
+      ]
+    },
+    "change": {
+      "id": "change",
+      "text": "Change 'finish the project' to 'open the file.'",
+      "start": 3.189458333333333,
+      "end": 6.369458333333334,
+      "words": [
+        {
+          "text": "Change",
+          "spokenText": "Change",
+          "start": 3.189458333333333,
+          "end": 3.5494583333333334,
+          "line": "change"
+        },
+        {
+          "text": "finish",
+          "spokenText": "'finish",
+          "start": 3.749458333333333,
+          "end": 4.089458333333334,
+          "line": "change"
+        },
+        {
+          "text": "the",
+          "spokenText": "the",
+          "start": 4.129458333333334,
+          "end": 4.169458333333334,
+          "line": "change"
+        },
+        {
+          "text": "project",
+          "spokenText": "project'",
+          "start": 4.289458333333334,
+          "end": 4.829458333333334,
+          "line": "change"
+        },
+        {
+          "text": "to",
+          "spokenText": "to",
+          "start": 5.049458333333334,
+          "end": 5.269458333333334,
+          "line": "change"
+        },
+        {
+          "text": "open",
+          "spokenText": "'open",
+          "start": 5.489458333333333,
+          "end": 5.789458333333334,
+          "line": "change"
+        },
+        {
+          "text": "the",
+          "spokenText": "the",
+          "start": 5.829458333333334,
+          "end": 5.949458333333333,
+          "line": "change"
+        },
+        {
+          "text": "file.",
+          "spokenText": "file.'",
+          "start": 6.009458333333334,
+          "end": 6.369458333333334,
+          "line": "change"
+        }
+      ]
+    },
+    "write": {
+      "id": "write",
+      "text": "Write one bad sentence.",
+      "start": 6.829458333333334,
+      "end": 8.509458333333333,
+      "words": [
+        {
+          "text": "Write",
+          "spokenText": "Write",
+          "start": 6.829458333333334,
+          "end": 7.069458333333333,
+          "line": "write"
+        },
+        {
+          "text": "one",
+          "spokenText": "one",
+          "start": 7.309458333333334,
+          "end": 7.529458333333333,
+          "line": "write"
+        },
+        {
+          "text": "bad",
+          "spokenText": "bad",
+          "start": 7.6494583333333335,
+          "end": 7.889458333333334,
+          "line": "write"
+        },
+        {
+          "text": "sentence.",
+          "spokenText": "sentence.",
+          "start": 7.989458333333334,
+          "end": 8.509458333333333,
+          "line": "write"
+        }
+      ]
+    },
+    "research": {
+      "id": "research",
+      "text": "In experiments, people delayed tasks less when they thought about them concretely.",
+      "start": 8.969458333333332,
+      "end": 13.509458333333333,
+      "words": [
+        {
+          "text": "In",
+          "spokenText": "In",
+          "start": 8.969458333333332,
+          "end": 9.029458333333332,
+          "line": "research"
+        },
+        {
+          "text": "experiments,",
+          "spokenText": "experiments,",
+          "start": 9.069458333333333,
+          "end": 9.869458333333332,
+          "line": "research"
+        },
+        {
+          "text": "people",
+          "spokenText": "people",
+          "start": 10.109458333333333,
+          "end": 10.409458333333333,
+          "line": "research"
+        },
+        {
+          "text": "delayed",
+          "spokenText": "delayed",
+          "start": 10.449458333333332,
+          "end": 10.789458333333332,
+          "line": "research"
+        },
+        {
+          "text": "tasks",
+          "spokenText": "tasks",
+          "start": 10.849458333333333,
+          "end": 11.269458333333333,
+          "line": "research"
+        },
+        {
+          "text": "less",
+          "spokenText": "less",
+          "start": 11.389458333333334,
+          "end": 11.709458333333332,
+          "line": "research"
+        },
+        {
+          "text": "when",
+          "spokenText": "when",
+          "start": 11.789458333333332,
+          "end": 11.909458333333333,
+          "line": "research"
+        },
+        {
+          "text": "they",
+          "spokenText": "they",
+          "start": 11.929458333333333,
+          "end": 12.089458333333333,
+          "line": "research"
+        },
+        {
+          "text": "thought",
+          "spokenText": "thought",
+          "start": 12.129458333333332,
+          "end": 12.309458333333334,
+          "line": "research"
+        },
+        {
+          "text": "about",
+          "spokenText": "about",
+          "start": 12.349458333333333,
+          "end": 12.589458333333333,
+          "line": "research"
+        },
+        {
+          "text": "them",
+          "spokenText": "them",
+          "start": 12.629458333333332,
+          "end": 12.769458333333333,
+          "line": "research"
+        },
+        {
+          "text": "concretely.",
+          "spokenText": "concretely.",
+          "start": 12.809458333333334,
+          "end": 13.509458333333333,
+          "line": "research"
+        }
+      ]
+    },
+    "next": {
+      "id": "next",
+      "text": "Now pick one action you can do.",
+      "start": 13.949458333333332,
+      "end": 15.869458333333332,
+      "words": [
+        {
+          "text": "Now",
+          "spokenText": "Now",
+          "start": 13.949458333333332,
+          "end": 14.129458333333332,
+          "line": "next"
+        },
+        {
+          "text": "pick",
+          "spokenText": "pick",
+          "start": 14.169458333333333,
+          "end": 14.329458333333333,
+          "line": "next"
+        },
+        {
+          "text": "one",
+          "spokenText": "one",
+          "start": 14.509458333333333,
+          "end": 14.689458333333333,
+          "line": "next"
+        },
+        {
+          "text": "action",
+          "spokenText": "action",
+          "start": 14.889458333333334,
+          "end": 15.249458333333333,
+          "line": "next"
+        },
+        {
+          "text": "you",
+          "spokenText": "you",
+          "start": 15.309458333333334,
+          "end": 15.389458333333334,
+          "line": "next"
+        },
+        {
+          "text": "can",
+          "spokenText": "can",
+          "start": 15.429458333333333,
+          "end": 15.529458333333332,
+          "line": "next"
+        },
+        {
+          "text": "do.",
+          "spokenText": "do.",
+          "start": 15.629458333333332,
+          "end": 15.869458333333332,
+          "line": "next"
+        }
+      ]
+    },
+    "done": {
+      "id": "done",
+      "text": "There. You started.",
+      "start": 16.308458333333334,
+      "end": 17.609458333333333,
+      "words": [
+        {
+          "text": "There.",
+          "spokenText": "There.",
+          "start": 16.308458333333334,
+          "end": 16.609458333333333,
+          "line": "done"
+        },
+        {
+          "text": "You",
+          "spokenText": "You",
+          "start": 16.98945833333333,
+          "end": 17.109458333333333,
+          "line": "done"
+        },
+        {
+          "text": "started.",
+          "spokenText": "started.",
+          "start": 17.189458333333334,
+          "end": 17.609458333333333,
+          "line": "done"
+        }
+      ]
+    },
+    "coffee": {
+      "id": "coffee",
+      "text": "The coffee was optional.",
+      "start": 18.089458333333333,
+      "end": 19.32945833333333,
+      "words": [
+        {
+          "text": "The",
+          "spokenText": "The",
+          "start": 18.089458333333333,
+          "end": 18.189458333333334,
+          "line": "coffee"
+        },
+        {
+          "text": "coffee",
+          "spokenText": "coffee",
+          "start": 18.249458333333333,
+          "end": 18.64945833333333,
+          "line": "coffee"
+        },
+        {
+          "text": "was",
+          "spokenText": "was",
+          "start": 18.709458333333334,
+          "end": 18.82945833333333,
+          "line": "coffee"
+        },
+        {
+          "text": "optional.",
+          "spokenText": "optional.",
+          "start": 18.909458333333333,
+          "end": 19.32945833333333,
+          "line": "coffee"
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "id": "hook",
+      "start": 0,
+      "duration": 3.189458333333333
+    },
+    {
+      "id": "change",
+      "start": 3.189458333333333,
+      "duration": 3.640000000000001
+    },
+    {
+      "id": "write",
+      "start": 6.829458333333334,
+      "duration": 2.139999999999998
+    },
+    {
+      "id": "research",
+      "start": 8.969458333333332,
+      "duration": 4.98
+    },
+    {
+      "id": "next",
+      "start": 13.949458333333332,
+      "duration": 2.3590000000000018
+    },
+    {
+      "id": "done",
+      "start": 16.308458333333334,
+      "duration": 1.7809999999999988
+    },
+    {
+      "id": "coffee",
+      "start": 18.089458333333333,
+      "duration": 2.243874999999999
+    }
+  ],
+  "ui": {
+    "sentence": "My first day at work was weird.",
+    "firstMovePlaceholder": "Your first move\u2026",
+    "zeroLabel": "0 words",
+    "continuation": "Then I met the team.",
+    "goalLine1": "FINISH",
+    "goalLine2": "PROJECT",
+    "actionLine1": "OPEN",
+    "actionLine2": "THE FILE",
+    "goalLabel": "Finish project",
+    "actionLabel": "Open the file"
+  }
+}

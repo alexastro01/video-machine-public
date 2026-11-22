@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "ok-motion",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "ok-message-motion-teen",
+  "title": "Why Does OK Sound Angry?",
+  "number": 19,
+  "shadowLeadSeconds": 0,
+  "premise": "An ordinary OK reply becomes an imagined argument until the sender's lunch explains the missing context.",
+  "fiction": true,
+  "duration": 32.03333333333333,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "miko",
+    "bus-girl"
+  ],
+  "audio": {
+    "narration": "episodes/ok-message-motion-teen/narration.wav",
+    "music": "episodes/ok-message-motion-teen/music.wav",
+    "effects": "episodes/ok-message-motion-teen/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.9541458333333281,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0,
+      "duration": 4.133333333333334,
+      "action": "reveal",
+      "anchor": "One word",
+      "set": "ok-room",
+      "label": "hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reading",
+      "start": 4.133333333333334,
+      "duration": 4.033333333333332,
+      "action": "warn",
+      "anchor": "You read",
+      "set": "ok-room",
+      "label": "reading",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "imagined",
+      "start": 8.166666666666666,
+      "duration": 1.4833333333333343,
+      "action": "warn",
+      "anchor": "Okay",
+      "set": "ok-room",
+      "label": "imagined",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "cues",
+      "start": 9.65,
+      "duration": 3.9583499999999994,
+      "action": "reveal",
+      "anchor": "Text gives",
+      "set": "ok-room",
+      "label": "cues",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "argument",
+      "start": 13.60835,
+      "duration": 1.2083166666666667,
+      "action": "puzzle",
+      "anchor": "entire argument",
+      "set": "ok-room",
+      "label": "argument",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "study",
+      "start": 14.816666666666666,
+      "duration": 4.649999999999999,
+      "action": "reveal",
+      "anchor": "In an email",
+      "set": "ok-room",
+      "label": "study",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reconsider",
+      "start": 19.466666666666665,
+      "duration": 4.900000000000002,
+      "action": "recover",
+      "anchor": "So before",
+      "set": "ok-room",
+      "label": "reconsider",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "sender",
+      "start": 24.366666666666667,
+      "duration": 3.4833333333333343,
+      "action": "eat",
+      "anchor": "She's eating",
+      "set": "ok-room",
+      "label": "sender",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "payoff",
+      "start": 27.85,
+      "duration": 4.18333333333333,
+      "action": "recover",
+      "anchor": "You're planning",
+      "set": "ok-room",
+      "label": "payoff",
+      "timeOfDay": "evening"
+    }
+  ]
+}

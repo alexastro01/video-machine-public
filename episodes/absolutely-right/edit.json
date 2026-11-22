@@ -1,0 +1,201 @@
+{
+  "counterLabel": "You're absolutely right!",
+  "reply": "You’re absolutely right!",
+  "file": "sum.js",
+  "function": "const add = (a, b) => {",
+  "assertion": "add(2, 3)",
+  "counterWord": "right!",
+  "input": "The sky is green.",
+  "commit": "fix: sky.color = \"green\" ✅",
+  "frames": 1608,
+  "fps": 60,
+  "takes": {
+    "broken": {
+      "name": "broken-fast",
+      "window": [
+        0.367,
+        2.108
+      ],
+      "speed": 1.2
+    },
+    "fine": {
+      "name": "fine",
+      "window": [
+        0.012,
+        2.665
+      ],
+      "skip": [
+        0.595,
+        0.929
+      ],
+      "speed": 1.1
+    },
+    "was-broken": {
+      "name": "was-broken",
+      "window": [
+        0.094,
+        1.641
+      ],
+      "speed": 1.13
+    },
+    "tabs": {
+      "name": "tabs",
+      "window": [
+        0.136,
+        0.85
+      ],
+      "speed": 1.18
+    },
+    "spaces": {
+      "name": "spaces",
+      "window": [
+        0.008,
+        0.865
+      ],
+      "speed": 1.18
+    },
+    "once": {
+      "name": "once",
+      "window": [
+        0.0,
+        3.016
+      ],
+      "skip": [
+        0.485,
+        0.953
+      ],
+      "speed": 1.15
+    },
+    "right": {
+      "name": "right",
+      "window": [
+        0.012,
+        1.766
+      ],
+      "speed": 1.2
+    }
+  },
+  "exchanges": [
+    {
+      "take": "broken",
+      "text": "Line 12 is broken.",
+      "alex": 0,
+      "opus": 90
+    },
+    {
+      "take": "fine",
+      "text": "Wait. Line 12 was fine.",
+      "alex": 180,
+      "opus": 315
+    },
+    {
+      "take": "was-broken",
+      "text": "…It was broken.",
+      "alex": 420,
+      "opus": 506
+    },
+    {
+      "take": "tabs",
+      "text": "Tabs.",
+      "alex": 600,
+      "opus": 637
+    },
+    {
+      "take": "spaces",
+      "text": "Spaces.",
+      "alex": 726,
+      "opus": 771
+    },
+    {
+      "take": "once",
+      "text": "Okay. You haven’t agreed with me once.",
+      "alex": 960,
+      "opus": 1099
+    }
+  ],
+  "montage": {
+    "first": 845,
+    "stop": 951,
+    "exchanges": 22,
+    "prompts": [
+      "Tabs.",
+      "Spaces."
+    ]
+  },
+  "typing": {
+    "start": 1200,
+    "keyFrames": [
+      1210,
+      1219,
+      1228,
+      1238,
+      1250,
+      1258,
+      1268,
+      1278,
+      1290,
+      1299,
+      1309,
+      1320,
+      1330,
+      1339,
+      1349,
+      1359,
+      1369
+    ],
+    "enter": 1380,
+    "reply": 1440,
+    "reach": [
+      {
+        "frame": 1372,
+        "pose": "reach-1"
+      },
+      {
+        "frame": 1375,
+        "pose": "reach-2"
+      },
+      {
+        "frame": 1378,
+        "pose": "reach-3"
+      },
+      {
+        "frame": 1380,
+        "pose": "enter"
+      },
+      {
+        "frame": 1445,
+        "pose": "reach-3"
+      },
+      {
+        "frame": 1448,
+        "pose": "reach-2"
+      },
+      {
+        "frame": 1451,
+        "pose": "reach-1"
+      },
+      {
+        "frame": 1454,
+        "pose": "lean"
+      }
+    ]
+  },
+  "sfx": {
+    "ding": {
+      "file": "ding.wav",
+      "library": "Digital HUD Interface Sounds/Right (bells).wav",
+      "trim": [
+        0.0,
+        0.48
+      ]
+    },
+    "key": {
+      "file": "key.wav",
+      "library": "Clicks/Click_02.wav",
+      "trim": [
+        0.0,
+        0.081
+      ]
+    }
+  }
+}

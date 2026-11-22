@@ -1,0 +1,644 @@
+{
+  "alex-front": {
+    "file": "alex-front.png",
+    "w": 41,
+    "h": 92,
+    "sha256": "0ad2731b6be87e67f8e11b008e9d3997b6aefa9c90ff2364dc11d84c1983f102"
+  },
+  "alex-act": {
+    "file": "alex-act.png",
+    "w": 51,
+    "h": 92,
+    "sha256": "4ef05a1f0cdbcd404dfd51ed238f9571c9bd263ec10b87170a4d4ca91e34b771"
+  },
+  "alex-side": {
+    "file": "alex-side.png",
+    "w": 44,
+    "h": 92,
+    "sha256": "c5b3d9fdb4f4ecb5a1cabb336ed133d7df2fc622fca9cfe9045d727f94c98757"
+  },
+  "alex-back": {
+    "file": "alex-back.png",
+    "w": 39,
+    "h": 92,
+    "sha256": "0d51dff4b890b797e7e1a12930b388ad4b005b1619fff3d9243b2e4d06a1cf5d"
+  },
+  "alex-walk-l": {
+    "file": "alex-walk-l.png",
+    "w": 40,
+    "h": 92,
+    "sha256": "c0f065f407e4f43b9a622c46f6d8e0c95a961d3813ef469c3448035fdb0d3c5c"
+  },
+  "alex-walk-r": {
+    "file": "alex-walk-r.png",
+    "w": 40,
+    "h": 92,
+    "sha256": "aad7030602807f18e6bed929ac72534a41da55c2bcaa0261cebec086bbd13d32"
+  },
+  "opus-front": {
+    "file": "opus-front.png",
+    "w": 54,
+    "h": 92,
+    "sha256": "cf164deec4ed1502def51a346920309baabe7fc430d24603479f9d6edf5cb477"
+  },
+  "opus-act": {
+    "file": "opus-act.png",
+    "w": 62,
+    "h": 92,
+    "sha256": "03c1a31a796a5c65eefef0f0595cc7c1a6e95411145587de75878c30b2d8e3f2"
+  },
+  "opus-side": {
+    "file": "opus-side.png",
+    "w": 59,
+    "h": 92,
+    "sha256": "c08002c0235d518c75c1ec5b03c3480b298de2b3b4aa816be93747a7ca4a21fb"
+  },
+  "opus-back": {
+    "file": "opus-back.png",
+    "w": 44,
+    "h": 92,
+    "sha256": "ed984f14c873cb5bfb7a44d822eb78d07c2a4ed02be9b17f755dc2f48e9e1e02"
+  },
+  "opus-walk-l": {
+    "file": "opus-walk-l.png",
+    "w": 46,
+    "h": 92,
+    "sha256": "66c5a0f62ad5c232ad55bd06f1ed0eb4109f71b1cc0094d8830d03ed548a4353"
+  },
+  "opus-walk-r": {
+    "file": "opus-walk-r.png",
+    "w": 45,
+    "h": 92,
+    "sha256": "9d70551e5b86ef26f75a8717e155ee91715ffe39c86a942b9da5e2c16718e38c"
+  },
+  "astra-front": {
+    "file": "astra-front.png",
+    "w": 52,
+    "h": 92,
+    "sha256": "3ca63854974c1cb2e48e7a6849e66412534998e4196e9a00428c112addbb82e6"
+  },
+  "astra-act": {
+    "file": "astra-act.png",
+    "w": 70,
+    "h": 92,
+    "sha256": "30ff9786aa18d279604ab9d775421b76f41710e847b8003a0187416a66cfddfd"
+  },
+  "astra-side": {
+    "file": "astra-side.png",
+    "w": 61,
+    "h": 92,
+    "sha256": "4625e8e2aca7e06ec96c9af050d02bb9b0edabb5e0ca251e486bcf61429844f6"
+  },
+  "astra-back": {
+    "file": "astra-back.png",
+    "w": 50,
+    "h": 92,
+    "sha256": "7cc79570fe871402918c73e21edee04bf46afc4cc3e48d99a1afe9ee57fd1302"
+  },
+  "astra-walk-l": {
+    "file": "astra-walk-l.png",
+    "w": 53,
+    "h": 92,
+    "sha256": "07d7690e2c45f6a31ef85b59593d1586ad9a6939da91d760127d166f63f77256"
+  },
+  "astra-walk-r": {
+    "file": "astra-walk-r.png",
+    "w": 52,
+    "h": 92,
+    "sha256": "16510854b1e6fe79abb4133f8106e01c754530d91a87994914b0a89f5c6eef89"
+  },
+  "gemini-front": {
+    "file": "gemini-front.png",
+    "w": 56,
+    "h": 92,
+    "sha256": "0c97ca5b8f00d82c7104980222744350115a4e1ebe03df153bab549d8f606d3e"
+  },
+  "gemini-act": {
+    "file": "gemini-act.png",
+    "w": 56,
+    "h": 92,
+    "sha256": "5f1b170488e82691d8c1c6c8a719e546f0713a5ff9f9a72501895d360fdd99c3"
+  },
+  "gemini-side": {
+    "file": "gemini-side.png",
+    "w": 58,
+    "h": 92,
+    "sha256": "88e5ec2c66a7b6b81a19e3df3e5368cc47c2475490bd93409191bbb33cfe6c13"
+  },
+  "gemini-back": {
+    "file": "gemini-back.png",
+    "w": 50,
+    "h": 92,
+    "sha256": "ea3d63d7752419ec9525ddccd9b791613022b21a6ac358144a263d6ec06cee83"
+  },
+  "gemini-walk-l": {
+    "file": "gemini-walk-l.png",
+    "w": 51,
+    "h": 92,
+    "sha256": "7337e408d0d3a76caf420f49afc4ad694d179f976be3cbfb1e0090b3ed771c15"
+  },
+  "gemini-walk-r": {
+    "file": "gemini-walk-r.png",
+    "w": 54,
+    "h": 92,
+    "sha256": "12be477dc531b0e4ef738ab775e95e8fc39b9f26ceae4cdcf6cffc3d29cddb61"
+  },
+  "road": {
+    "file": "road.png",
+    "w": 320,
+    "h": 800,
+    "sha256": "40fdcabd7627fd963edf382a4a703b7107f8665edc2e4145e2dbf362310952b0"
+  },
+  "crossroads": {
+    "file": "crossroads.png",
+    "w": 320,
+    "h": 480,
+    "sha256": "c38ee3868521f3c2d55603c72b5d8c23ade3458dabf3cadd7c213aae785a7ec0"
+  },
+  "gates-hourglass-closed": {
+    "file": "gates-hourglass-closed.png",
+    "w": 140,
+    "h": 147,
+    "sha256": "09029ed8b0e0ceb89715592b1e132db6c60c3bcb509b26b4a555ef9175b5f02a"
+  },
+  "gates-heart-quiet": {
+    "file": "gates-heart-quiet.png",
+    "w": 147,
+    "h": 132,
+    "sha256": "cdcf856112d315c1d784ad216a48e6af006c0efc87eb53b08d827824ff7dee5a"
+  },
+  "gates-portal-quiet": {
+    "file": "gates-portal-quiet.png",
+    "w": 147,
+    "h": 145,
+    "sha256": "ed5a2293b05af68f177788807d3ac370410236d068a8f78ec826c768d52f3dac"
+  },
+  "gates-hourglass-open": {
+    "file": "gates-hourglass-open.png",
+    "w": 137,
+    "h": 147,
+    "sha256": "73320d2e4e50e65073a76afb6f9e05a4c81427809c4478d695351ae505e3f61e"
+  },
+  "gates-heart-awake": {
+    "file": "gates-heart-awake.png",
+    "w": 140,
+    "h": 147,
+    "sha256": "e51d16ac56648c06f793189df69c450722e5b32883fc340a2850304f9aeefaa7"
+  },
+  "gates-portal-open": {
+    "file": "gates-portal-open.png",
+    "w": 147,
+    "h": 146,
+    "sha256": "04bea6398b50a1fd4161521c106ae1c8a17f18a677bf4d9f576fd58716db642f"
+  },
+  "monsters-algorithm": {
+    "file": "monsters-algorithm.png",
+    "w": 133,
+    "h": 132,
+    "sha256": "d504bedcb1b9e16965ffad7d3e6ed01dae70771a2046c4af06724ce68138bedd"
+  },
+  "monsters-feed": {
+    "file": "monsters-feed.png",
+    "w": 57,
+    "h": 59,
+    "sha256": "32ab130c17b373e84f54050aa3686e832cd0adc65a1dddb0408583dc5c045734"
+  },
+  "monsters-stories": {
+    "file": "monsters-stories.png",
+    "w": 59,
+    "h": 58,
+    "sha256": "f0c4eaa376e914802034c8ca8da2b4278fcd23009eba31871cf4758c228db442"
+  },
+  "monsters-explore": {
+    "file": "monsters-explore.png",
+    "w": 59,
+    "h": 47,
+    "sha256": "352959e927111b6a82c980bca8837983668d735109470f2e336c71959ffb2e46"
+  },
+  "monsters-reels": {
+    "file": "monsters-reels.png",
+    "w": 55,
+    "h": 59,
+    "sha256": "69655da70d659a39e277c871914d8e20d3c10b8382b97a30b9c9715019aba13f"
+  },
+  "monsters-search": {
+    "file": "monsters-search.png",
+    "w": 46,
+    "h": 59,
+    "sha256": "42535e47a13ed8e08b7d40836f3c4023b75b18b0836c191c279fc1979abf217c"
+  },
+  "props-phone": {
+    "file": "props-phone.png",
+    "w": 29,
+    "h": 49,
+    "sha256": "7f875c2241372733e459b0c531ee8d52a0317c32073313d6ddb1eebe0a37d989"
+  },
+  "props-plane": {
+    "file": "props-plane.png",
+    "w": 49,
+    "h": 43,
+    "sha256": "1c378045b4227d5816f3a637d2e498024411a0a4f49ddc2a56b9efe87e25cbf6"
+  },
+  "props-sandglass": {
+    "file": "props-sandglass.png",
+    "w": 30,
+    "h": 49,
+    "sha256": "4e0be31ba3814ce0b7486c0b80e0e73505930c567c6767730191316426df7d0e"
+  },
+  "props-heart": {
+    "file": "props-heart.png",
+    "w": 49,
+    "h": 45,
+    "sha256": "c6d9c19b196ce413b5bd9aa19d3c3bbbfc4cff72eb53a8d9a19b75a934119045"
+  },
+  "props-follower-coral": {
+    "file": "props-follower-coral.png",
+    "w": 44,
+    "h": 65,
+    "sha256": "e2c5f465e0544142db97822c2684d5fcebc9ea95641de06e4cbebe4a7a298b4a"
+  },
+  "props-follower-teal": {
+    "file": "props-follower-teal.png",
+    "w": 44,
+    "h": 65,
+    "sha256": "1c7cb08d692e4fe53f38e4938e87ad820de8f2532fcd1ab17022f5f2ed3267f1"
+  },
+  "props-village-dark": {
+    "file": "props-village-dark.png",
+    "w": 49,
+    "h": 47,
+    "sha256": "9936d42165378f2765a8d3080948623c7a9f1c02c2ac9e32c6856a79e5f960d5"
+  },
+  "props-village-lit": {
+    "file": "props-village-lit.png",
+    "w": 49,
+    "h": 46,
+    "sha256": "a85c24c3ad72d9eb7bea0579b4ebc9de6b2f2f0e0eb0ed2f9d5bc12532578375"
+  },
+  "props-signpost": {
+    "file": "props-signpost.png",
+    "w": 49,
+    "h": 48,
+    "sha256": "de8b8f163d8973350d2201cd24940ff2b3d950bbd179dfb67691901668b640df"
+  },
+  "props-poof": {
+    "file": "props-poof.png",
+    "w": 49,
+    "h": 48,
+    "sha256": "f1122be564fcb018125124424740ba8b22fd1805b7673064f74f2ce455329f68"
+  },
+  "props-spark": {
+    "file": "props-spark.png",
+    "w": 45,
+    "h": 49,
+    "sha256": "e3a9ca52401d236f491cf872eb0f51551e08b1bd2de844ec505354c72b632606"
+  },
+  "props-ripple": {
+    "file": "props-ripple.png",
+    "w": 49,
+    "h": 43,
+    "sha256": "2389f98535f0d3a7f68a806575361f875578aa456a6cb520e33718bfe126e875"
+  },
+  "hud-title-banner": {
+    "file": "hud-title-banner.png",
+    "w": 224,
+    "h": 102,
+    "sha256": "b81274f658280c1b18e3b07de86b70cfdeb6e8b8c09152119c4b31f12664cbc6"
+  },
+  "hud-health-frame": {
+    "file": "hud-health-frame.png",
+    "w": 150,
+    "h": 26,
+    "sha256": "25403c193e94154445469ec5c1d8b0f98377c07dc6c793b62256f9560c6a91e4"
+  },
+  "hud-map-frame": {
+    "file": "hud-map-frame.png",
+    "w": 150,
+    "h": 129,
+    "sha256": "b08ab8224f6c40caeba7a5f0bad3c97dc080008dc49898935718afd261aaf6f7"
+  },
+  "hud-counter-frame": {
+    "file": "hud-counter-frame.png",
+    "w": 150,
+    "h": 146,
+    "sha256": "778ed81b06e30c32b2b00c47a1266267df2ca58c482bcf5e8a9af0aa859acd99"
+  },
+  "hud-road-label": {
+    "file": "hud-road-label.png",
+    "w": 150,
+    "h": 67,
+    "sha256": "8f5ae5dfa0bb5f2134369c8eaa9861868e2ea976cf8e1d97649638cdfb2d567d"
+  },
+  "hud-follower-badge": {
+    "file": "hud-follower-badge.png",
+    "w": 150,
+    "h": 88,
+    "sha256": "62dfe06762b6adc4a6065fdee64af92bf325d5ce0505e36c4686b35bc4288924"
+  },
+  "map": {
+    "file": "map.png",
+    "w": 96,
+    "h": 96,
+    "sha256": "77c6e4fba852bbe05fc0572b92b307bf2e2811b6568d008bd9f70052f16301fe"
+  },
+  "alex-portrait-first": {
+    "file": "alex-portrait-first.png",
+    "w": 637,
+    "h": 860,
+    "sha256": "78cf574518932c06d23eb4c2f28b33fae76dad5bf08bf2d32713592fcb17529d"
+  },
+  "alex-portrait-second": {
+    "file": "alex-portrait-second.png",
+    "w": 632,
+    "h": 860,
+    "sha256": "f514175af217db2755f8fdaeb36f8db60a0a0c7b5cf0b620ce10fbaa9b06d87f"
+  },
+  "opus-portrait-first": {
+    "file": "opus-portrait-first.png",
+    "w": 563,
+    "h": 860,
+    "sha256": "b2c7222783c64090d47edf3850c3f015ae8af19d89a692677ea0cbf04b74702c"
+  },
+  "opus-portrait-second": {
+    "file": "opus-portrait-second.png",
+    "w": 632,
+    "h": 860,
+    "sha256": "d84c63725b5f76843c5f314e09021cb2f9ebf666086091244cb2942dfafb11c7"
+  },
+  "astra-portrait-first": {
+    "file": "astra-portrait-first.png",
+    "w": 655,
+    "h": 860,
+    "sha256": "a1441c0456af3b892bbeccf80c9ee2f2834a1de6cce0d3aec2251dc27402a0d5"
+  },
+  "astra-portrait-second": {
+    "file": "astra-portrait-second.png",
+    "w": 665,
+    "h": 860,
+    "sha256": "1cf4dd341f502e787e06cf809ed875dff4c6469859d59cc9cc275dfc19585a4b"
+  },
+  "gemini-portrait-first": {
+    "file": "gemini-portrait-first.png",
+    "w": 610,
+    "h": 860,
+    "sha256": "666a60c6d62973fc69c94dbfe6ff29f3ae37a86d4acc8d14dbbe8e9f62d2ee38"
+  },
+  "gemini-portrait-second": {
+    "file": "gemini-portrait-second.png",
+    "w": 625,
+    "h": 860,
+    "sha256": "0d3945a8f50dc2def4aa33cd11357d593535deb8bf86961047b152299f61d01f"
+  },
+  "boss-acting-idle": {
+    "file": "boss-acting-idle.png",
+    "w": 102,
+    "h": 132,
+    "sha256": "cb2140ede5f6839c00965ba809a0b20cff0e996b7c066056ad21b76713704285"
+  },
+  "boss-acting-cackle": {
+    "file": "boss-acting-cackle.png",
+    "w": 132,
+    "h": 132,
+    "sha256": "2a63b70e2e0f5b329eaf0a12efa0fe35bb3ba9bab74e9a262de4160a5a0f3051"
+  },
+  "boss-acting-cracked": {
+    "file": "boss-acting-cracked.png",
+    "w": 124,
+    "h": 132,
+    "sha256": "8cb066b81067d341786299c1b15dc21b0737eba239b77e8c733a2940941858b8"
+  },
+  "alex-quest-rear-left": {
+    "file": "alex-quest-rear-left.png",
+    "w": 40,
+    "h": 92,
+    "sha256": "decf6aea811ea8ad7bf91215be2aa35a715441d54fe024d622b058aefad08781"
+  },
+  "alex-quest-rear-right": {
+    "file": "alex-quest-rear-right.png",
+    "w": 43,
+    "h": 92,
+    "sha256": "fd720fef29a24b8bcf719d8a01878a9da4bf1044283dc91471a7032df1460131"
+  },
+  "alex-quest-left": {
+    "file": "alex-quest-left.png",
+    "w": 29,
+    "h": 92,
+    "sha256": "66337f1814e9c1bdf9ebfa6338ab0240e3759dc67625d4804e32773c216570e9"
+  },
+  "alex-quest-right": {
+    "file": "alex-quest-right.png",
+    "w": 29,
+    "h": 92,
+    "sha256": "e286bdf20513d5932387f4337639b0de0762f271b88797639b1eaf6e42debd2d"
+  },
+  "alex-quest-recoil": {
+    "file": "alex-quest-recoil.png",
+    "w": 64,
+    "h": 92,
+    "sha256": "b312a311fb9ee1cf91a44456503bc079272712c9ad4df41eaa75bbf9941c78c5"
+  },
+  "alex-quest-study": {
+    "file": "alex-quest-study.png",
+    "w": 43,
+    "h": 92,
+    "sha256": "e099ff4cf837231bb15d100192fe3359fd83e9bd0f70bbdf9c3c1783aaf88a91"
+  },
+  "alex-quest-toss": {
+    "file": "alex-quest-toss.png",
+    "w": 63,
+    "h": 92,
+    "sha256": "5dae05c61cddd865bf8e52043e9d2e28bb10fbba049158f00458257d7528184c"
+  },
+  "alex-quest-send": {
+    "file": "alex-quest-send.png",
+    "w": 45,
+    "h": 92,
+    "sha256": "1da40e985eb717c18df368933677de99ab953f9f03a2633418eced715260ba54"
+  },
+  "opus-quest-rear-left": {
+    "file": "opus-quest-rear-left.png",
+    "w": 45,
+    "h": 92,
+    "sha256": "6049fd5fb1c8b0cd3d521cec81b420bb0135fd02647f47456acf20dfeec9e85b"
+  },
+  "opus-quest-rear-right": {
+    "file": "opus-quest-rear-right.png",
+    "w": 43,
+    "h": 92,
+    "sha256": "9d32fa6174d824a01ab97c2d92356ce1e1fe01f8a5922fb0ce46e2e40e08a465"
+  },
+  "opus-quest-left": {
+    "file": "opus-quest-left.png",
+    "w": 35,
+    "h": 92,
+    "sha256": "c2b2cf89ae74e56a529cc71c0b5e94894e3f5230e90261866a283dccb4cb0f57"
+  },
+  "opus-quest-right": {
+    "file": "opus-quest-right.png",
+    "w": 35,
+    "h": 92,
+    "sha256": "c052a242c00369f52ddd3a366cf803d157a1997e17de74eead45261ef4cdcfb3"
+  },
+  "opus-quest-interrupt": {
+    "file": "opus-quest-interrupt.png",
+    "w": 56,
+    "h": 92,
+    "sha256": "fa78150d4e7efd5f5b9e6b91b772b93510b4ee5069be74d84df6b40d311c5833"
+  },
+  "opus-quest-point-north": {
+    "file": "opus-quest-point-north.png",
+    "w": 51,
+    "h": 92,
+    "sha256": "8933b9c3068c220b6be33e58c40efd31079f8f23a70445c97f516d1acc5c4886"
+  },
+  "opus-quest-count": {
+    "file": "opus-quest-count.png",
+    "w": 51,
+    "h": 92,
+    "sha256": "9800b40043e10ad0ed669f92550584261e1b886eced848931e0848ef6e5881e4"
+  },
+  "opus-quest-turn-camera": {
+    "file": "opus-quest-turn-camera.png",
+    "w": 54,
+    "h": 92,
+    "sha256": "5f0b9b7162643d2147ae0b9291a4b4ef07574c5aee458ccda0b957dbeb38c83b"
+  },
+  "astra-quest-rear-left": {
+    "file": "astra-quest-rear-left.png",
+    "w": 50,
+    "h": 92,
+    "sha256": "a93e6fafd4d1ff7de08a26a0a2d5966239348746f7c960c242f6413b94f8d08f"
+  },
+  "astra-quest-rear-right": {
+    "file": "astra-quest-rear-right.png",
+    "w": 49,
+    "h": 92,
+    "sha256": "54fab2369ad04ba7e1f1c7115b3019045af59785f7011f50ef66719e889dd3a3"
+  },
+  "astra-quest-left": {
+    "file": "astra-quest-left.png",
+    "w": 39,
+    "h": 92,
+    "sha256": "ea62003339bf5d3b40bc062823bbc6e9fef373665b60a251bd62f09dae823b6f"
+  },
+  "astra-quest-right": {
+    "file": "astra-quest-right.png",
+    "w": 38,
+    "h": 92,
+    "sha256": "f1f60557577a5cafeafe3d233bb98c2796d7e18dbbc073c1b189cd3675639d3e"
+  },
+  "astra-quest-guard": {
+    "file": "astra-quest-guard.png",
+    "w": 55,
+    "h": 92,
+    "sha256": "3c53dcd3c9a03f9ab3ae7becd71603845e8066deebde85cd8ffa0962f48bb122"
+  },
+  "astra-quest-invert": {
+    "file": "astra-quest-invert.png",
+    "w": 59,
+    "h": 92,
+    "sha256": "be7134aee8320218bc6faf6e7a2d99d0db4606701eedcfc43834c48a37a48731"
+  },
+  "astra-quest-yield": {
+    "file": "astra-quest-yield.png",
+    "w": 66,
+    "h": 92,
+    "sha256": "43ee26b4fd922814329330dcd5f01e259fd97f82ac9ac154c62ee1423a89f63c"
+  },
+  "astra-quest-cheer": {
+    "file": "astra-quest-cheer.png",
+    "w": 48,
+    "h": 92,
+    "sha256": "8ff316446937a5b1de2514e31a56b0b9fb78a96805ad2dae945945cb0f68214a"
+  },
+  "gemini-quest-rear-left": {
+    "file": "gemini-quest-rear-left.png",
+    "w": 52,
+    "h": 92,
+    "sha256": "f3ef4e14d23e7c6ed41521b20857d86e80dd21371bb569fb1251bdb63f81a1f0"
+  },
+  "gemini-quest-rear-right": {
+    "file": "gemini-quest-rear-right.png",
+    "w": 51,
+    "h": 92,
+    "sha256": "b840d56de70676a358a0c89df356b42600320adbb679872e439a5bf72863b3ae"
+  },
+  "gemini-quest-left": {
+    "file": "gemini-quest-left.png",
+    "w": 42,
+    "h": 92,
+    "sha256": "35ca4ba78f3e5d42d31fca6a649cf7b8c241c17b409cc3b838c9453cf848a01b"
+  },
+  "gemini-quest-right": {
+    "file": "gemini-quest-right.png",
+    "w": 42,
+    "h": 92,
+    "sha256": "1b577d2720b2a4a5fa77ee66ea28684a8038bdb9462eea8887fafae911b81195"
+  },
+  "gemini-quest-guard": {
+    "file": "gemini-quest-guard.png",
+    "w": 49,
+    "h": 92,
+    "sha256": "938b4f36a80872b9bd5aa03d04d74f57c519d6b2b60cde7a17f3d61d810a96cb"
+  },
+  "gemini-quest-heart": {
+    "file": "gemini-quest-heart.png",
+    "w": 50,
+    "h": 92,
+    "sha256": "2e195da578429db48cc74db37818690d1e28361a4a3d096ca09eff3f462282f0"
+  },
+  "gemini-quest-offer": {
+    "file": "gemini-quest-offer.png",
+    "w": 63,
+    "h": 92,
+    "sha256": "8bd8e7076912b562987281dc1a247936e842c85498d2773df8e912d8db48348c"
+  },
+  "gemini-quest-cheer": {
+    "file": "gemini-quest-cheer.png",
+    "w": 58,
+    "h": 92,
+    "sha256": "911ee59b741603c8b4c9aa98ccca0ebe39991f6a0408af05c921749934a3f7b8"
+  },
+  "avenue": {
+    "file": "avenue.png",
+    "w": 320,
+    "h": 480,
+    "sha256": "dee6acb63fca3bf64e51c85456af9d833e7a74a552e74058fec8eb2a6b3cda92"
+  },
+  "junction": {
+    "file": "junction.png",
+    "w": 320,
+    "h": 480,
+    "sha256": "045899ee3fbd00a022a8fff6b1c7ae3da205aeb1c54279afdbfeb1ae6697d92a"
+  },
+  "clock-court": {
+    "file": "clock-court.png",
+    "w": 320,
+    "h": 480,
+    "sha256": "c05253135d807c2b5c34870efcb2687824f36d167cd6252c14f01a6397b2a6aa"
+  },
+  "heart-court": {
+    "file": "heart-court.png",
+    "w": 320,
+    "h": 480,
+    "sha256": "21a340f05030faca77307b0ff623d42ef9be8d8b70f62fc835e13d346dd89964"
+  },
+  "portal-court": {
+    "file": "portal-court.png",
+    "w": 320,
+    "h": 480,
+    "sha256": "aaa26e933791fc191241b12e3a0993d5de4664d74e9540e1d0d7ccf82d84ee9f"
+  },
+  "alex-payoff-portrait-talk": {
+    "file": "alex-payoff-portrait-talk.png",
+    "w": 525,
+    "h": 860,
+    "sha256": "27d3fedccf6b5cc26f350fbfa392241f118096c031f0b05bd506cc1bdd86e8a0"
+  },
+  "opus-payoff-portrait-talk": {
+    "file": "opus-payoff-portrait-talk.png",
+    "w": 590,
+    "h": 860,
+    "sha256": "ecc85b13e11c364fd9f0fe2f4e7ce5e7921c1d59c1ea049c1ad564cb1503c1ba"
+  }
+}

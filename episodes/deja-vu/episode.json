@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "renderer": "hyperframes",
+  "hook": "none",
+  "world": "deja-vu",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "deja-vu",
+  "title": "Why Déjà Vu Feels Like a Memory",
+  "number": 11,
+  "shadowLeadSeconds": 0,
+  "premise": "Why Déjà Vu Feels Like a Memory",
+  "fiction": true,
+  "duration": 12.0,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "witch"
+  ],
+  "audio": {
+    "narration": "public/episodes/deja-vu/narration.wav",
+    "music": "public/episodes/deja-vu/music.wav",
+    "effects": "public/episodes/deja-vu/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.14,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "freeze",
+      "set": "deja-cafe",
+      "specimen": "none",
+      "action": "stop",
+      "start": 0.0,
+      "duration": 3.0,
+      "anchor": "Wait",
+      "focus": [],
+      "label": "freeze",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reveal",
+      "set": "deja-cafe",
+      "specimen": "none",
+      "action": "reveal",
+      "start": 3.0,
+      "duration": 0.9333,
+      "anchor": "Past life",
+      "focus": [],
+      "label": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "really",
+      "set": "deja-cafe",
+      "specimen": "none",
+      "action": "puzzle",
+      "start": 3.933333333333333,
+      "duration": 0.5333,
+      "anchor": "Really",
+      "focus": [],
+      "label": "really",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "no",
+      "set": "deja-cafe",
+      "specimen": "none",
+      "action": "turn",
+      "start": 4.466666666666667,
+      "duration": 0.5333,
+      "anchor": "No. Same",
+      "focus": [],
+      "label": "no",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "layout",
+      "set": "deja-wire",
+      "specimen": "none",
+      "action": "wave",
+      "start": 5.0,
+      "duration": 1.8,
+      "anchor": "Same layout",
+      "focus": [],
+      "label": "layout",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "equation",
+      "set": "deja-ghost",
+      "specimen": "none",
+      "action": "reveal",
+      "start": 6.8,
+      "duration": 3.0333,
+      "anchor": "Familiar",
+      "focus": [],
+      "label": "equation",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "walkin",
+      "set": "deja-cafe",
+      "specimen": "none",
+      "action": "step",
+      "start": 9.833333333333334,
+      "duration": 2.1667,
+      "anchor": "So next time",
+      "focus": [],
+      "label": "walkin",
+      "timeOfDay": "evening"
+    }
+  ]
+}

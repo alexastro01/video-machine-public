@@ -1,0 +1,12 @@
+{
+  "canvasWidth": 1080,
+  "canvasHeight": 1920,
+  "panelTop": 1188,
+  "blend": 0.85,
+  "blurRadius": 36,
+  "edgeFeather": 48,
+  "shade": "linear-gradient(112deg, rgba(35,34,33,.48), rgba(31,31,30,.67) 56%, rgba(30,30,30,.72))",
+  "captionLeft": 452,
+  "captionTop": 1314,
+  "captionWidth": 453
+}

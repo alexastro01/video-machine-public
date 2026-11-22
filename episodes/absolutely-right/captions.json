@@ -1,0 +1,93 @@
+[
+  {
+    "text": "Line 12 is broken.",
+    "startMs": 10,
+    "endMs": 1467,
+    "timestampMs": 10,
+    "confidence": null
+  },
+  {
+    "text": "You’re absolutely right!",
+    "startMs": 1500,
+    "endMs": 2967,
+    "timestampMs": 1500,
+    "confidence": null
+  },
+  {
+    "text": "Wait. Line 12 was fine.",
+    "startMs": 3020,
+    "endMs": 5117,
+    "timestampMs": 3020,
+    "confidence": null
+  },
+  {
+    "text": "You’re absolutely right!",
+    "startMs": 5250,
+    "endMs": 6717,
+    "timestampMs": 5250,
+    "confidence": null
+  },
+  {
+    "text": "…It was broken.",
+    "startMs": 7010,
+    "endMs": 8383,
+    "timestampMs": 7010,
+    "confidence": null
+  },
+  {
+    "text": "You’re absolutely right!",
+    "startMs": 8433,
+    "endMs": 9900,
+    "timestampMs": 8433,
+    "confidence": null
+  },
+  {
+    "text": "Tabs.",
+    "startMs": 10010,
+    "endMs": 10617,
+    "timestampMs": 10010,
+    "confidence": null
+  },
+  {
+    "text": "You’re absolutely right!",
+    "startMs": 10617,
+    "endMs": 12083,
+    "timestampMs": 10617,
+    "confidence": null
+  },
+  {
+    "text": "Spaces.",
+    "startMs": 12110,
+    "endMs": 12833,
+    "timestampMs": 12110,
+    "confidence": null
+  },
+  {
+    "text": "You’re absolutely right!",
+    "startMs": 12850,
+    "endMs": 14317,
+    "timestampMs": 12850,
+    "confidence": null
+  },
+  {
+    "text": "Okay. You haven’t agreed with me once.",
+    "startMs": 16000,
+    "endMs": 18217,
+    "timestampMs": 16000,
+    "confidence": null
+  },
+  {
+    "text": "You’re absolutely right!",
+    "startMs": 18317,
+    "endMs": 19783,
+    "timestampMs": 18317,
+    "confidence": null
+  },
+  {
+    "text": "You’re absolutely right!",
+    "startMs": 24000,
+    "endMs": 25467,
+    "timestampMs": 24000,
+    "confidence": null
+  }
+]

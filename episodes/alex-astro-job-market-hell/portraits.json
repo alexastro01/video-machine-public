@@ -1,0 +1,32 @@
+{
+  "portrait-question": {
+    "width": 734,
+    "height": 1113,
+    "mouth": {
+      "x": 378,
+      "y": 233,
+      "width": 82,
+      "height": 86
+    }
+  },
+  "portrait-opus": {
+    "width": 768,
+    "height": 1152,
+    "mouth": {
+      "x": 329,
+      "y": 293,
+      "width": 59,
+      "height": 72
+    }
+  },
+  "portrait-two": {
+    "width": 618,
+    "height": 1088,
+    "mouth": {
+      "x": 318,
+      "y": 242,
+      "width": 69,
+      "height": 69
+    }
+  }
+}

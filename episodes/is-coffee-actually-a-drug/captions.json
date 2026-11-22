@@ -1,0 +1,359 @@
+[
+  {
+    "text": "Is coffee",
+    "startMs": 120,
+    "endMs": 940,
+    "timestampMs": 120,
+    "confidence": null
+  },
+  {
+    "text": "actually a",
+    "startMs": 940,
+    "endMs": 1650,
+    "timestampMs": 940,
+    "confidence": null
+  },
+  {
+    "text": "drug?",
+    "startMs": 1650,
+    "endMs": 2290,
+    "timestampMs": 1650,
+    "confidence": null
+  },
+  {
+    "text": "That cup",
+    "startMs": 2360,
+    "endMs": 2880,
+    "timestampMs": 2360,
+    "confidence": null
+  },
+  {
+    "text": "contains one.",
+    "startMs": 2880,
+    "endMs": 3870,
+    "timestampMs": 2880,
+    "confidence": null
+  },
+  {
+    "text": "Caffeine.",
+    "startMs": 3943,
+    "endMs": 4883,
+    "timestampMs": 3943,
+    "confidence": null
+  },
+  {
+    "text": "It's a",
+    "startMs": 5253,
+    "endMs": 5453,
+    "timestampMs": 5253,
+    "confidence": null
+  },
+  {
+    "text": "stimulant",
+    "startMs": 5453,
+    "endMs": 6073,
+    "timestampMs": 5453,
+    "confidence": null
+  },
+  {
+    "text": "that coffee",
+    "startMs": 6073,
+    "endMs": 6593,
+    "timestampMs": 6073,
+    "confidence": null
+  },
+  {
+    "text": "plants make",
+    "startMs": 6593,
+    "endMs": 7233,
+    "timestampMs": 6593,
+    "confidence": null
+  },
+  {
+    "text": "naturally.",
+    "startMs": 7233,
+    "endMs": 8113,
+    "timestampMs": 7233,
+    "confidence": null
+  },
+  {
+    "text": "While you're",
+    "startMs": 8177,
+    "endMs": 8557,
+    "timestampMs": 8177,
+    "confidence": null
+  },
+  {
+    "text": "awake,",
+    "startMs": 8557,
+    "endMs": 9127,
+    "timestampMs": 8557,
+    "confidence": null
+  },
+  {
+    "text": "a chemical",
+    "startMs": 9267,
+    "endMs": 9637,
+    "timestampMs": 9267,
+    "confidence": null
+  },
+  {
+    "text": "called adenosine",
+    "startMs": 9637,
+    "endMs": 11067,
+    "timestampMs": 9637,
+    "confidence": null
+  },
+  {
+    "text": "builds up",
+    "startMs": 11117,
+    "endMs": 11557,
+    "timestampMs": 11117,
+    "confidence": null
+  },
+  {
+    "text": "in parts",
+    "startMs": 11557,
+    "endMs": 11937,
+    "timestampMs": 11557,
+    "confidence": null
+  },
+  {
+    "text": "of your",
+    "startMs": 11937,
+    "endMs": 12277,
+    "timestampMs": 11937,
+    "confidence": null
+  },
+  {
+    "text": "brain.",
+    "startMs": 12277,
+    "endMs": 12747,
+    "timestampMs": 12277,
+    "confidence": null
+  },
+  {
+    "text": "Picture a",
+    "startMs": 13017,
+    "endMs": 13457,
+    "timestampMs": 13017,
+    "confidence": null
+  },
+  {
+    "text": "receptor",
+    "startMs": 13457,
+    "endMs": 13957,
+    "timestampMs": 13457,
+    "confidence": null
+  },
+  {
+    "text": "as a",
+    "startMs": 13957,
+    "endMs": 14457,
+    "timestampMs": 13957,
+    "confidence": null
+  },
+  {
+    "text": "seat.",
+    "startMs": 14457,
+    "endMs": 15337,
+    "timestampMs": 14457,
+    "confidence": null
+  },
+  {
+    "text": "When adenosine",
+    "startMs": 15357,
+    "endMs": 16017,
+    "timestampMs": 15357,
+    "confidence": null
+  },
+  {
+    "text": "sits down,",
+    "startMs": 16017,
+    "endMs": 16827,
+    "timestampMs": 16017,
+    "confidence": null
+  },
+  {
+    "text": "it helps",
+    "startMs": 17097,
+    "endMs": 17337,
+    "timestampMs": 17097,
+    "confidence": null
+  },
+  {
+    "text": "you feel",
+    "startMs": 17337,
+    "endMs": 17677,
+    "timestampMs": 17337,
+    "confidence": null
+  },
+  {
+    "text": "sleepy.",
+    "startMs": 17677,
+    "endMs": 18257,
+    "timestampMs": 17677,
+    "confidence": null
+  },
+  {
+    "text": "Caffeine can",
+    "startMs": 18517,
+    "endMs": 19297,
+    "timestampMs": 18517,
+    "confidence": null
+  },
+  {
+    "text": "take that",
+    "startMs": 19297,
+    "endMs": 19797,
+    "timestampMs": 19297,
+    "confidence": null
+  },
+  {
+    "text": "same seat.",
+    "startMs": 19797,
+    "endMs": 20707,
+    "timestampMs": 19797,
+    "confidence": null
+  },
+  {
+    "text": "Now adenosine",
+    "startMs": 21183,
+    "endMs": 22373,
+    "timestampMs": 21183,
+    "confidence": null
+  },
+  {
+    "text": "can't sit",
+    "startMs": 22503,
+    "endMs": 23023,
+    "timestampMs": 22503,
+    "confidence": null
+  },
+  {
+    "text": "there to",
+    "startMs": 23023,
+    "endMs": 23283,
+    "timestampMs": 23023,
+    "confidence": null
+  },
+  {
+    "text": "send its",
+    "startMs": 23283,
+    "endMs": 23703,
+    "timestampMs": 23283,
+    "confidence": null
+  },
+  {
+    "text": "signal.",
+    "startMs": 23703,
+    "endMs": 24093,
+    "timestampMs": 23703,
+    "confidence": null
+  },
+  {
+    "text": "You feel",
+    "startMs": 24383,
+    "endMs": 24763,
+    "timestampMs": 24383,
+    "confidence": null
+  },
+  {
+    "text": "more alert,",
+    "startMs": 24763,
+    "endMs": 25513,
+    "timestampMs": 24763,
+    "confidence": null
+  },
+  {
+    "text": "even though",
+    "startMs": 25923,
+    "endMs": 26243,
+    "timestampMs": 25923,
+    "confidence": null
+  },
+  {
+    "text": "you still",
+    "startMs": 26243,
+    "endMs": 26823,
+    "timestampMs": 26243,
+    "confidence": null
+  },
+  {
+    "text": "need the",
+    "startMs": 26823,
+    "endMs": 27373,
+    "timestampMs": 26823,
+    "confidence": null
+  },
+  {
+    "text": "sleep you",
+    "startMs": 27383,
+    "endMs": 27703,
+    "timestampMs": 27383,
+    "confidence": null
+  },
+  {
+    "text": "missed.",
+    "startMs": 27703,
+    "endMs": 28053,
+    "timestampMs": 27703,
+    "confidence": null
+  },
+  {
+    "text": "As your",
+    "startMs": 28407,
+    "endMs": 28727,
+    "timestampMs": 28407,
+    "confidence": null
+  },
+  {
+    "text": "body clears",
+    "startMs": 28727,
+    "endMs": 29247,
+    "timestampMs": 28727,
+    "confidence": null
+  },
+  {
+    "text": "the caffeine,",
+    "startMs": 29247,
+    "endMs": 30077,
+    "timestampMs": 29247,
+    "confidence": null
+  },
+  {
+    "text": "the seat",
+    "startMs": 30327,
+    "endMs": 30687,
+    "timestampMs": 30327,
+    "confidence": null
+  },
+  {
+    "text": "opens up",
+    "startMs": 30687,
+    "endMs": 31287,
+    "timestampMs": 30687,
+    "confidence": null
+  },
+  {
+    "text": "again.",
+    "startMs": 31287,
+    "endMs": 31577,
+    "timestampMs": 31287,
+    "confidence": null
+  },
+  {
+    "text": "And there's",
+    "startMs": 31973,
+    "endMs": 32673,
+    "timestampMs": 31973,
+    "confidence": null
+  },
+  {
+    "text": "that yawn.",
+    "startMs": 32673,
+    "endMs": 33693,
+    "timestampMs": 32673,
+    "confidence": null
+  }
+]

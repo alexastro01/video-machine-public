@@ -1,0 +1,674 @@
+[
+  {
+    "text": "England,",
+    "startMs": 0,
+    "endMs": 610,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": " fifteen",
+    "startMs": 732,
+    "endMs": 1058,
+    "timestampMs": 732,
+    "confidence": null
+  },
+  {
+    "text": " hundred.",
+    "startMs": 1139,
+    "endMs": 1790,
+    "timestampMs": 1139,
+    "confidence": null
+  },
+  {
+    "text": " Could",
+    "startMs": 2034,
+    "endMs": 2115,
+    "timestampMs": 2034,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 2197,
+    "endMs": 2278,
+    "timestampMs": 2197,
+    "confidence": null
+  },
+  {
+    "text": " survive",
+    "startMs": 2360,
+    "endMs": 2685,
+    "timestampMs": 2360,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2726,
+    "endMs": 2766,
+    "timestampMs": 2726,
+    "confidence": null
+  },
+  {
+    "text": " week?",
+    "startMs": 2848,
+    "endMs": 3458,
+    "timestampMs": 2848,
+    "confidence": null
+  },
+  {
+    "text": " You",
+    "startMs": 3743,
+    "endMs": 3824,
+    "timestampMs": 3743,
+    "confidence": null
+  },
+  {
+    "text": " wake",
+    "startMs": 3905,
+    "endMs": 4068,
+    "timestampMs": 3905,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 4150,
+    "endMs": 4312,
+    "timestampMs": 4150,
+    "confidence": null
+  },
+  {
+    "text": " straw.",
+    "startMs": 4434,
+    "endMs": 5085,
+    "timestampMs": 4434,
+    "confidence": null
+  },
+  {
+    "text": " First",
+    "startMs": 5370,
+    "endMs": 5533,
+    "timestampMs": 5370,
+    "confidence": null
+  },
+  {
+    "text": " problem:",
+    "startMs": 5614,
+    "endMs": 6428,
+    "timestampMs": 5614,
+    "confidence": null
+  },
+  {
+    "text": " fire.",
+    "startMs": 6509,
+    "endMs": 7323,
+    "timestampMs": 6509,
+    "confidence": null
+  },
+  {
+    "text": " No",
+    "startMs": 7404,
+    "endMs": 7485,
+    "timestampMs": 7404,
+    "confidence": null
+  },
+  {
+    "text": " lighter.",
+    "startMs": 7567,
+    "endMs": 8299,
+    "timestampMs": 7567,
+    "confidence": null
+  },
+  {
+    "text": " No",
+    "startMs": 8380,
+    "endMs": 8462,
+    "timestampMs": 8380,
+    "confidence": null
+  },
+  {
+    "text": " matches.",
+    "startMs": 8543,
+    "endMs": 9357,
+    "timestampMs": 8543,
+    "confidence": null
+  },
+  {
+    "text": " Just",
+    "startMs": 9479,
+    "endMs": 9601,
+    "timestampMs": 9479,
+    "confidence": null
+  },
+  {
+    "text": " flint,",
+    "startMs": 9682,
+    "endMs": 10252,
+    "timestampMs": 9682,
+    "confidence": null
+  },
+  {
+    "text": " steel",
+    "startMs": 10496,
+    "endMs": 10740,
+    "timestampMs": 10496,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 10862,
+    "endMs": 10984,
+    "timestampMs": 10862,
+    "confidence": null
+  },
+  {
+    "text": " dry",
+    "startMs": 11106,
+    "endMs": 11228,
+    "timestampMs": 11106,
+    "confidence": null
+  },
+  {
+    "text": " tinder.",
+    "startMs": 11391,
+    "endMs": 12205,
+    "timestampMs": 11391,
+    "confidence": null
+  },
+  {
+    "text": " Need",
+    "startMs": 12286,
+    "endMs": 12449,
+    "timestampMs": 12286,
+    "confidence": null
+  },
+  {
+    "text": " help?",
+    "startMs": 12530,
+    "endMs": 13262,
+    "timestampMs": 12530,
+    "confidence": null
+  },
+  {
+    "text": " Your",
+    "startMs": 13344,
+    "endMs": 13425,
+    "timestampMs": 13344,
+    "confidence": null
+  },
+  {
+    "text": " accent",
+    "startMs": 13506,
+    "endMs": 13913,
+    "timestampMs": 13506,
+    "confidence": null
+  },
+  {
+    "text": " may",
+    "startMs": 14035,
+    "endMs": 14157,
+    "timestampMs": 14035,
+    "confidence": null
+  },
+  {
+    "text": " puzzle",
+    "startMs": 14198,
+    "endMs": 14564,
+    "timestampMs": 14198,
+    "confidence": null
+  },
+  {
+    "text": " them.",
+    "startMs": 14686,
+    "endMs": 15215,
+    "timestampMs": 14686,
+    "confidence": null
+  },
+  {
+    "text": " Shakespeare",
+    "startMs": 15296,
+    "endMs": 15785,
+    "timestampMs": 15296,
+    "confidence": null
+  },
+  {
+    "text": " won't",
+    "startMs": 15825,
+    "endMs": 15947,
+    "timestampMs": 15825,
+    "confidence": null
+  },
+  {
+    "text": " be",
+    "startMs": 16029,
+    "endMs": 16110,
+    "timestampMs": 16029,
+    "confidence": null
+  },
+  {
+    "text": " born",
+    "startMs": 16232,
+    "endMs": 16354,
+    "timestampMs": 16232,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 16395,
+    "endMs": 16435,
+    "timestampMs": 16395,
+    "confidence": null
+  },
+  {
+    "text": " another",
+    "startMs": 16517,
+    "endMs": 16842,
+    "timestampMs": 16517,
+    "confidence": null
+  },
+  {
+    "text": " sixty-four",
+    "startMs": 16964,
+    "endMs": 17493,
+    "timestampMs": 16964,
+    "confidence": null
+  },
+  {
+    "text": " years.",
+    "startMs": 17575,
+    "endMs": 18470,
+    "timestampMs": 17575,
+    "confidence": null
+  },
+  {
+    "text": " Hungry?",
+    "startMs": 18592,
+    "endMs": 19283,
+    "timestampMs": 18592,
+    "confidence": null
+  },
+  {
+    "text": " Potatoes",
+    "startMs": 19405,
+    "endMs": 19771,
+    "timestampMs": 19405,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 19853,
+    "endMs": 19934,
+    "timestampMs": 19853,
+    "confidence": null
+  },
+  {
+    "text": " tomatoes",
+    "startMs": 20056,
+    "endMs": 20504,
+    "timestampMs": 20056,
+    "confidence": null
+  },
+  {
+    "text": " haven't",
+    "startMs": 20666,
+    "endMs": 20992,
+    "timestampMs": 20666,
+    "confidence": null
+  },
+  {
+    "text": " reached",
+    "startMs": 21033,
+    "endMs": 21236,
+    "timestampMs": 21033,
+    "confidence": null
+  },
+  {
+    "text": " English",
+    "startMs": 21317,
+    "endMs": 21561,
+    "timestampMs": 21317,
+    "confidence": null
+  },
+  {
+    "text": " plates.",
+    "startMs": 21643,
+    "endMs": 22375,
+    "timestampMs": 21643,
+    "confidence": null
+  },
+  {
+    "text": " You're",
+    "startMs": 22416,
+    "endMs": 22538,
+    "timestampMs": 22416,
+    "confidence": null
+  },
+  {
+    "text": " getting",
+    "startMs": 22700,
+    "endMs": 22863,
+    "timestampMs": 22700,
+    "confidence": null
+  },
+  {
+    "text": " bread",
+    "startMs": 23067,
+    "endMs": 23270,
+    "timestampMs": 23067,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 23392,
+    "endMs": 23514,
+    "timestampMs": 23392,
+    "confidence": null
+  },
+  {
+    "text": " pottage.",
+    "startMs": 23555,
+    "endMs": 24490,
+    "timestampMs": 23555,
+    "confidence": null
+  },
+  {
+    "text": " Caught",
+    "startMs": 24613,
+    "endMs": 24735,
+    "timestampMs": 24613,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 24816,
+    "endMs": 24897,
+    "timestampMs": 24816,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 24925,
+    "endMs": 24951,
+    "timestampMs": 24925,
+    "confidence": null
+  },
+  {
+    "text": " vagrant?",
+    "startMs": 24979,
+    "endMs": 25874,
+    "timestampMs": 24979,
+    "confidence": null
+  },
+  {
+    "text": " You",
+    "startMs": 25914,
+    "endMs": 25955,
+    "timestampMs": 25914,
+    "confidence": null
+  },
+  {
+    "text": " could",
+    "startMs": 26036,
+    "endMs": 26118,
+    "timestampMs": 26036,
+    "confidence": null
+  },
+  {
+    "text": " spend",
+    "startMs": 26158,
+    "endMs": 26525,
+    "timestampMs": 26158,
+    "confidence": null
+  },
+  {
+    "text": " three",
+    "startMs": 26647,
+    "endMs": 26769,
+    "timestampMs": 26647,
+    "confidence": null
+  },
+  {
+    "text": " days",
+    "startMs": 26931,
+    "endMs": 27257,
+    "timestampMs": 26931,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 27298,
+    "endMs": 27338,
+    "timestampMs": 27298,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 27379,
+    "endMs": 27420,
+    "timestampMs": 27379,
+    "confidence": null
+  },
+  {
+    "text": " stocks.",
+    "startMs": 27501,
+    "endMs": 28274,
+    "timestampMs": 27501,
+    "confidence": null
+  },
+  {
+    "text": " Cut",
+    "startMs": 28673,
+    "endMs": 28721,
+    "timestampMs": 28673,
+    "confidence": null
+  },
+  {
+    "text": " yourself?",
+    "startMs": 28843,
+    "endMs": 29535,
+    "timestampMs": 28843,
+    "confidence": null
+  },
+  {
+    "text": " Germ",
+    "startMs": 29779,
+    "endMs": 30023,
+    "timestampMs": 29779,
+    "confidence": null
+  },
+  {
+    "text": " theory",
+    "startMs": 30105,
+    "endMs": 30430,
+    "timestampMs": 30105,
+    "confidence": null
+  },
+  {
+    "text": " doesn't",
+    "startMs": 30593,
+    "endMs": 30837,
+    "timestampMs": 30593,
+    "confidence": null
+  },
+  {
+    "text": " exist",
+    "startMs": 30918,
+    "endMs": 31325,
+    "timestampMs": 30918,
+    "confidence": null
+  },
+  {
+    "text": " yet.",
+    "startMs": 31406,
+    "endMs": 31976,
+    "timestampMs": 31406,
+    "confidence": null
+  },
+  {
+    "text": " Modern",
+    "startMs": 32057,
+    "endMs": 32301,
+    "timestampMs": 32057,
+    "confidence": null
+  },
+  {
+    "text": " anaesthetics",
+    "startMs": 32383,
+    "endMs": 33034,
+    "timestampMs": 32383,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 33156,
+    "endMs": 33278,
+    "timestampMs": 33156,
+    "confidence": null
+  },
+  {
+    "text": " centuries",
+    "startMs": 33359,
+    "endMs": 33847,
+    "timestampMs": 33359,
+    "confidence": null
+  },
+  {
+    "text": " away.",
+    "startMs": 33929,
+    "endMs": 34661,
+    "timestampMs": 33929,
+    "confidence": null
+  },
+  {
+    "text": " A",
+    "startMs": 34783,
+    "endMs": 34905,
+    "timestampMs": 34783,
+    "confidence": null
+  },
+  {
+    "text": " serious",
+    "startMs": 35108,
+    "endMs": 35312,
+    "timestampMs": 35108,
+    "confidence": null
+  },
+  {
+    "text": " operation",
+    "startMs": 35393,
+    "endMs": 35963,
+    "timestampMs": 35393,
+    "confidence": null
+  },
+  {
+    "text": " could",
+    "startMs": 36044,
+    "endMs": 36207,
+    "timestampMs": 36044,
+    "confidence": null
+  },
+  {
+    "text": " mean",
+    "startMs": 36288,
+    "endMs": 36451,
+    "timestampMs": 36288,
+    "confidence": null
+  },
+  {
+    "text": " agony.",
+    "startMs": 36614,
+    "endMs": 37346,
+    "timestampMs": 36614,
+    "confidence": null
+  },
+  {
+    "text": " Finish",
+    "startMs": 37850,
+    "endMs": 37915,
+    "timestampMs": 37850,
+    "confidence": null
+  },
+  {
+    "text": " this:",
+    "startMs": 37997,
+    "endMs": 38729,
+    "timestampMs": 37997,
+    "confidence": null
+  },
+  {
+    "text": " I'd",
+    "startMs": 38770,
+    "endMs": 38973,
+    "timestampMs": 38770,
+    "confidence": null
+  },
+  {
+    "text": " last",
+    "startMs": 39136,
+    "endMs": 39299,
+    "timestampMs": 39136,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 39380,
+    "endMs": 39421,
+    "timestampMs": 39380,
+    "confidence": null
+  },
+  {
+    "text": " week,",
+    "startMs": 39461,
+    "endMs": 40031,
+    "timestampMs": 39461,
+    "confidence": null
+  },
+  {
+    "text": " only",
+    "startMs": 40112,
+    "endMs": 40438,
+    "timestampMs": 40112,
+    "confidence": null
+  },
+  {
+    "text": " with...",
+    "startMs": 40519,
+    "endMs": 41333,
+    "timestampMs": 40519,
+    "confidence": null
+  },
+  {
+    "text": " Because",
+    "startMs": 41495,
+    "endMs": 41658,
+    "timestampMs": 41495,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 41740,
+    "endMs": 41821,
+    "timestampMs": 41740,
+    "confidence": null
+  },
+  {
+    "text": " wake",
+    "startMs": 41943,
+    "endMs": 42065,
+    "timestampMs": 41943,
+    "confidence": null
+  },
+  {
+    "text": " up",
+    "startMs": 42146,
+    "endMs": 42309,
+    "timestampMs": 42146,
+    "confidence": null
+  },
+  {
+    "text": " in...",
+    "startMs": 42390,
+    "endMs": 42940,
+    "timestampMs": 42390,
+    "confidence": null
+  }
+]

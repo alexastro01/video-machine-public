@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "make-no-mistakes-story",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "make-no-mistakes-story",
+  "title": "Make No Mistakes · Alex’s 9 AM Demo",
+  "number": 39,
+  "shadowLeadSeconds": 0,
+  "premise": "A message in a tiny backpack carries Alex’s broken login through the system before his morning demo.",
+  "fiction": false,
+  "duration": 59.766666666666666,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "astra",
+    "alex"
+  ],
+  "audio": {
+    "narration": "episodes/make-no-mistakes-story/narration.wav",
+    "music": "episodes/make-no-mistakes-story/music.wav",
+    "effects": "episodes/make-no-mistakes-story/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.23936,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0.0,
+      "duration": 5.433333333333334,
+      "anchor": "How does OpenAI handle over 2.5 billion messages a day?",
+      "description": "A dimensional OpenAI knot fills as requests arrive. It opens and drops one gold request into Astra’s hand.",
+      "label": "hook",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "setup",
+      "start": 5.433333333333334,
+      "duration": 5.45,
+      "anchor": "This is Alex's message. It has one job: get to me and back before his demo.",
+      "description": "At 2:13 AM Alex sends login-01 before his 9:00 AM demo.",
+      "label": "setup",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "gate",
+      "start": 10.883333333333333,
+      "duration": 7.1,
+      "anchor": "First stop, Cloudflare, then a checkpoint: who are you, and have you hit your limit?",
+      "description": "The courier presents its ID at the Cloudflare gate. The ID receives a stamp, then the gate shows one request left.",
+      "label": "gate",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "tokens",
+      "start": 17.983333333333334,
+      "duration": 6.966666666666667,
+      "anchor": "Inside, his message gets chopped into tokens. 'Make no mistakes' is three. In caps it'd be six. Yelling costs double.",
+      "description": "The same message opens its three token blocks and compares six in caps.",
+      "label": "tokens",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "gpu",
+      "start": 24.95,
+      "duration": 7.633333333333334,
+      "anchor": "Then it waits for a spot in a batch with other requests, and I write the answer one token at a time.",
+      "description": "The brightly lit GPU slot empties and the waiting gold request lands inside it.",
+      "label": "gpu",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "stream",
+      "start": 32.583333333333336,
+      "duration": 4.05,
+      "anchor": "Each piece ships as it's ready. That's why Alex watches it type out.",
+      "description": "Pieces of the reply travel from the GPU to the editor on Alex’s laptop.",
+      "label": "stream",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "database",
+      "start": 36.63333333333333,
+      "duration": 9.116666666666667,
+      "anchor": "On the way out, it gets saved. ChatGPT's core PostgreSQL database has one main server taking all the writes.",
+      "description": "One primary records the write. The saved state remains while Astra reacts.",
+      "label": "database",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "failure",
+      "start": 45.75,
+      "duration": 4.95,
+      "anchor": "And… it's still broken. Because to me, 'make no mistakes' was just three more tokens.",
+      "description": "At 2:41 AM the first fix produces a red error. Alex reads the missing email field.",
+      "label": "failure",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "retry",
+      "start": 50.7,
+      "duration": 7.016666666666667,
+      "anchor": "OpenAI's GPT-5 launch post says 'think hard about this' can route you to a thinking model.",
+      "description": "Astra reads the four replacement words as they appear. The thinking route reveals the corrected email field.",
+      "label": "retry",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "aside",
+      "start": 57.71666666666667,
+      "duration": 2.05,
+      "anchor": "...Not that I'm telling you what to type.",
+      "description": "With his login working, Alex rests his forehead on his desk. Astra faces front for her last line.",
+      "label": "aside",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening"
+    }
+  ]
+}

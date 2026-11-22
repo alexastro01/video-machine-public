@@ -1,0 +1,19 @@
+{
+  "opening": 0,
+  "bugClick": 207,
+  "chargeOne": 213,
+  "chargeTwo": 248,
+  "raise": 401,
+  "reset": 507,
+  "fixClick": 569,
+  "paid": 577,
+  "point": 642,
+  "buy": 701,
+  "now": 797,
+  "salaryMove": 893,
+  "tie": 931,
+  "offerOut": 960,
+  "reach": 978,
+  "offerPass": 1022,
+  "catch": 1055
+}

@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "renderer": "hyperframes",
+  "hook": "none",
+  "world": "body-swap",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "billionaire-body-swap-2",
+  "title": "The Billionaire Wants His Body Back",
+  "number": 24,
+  "shadowLeadSeconds": 0,
+  "premise": "The billionaire refuses to return the viewer body, until Mum gives him the chores and schoolwork that come with it.",
+  "fiction": true,
+  "duration": 34.2,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "billionaire",
+    "mum"
+  ],
+  "audio": {
+    "narration": "episodes/billionaire-body-swap-2/narration.wav",
+    "music": "episodes/billionaire-body-swap-2/music.wav",
+    "effects": "episodes/billionaire-body-swap-2/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 1.1,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "set": "swap-kitchen",
+      "action": "handoff",
+      "start": 0.0,
+      "duration": 2.7333333333333334,
+      "anchor": "You swapped bodies",
+      "label": "Open mid-action on the suited red-scarf viewer offering a hand to his old body at the breakfast table.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "refusal",
+      "set": "swap-kitchen",
+      "action": "recover",
+      "start": 2.7333333333333334,
+      "duration": 1.833333333333333,
+      "anchor": "He won't",
+      "label": "The former billionaire keeps eating and withholds the handshake.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "mum",
+      "set": "swap-kitchen",
+      "action": "warn",
+      "start": 4.566666666666666,
+      "duration": 2.0666666666666673,
+      "anchor": "Pancakes finished",
+      "label": "Mum approaches with a warm smile and then points toward the chores.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "homework",
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "start": 6.633333333333334,
+      "duration": 0.8999999999999995,
+      "anchor": "Homework",
+      "label": "A real schoolbook lands on the breakfast table.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "dishes",
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "start": 7.533333333333333,
+      "duration": 0.9000000000000004,
+      "anchor": "Dishes",
+      "label": "Used plates and a cloth land beside the kitchen counter.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "bins",
+      "set": "swap-porch",
+      "action": "reveal",
+      "start": 8.433333333333334,
+      "duration": 0.9000000000000004,
+      "anchor": "Bins",
+      "label": "A wheeled bin rolls to a stop outside the house; its lid reacts once.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pay",
+      "set": "swap-kitchen",
+      "action": "wave",
+      "start": 9.333333333333334,
+      "duration": 1.7333333333333325,
+      "anchor": "I pay people",
+      "label": "The young body objects with an empty raised palm.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "house",
+      "set": "swap-kitchen",
+      "action": "warn",
+      "start": 11.066666666666666,
+      "duration": 1.9666666666666668,
+      "anchor": "Not in this house",
+      "label": "Mum points firmly; the chores remain in the scene.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "staff",
+      "set": "swap-kitchen",
+      "action": "wave",
+      "start": 13.033333333333333,
+      "duration": 2.866666666666667,
+      "anchor": "I employ",
+      "label": "The young body invokes his thousands of employees with an indignant raised palm.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "plates_reply",
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "start": 15.9,
+      "duration": 2.533333333333333,
+      "anchor": "five plates",
+      "label": "Cut to the same five physical plates, now the only staff Mum needs him to manage.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "lawyer",
+      "set": "swap-kitchen",
+      "action": "wave",
+      "start": 18.433333333333334,
+      "duration": 1.8000000000000007,
+      "anchor": "calling my lawyer",
+      "label": "He raises an empty palm and threatens to call his lawyer.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pocket_setup",
+      "set": "swap-kitchen",
+      "action": "warn",
+      "start": 20.233333333333334,
+      "duration": 0.5666666666666664,
+      "anchor": "With your",
+      "label": "Mum challenges the lawyer plan and points to the available pocket money.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pocket",
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "start": 20.8,
+      "duration": 2.0,
+      "anchor": "pocket money",
+      "label": "Four pound coins drop onto the table in a stagger, exposing his available pocket money.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "coffee",
+      "set": "swap-kitchen",
+      "action": "recover",
+      "start": 22.8,
+      "duration": 1.4333333333333336,
+      "anchor": "Four pounds",
+      "label": "Hold his worried reaction over the four coins; he cannot afford his usual coffee.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "coffee_detail",
+      "set": "swap-kitchen",
+      "action": "recover",
+      "start": 24.233333333333334,
+      "duration": 2.099999999999998,
+      "anchor": "My coffee",
+      "label": "Cut closer to his worried face as he compares the coins with the price of his usual coffee.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "washing",
+      "set": "swap-kitchen",
+      "action": "warn",
+      "start": 26.333333333333332,
+      "duration": 1.9000000000000021,
+      "anchor": "get washing",
+      "label": "Mum redirects him toward the sink and dishes.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "offer",
+      "set": "swap-kitchen",
+      "action": "handoff",
+      "start": 28.233333333333334,
+      "duration": 1.1999999999999993,
+      "anchor": "Deal's off",
+      "label": "Now the former billionaire offers his empty hand to the suited viewer. Their hands stay apart.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "hand",
+      "set": "swap-kitchen",
+      "action": "handoff",
+      "start": 29.433333333333334,
+      "duration": 1.2333333333333343,
+      "anchor": "Shake my hand",
+      "label": "A wider angle shows the new hand offer and the suited viewer staying out of reach.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "keep",
+      "set": "swap-kitchen",
+      "action": "recover",
+      "start": 30.666666666666668,
+      "duration": 1.4000000000000021,
+      "anchor": "Keep it",
+      "label": "The suited viewer steps back with a pleased reaction and refuses the new offer.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "exam",
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "start": 32.06666666666667,
+      "duration": 0.7333333333333272,
+      "anchor": "maths tomorrow",
+      "label": "A close view reveals tomorrow on the physical maths paper.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reaction",
+      "set": "swap-kitchen",
+      "action": "recover",
+      "start": 32.8,
+      "duration": 1.4000000000000057,
+      "anchor": "tomorrow",
+      "label": "Hold the young body looking down at the homework. No swap, reset, extra line or end card.",
+      "timeOfDay": "evening"
+    }
+  ]
+}

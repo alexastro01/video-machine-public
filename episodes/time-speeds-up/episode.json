@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "renderer": "hyperframes",
+  "hook": "none",
+  "world": "memory",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "time-speeds-up",
+  "title": "Why Does Time Speed Up as You Get Older?",
+  "number": 14,
+  "shadowLeadSeconds": 0,
+  "premise": "A repeating birthday gives way to a week of distinct memories.",
+  "fiction": true,
+  "duration": 55.2,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko"
+  ],
+  "audio": {
+    "narration": "episodes/time-speeds-up/narration.wav",
+    "music": "episodes/time-speeds-up/music.wav",
+    "effects": "episodes/time-speeds-up/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 1.5
+  },
+  "scenes": [
+    {
+      "id": "candle",
+      "set": "time-bedroom",
+      "action": "blow-candle",
+      "specimen": "none",
+      "start": 0,
+      "duration": 4.4,
+      "anchor": "Blow, reset, blow again; 26 appears on the cake.",
+      "label": "candle",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "text",
+      "set": "time-bedroom",
+      "action": "recall",
+      "specimen": "none",
+      "start": 4.4,
+      "duration": 2.4,
+      "anchor": "A friend's message interrupts a December evening.",
+      "label": "text",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "camera-2008",
+      "set": "time-bedroom",
+      "action": "recall",
+      "specimen": "none",
+      "start": 6.8,
+      "duration": 2.3,
+      "anchor": "The childhood camera roll is full of distinct memories.",
+      "label": "camera-2008",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "camera-2026",
+      "set": "time-bedroom",
+      "action": "recall",
+      "specimen": "none",
+      "start": 9.1,
+      "duration": 2.7,
+      "anchor": "This year's camera roll has 11 mostly repetitive screenshots.",
+      "label": "camera-2026",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "cant-name-one",
+      "set": "time-bedroom",
+      "action": "recall",
+      "specimen": "none",
+      "start": 11.8,
+      "duration": 2.2,
+      "anchor": "The empty-year realization settles on his face.",
+      "label": "cant-name-one",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "same-laptop",
+      "set": "time-bedroom",
+      "action": "recall",
+      "specimen": "none",
+      "start": 14,
+      "duration": 1.5,
+      "anchor": "The same laptop fills the frame.",
+      "label": "same-laptop",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "same-food",
+      "set": "time-bedroom",
+      "action": "recall",
+      "specimen": "none",
+      "start": 15.5,
+      "duration": 1.4,
+      "anchor": "Attention shifts to the same ordinary meal.",
+      "label": "same-food",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "same-scroll",
+      "set": "time-bedroom",
+      "action": "recall",
+      "specimen": "none",
+      "start": 16.9,
+      "duration": 1.4,
+      "anchor": "The same phone scroll completes the routine.",
+      "label": "same-scroll",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "child-memories",
+      "set": "time-shelf",
+      "action": "save-memory",
+      "specimen": "none",
+      "start": 18.3,
+      "duration": 2.9,
+      "anchor": "Childhood jars hold a first swim, first bike and bee sting.",
+      "label": "child-memories",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "adult-memory",
+      "set": "time-shelf",
+      "action": "save-memory",
+      "specimen": "none",
+      "start": 21.2,
+      "duration": 4.1,
+      "anchor": "One work jar compresses a repetitive year.",
+      "label": "adult-memory",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "small-piece",
+      "set": "time-shelf",
+      "action": "recall",
+      "specimen": "none",
+      "start": 25.3,
+      "duration": 4.7,
+      "anchor": "An exact 20% slice becomes 2%; one theory, not proof.",
+      "label": "small-piece",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "try-something",
+      "set": "time-bedroom",
+      "action": "renew",
+      "specimen": "none",
+      "start": 30,
+      "duration": 1.7,
+      "anchor": "He puts the camera roll down and chooses to change the week.",
+      "label": "try-something",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "one-new-thing",
+      "set": "time-shelf",
+      "action": "save-memory",
+      "specimen": "none",
+      "start": 31.7,
+      "duration": 2.9,
+      "anchor": "Five empty jars wait for five selected days from his week.",
+      "label": "one-new-thing",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "day-1",
+      "set": "time-city",
+      "action": "step",
+      "specimen": "none",
+      "start": 34.6,
+      "duration": 2.0,
+      "anchor": "A new path leads through an unfamiliar amber street.",
+      "label": "day-1",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "day-2",
+      "set": "time-city",
+      "action": "eat",
+      "specimen": "none",
+      "start": 36.6,
+      "duration": 2.0,
+      "anchor": "He takes a bite and smiles at the unfamiliar food.",
+      "label": "day-2",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "day-3",
+      "set": "time-lake",
+      "action": "renew",
+      "specimen": "none",
+      "start": 38.6,
+      "duration": 2.2,
+      "anchor": "A short feet-first jump ends in a cold splash.",
+      "label": "day-3",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "day-4",
+      "set": "time-city",
+      "action": "renew",
+      "specimen": "none",
+      "start": 40.8,
+      "duration": 2.0,
+      "anchor": "He reconnects with Grandma on the phone.",
+      "label": "day-4",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "day-5",
+      "set": "time-roof",
+      "action": "renew",
+      "specimen": "none",
+      "start": 42.8,
+      "duration": 1.7,
+      "anchor": "He sits safely on a rooftop as the sun rises.",
+      "label": "day-5",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "week-shelf",
+      "set": "time-shelf",
+      "action": "save-memory",
+      "specimen": "none",
+      "start": 44.5,
+      "duration": 2.0,
+      "anchor": "The shelf now contains five distinct moments from the week.",
+      "label": "week-shelf",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "holiday-paradox",
+      "set": "time-roof",
+      "action": "recall",
+      "specimen": "none",
+      "start": 46.5,
+      "duration": 2.9,
+      "anchor": "The contrast is named: fast now, longer in memory.",
+      "label": "holiday-paradox",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "kid-returns",
+      "set": "time-roof",
+      "action": "renew",
+      "specimen": "none",
+      "start": 49.4,
+      "duration": 4.8,
+      "anchor": "His child self climbs up once and sits beside him.",
+      "label": "kid-returns",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "candle-stays",
+      "set": "time-bedroom",
+      "action": "blow-candle",
+      "specimen": "none",
+      "start": 54.2,
+      "duration": 1.0,
+      "anchor": "The candle remains lit; the picture returns to the opening.",
+      "label": "candle-stays",
+      "timeOfDay": "evening"
+    }
+  ]
+}

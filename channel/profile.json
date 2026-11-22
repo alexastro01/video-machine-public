@@ -1,0 +1,55 @@
+{
+  "name": "Norbert Explains",
+  "format": "Animated explainers and what-if stories using clean motion graphics with crisp pixel-art characters",
+  "defaultDurationSeconds": 45,
+  "fps": 60,
+  "narrator": {
+    "provider": "ElevenLabs MCP",
+    "name": "Kai - Energetic Anime Hero",
+    "modelId": "eleven_v4",
+    "delivery": "Youthful male voice, bright, curious and conversational, with clear word endings and dry comic reactions. Use sparse emotion tags and natural phrasing; avoid exaggerated shouting.",
+    "scope": "Default narrator for future shorts. Choose narration for long-form projects separately.",
+    "referenceEpisode": "ok-message-motion-teen"
+  },
+  "cast": [
+    "miko",
+    "nova",
+    "witch"
+  ],
+  "fonts": {
+    "headlines": "Fraunces",
+    "captions": "DM Sans"
+  },
+  "palette": {
+    "ink": "#222A35",
+    "paper": "#FAF0DC",
+    "teal": "#367B7B",
+    "coral": "#DE684F",
+    "mustard": "#D9AA4B",
+    "lilac": "#C9BFE0"
+  },
+  "defaultFormats": [
+    "1080x1920",
+    "1920x1080"
+  ],
+  "primaryAspectRatio": "9:16",
+  "onScreenText": "Lower narration captions and story-essential explanatory labels",
+  "defaultRenderer": "remotion",
+  "activeEpisode": "billionaire-body-swap-5",
+  "handle": "@norbertexplains",
+  "visualStyle": {
+    "id": "motion-pixel",
+    "name": "Motion graphics with pixel-art characters",
+    "guide": "channel/motion-pixel-style.md",
+    "referenceEpisode": "ok-message-motion-teen",
+    "palette": {
+      "paper": "#f8f8fa",
+      "ink": "#17181c",
+      "accent": "#007aff",
+      "conflict": "#c4344c",
+      "context": "#537e70"
+    },
+    "typography": "SF Pro-style sans serif, with locally saved Inter available for rendering",
+    "legacyRendererTokens": "Top-level fonts and palette remain available to existing renderers; use this style guide for new work."
+  }
+}

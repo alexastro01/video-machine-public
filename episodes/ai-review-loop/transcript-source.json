@@ -1,0 +1,362 @@
+{
+  "sourceTake": {
+    "hook": "public/episodes/ai-review-loop/source-v5-alex-take-2.mp3",
+    "opus_first": "public/episodes/ai-review-loop/source-opus-take-1.mp3",
+    "gemini_request": "public/episodes/ai-review-loop/source-alex-take-1.mp3",
+    "gemini_first": "public/episodes/ai-review-loop/source-gemini-take-1.mp3",
+    "astra_request": "public/episodes/ai-review-loop/source-alex-take-1.mp3",
+    "astra_first": "public/episodes/ai-review-loop/source-astra-take-1.mp3",
+    "again": "public/episodes/ai-review-loop/source-alex-take-1.mp3",
+    "simplify": "public/episodes/ai-review-loop/source-opus-take-1.mp3",
+    "rebuild": "public/episodes/ai-review-loop/source-gemini-take-1.mp3",
+    "restart": "public/episodes/ai-review-loop/source-astra-take-1.mp3",
+    "compare": "public/episodes/ai-review-loop/source-v4-alex-take-1.mp3",
+    "hours": "public/episodes/ai-review-loop/source-alex-take-1.mp3",
+    "cleaner": "public/episodes/ai-review-loop/source-opus-take-1.mp3"
+  },
+  "words": [
+    {
+      "text": "Opus,",
+      "start": 0.032,
+      "end": 0.533,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "can",
+      "start": 0.774,
+      "end": 0.943,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "you",
+      "start": 0.953,
+      "end": 1.083,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "help",
+      "start": 1.093,
+      "end": 1.271,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "me",
+      "start": 1.278,
+      "end": 1.459,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "review",
+      "start": 1.466,
+      "end": 1.814,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "Astra's",
+      "start": 1.82,
+      "end": 2.298,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "code?",
+      "start": 2.318,
+      "end": 2.698,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "Too",
+      "start": 2.863914,
+      "end": 3.006771,
+      "speaker": "opus",
+      "line": "opus_first"
+    },
+    {
+      "text": "complicated.",
+      "start": 3.078199,
+      "end": 3.863914,
+      "speaker": "opus",
+      "line": "opus_first"
+    },
+    {
+      "text": "I'll",
+      "start": 4.006771,
+      "end": 4.149628,
+      "speaker": "opus",
+      "line": "opus_first"
+    },
+    {
+      "text": "simplify",
+      "start": 4.221057,
+      "end": 4.649628,
+      "speaker": "opus",
+      "line": "opus_first"
+    },
+    {
+      "text": "it.",
+      "start": 4.721057,
+      "end": 5.042485,
+      "speaker": "opus",
+      "line": "opus_first"
+    },
+    {
+      "text": "Gemini,",
+      "start": 5.241248,
+      "end": 5.705533,
+      "speaker": "alex",
+      "line": "gemini_request"
+    },
+    {
+      "text": "check",
+      "start": 5.812676,
+      "end": 5.955533,
+      "speaker": "alex",
+      "line": "gemini_request"
+    },
+    {
+      "text": "her",
+      "start": 6.026962,
+      "end": 6.098391,
+      "speaker": "alex",
+      "line": "gemini_request"
+    },
+    {
+      "text": "fix.",
+      "start": 6.169819,
+      "end": 6.529957,
+      "speaker": "alex",
+      "line": "gemini_request"
+    },
+    {
+      "text": "Too",
+      "start": 6.629958,
+      "end": 6.832395,
+      "speaker": "gemini",
+      "line": "gemini_first"
+    },
+    {
+      "text": "simple.",
+      "start": 6.975253,
+      "end": 7.582395,
+      "speaker": "gemini",
+      "line": "gemini_first"
+    },
+    {
+      "text": "It",
+      "start": 7.760967,
+      "end": 7.832394,
+      "speaker": "gemini",
+      "line": "gemini_first"
+    },
+    {
+      "text": "needs",
+      "start": 7.903823,
+      "end": 8.04668,
+      "speaker": "gemini",
+      "line": "gemini_first"
+    },
+    {
+      "text": "a",
+      "start": 8.11811,
+      "end": 8.189539,
+      "speaker": "gemini",
+      "line": "gemini_first"
+    },
+    {
+      "text": "proper",
+      "start": 8.260967,
+      "end": 8.546681,
+      "speaker": "gemini",
+      "line": "gemini_first"
+    },
+    {
+      "text": "architecture.",
+      "start": 8.760967,
+      "end": 9.561245,
+      "speaker": "gemini",
+      "line": "gemini_first"
+    },
+    {
+      "text": "Astra?",
+      "start": 9.68824,
+      "end": 10.202303,
+      "speaker": "alex",
+      "line": "astra_request"
+    },
+    {
+      "text": "Overengineered.",
+      "start": 10.518031,
+      "end": 11.232316,
+      "speaker": "astra",
+      "line": "astra_first"
+    },
+    {
+      "text": "I'll",
+      "start": 11.589459,
+      "end": 11.732316,
+      "speaker": "astra",
+      "line": "astra_first"
+    },
+    {
+      "text": "clean",
+      "start": 11.839459,
+      "end": 11.946602,
+      "speaker": "astra",
+      "line": "astra_first"
+    },
+    {
+      "text": "it",
+      "start": 11.982316,
+      "end": 12.018031,
+      "speaker": "astra",
+      "line": "astra_first"
+    },
+    {
+      "text": "up.",
+      "start": 12.089459,
+      "end": 12.303745,
+      "speaker": "astra",
+      "line": "astra_first"
+    },
+    {
+      "text": "Opus.",
+      "start": 12.642033,
+      "end": 13.356319,
+      "speaker": "alex",
+      "line": "again"
+    },
+    {
+      "text": "One",
+      "start": 13.570606,
+      "end": 13.642033,
+      "speaker": "alex",
+      "line": "again"
+    },
+    {
+      "text": "more",
+      "start": 13.713462,
+      "end": 13.856319,
+      "speaker": "alex",
+      "line": "again"
+    },
+    {
+      "text": "review.",
+      "start": 13.927748,
+      "end": 14.444786,
+      "speaker": "alex",
+      "line": "again"
+    },
+    {
+      "text": "Let's",
+      "start": 14.693452,
+      "end": 14.788988,
+      "speaker": "opus",
+      "line": "simplify"
+    },
+    {
+      "text": "simplify.",
+      "start": 14.860417,
+      "end": 15.610417,
+      "speaker": "opus",
+      "line": "simplify"
+    },
+    {
+      "text": "Rebuild.",
+      "start": 15.857794,
+      "end": 16.525056,
+      "speaker": "gemini",
+      "line": "rebuild"
+    },
+    {
+      "text": "Start",
+      "start": 16.712376,
+      "end": 16.926662,
+      "speaker": "astra",
+      "line": "restart"
+    },
+    {
+      "text": "over.",
+      "start": 17.069519,
+      "end": 17.403894,
+      "speaker": "astra",
+      "line": "restart"
+    },
+    {
+      "text": "Any",
+      "start": 17.771896,
+      "end": 17.959896,
+      "speaker": "alex",
+      "line": "compare"
+    },
+    {
+      "text": "change?",
+      "start": 17.972896,
+      "end": 18.405896,
+      "speaker": "alex",
+      "line": "compare"
+    },
+    {
+      "text": "We've",
+      "start": 19.089063,
+      "end": 19.260063,
+      "speaker": "alex",
+      "line": "hours"
+    },
+    {
+      "text": "been",
+      "start": 19.340063,
+      "end": 19.420063,
+      "speaker": "alex",
+      "line": "hours"
+    },
+    {
+      "text": "here",
+      "start": 19.500063,
+      "end": 19.580063,
+      "speaker": "alex",
+      "line": "hours"
+    },
+    {
+      "text": "for",
+      "start": 19.660063,
+      "end": 19.900063,
+      "speaker": "alex",
+      "line": "hours"
+    },
+    {
+      "text": "three",
+      "start": 20.060063,
+      "end": 20.220063,
+      "speaker": "alex",
+      "line": "hours"
+    },
+    {
+      "text": "hours.",
+      "start": 20.380063,
+      "end": 20.954771,
+      "speaker": "alex",
+      "line": "hours"
+    },
+    {
+      "text": "Much",
+      "start": 21.334771,
+      "end": 21.574771,
+      "speaker": "opus",
+      "line": "cleaner"
+    },
+    {
+      "text": "cleaner.",
+      "start": 21.654771,
+      "end": 22.309583,
+      "speaker": "opus",
+      "line": "cleaner"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "width": 1254,
+  "height": 1254,
+  "columns": 2,
+  "rows": 2,
+  "cellWidth": 627,
+  "cellHeight": 627,
+  "crop": {
+    "x": 88,
+    "y": 13,
+    "width": 463,
+    "height": 584
+  },
+  "poses": {},
+  "cells": [
+    {
+      "left": 158,
+      "top": 82,
+      "right": 548,
+      "bottom": 592,
+      "originX": 0,
+      "originY": 0,
+      "pixels": 140830
+    },
+    {
+      "left": 90,
+      "top": 18,
+      "right": 455,
+      "bottom": 591,
+      "originX": 627,
+      "originY": 0,
+      "pixels": 140587
+    },
+    {
+      "left": 185,
+      "top": 60,
+      "right": 540,
+      "bottom": 594,
+      "originX": 0,
+      "originY": 627,
+      "pixels": 138493
+    },
+    {
+      "left": 102,
+      "top": 15,
+      "right": 460,
+      "bottom": 594,
+      "originX": 627,
+      "originY": 627,
+      "pixels": 135175
+    }
+  ]
+}

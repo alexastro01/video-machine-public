@@ -1,0 +1,32 @@
+{
+  "quiet": {
+    "width": 463,
+    "height": 924,
+    "mouth": {
+      "x": 224,
+      "y": 203,
+      "width": 60,
+      "height": 56
+    }
+  },
+  "ceiling": {
+    "width": 534,
+    "height": 931,
+    "mouth": {
+      "x": 261,
+      "y": 132,
+      "width": 60,
+      "height": 112
+    }
+  },
+  "flashback": {
+    "width": 564,
+    "height": 925,
+    "mouth": {
+      "x": 307,
+      "y": 170,
+      "width": 66,
+      "height": 71
+    }
+  }
+}

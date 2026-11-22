@@ -1,0 +1,159 @@
+{
+  "version": 4,
+  "title": "Why do you feel lonely even around people?",
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "style": "motion-pixel",
+  "reference": "OK message v3",
+  "playbackRate": 1,
+  "voice": "Kai - Energetic Anime Hero",
+  "voiceId": "S0ypc51SmsvcKXTWvjqJ",
+  "friendVoice": "Jessica - Playful, Bright, Warm",
+  "friendVoiceId": "cgSgspJ2msm6clMCkdW9",
+  "modelId": "eleven_v4",
+  "lines": [
+    {
+      "id": "hook",
+      "speaker": "miko",
+      "text": "Why do you feel alone?"
+    },
+    {
+      "id": "included",
+      "speaker": "miko",
+      "text": "Being included doesn't always mean feeling understood."
+    },
+    {
+      "id": "gap",
+      "speaker": "miko",
+      "text": "Loneliness is the gap between the connection you want and the connection you feel."
+    },
+    {
+      "id": "more",
+      "speaker": "miko",
+      "text": "More people won't always close that gap."
+    },
+    {
+      "id": "fine",
+      "speaker": "miko",
+      "text": "Sometimes you laugh, say you're fine, and go home feeling invisible."
+    },
+    {
+      "id": "trust",
+      "speaker": "miko",
+      "text": "One place to start is an honest answer to someone you trust."
+    },
+    {
+      "id": "honest",
+      "speaker": "miko",
+      "text": "Honestly? It's been a rough week."
+    },
+    {
+      "id": "snacks",
+      "speaker": "mia",
+      "text": "Same. I only came for the snacks."
+    },
+    {
+      "id": "payoff",
+      "speaker": "miko",
+      "text": "First real conversation of the night."
+    }
+  ],
+  "visualStory": [
+    "Open with WHY / DO / YOU / FEEL / ALONE, one word at a time, synchronized with the spoken question.",
+    "On ALONE, shift to black-gray-blue, shake the word once, and surround sad Miko with person icons. Carry the composition smoothly into the explainer.",
+    "Keep his blue I'm fine message as the shared object. Morph the crowd UI into a conversation diagram.",
+    "The message stretches into two avatar endpoints with a visible gap. Extra contacts arrive without bridging it.",
+    "The diagram folds back into the same I'm fine reply, with Miko looking down at his phone.",
+    "The crowd gives way to one friend's chat. A You okay? message arrives.",
+    "The blue reply changes to It's been a rough week and travels to the friend when sent.",
+    "The green reply arrives. Reveal Mia holding a sandwich for the snack joke, then hold both characters' relief.",
+    "Enlarge the connection graphic and keep blue bars and sparkles behind opaque portrait cards. On the second connection phrase, sweep a cyan-white shimmer along the separated bars while preserving the visible gap."
+  ],
+  "factualBoundaries": [
+    "Loneliness concerns perceived missing connection, not a headcount alone.",
+    "The party, dialogue and outcome are fictional examples.",
+    "An honest exchange is offered as a possible place to start, not a guaranteed cure or the only cause of loneliness.",
+    "Do not introduce unsupported brain scans, hormones, statistics or diagnostic claims."
+  ],
+  "ui": {
+    "maskReply": "I'm fine.",
+    "incomingQuestion": "You okay?",
+    "friendName": "Mia",
+    "greetings": [
+      "Hey, Miko!",
+      "How's work?",
+      "You made it!",
+      "Big plans?"
+    ]
+  },
+  "sourceLines": [
+    {
+      "id": "known",
+      "speaker": "miko",
+      "text": "Everybody here knows my name."
+    },
+    {
+      "id": "unseen",
+      "speaker": "miko",
+      "text": "Nobody knows I've had a terrible week."
+    },
+    {
+      "id": "included",
+      "speaker": "miko",
+      "text": "Being included doesn't always mean feeling understood."
+    },
+    {
+      "id": "gap",
+      "speaker": "miko",
+      "text": "Loneliness is the gap between the connection you want and the connection you feel."
+    },
+    {
+      "id": "more",
+      "speaker": "miko",
+      "text": "More people won't always close that gap."
+    },
+    {
+      "id": "fine",
+      "speaker": "miko",
+      "text": "Sometimes you laugh, say you're fine, and go home feeling invisible."
+    },
+    {
+      "id": "trust",
+      "speaker": "miko",
+      "text": "One place to start is an honest answer to someone you trust."
+    },
+    {
+      "id": "honest",
+      "speaker": "miko",
+      "text": "Honestly? It's been a rough week."
+    },
+    {
+      "id": "snacks",
+      "speaker": "mia",
+      "text": "Same. I only came for the snacks."
+    },
+    {
+      "id": "payoff",
+      "speaker": "miko",
+      "text": "First real conversation of the night."
+    }
+  ],
+  "music": {
+    "continuous": true,
+    "audibleThroughout": true
+  },
+  "soundDesign": "Each authored movement has a synchronized Foley cue, with the narration kept clear.",
+  "diagram": {
+    "leftX": 170,
+    "rightX": 910,
+    "centerY": 850,
+    "portraitSize": 240,
+    "barHeight": 14,
+    "gapWidth": 190,
+    "extraSize": 108,
+    "extraTop": 570,
+    "extraBottom": 1130,
+    "shineColor": "#75d4ff",
+    "shineTailSeconds": 0.42
+  }
+}

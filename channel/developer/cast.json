@@ -1,0 +1,39 @@
+{
+  "alex": {
+    "name": "Alex",
+    "role": "Developer, representing the channel host",
+    "poseManifest": "episodes/ai-typo/assets/actors.json"
+  },
+  "opus": {
+    "name": "Opus 5.5",
+    "role": "Fictional anime personification of the coding assistant",
+    "look": "Long chestnut hair, large amber eyes, soft blush, cream oversized jacket, charcoal skirt and ivory sneakers. Terracotta asterisk clip. Shirt reads opus and 5.5 in two lines.",
+    "nativePoseResolution": [
+      2048,
+      3072
+    ],
+    "poseManifest": "episodes/ai-typo/assets/actors.json"
+  },
+  "astra": {
+    "name": "Astra 6",
+    "role": "Anime personification of an AI assistant in developer comedy",
+    "look": "Long midnight-black hair with purple highlights, gold star clips, violet eyes, charcoal jacket, ivory astra 6 T-shirt, charcoal skirt, black star socks and ivory sneakers.",
+    "nativePoseResolution": [
+      2048,
+      3072
+    ],
+    "assetManifest": "channel/developer/assets/astra-gemini-v1.json",
+    "presentAsset": "developer/cast/astra-6/present-v1.png"
+  },
+  "gemini": {
+    "name": "Gemini",
+    "role": "Anime personification of an AI assistant in developer comedy",
+    "look": "Long periwinkle-blue hair with an indigo underlayer and side braid, sapphire-violet eyes, sparkle clip, cobalt/lavender jacket, ivory gemini T-shirt, navy skirt and ivory sneakers.",
+    "nativePoseResolution": [
+      2048,
+      3072
+    ],
+    "assetManifest": "channel/developer/assets/astra-gemini-v1.json",
+    "presentAsset": "developer/cast/gemini/present-v1.png"
+  }
+}

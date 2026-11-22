@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "rip",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "rip",
+  "title": "RIP",
+  "number": 42,
+  "shadowLeadSeconds": 0,
+  "premise": "Opus declares finance, accounting and video editing dead. Her fourth boast is about programmers. She needs Alex to close one parenthesis.",
+  "fiction": true,
+  "duration": 32,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "opus",
+    "alex"
+  ],
+  "audio": {
+    "narration": "episodes/rip/narration.wav",
+    "music": "episodes/rip/music.wav",
+    "effects": "episodes/rip/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "finance",
+      "set": "developer-ui",
+      "action": "publish-cliff",
+      "start": 0.0,
+      "duration": 2.533333333333333,
+      "anchor": "Claude killed finance.",
+      "label": "Cash flow forecast",
+      "description": "The cash forecast completes. A short boom lands with the Finance tombstone.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "accounting",
+      "set": "developer-ui",
+      "action": "publish-cliff",
+      "start": 2.533333333333333,
+      "duration": 2.0166666666666666,
+      "anchor": "Claude killed accounting.",
+      "label": "Bank reconciliation",
+      "description": "Invoice amounts match their bank entries. The second boom lands on the Accounting tombstone.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "editing",
+      "set": "developer-ui",
+      "action": "publish-cliff",
+      "start": 4.55,
+      "duration": 3.85,
+      "anchor": "Claude killed video editing.",
+      "label": "Video timeline",
+      "description": "The silence is cut and the clips snap together. The Video editing stone lands on the same beat.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "post",
+      "set": "developer-ui",
+      "action": "turn",
+      "start": 8.4,
+      "duration": 3.6,
+      "anchor": "I wrote one blog post.",
+      "label": "The blog post",
+      "description": "Opus turns the laptop and shows the single post behind the three claims.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "playback",
+      "set": "developer-ui",
+      "action": "scan",
+      "start": 12.0,
+      "duration": 3.8,
+      "anchor": "Okay. That one was kind of cool.",
+      "label": "The rough cut",
+      "description": "She sees herself in the rough cut and smiles.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "draft",
+      "set": "developer-ui",
+      "action": "edit-claim",
+      "start": 15.8,
+      "duration": 5.2,
+      "anchor": "Claude killed programmers.",
+      "label": "One word",
+      "description": "She replaces help with replace and tries the same boast about programmers.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "fail",
+      "set": "developer-ui",
+      "action": "repair-build",
+      "start": 21,
+      "duration": 3,
+      "anchor": "Build failed.",
+      "label": "Build failed",
+      "description": "Publish produces a red error and an unclosed call.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "alex",
+      "set": "developer-ui",
+      "action": "turn",
+      "start": 24,
+      "duration": 3,
+      "anchor": "Alex? Got a second?",
+      "label": "A favor",
+      "description": "She angles the laptop toward Alex.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "fix",
+      "set": "developer-ui",
+      "action": "repair-build",
+      "start": 27,
+      "duration": 2.5,
+      "anchor": "Build passed ✓",
+      "label": "One parenthesis",
+      "description": "Alex leans in, closes the call, hits Enter and leaves.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "right",
+      "set": "developer-ui",
+      "action": "wait",
+      "start": 29.5,
+      "duration": 2.5,
+      "anchor": "...You're absolutely right.",
+      "label": "The green banner",
+      "description": "One second of silence, a deadpan admission, and a hard cut.",
+      "timeOfDay": "evening"
+    }
+  ]
+}

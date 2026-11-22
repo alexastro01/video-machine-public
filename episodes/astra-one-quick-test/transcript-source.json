@@ -1,0 +1,345 @@
+{
+  "sourceTake": {
+    "alex": 1,
+    "astra": 1,
+    "backflip": 2
+  },
+  "words": [
+    {
+      "text": "One",
+      "start": 0,
+      "end": 0.32,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "bug",
+      "start": 0.32,
+      "end": 0.52,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "left.",
+      "start": 0.52,
+      "end": 0.94,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "Oh,",
+      "start": 1.5,
+      "end": 1.82,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "a",
+      "start": 1.9,
+      "end": 2.16,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "new",
+      "start": 2.16,
+      "end": 2.28,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "model",
+      "start": 2.28,
+      "end": 2.56,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "dropped.",
+      "start": 2.56,
+      "end": 2.98,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "Number",
+      "start": 3.095,
+      "end": 3.37,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "one",
+      "start": 3.37,
+      "end": 3.71,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "on",
+      "start": 3.71,
+      "end": 3.85,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "a",
+      "start": 3.85,
+      "end": 4.13,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "benchmark",
+      "start": 4.13,
+      "end": 4.33,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "I’ve",
+      "start": 4.33,
+      "end": 4.75,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "never",
+      "start": 4.75,
+      "end": 5.05,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "heard",
+      "start": 5.05,
+      "end": 5.25,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "of.",
+      "start": 5.25,
+      "end": 5.63,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "One",
+      "start": 6.05,
+      "end": 6.19,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "quick",
+      "start": 6.19,
+      "end": 6.39,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "test.",
+      "start": 6.39,
+      "end": 6.772,
+      "speaker": "alex",
+      "line": "rank"
+    },
+    {
+      "text": "Make",
+      "start": 7.23,
+      "end": 7.4,
+      "speaker": "alex",
+      "line": "prompt"
+    },
+    {
+      "text": "a",
+      "start": 7.4,
+      "end": 7.7,
+      "speaker": "alex",
+      "line": "prompt"
+    },
+    {
+      "text": "cube",
+      "start": 7.7,
+      "end": 7.8,
+      "speaker": "alex",
+      "line": "prompt"
+    },
+    {
+      "text": "do",
+      "start": 7.8,
+      "end": 7.98,
+      "speaker": "alex",
+      "line": "prompt"
+    },
+    {
+      "text": "a",
+      "start": 7.98,
+      "end": 8.2,
+      "speaker": "alex",
+      "line": "prompt"
+    },
+    {
+      "text": "backflip.",
+      "start": 8.2,
+      "end": 8.51,
+      "speaker": "alex",
+      "line": "prompt"
+    },
+    {
+      "text": "This",
+      "start": 10.158,
+      "end": 10.54,
+      "speaker": "alex",
+      "line": "awe"
+    },
+    {
+      "text": "changes",
+      "start": 10.54,
+      "end": 10.92,
+      "speaker": "alex",
+      "line": "awe"
+    },
+    {
+      "text": "everything.",
+      "start": 10.92,
+      "end": 11.767,
+      "speaker": "alex",
+      "line": "awe"
+    },
+    {
+      "text": "Okay,",
+      "start": 12.092,
+      "end": 12.4,
+      "speaker": "alex",
+      "line": "fix"
+    },
+    {
+      "text": "now",
+      "start": 12.44,
+      "end": 12.78,
+      "speaker": "alex",
+      "line": "fix"
+    },
+    {
+      "text": "fix",
+      "start": 12.78,
+      "end": 13.06,
+      "speaker": "alex",
+      "line": "fix"
+    },
+    {
+      "text": "the",
+      "start": 13.06,
+      "end": 13.3,
+      "speaker": "alex",
+      "line": "fix"
+    },
+    {
+      "text": "Pay",
+      "start": 13.3,
+      "end": 13.5,
+      "speaker": "alex",
+      "line": "fix"
+    },
+    {
+      "text": "button.",
+      "start": 13.5,
+      "end": 13.826,
+      "speaker": "alex",
+      "line": "fix"
+    },
+    {
+      "text": "I",
+      "start": 14.641,
+      "end": 14.835,
+      "speaker": "astra",
+      "line": "rebuilt"
+    },
+    {
+      "text": "rebuilt",
+      "start": 14.835,
+      "end": 15.195,
+      "speaker": "astra",
+      "line": "rebuilt"
+    },
+    {
+      "text": "the",
+      "start": 15.195,
+      "end": 15.395,
+      "speaker": "astra",
+      "line": "rebuilt"
+    },
+    {
+      "text": "whole",
+      "start": 15.395,
+      "end": 15.815,
+      "speaker": "astra",
+      "line": "rebuilt"
+    },
+    {
+      "text": "checkout.",
+      "start": 15.815,
+      "end": 16.34,
+      "speaker": "astra",
+      "line": "rebuilt"
+    },
+    {
+      "text": "Can",
+      "start": 16.615,
+      "end": 16.75,
+      "speaker": "alex",
+      "line": "payment"
+    },
+    {
+      "text": "it",
+      "start": 16.75,
+      "end": 16.89,
+      "speaker": "alex",
+      "line": "payment"
+    },
+    {
+      "text": "take",
+      "start": 16.89,
+      "end": 17.03,
+      "speaker": "alex",
+      "line": "payment"
+    },
+    {
+      "text": "a",
+      "start": 17.03,
+      "end": 17.25,
+      "speaker": "alex",
+      "line": "payment"
+    },
+    {
+      "text": "payment?",
+      "start": 17.25,
+      "end": 17.605,
+      "speaker": "alex",
+      "line": "payment"
+    },
+    {
+      "text": "The",
+      "start": 18.535,
+      "end": 18.765,
+      "speaker": "astra",
+      "line": "backflip"
+    },
+    {
+      "text": "backflip",
+      "start": 18.765,
+      "end": 19.385,
+      "speaker": "astra",
+      "line": "backflip"
+    },
+    {
+      "text": "works.",
+      "start": 19.385,
+      "end": 20.055,
+      "speaker": "astra",
+      "line": "backflip"
+    }
+  ]
+}

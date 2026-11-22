@@ -1,0 +1,604 @@
+{
+  "sourceTake": {
+    "narrator": 1,
+    "viewer": 1,
+    "young": 1
+  },
+  "words": [
+    {
+      "text": "Your",
+      "start": 0.068958,
+      "end": 0.168958,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "new",
+      "start": 0.268958,
+      "end": 0.448958,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "face",
+      "start": 0.608958,
+      "end": 0.888958,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "opens",
+      "start": 1.028958,
+      "end": 1.288958,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "his",
+      "start": 1.328958,
+      "end": 1.448958,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "phone.",
+      "start": 1.528958,
+      "end": 1.908958,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "What",
+      "start": 2.272396,
+      "end": 2.372396,
+      "speaker": "viewer",
+      "line": "question"
+    },
+    {
+      "text": "was",
+      "start": 2.412396,
+      "end": 2.552396,
+      "speaker": "viewer",
+      "line": "question"
+    },
+    {
+      "text": "your",
+      "start": 2.592396,
+      "end": 2.672396,
+      "speaker": "viewer",
+      "line": "question"
+    },
+    {
+      "text": "first",
+      "start": 2.792396,
+      "end": 3.032396,
+      "speaker": "viewer",
+      "line": "question"
+    },
+    {
+      "text": "pet",
+      "start": 3.132396,
+      "end": 3.292396,
+      "speaker": "viewer",
+      "line": "question"
+    },
+    {
+      "text": "called?",
+      "start": 3.412396,
+      "end": 3.732396,
+      "speaker": "viewer",
+      "line": "question"
+    },
+    {
+      "text": "Ask",
+      "start": 4.156938,
+      "end": 4.356938,
+      "speaker": "young",
+      "line": "assistant"
+    },
+    {
+      "text": "my",
+      "start": 4.376938,
+      "end": 4.476938,
+      "speaker": "young",
+      "line": "assistant"
+    },
+    {
+      "text": "assistant.",
+      "start": 4.536938,
+      "end": 5.016938,
+      "speaker": "young",
+      "line": "assistant"
+    },
+    {
+      "text": "She",
+      "start": 5.316938,
+      "end": 5.456938,
+      "speaker": "young",
+      "line": "assistant"
+    },
+    {
+      "text": "remembers",
+      "start": 5.516938,
+      "end": 5.916938,
+      "speaker": "young",
+      "line": "assistant"
+    },
+    {
+      "text": "everything.",
+      "start": 6.136938,
+      "end": 6.676938,
+      "speaker": "young",
+      "line": "assistant"
+    },
+    {
+      "text": "She",
+      "start": 7.103104,
+      "end": 7.323104,
+      "speaker": "viewer",
+      "line": "six"
+    },
+    {
+      "text": "wasn't",
+      "start": 7.383104,
+      "end": 7.783104,
+      "speaker": "viewer",
+      "line": "six"
+    },
+    {
+      "text": "there",
+      "start": 7.843104,
+      "end": 8.083104,
+      "speaker": "viewer",
+      "line": "six"
+    },
+    {
+      "text": "when",
+      "start": 8.103104,
+      "end": 8.223104,
+      "speaker": "viewer",
+      "line": "six"
+    },
+    {
+      "text": "you",
+      "start": 8.263104,
+      "end": 8.323104,
+      "speaker": "viewer",
+      "line": "six"
+    },
+    {
+      "text": "were",
+      "start": 8.343104,
+      "end": 8.523104,
+      "speaker": "viewer",
+      "line": "six"
+    },
+    {
+      "text": "six.",
+      "start": 8.603104,
+      "end": 8.963104,
+      "speaker": "viewer",
+      "line": "six"
+    },
+    {
+      "text": "Titan.",
+      "start": 9.363083,
+      "end": 9.843083,
+      "speaker": "young",
+      "line": "titan"
+    },
+    {
+      "text": "It",
+      "start": 10.202083,
+      "end": 10.283083,
+      "speaker": "young",
+      "line": "titan"
+    },
+    {
+      "text": "was",
+      "start": 10.323083,
+      "end": 10.443083,
+      "speaker": "young",
+      "line": "titan"
+    },
+    {
+      "text": "definitely",
+      "start": 10.683083,
+      "end": 11.263083,
+      "speaker": "young",
+      "line": "titan"
+    },
+    {
+      "text": "Titan.",
+      "start": 11.323083,
+      "end": 11.823083,
+      "speaker": "young",
+      "line": "titan"
+    },
+    {
+      "text": "Wrong.",
+      "start": 12.238833,
+      "end": 12.678833,
+      "speaker": "viewer",
+      "line": "wrong"
+    },
+    {
+      "text": "Did",
+      "start": 13.079625,
+      "end": 13.199625,
+      "speaker": "young",
+      "line": "caps"
+    },
+    {
+      "text": "you",
+      "start": 13.219625,
+      "end": 13.319625,
+      "speaker": "young",
+      "line": "caps"
+    },
+    {
+      "text": "try",
+      "start": 13.359625,
+      "end": 13.639625,
+      "speaker": "young",
+      "line": "caps"
+    },
+    {
+      "text": "all",
+      "start": 13.719625,
+      "end": 13.839625,
+      "speaker": "young",
+      "line": "caps"
+    },
+    {
+      "text": "capitals?",
+      "start": 13.899625,
+      "end": 14.359625,
+      "speaker": "young",
+      "line": "caps"
+    },
+    {
+      "text": "You",
+      "start": 14.836792,
+      "end": 14.976792,
+      "speaker": "viewer",
+      "line": "business"
+    },
+    {
+      "text": "named",
+      "start": 15.016792,
+      "end": 15.216792,
+      "speaker": "viewer",
+      "line": "business"
+    },
+    {
+      "text": "that",
+      "start": 15.276792,
+      "end": 15.436792,
+      "speaker": "viewer",
+      "line": "business"
+    },
+    {
+      "text": "tiny",
+      "start": 15.516792,
+      "end": 15.836792,
+      "speaker": "viewer",
+      "line": "business"
+    },
+    {
+      "text": "hamster",
+      "start": 15.896792,
+      "end": 16.276792,
+      "speaker": "viewer",
+      "line": "business"
+    },
+    {
+      "text": "Titan?",
+      "start": 16.456792,
+      "end": 16.876792,
+      "speaker": "viewer",
+      "line": "business"
+    },
+    {
+      "text": "He",
+      "start": 17.281833,
+      "end": 17.381833,
+      "speaker": "young",
+      "line": "office"
+    },
+    {
+      "text": "had",
+      "start": 17.421833,
+      "end": 17.521833,
+      "speaker": "young",
+      "line": "office"
+    },
+    {
+      "text": "an",
+      "start": 17.581833,
+      "end": 17.641833,
+      "speaker": "young",
+      "line": "office"
+    },
+    {
+      "text": "office.",
+      "start": 17.701833,
+      "end": 18.061833,
+      "speaker": "young",
+      "line": "office"
+    },
+    {
+      "text": "A",
+      "start": 18.458604,
+      "end": 18.558604,
+      "speaker": "viewer",
+      "line": "cage"
+    },
+    {
+      "text": "cage?",
+      "start": 18.658604,
+      "end": 19.138604,
+      "speaker": "viewer",
+      "line": "cage"
+    },
+    {
+      "text": "A",
+      "start": 19.485896,
+      "end": 19.565896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "shoebox.",
+      "start": 19.665896,
+      "end": 20.205896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "A",
+      "start": 20.565896,
+      "end": 20.605896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "wheel.",
+      "start": 20.705896,
+      "end": 21.005896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "More",
+      "start": 21.505896,
+      "end": 21.665896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "exercise",
+      "start": 21.725896,
+      "end": 22.205896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "than",
+      "start": 22.225896,
+      "end": 22.345896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "my",
+      "start": 22.385896,
+      "end": 22.585896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "board.",
+      "start": 22.625896,
+      "end": 22.965896,
+      "speaker": "young",
+      "line": "shoebox"
+    },
+    {
+      "text": "My",
+      "start": 23.397271,
+      "end": 23.617271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "bank",
+      "start": 23.657271,
+      "end": 23.837271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "account",
+      "start": 23.877271,
+      "end": 24.117271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "is",
+      "start": 24.157271,
+      "end": 24.257271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "being",
+      "start": 24.277271,
+      "end": 24.437271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "held",
+      "start": 24.477271,
+      "end": 24.617271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "hostage",
+      "start": 24.737271,
+      "end": 25.177271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "by",
+      "start": 25.217271,
+      "end": 25.297271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "a",
+      "start": 25.357271,
+      "end": 25.397271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "dead",
+      "start": 25.557271,
+      "end": 25.717271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "hamster.",
+      "start": 25.817271,
+      "end": 26.357271,
+      "speaker": "viewer",
+      "line": "hostage"
+    },
+    {
+      "text": "Oh!",
+      "start": 26.8435,
+      "end": 27.0435,
+      "speaker": "young",
+      "line": "nibbles"
+    },
+    {
+      "text": "Mister",
+      "start": 27.3035,
+      "end": 27.3635,
+      "speaker": "young",
+      "line": "nibbles"
+    },
+    {
+      "text": "Nibbles!",
+      "start": 27.6235,
+      "end": 28.0435,
+      "speaker": "young",
+      "line": "nibbles"
+    },
+    {
+      "text": "That",
+      "start": 28.533958,
+      "end": 28.733958,
+      "speaker": "viewer",
+      "line": "worked"
+    },
+    {
+      "text": "worked.",
+      "start": 28.873958,
+      "end": 29.233958,
+      "speaker": "viewer",
+      "line": "worked"
+    },
+    {
+      "text": "He",
+      "start": 29.601437,
+      "end": 29.721438,
+      "speaker": "young",
+      "line": "security"
+    },
+    {
+      "text": "was",
+      "start": 29.761437,
+      "end": 29.921437,
+      "speaker": "young",
+      "line": "security"
+    },
+    {
+      "text": "head",
+      "start": 29.981437,
+      "end": 30.121437,
+      "speaker": "young",
+      "line": "security"
+    },
+    {
+      "text": "of",
+      "start": 30.161437,
+      "end": 30.201437,
+      "speaker": "young",
+      "line": "security"
+    },
+    {
+      "text": "security.",
+      "start": 30.281437,
+      "end": 30.821437,
+      "speaker": "young",
+      "line": "security"
+    },
+    {
+      "text": "Eight",
+      "start": 31.245271,
+      "end": 31.545271,
+      "speaker": "narrator",
+      "line": "payoff"
+    },
+    {
+      "text": "billion",
+      "start": 31.705271,
+      "end": 32.065271,
+      "speaker": "narrator",
+      "line": "payoff"
+    },
+    {
+      "text": "pounds.",
+      "start": 32.185271,
+      "end": 32.685271,
+      "speaker": "narrator",
+      "line": "payoff"
+    },
+    {
+      "text": "Protected",
+      "start": 33.145271,
+      "end": 33.665271,
+      "speaker": "narrator",
+      "line": "payoff"
+    },
+    {
+      "text": "by",
+      "start": 33.745271,
+      "end": 33.945271,
+      "speaker": "narrator",
+      "line": "payoff"
+    },
+    {
+      "text": "Mister",
+      "start": 34.005271,
+      "end": 34.065271,
+      "speaker": "narrator",
+      "line": "payoff"
+    },
+    {
+      "text": "Nibbles.",
+      "start": 34.365271,
+      "end": 34.805271,
+      "speaker": "narrator",
+      "line": "payoff"
+    }
+  ]
+}

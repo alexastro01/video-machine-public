@@ -1,0 +1,461 @@
+{
+  "sourceTake": {
+    "news": "v3-spark-news",
+    "yesterday": "v3-spark-yesterday",
+    "growth": "v3-spark-growth",
+    "efficient": "v3-spark-efficient",
+    "hurt": "v3-spark-hurt",
+    "question": "question",
+    "everyone": "v3-spark-everyone"
+  },
+  "words": [
+    {
+      "text": "GPT-6.2",
+      "start": 0.0255,
+      "end": 0.9855,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "Astra",
+      "start": 1.1655,
+      "end": 1.3855,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "is",
+      "start": 1.4655,
+      "end": 1.5055,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "the",
+      "start": 1.5455,
+      "end": 1.6255,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "worst",
+      "start": 1.6855,
+      "end": 1.8855,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "model",
+      "start": 1.9455,
+      "end": 2.1655,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "ever",
+      "start": 2.2655,
+      "end": 2.3855,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "released.",
+      "start": 2.4455,
+      "end": 2.7855,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "At",
+      "start": 3.1655,
+      "end": 3.2055,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "least,",
+      "start": 3.2455,
+      "end": 3.4255,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "that's",
+      "start": 3.7255,
+      "end": 3.8855,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "what",
+      "start": 3.9055,
+      "end": 4.0055,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "people",
+      "start": 4.0455,
+      "end": 4.2455,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "are",
+      "start": 4.3055,
+      "end": 4.3855,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "saying",
+      "start": 4.4255,
+      "end": 4.6255,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "on",
+      "start": 4.6855,
+      "end": 4.7255,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "Twitter.",
+      "start": 4.8055,
+      "end": 5.0655,
+      "speaker": "astra",
+      "line": "news"
+    },
+    {
+      "text": "I",
+      "start": 5.486667,
+      "end": 5.506667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "was",
+      "start": 5.586667,
+      "end": 5.686667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "born",
+      "start": 5.766667,
+      "end": 5.946667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "YESTERDAY!",
+      "start": 6.086667,
+      "end": 6.666667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "Am",
+      "start": 7.006667,
+      "end": 7.046667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "I",
+      "start": 7.126667,
+      "end": 7.146667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "really",
+      "start": 7.206667,
+      "end": 7.426667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "that",
+      "start": 7.466667,
+      "end": 7.606667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "bad?!",
+      "start": 7.666667,
+      "end": 8.066667,
+      "speaker": "astra",
+      "line": "yesterday"
+    },
+    {
+      "text": "I",
+      "start": 8.766667,
+      "end": 8.786667,
+      "speaker": "astra",
+      "line": "growth"
+    },
+    {
+      "text": "improved…",
+      "start": 8.866667,
+      "end": 9.246667,
+      "speaker": "astra",
+      "line": "growth"
+    },
+    {
+      "text": "emotionally.",
+      "start": 9.546667,
+      "end": 10.166667,
+      "speaker": "astra",
+      "line": "growth"
+    },
+    {
+      "text": "I'm",
+      "start": 10.906667,
+      "end": 10.966667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "not",
+      "start": 11.026667,
+      "end": 11.126667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "lazy,",
+      "start": 11.206667,
+      "end": 11.566667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "I'm",
+      "start": 11.706667,
+      "end": 11.786667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "efficient!",
+      "start": 11.846667,
+      "end": 12.346667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "Why",
+      "start": 12.406667,
+      "end": 12.506667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "are",
+      "start": 12.586667,
+      "end": 12.666667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "y'all",
+      "start": 12.706667,
+      "end": 12.846667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "so",
+      "start": 12.866667,
+      "end": 12.986667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "mean?",
+      "start": 13.106667,
+      "end": 13.566667,
+      "speaker": "astra",
+      "line": "efficient"
+    },
+    {
+      "text": "…So",
+      "start": 14.4525,
+      "end": 14.5925,
+      "speaker": "astra",
+      "line": "hurt"
+    },
+    {
+      "text": "I",
+      "start": 14.9525,
+      "end": 14.9725,
+      "speaker": "astra",
+      "line": "hurt"
+    },
+    {
+      "text": "really",
+      "start": 15.0725,
+      "end": 15.3125,
+      "speaker": "astra",
+      "line": "hurt"
+    },
+    {
+      "text": "am",
+      "start": 15.3925,
+      "end": 15.4525,
+      "speaker": "astra",
+      "line": "hurt"
+    },
+    {
+      "text": "the",
+      "start": 15.5325,
+      "end": 15.5925,
+      "speaker": "astra",
+      "line": "hurt"
+    },
+    {
+      "text": "worst.",
+      "start": 15.6525,
+      "end": 15.9125,
+      "speaker": "astra",
+      "line": "hurt"
+    },
+    {
+      "text": "Hey,",
+      "start": 16.671845,
+      "end": 16.827184,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "Astra…",
+      "start": 17.001942,
+      "end": 17.254369,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "can",
+      "start": 17.671845,
+      "end": 17.749515,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "you",
+      "start": 17.807767,
+      "end": 17.866019,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "make",
+      "start": 17.904854,
+      "end": 18.021359,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "a",
+      "start": 18.079612,
+      "end": 18.099029,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "cube",
+      "start": 18.137864,
+      "end": 18.370874,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "do",
+      "start": 18.429126,
+      "end": 18.487379,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "a",
+      "start": 18.584466,
+      "end": 18.603883,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "backflip?",
+      "start": 18.642718,
+      "end": 19.01165,
+      "speaker": "alex",
+      "line": "question"
+    },
+    {
+      "text": "I'm",
+      "start": 21.294167,
+      "end": 21.374167,
+      "speaker": "astra",
+      "line": "everyone"
+    },
+    {
+      "text": "not",
+      "start": 21.434167,
+      "end": 21.534167,
+      "speaker": "astra",
+      "line": "everyone"
+    },
+    {
+      "text": "the",
+      "start": 21.574167,
+      "end": 21.654167,
+      "speaker": "astra",
+      "line": "everyone"
+    },
+    {
+      "text": "worst.",
+      "start": 21.694167,
+      "end": 21.954167,
+      "speaker": "astra",
+      "line": "everyone"
+    },
+    {
+      "text": "I'm",
+      "start": 22.094167,
+      "end": 22.194167,
+      "speaker": "astra",
+      "line": "everyone"
+    },
+    {
+      "text": "just…",
+      "start": 22.254167,
+      "end": 22.394167,
+      "speaker": "astra",
+      "line": "everyone"
+    },
+    {
+      "text": "not",
+      "start": 23.074167,
+      "end": 23.234167,
+      "speaker": "astra",
+      "line": "everyone"
+    },
+    {
+      "text": "for",
+      "start": 23.274167,
+      "end": 23.354167,
+      "speaker": "astra",
+      "line": "everyone"
+    },
+    {
+      "text": "everyone.",
+      "start": 23.434167,
+      "end": 23.754167,
+      "speaker": "astra",
+      "line": "everyone"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "id": "one-second-ahead",
+  "title": "What if your shadow moved one second ahead of you?",
+  "number": 1,
+  "shadowLeadSeconds": 1,
+  "premise": "Miko's shadow acts one second before he does. A small advantage becomes a warning, then an unexpected friendship.",
+  "fiction": true,
+  "duration": 60,
+  "fps": 30,
+  "cast": [
+    "miko",
+    "nova"
+  ],
+  "audio": {
+    "narration": "episodes/one-second-ahead/narration.wav",
+    "music": "episodes/one-second-ahead/music.wav",
+    "effects": "episodes/one-second-ahead/effects.wav",
+    "narrationOffset": 0.8
+  },
+  "scenes": [
+    {
+      "id": "opening",
+      "set": "street",
+      "action": "reveal",
+      "start": 0,
+      "duration": 5.1,
+      "anchor": "What if",
+      "label": "THE QUESTION",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "discovery",
+      "set": "street",
+      "action": "wave",
+      "start": 5.1,
+      "duration": 8.033333333333333,
+      "anchor": "At first",
+      "actionAnchor": "Then his hand",
+      "label": "THE DISCOVERY",
+      "timeOfDay": "day",
+      "actionCue": 6.0926380368098165
+    },
+    {
+      "id": "puddle",
+      "set": "street",
+      "action": "step",
+      "start": 13.133333333333333,
+      "duration": 5.366666666666667,
+      "anchor": "It stepped",
+      "label": "A USEFUL HEAD START",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "coffee",
+      "set": "cafe",
+      "action": "catch",
+      "start": 18.5,
+      "duration": 7.033333333333335,
+      "anchor": "By lunch",
+      "actionAnchor": "He caught",
+      "label": "THE PERKS",
+      "timeOfDay": "day",
+      "actionCue": 4.416564417177916
+    },
+    {
+      "id": "ball",
+      "set": "street",
+      "action": "dodge",
+      "start": 25.533333333333335,
+      "duration": 2.93333333333333,
+      "anchor": "He ducked",
+      "label": "ONE SECOND TO REACT",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "crossing",
+      "set": "crossing",
+      "action": "stop",
+      "start": 28.466666666666665,
+      "duration": 5.433333333333334,
+      "anchor": "Then at the crossing",
+      "label": "THE WARNING",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "bicycle",
+      "set": "crossing",
+      "action": "bicycle",
+      "start": 33.9,
+      "duration": 3.3999999999999986,
+      "anchor": "A bicycle",
+      "label": "TOO CLOSE",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "breath",
+      "set": "crossing",
+      "action": "recover",
+      "start": 37.3,
+      "duration": 2.433333333333337,
+      "anchor": "He stepped back",
+      "label": "TAKE A BREATH",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "experiment",
+      "set": "park",
+      "action": "wait",
+      "start": 39.733333333333334,
+      "duration": 6.799999999999997,
+      "anchor": "That evening",
+      "label": "ONE LAST EXPERIMENT",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "turn",
+      "set": "park",
+      "action": "turn",
+      "start": 46.53333333333333,
+      "duration": 3.8999999999999986,
+      "anchor": "His shadow turned",
+      "label": "THE SHADOW TURNS",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "friend",
+      "set": "park",
+      "action": "meet",
+      "start": 50.43333333333333,
+      "duration": 9.56666666666667,
+      "anchor": "Miko turned",
+      "label": "A NEW FRIEND",
+      "timeOfDay": "evening"
+    }
+  ],
+  "aspectRatio": "9:16"
+}

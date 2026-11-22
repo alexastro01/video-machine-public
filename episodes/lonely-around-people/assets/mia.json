@@ -1,0 +1,32 @@
+{
+  "smile": {
+    "file": "episodes/lonely-around-people/art/mia-smile.png",
+    "width": 561,
+    "height": 873,
+    "pivotX": 247.347,
+    "footY": 869,
+    "sourceCell": 0,
+    "crop": [
+      174,
+      12,
+      735,
+      885
+    ],
+    "sourceFile": "output/imagegen/lonely-around-people-v3/mia-two-poses.png"
+  },
+  "bite": {
+    "file": "episodes/lonely-around-people/art/mia-bite.png",
+    "width": 566,
+    "height": 873,
+    "pivotX": 250.257,
+    "footY": 869,
+    "sourceCell": 1,
+    "crop": [
+      127,
+      12,
+      693,
+      885
+    ],
+    "sourceFile": "output/imagegen/lonely-around-people-v3/mia-two-poses.png"
+  }
+}

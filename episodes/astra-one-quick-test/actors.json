@@ -1,0 +1,72 @@
+{
+  "alex-explain": {
+    "id": "alex-explain",
+    "url": "episodes/ai-typo/art/alex-explain.png",
+    "width": 1024,
+    "height": 1536,
+    "bounds": [
+      186,
+      88,
+      902,
+      1433
+    ],
+    "pivotX": 485.5,
+    "footY": 1433,
+    "bodyHeight": 1345,
+    "background": "transparent",
+    "sha256": "54314c7b210e17347c0d8b21ad61094290f2e6fd28014bd002ff25f382462c0d"
+  },
+  "alex-coffee": {
+    "id": "alex-coffee",
+    "url": "episodes/ai-typo/art/alex-coffee.png",
+    "width": 1024,
+    "height": 1536,
+    "bounds": [
+      284,
+      72,
+      706,
+      1452
+    ],
+    "pivotX": 512.0,
+    "footY": 1452,
+    "bodyHeight": 1380,
+    "background": "transparent",
+    "sha256": "a1948f46af6a6165cfe8730346588a140654149d6fc65ae006ba8d9b9965b313"
+  },
+  "alex-frustrated": {
+    "id": "alex-frustrated",
+    "url": "episodes/ai-typo/art/alex-frustrated.png",
+    "width": 1024,
+    "height": 1536,
+    "bounds": [
+      272,
+      87,
+      744,
+      1439
+    ],
+    "pivotX": 495.5,
+    "footY": 1439,
+    "bodyHeight": 1352,
+    "background": "transparent",
+    "sha256": "8ccc5b4b224c668e62299dcb7f095e3936ba48bb3dbf453698e8ddcf921fda3b"
+  },
+  "astra-present": {
+    "id": "astra-present",
+    "url": "episodes/ai-review-loop/cast/astra-present.png",
+    "width": 2048,
+    "height": 3072,
+    "bounds": [
+      306,
+      59,
+      1771,
+      2847
+    ],
+    "pivotX": 920.5,
+    "footY": 2847,
+    "bodyHeight": 2788,
+    "background": "transparent",
+    "sha256": "f7949a0657878366e5d9a5cf137dbe59e2c57e2c19b5b38fb851fb1d9ac3bbc9",
+    "sourceUrl": "developer/cast/astra-6/present-v1.png",
+    "sourceSha256": "d830e83c01e9b68faf104d8d473183fbc39821a25860e80532ae6179630a6e17"
+  }
+}

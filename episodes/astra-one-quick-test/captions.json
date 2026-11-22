@@ -1,0 +1,198 @@
+[
+  {
+    "text": "One bug",
+    "startMs": 0,
+    "endMs": 520,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "left.",
+    "startMs": 520,
+    "endMs": 940,
+    "timestampMs": 520,
+    "confidence": null
+  },
+  {
+    "text": "Oh, a",
+    "startMs": 1500,
+    "endMs": 2160,
+    "timestampMs": 1500,
+    "confidence": null
+  },
+  {
+    "text": "new model",
+    "startMs": 2160,
+    "endMs": 2560,
+    "timestampMs": 2160,
+    "confidence": null
+  },
+  {
+    "text": "dropped.",
+    "startMs": 2560,
+    "endMs": 2980,
+    "timestampMs": 2560,
+    "confidence": null
+  },
+  {
+    "text": "Number one",
+    "startMs": 3095,
+    "endMs": 3710,
+    "timestampMs": 3095,
+    "confidence": null
+  },
+  {
+    "text": "on a",
+    "startMs": 3710,
+    "endMs": 4130,
+    "timestampMs": 3710,
+    "confidence": null
+  },
+  {
+    "text": "benchmark I’ve",
+    "startMs": 4130,
+    "endMs": 4750,
+    "timestampMs": 4130,
+    "confidence": null
+  },
+  {
+    "text": "never heard",
+    "startMs": 4750,
+    "endMs": 5250,
+    "timestampMs": 4750,
+    "confidence": null
+  },
+  {
+    "text": "of.",
+    "startMs": 5250,
+    "endMs": 5630,
+    "timestampMs": 5250,
+    "confidence": null
+  },
+  {
+    "text": "One quick",
+    "startMs": 6050,
+    "endMs": 6390,
+    "timestampMs": 6050,
+    "confidence": null
+  },
+  {
+    "text": "test.",
+    "startMs": 6390,
+    "endMs": 6772,
+    "timestampMs": 6390,
+    "confidence": null
+  },
+  {
+    "text": "Make a",
+    "startMs": 7230,
+    "endMs": 7700,
+    "timestampMs": 7230,
+    "confidence": null
+  },
+  {
+    "text": "cube do",
+    "startMs": 7700,
+    "endMs": 7980,
+    "timestampMs": 7700,
+    "confidence": null
+  },
+  {
+    "text": "a backflip.",
+    "startMs": 7980,
+    "endMs": 8510,
+    "timestampMs": 7980,
+    "confidence": null
+  },
+  {
+    "text": "This changes",
+    "startMs": 10158,
+    "endMs": 10920,
+    "timestampMs": 10158,
+    "confidence": null
+  },
+  {
+    "text": "everything.",
+    "startMs": 10920,
+    "endMs": 11767,
+    "timestampMs": 10920,
+    "confidence": null
+  },
+  {
+    "text": "Okay, now",
+    "startMs": 12092,
+    "endMs": 12780,
+    "timestampMs": 12092,
+    "confidence": null
+  },
+  {
+    "text": "fix the",
+    "startMs": 12780,
+    "endMs": 13300,
+    "timestampMs": 12780,
+    "confidence": null
+  },
+  {
+    "text": "Pay button.",
+    "startMs": 13300,
+    "endMs": 13826,
+    "timestampMs": 13300,
+    "confidence": null
+  },
+  {
+    "text": "I rebuilt",
+    "startMs": 14641,
+    "endMs": 15195,
+    "timestampMs": 14641,
+    "confidence": null
+  },
+  {
+    "text": "the whole",
+    "startMs": 15195,
+    "endMs": 15815,
+    "timestampMs": 15195,
+    "confidence": null
+  },
+  {
+    "text": "checkout.",
+    "startMs": 15815,
+    "endMs": 16340,
+    "timestampMs": 15815,
+    "confidence": null
+  },
+  {
+    "text": "Can it",
+    "startMs": 16615,
+    "endMs": 16890,
+    "timestampMs": 16615,
+    "confidence": null
+  },
+  {
+    "text": "take a",
+    "startMs": 16890,
+    "endMs": 17250,
+    "timestampMs": 16890,
+    "confidence": null
+  },
+  {
+    "text": "payment?",
+    "startMs": 17250,
+    "endMs": 17605,
+    "timestampMs": 17250,
+    "confidence": null
+  },
+  {
+    "text": "The backflip",
+    "startMs": 18535,
+    "endMs": 19385,
+    "timestampMs": 18535,
+    "confidence": null
+  },
+  {
+    "text": "works.",
+    "startMs": 19385,
+    "endMs": 20055,
+    "timestampMs": 19385,
+    "confidence": null
+  }
+]

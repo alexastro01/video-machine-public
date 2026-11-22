@@ -1,0 +1,2174 @@
+{
+  "id": "billionaire-body-swap-5",
+  "title": "You Swapped Places with a Billionaire, Part 5",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration": 36.53333333333333,
+  "events": {
+    "hook": 0,
+    "question": 2.1629791666666667,
+    "assistant": 4.0369375000000005,
+    "six": 7.014708333333334,
+    "titan": 9.300833333333333,
+    "wrong": 12.14725,
+    "caps": 13.060749999999999,
+    "business": 14.725770833333332,
+    "office": 17.235541666666666,
+    "cage": 18.398791666666668,
+    "shoebox": 19.4313125,
+    "hostage": 23.346541666666667,
+    "nibbles": 26.754145833333332,
+    "worked": 28.489354166666665,
+    "security": 29.543958333333332,
+    "payoff": 31.2414375,
+    "faceUnlock": 0.72,
+    "balancePreview": 0.75,
+    "callerReveal": 1.1,
+    "bankQuestion": 2.1629791666666667,
+    "questionCaller": 2.8129791666666666,
+    "firstType": 9.400833333333333,
+    "reject1": 12.14725,
+    "secondType": 13.160749999999998,
+    "reject2": 14.305770833333332,
+    "lidOpen": 18.548791666666666,
+    "wheel": 20.705896,
+    "name": 27.3035,
+    "success": 28.289354166666666,
+    "vault": 29.543958333333332,
+    "vaultOpen": 29.74395833333333,
+    "guard": 33.145271,
+    "end": 36.53333333333333
+  },
+  "lines": [
+    {
+      "id": "hook",
+      "speaker": "narrator",
+      "text": "Your new face opens his phone.",
+      "afterPause": 0.12,
+      "start": 0,
+      "end": 2.0429791666666666,
+      "duration": 2.0429791666666666,
+      "words": [
+        {
+          "text": "Your",
+          "start": 0.068958,
+          "end": 0.168958,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "new",
+          "start": 0.268958,
+          "end": 0.448958,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "face",
+          "start": 0.608958,
+          "end": 0.888958,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "opens",
+          "start": 1.028958,
+          "end": 1.288958,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "his",
+          "start": 1.328958,
+          "end": 1.448958,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "phone.",
+          "start": 1.528958,
+          "end": 1.908958,
+          "speaker": "narrator",
+          "line": "hook"
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "speaker": "viewer",
+      "text": "What was your first pet called?",
+      "afterPause": 0.22,
+      "start": 2.1629791666666667,
+      "end": 3.8169375,
+      "duration": 1.6539583333333334,
+      "words": [
+        {
+          "text": "What",
+          "start": 2.272396,
+          "end": 2.372396,
+          "speaker": "viewer",
+          "line": "question"
+        },
+        {
+          "text": "was",
+          "start": 2.412396,
+          "end": 2.552396,
+          "speaker": "viewer",
+          "line": "question"
+        },
+        {
+          "text": "your",
+          "start": 2.592396,
+          "end": 2.672396,
+          "speaker": "viewer",
+          "line": "question"
+        },
+        {
+          "text": "first",
+          "start": 2.792396,
+          "end": 3.032396,
+          "speaker": "viewer",
+          "line": "question"
+        },
+        {
+          "text": "pet",
+          "start": 3.132396,
+          "end": 3.292396,
+          "speaker": "viewer",
+          "line": "question"
+        },
+        {
+          "text": "called?",
+          "start": 3.412396,
+          "end": 3.732396,
+          "speaker": "viewer",
+          "line": "question"
+        }
+      ]
+    },
+    {
+      "id": "assistant",
+      "speaker": "young",
+      "text": "Ask my assistant. She remembers everything.",
+      "afterPause": 0.22,
+      "start": 4.0369375000000005,
+      "end": 6.794708333333334,
+      "duration": 2.7577708333333333,
+      "words": [
+        {
+          "text": "Ask",
+          "start": 4.156938,
+          "end": 4.356938,
+          "speaker": "young",
+          "line": "assistant"
+        },
+        {
+          "text": "my",
+          "start": 4.376938,
+          "end": 4.476938,
+          "speaker": "young",
+          "line": "assistant"
+        },
+        {
+          "text": "assistant.",
+          "start": 4.536938,
+          "end": 5.016938,
+          "speaker": "young",
+          "line": "assistant"
+        },
+        {
+          "text": "She",
+          "start": 5.316938,
+          "end": 5.456938,
+          "speaker": "young",
+          "line": "assistant"
+        },
+        {
+          "text": "remembers",
+          "start": 5.516938,
+          "end": 5.916938,
+          "speaker": "young",
+          "line": "assistant"
+        },
+        {
+          "text": "everything.",
+          "start": 6.136938,
+          "end": 6.676938,
+          "speaker": "young",
+          "line": "assistant"
+        }
+      ]
+    },
+    {
+      "id": "six",
+      "speaker": "viewer",
+      "text": "She wasn't there when you were six.",
+      "afterPause": 0.2,
+      "start": 7.014708333333334,
+      "end": 9.100833333333334,
+      "duration": 2.086125,
+      "words": [
+        {
+          "text": "She",
+          "start": 7.103104,
+          "end": 7.323104,
+          "speaker": "viewer",
+          "line": "six"
+        },
+        {
+          "text": "wasn't",
+          "start": 7.383104,
+          "end": 7.783104,
+          "speaker": "viewer",
+          "line": "six"
+        },
+        {
+          "text": "there",
+          "start": 7.843104,
+          "end": 8.083104,
+          "speaker": "viewer",
+          "line": "six"
+        },
+        {
+          "text": "when",
+          "start": 8.103104,
+          "end": 8.223104,
+          "speaker": "viewer",
+          "line": "six"
+        },
+        {
+          "text": "you",
+          "start": 8.263104,
+          "end": 8.323104,
+          "speaker": "viewer",
+          "line": "six"
+        },
+        {
+          "text": "were",
+          "start": 8.343104,
+          "end": 8.523104,
+          "speaker": "viewer",
+          "line": "six"
+        },
+        {
+          "text": "six.",
+          "start": 8.603104,
+          "end": 8.963104,
+          "speaker": "viewer",
+          "line": "six"
+        }
+      ]
+    },
+    {
+      "id": "titan",
+      "speaker": "young",
+      "text": "Titan. It was definitely Titan.",
+      "afterPause": 0.24,
+      "start": 9.300833333333333,
+      "end": 11.90725,
+      "duration": 2.6064166666666666,
+      "words": [
+        {
+          "text": "Titan.",
+          "start": 9.363083,
+          "end": 9.843083,
+          "speaker": "young",
+          "line": "titan"
+        },
+        {
+          "text": "It",
+          "start": 10.202083,
+          "end": 10.283083,
+          "speaker": "young",
+          "line": "titan"
+        },
+        {
+          "text": "was",
+          "start": 10.323083,
+          "end": 10.443083,
+          "speaker": "young",
+          "line": "titan"
+        },
+        {
+          "text": "definitely",
+          "start": 10.683083,
+          "end": 11.263083,
+          "speaker": "young",
+          "line": "titan"
+        },
+        {
+          "text": "Titan.",
+          "start": 11.323083,
+          "end": 11.823083,
+          "speaker": "young",
+          "line": "titan"
+        }
+      ]
+    },
+    {
+      "id": "wrong",
+      "speaker": "viewer",
+      "text": "Wrong.",
+      "afterPause": 0.18,
+      "start": 12.14725,
+      "end": 12.880749999999999,
+      "duration": 0.7335,
+      "words": [
+        {
+          "text": "Wrong.",
+          "start": 12.238833,
+          "end": 12.678833,
+          "speaker": "viewer",
+          "line": "wrong"
+        }
+      ]
+    },
+    {
+      "id": "caps",
+      "speaker": "young",
+      "text": "Did you try all capitals?",
+      "afterPause": 0.26,
+      "start": 13.060749999999999,
+      "end": 14.465770833333332,
+      "duration": 1.4050208333333334,
+      "words": [
+        {
+          "text": "Did",
+          "start": 13.079625,
+          "end": 13.199625,
+          "speaker": "young",
+          "line": "caps"
+        },
+        {
+          "text": "you",
+          "start": 13.219625,
+          "end": 13.319625,
+          "speaker": "young",
+          "line": "caps"
+        },
+        {
+          "text": "try",
+          "start": 13.359625,
+          "end": 13.639625,
+          "speaker": "young",
+          "line": "caps"
+        },
+        {
+          "text": "all",
+          "start": 13.719625,
+          "end": 13.839625,
+          "speaker": "young",
+          "line": "caps"
+        },
+        {
+          "text": "capitals?",
+          "start": 13.899625,
+          "end": 14.359625,
+          "speaker": "young",
+          "line": "caps"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "speaker": "viewer",
+      "text": "You named that tiny hamster Titan?",
+      "afterPause": 0.25,
+      "start": 14.725770833333332,
+      "end": 16.985541666666666,
+      "duration": 2.2597708333333335,
+      "words": [
+        {
+          "text": "You",
+          "start": 14.836792,
+          "end": 14.976792,
+          "speaker": "viewer",
+          "line": "business"
+        },
+        {
+          "text": "named",
+          "start": 15.016792,
+          "end": 15.216792,
+          "speaker": "viewer",
+          "line": "business"
+        },
+        {
+          "text": "that",
+          "start": 15.276792,
+          "end": 15.436792,
+          "speaker": "viewer",
+          "line": "business"
+        },
+        {
+          "text": "tiny",
+          "start": 15.516792,
+          "end": 15.836792,
+          "speaker": "viewer",
+          "line": "business"
+        },
+        {
+          "text": "hamster",
+          "start": 15.896792,
+          "end": 16.276792,
+          "speaker": "viewer",
+          "line": "business"
+        },
+        {
+          "text": "Titan?",
+          "start": 16.456792,
+          "end": 16.876792,
+          "speaker": "viewer",
+          "line": "business"
+        }
+      ]
+    },
+    {
+      "id": "office",
+      "speaker": "young",
+      "text": "He had an office.",
+      "afterPause": 0.2,
+      "start": 17.235541666666666,
+      "end": 18.198791666666665,
+      "duration": 0.96325,
+      "words": [
+        {
+          "text": "He",
+          "start": 17.281833,
+          "end": 17.381833,
+          "speaker": "young",
+          "line": "office"
+        },
+        {
+          "text": "had",
+          "start": 17.421833,
+          "end": 17.521833,
+          "speaker": "young",
+          "line": "office"
+        },
+        {
+          "text": "an",
+          "start": 17.581833,
+          "end": 17.641833,
+          "speaker": "young",
+          "line": "office"
+        },
+        {
+          "text": "office.",
+          "start": 17.701833,
+          "end": 18.061833,
+          "speaker": "young",
+          "line": "office"
+        }
+      ]
+    },
+    {
+      "id": "cage",
+      "speaker": "viewer",
+      "text": "A cage?",
+      "afterPause": 0.18,
+      "start": 18.398791666666668,
+      "end": 19.2513125,
+      "duration": 0.8525208333333333,
+      "words": [
+        {
+          "text": "A",
+          "start": 18.458604,
+          "end": 18.558604,
+          "speaker": "viewer",
+          "line": "cage"
+        },
+        {
+          "text": "cage?",
+          "start": 18.658604,
+          "end": 19.138604,
+          "speaker": "viewer",
+          "line": "cage"
+        }
+      ]
+    },
+    {
+      "id": "shoebox",
+      "speaker": "young",
+      "text": "A shoebox. A wheel. More exercise than my board.",
+      "afterPause": 0.27,
+      "start": 19.4313125,
+      "end": 23.076541666666667,
+      "duration": 3.6452291666666667,
+      "words": [
+        {
+          "text": "A",
+          "start": 19.485896,
+          "end": 19.565896,
+          "speaker": "young",
+          "line": "shoebox"
+        },
+        {
+          "text": "shoebox.",
+          "start": 19.665896,
+          "end": 20.205896,
+          "speaker": "young",
+          "line": "shoebox"
+        },
+        {
+          "text": "A",
+          "start": 20.565896,
+          "end": 20.605896,
+          "speaker": "young",
+          "line": "shoebox"
+        },
+        {
+          "text": "wheel.",
+          "start": 20.705896,
+          "end": 21.005896,
+          "speaker": "young",
+          "line": "shoebox"
+        },
+        {
+          "text": "More",
+          "start": 21.505896,
+          "end": 21.665896,
+          "speaker": "young",
+          "line": "shoebox"
+        },
+        {
+          "text": "exercise",
+          "start": 21.725896,
+          "end": 22.205896,
+          "speaker": "young",
+          "line": "shoebox"
+        },
+        {
+          "text": "than",
+          "start": 22.225896,
+          "end": 22.345896,
+          "speaker": "young",
+          "line": "shoebox"
+        },
+        {
+          "text": "my",
+          "start": 22.385896,
+          "end": 22.585896,
+          "speaker": "young",
+          "line": "shoebox"
+        },
+        {
+          "text": "board.",
+          "start": 22.625896,
+          "end": 22.965896,
+          "speaker": "young",
+          "line": "shoebox"
+        }
+      ]
+    },
+    {
+      "id": "hostage",
+      "speaker": "viewer",
+      "text": "My bank account is being held hostage by a dead hamster.",
+      "afterPause": 0.34,
+      "start": 23.346541666666667,
+      "end": 26.414145833333333,
+      "duration": 3.0676041666666665,
+      "words": [
+        {
+          "text": "My",
+          "start": 23.397271,
+          "end": 23.617271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "bank",
+          "start": 23.657271,
+          "end": 23.837271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "account",
+          "start": 23.877271,
+          "end": 24.117271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "is",
+          "start": 24.157271,
+          "end": 24.257271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "being",
+          "start": 24.277271,
+          "end": 24.437271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "held",
+          "start": 24.477271,
+          "end": 24.617271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "hostage",
+          "start": 24.737271,
+          "end": 25.177271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "by",
+          "start": 25.217271,
+          "end": 25.297271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "a",
+          "start": 25.357271,
+          "end": 25.397271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "dead",
+          "start": 25.557271,
+          "end": 25.717271,
+          "speaker": "viewer",
+          "line": "hostage"
+        },
+        {
+          "text": "hamster.",
+          "start": 25.817271,
+          "end": 26.357271,
+          "speaker": "viewer",
+          "line": "hostage"
+        }
+      ]
+    },
+    {
+      "id": "nibbles",
+      "speaker": "young",
+      "text": "Oh! Mister Nibbles!",
+      "afterPause": 0.32,
+      "start": 26.754145833333332,
+      "end": 28.169354166666665,
+      "duration": 1.4152083333333334,
+      "words": [
+        {
+          "text": "Oh!",
+          "start": 26.8435,
+          "end": 27.0435,
+          "speaker": "young",
+          "line": "nibbles"
+        },
+        {
+          "text": "Mister",
+          "start": 27.3035,
+          "end": 27.3635,
+          "speaker": "young",
+          "line": "nibbles"
+        },
+        {
+          "text": "Nibbles!",
+          "start": 27.6235,
+          "end": 28.0435,
+          "speaker": "young",
+          "line": "nibbles"
+        }
+      ]
+    },
+    {
+      "id": "worked",
+      "speaker": "viewer",
+      "text": "That worked.",
+      "afterPause": 0.25,
+      "start": 28.489354166666665,
+      "end": 29.293958333333332,
+      "duration": 0.8046041666666667,
+      "words": [
+        {
+          "text": "That",
+          "start": 28.533958,
+          "end": 28.733958,
+          "speaker": "viewer",
+          "line": "worked"
+        },
+        {
+          "text": "worked.",
+          "start": 28.873958,
+          "end": 29.233958,
+          "speaker": "viewer",
+          "line": "worked"
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "speaker": "young",
+      "text": "He was head of security.",
+      "afterPause": 0.32,
+      "start": 29.543958333333332,
+      "end": 30.9214375,
+      "duration": 1.3774791666666666,
+      "words": [
+        {
+          "text": "He",
+          "start": 29.601437,
+          "end": 29.721438,
+          "speaker": "young",
+          "line": "security"
+        },
+        {
+          "text": "was",
+          "start": 29.761437,
+          "end": 29.921437,
+          "speaker": "young",
+          "line": "security"
+        },
+        {
+          "text": "head",
+          "start": 29.981437,
+          "end": 30.121437,
+          "speaker": "young",
+          "line": "security"
+        },
+        {
+          "text": "of",
+          "start": 30.161437,
+          "end": 30.201437,
+          "speaker": "young",
+          "line": "security"
+        },
+        {
+          "text": "security.",
+          "start": 30.281437,
+          "end": 30.821437,
+          "speaker": "young",
+          "line": "security"
+        }
+      ]
+    },
+    {
+      "id": "payoff",
+      "speaker": "narrator",
+      "text": "Eight billion pounds. Protected by Mister Nibbles.",
+      "afterPause": 1.65,
+      "start": 31.2414375,
+      "end": 34.85027083333333,
+      "duration": 3.608833333333333,
+      "words": [
+        {
+          "text": "Eight",
+          "start": 31.245271,
+          "end": 31.545271,
+          "speaker": "narrator",
+          "line": "payoff"
+        },
+        {
+          "text": "billion",
+          "start": 31.705271,
+          "end": 32.065271,
+          "speaker": "narrator",
+          "line": "payoff"
+        },
+        {
+          "text": "pounds.",
+          "start": 32.185271,
+          "end": 32.685271,
+          "speaker": "narrator",
+          "line": "payoff"
+        },
+        {
+          "text": "Protected",
+          "start": 33.145271,
+          "end": 33.665271,
+          "speaker": "narrator",
+          "line": "payoff"
+        },
+        {
+          "text": "by",
+          "start": 33.745271,
+          "end": 33.945271,
+          "speaker": "narrator",
+          "line": "payoff"
+        },
+        {
+          "text": "Mister",
+          "start": 34.005271,
+          "end": 34.065271,
+          "speaker": "narrator",
+          "line": "payoff"
+        },
+        {
+          "text": "Nibbles.",
+          "start": 34.365271,
+          "end": 34.805271,
+          "speaker": "narrator",
+          "line": "payoff"
+        }
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": "face-hook",
+      "start": 0,
+      "duration": 1.1,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Your new face opens his phone.",
+      "description": "The phone is already moving into view; its face lock resolves once."
+    },
+    {
+      "id": "hook-caller",
+      "start": 1.1,
+      "duration": 1.0629791666666666,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Your new face opens his phone.",
+      "description": "Cut to the adult caller after the short face-unlock insert; no held balance screen."
+    },
+    {
+      "id": "question-hook",
+      "start": 2.1629791666666667,
+      "duration": 0.6499999999999999,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "What was your first pet called?",
+      "description": "The same phone asks for the first pet’s name; the financial obstacle is explicit."
+    },
+    {
+      "id": "question",
+      "start": 2.8129791666666666,
+      "duration": 1.223958333333334,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "What was your first pet called?",
+      "description": "Adult viewer calls the former billionaire for the answer."
+    },
+    {
+      "id": "assistant",
+      "start": 4.0369375000000005,
+      "duration": 2.9777708333333335,
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "anchor": "Ask my assistant. She remembers everything.",
+      "description": "Young body tries to delegate a childhood memory to his assistant."
+    },
+    {
+      "id": "six",
+      "start": 7.014708333333334,
+      "duration": 2.2861249999999993,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "She wasn't there when you were six.",
+      "description": "Viewer points out that she was not there when he was six."
+    },
+    {
+      "id": "titan-entry",
+      "start": 9.300833333333333,
+      "duration": 2.8464166666666664,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Titan. It was definitely Titan.",
+      "description": "Viewer makes one finite phone-tapping gesture while trying Titan."
+    },
+    {
+      "id": "wrong",
+      "start": 12.14725,
+      "duration": 0.9134999999999991,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Wrong.",
+      "description": "The phone rejects the first answer on the spoken Wrong."
+    },
+    {
+      "id": "caps",
+      "start": 13.060749999999999,
+      "duration": 1.6650208333333332,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Did you try all capitals?",
+      "description": "An uppercase retry changes the letters, then fails again."
+    },
+    {
+      "id": "business",
+      "start": 14.725770833333332,
+      "duration": 2.5097708333333344,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "You named that tiny hamster Titan?",
+      "description": "Viewer reacts to the huge name given to the tiny animal."
+    },
+    {
+      "id": "office",
+      "start": 17.235541666666666,
+      "duration": 1.1632500000000014,
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "anchor": "He had an office.",
+      "description": "Young body proudly remembers his pet’s office."
+    },
+    {
+      "id": "cage",
+      "start": 18.398791666666668,
+      "duration": 1.0325208333333329,
+      "set": "swap-memory",
+      "action": "reveal",
+      "anchor": "A cage?",
+      "description": "The cardboard lid starts opening on the cage question."
+    },
+    {
+      "id": "shoebox",
+      "start": 19.4313125,
+      "duration": 1.2745834999999985,
+      "set": "swap-memory",
+      "action": "reveal",
+      "anchor": "A shoebox. A wheel. More exercise than my board.",
+      "description": "A close view reveals the shoebox, tiny hamster and wheel."
+    },
+    {
+      "id": "wheel",
+      "start": 20.705896,
+      "duration": 2.640645666666668,
+      "set": "swap-memory",
+      "action": "reveal",
+      "anchor": "A shoebox. A wheel. More exercise than my board.",
+      "description": "The hamster runs briefly inside the physical wheel and settles."
+    },
+    {
+      "id": "hostage",
+      "start": 23.346541666666667,
+      "duration": 3.4076041666666654,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "My bank account is being held hostage by a dead hamster.",
+      "description": "Viewer reacts to the small, personal memory blocking access."
+    },
+    {
+      "id": "nibbles",
+      "start": 26.754145833333332,
+      "duration": 2.7898125,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Oh! Mister Nibbles!",
+      "description": "The young body remembers Mister Nibbles; the answer stays hidden until it is spoken."
+    },
+    {
+      "id": "security",
+      "start": 29.543958333333332,
+      "duration": 1.6974791666666675,
+      "set": "swap-vault",
+      "action": "reveal",
+      "anchor": "He was head of security.",
+      "description": "The metaphor becomes a physical vault with a tiny hamster guard."
+    },
+    {
+      "id": "payoff",
+      "start": 31.2414375,
+      "duration": 1.903833500000001,
+      "set": "swap-vault",
+      "action": "reveal",
+      "anchor": "Eight billion pounds. Protected by Mister Nibbles.",
+      "description": "The open vault reveals the account balance."
+    },
+    {
+      "id": "guard",
+      "start": 33.145271,
+      "duration": 3.3880623333333304,
+      "set": "swap-vault",
+      "action": "reveal",
+      "anchor": "Eight billion pounds. Protected by Mister Nibbles.",
+      "description": "Mister Nibbles gives one finite salute, recovers and holds through the ending."
+    }
+  ],
+  "assets": [
+    {
+      "width": 578,
+      "height": 893,
+      "worldHeight": 1.86,
+      "pivotX": 252.0,
+      "footY": 888,
+      "id": "adult-look",
+      "url": "episodes/billionaire-body-swap-5/art/adult-look.png"
+    },
+    {
+      "width": 583,
+      "height": 885,
+      "worldHeight": 1.86,
+      "pivotX": 255.0,
+      "footY": 880,
+      "id": "adult-tap",
+      "url": "episodes/billionaire-body-swap-5/art/adult-tap.png"
+    },
+    {
+      "width": 566,
+      "height": 887,
+      "worldHeight": 1.86,
+      "pivotX": 249.0,
+      "footY": 882,
+      "id": "adult-listen",
+      "url": "episodes/billionaire-body-swap-5/art/adult-listen.png"
+    },
+    {
+      "width": 623,
+      "height": 887,
+      "worldHeight": 1.86,
+      "pivotX": 249.0,
+      "footY": 882,
+      "id": "adult-wow",
+      "url": "episodes/billionaire-body-swap-5/art/adult-wow.png"
+    },
+    {
+      "width": 610,
+      "height": 729,
+      "worldHeight": 0.55,
+      "pivotX": 304.0,
+      "footY": 724,
+      "id": "hamster-plain",
+      "url": "episodes/billionaire-body-swap-5/art/hamster-plain.png"
+    },
+    {
+      "width": 875,
+      "height": 606,
+      "worldHeight": 0.21,
+      "pivotX": 168.5,
+      "footY": 601,
+      "id": "hamster-run",
+      "url": "episodes/billionaire-body-swap-5/art/hamster-run.png"
+    },
+    {
+      "width": 528,
+      "height": 848,
+      "worldHeight": 0.65,
+      "pivotX": 251.5,
+      "footY": 843,
+      "id": "hamster-guard",
+      "url": "episodes/billionaire-body-swap-5/art/hamster-guard.png"
+    },
+    {
+      "width": 579,
+      "height": 857,
+      "worldHeight": 0.65,
+      "pivotX": 302.5,
+      "footY": 852,
+      "id": "hamster-salute",
+      "url": "episodes/billionaire-body-swap-5/art/hamster-salute.png"
+    },
+    {
+      "width": 574,
+      "height": 898,
+      "worldHeight": 1.86,
+      "pivotX": 252.5,
+      "footY": 893,
+      "id": "adult-call",
+      "url": "episodes/billionaire-body-swap-3/art/adult-call.png"
+    },
+    {
+      "width": 444,
+      "height": 891,
+      "worldHeight": 1.78,
+      "pivotX": 210.0,
+      "footY": 886,
+      "id": "young-call",
+      "url": "episodes/billionaire-body-swap-3/art/young-call.png"
+    },
+    {
+      "width": 449,
+      "height": 880,
+      "worldHeight": 1.78,
+      "pivotX": 214.5,
+      "footY": 875,
+      "id": "young-puzzled",
+      "url": "episodes/billionaire-body-swap-3/art/young-puzzled.png"
+    },
+    {
+      "width": 443,
+      "height": 885,
+      "worldHeight": 1.78,
+      "pivotX": 208.0,
+      "footY": 880,
+      "id": "young-caught",
+      "url": "episodes/billionaire-body-swap-3/art/young-caught.png"
+    },
+    {
+      "id": "adult-tap-gif",
+      "url": "episodes/billionaire-body-swap-5/art/adult-tap-atlas.png",
+      "width": 289,
+      "height": 465,
+      "worldHeight": 1.86,
+      "pivotX": 151.0,
+      "footY": 465,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "adult-tap.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 105,
+          "y": 26,
+          "width": 289,
+          "height": 465
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 109,
+            "top": 30,
+            "right": 390,
+            "bottom": 486,
+            "pixels": 71648,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 109,
+            "top": 30,
+            "right": 389,
+            "bottom": 486,
+            "pixels": 71768,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 109,
+            "top": 30,
+            "right": 389,
+            "bottom": 486,
+            "pixels": 71753,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 109,
+            "top": 30,
+            "right": 389,
+            "bottom": 486,
+            "pixels": 71761,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 109,
+            "top": 30,
+            "right": 390,
+            "bottom": 486,
+            "pixels": 71858,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 109,
+            "top": 30,
+            "right": 389,
+            "bottom": 486,
+            "pixels": 71825,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 109,
+            "top": 30,
+            "right": 389,
+            "bottom": 486,
+            "pixels": 71761,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 109,
+            "top": 30,
+            "right": 389,
+            "bottom": 486,
+            "pixels": 71775,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 109,
+            "top": 30,
+            "right": 390,
+            "bottom": 485,
+            "pixels": 71744,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 109,
+            "top": 29,
+            "right": 389,
+            "bottom": 485,
+            "pixels": 71666,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 109,
+            "top": 30,
+            "right": 389,
+            "bottom": 485,
+            "pixels": 71657,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 109,
+            "top": 30,
+            "right": 389,
+            "bottom": 485,
+            "pixels": 71620,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 109,
+            "top": 29,
+            "right": 390,
+            "bottom": 485,
+            "pixels": 71686,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 109,
+            "top": 29,
+            "right": 389,
+            "bottom": 485,
+            "pixels": 71706,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 109,
+            "top": 29,
+            "right": 389,
+            "bottom": 485,
+            "pixels": 71675,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 109,
+            "top": 29,
+            "right": 389,
+            "bottom": 485,
+            "pixels": 71696,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 29,
+        "minimumBottomMargin": 25
+      }
+    },
+    {
+      "id": "hamster-run-gif",
+      "url": "episodes/billionaire-body-swap-5/art/hamster-run-atlas.png",
+      "width": 473,
+      "height": 340,
+      "worldHeight": 0.21,
+      "pivotX": 240.0,
+      "footY": 340,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Source frame 15 begins another stride, so playback uses frames 0–14 and holds the settled pose at frame 14. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "hamster-run.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 15,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 16,
+          "y": 90,
+          "width": 473,
+          "height": 340
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 28,
+            "top": 116,
+            "right": 482,
+            "bottom": 425,
+            "pixels": 78155,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 31,
+            "top": 126,
+            "right": 475,
+            "bottom": 418,
+            "pixels": 74657,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 62,
+            "top": 132,
+            "right": 474,
+            "bottom": 426,
+            "pixels": 73944,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 62,
+            "top": 136,
+            "right": 464,
+            "bottom": 426,
+            "pixels": 71318,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 62,
+            "top": 132,
+            "right": 469,
+            "bottom": 422,
+            "pixels": 72207,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 58,
+            "top": 119,
+            "right": 481,
+            "bottom": 422,
+            "pixels": 72810,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 30,
+            "top": 106,
+            "right": 484,
+            "bottom": 415,
+            "pixels": 73696,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 20,
+            "top": 93,
+            "right": 486,
+            "bottom": 406,
+            "pixels": 75055,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 21,
+            "top": 105,
+            "right": 486,
+            "bottom": 410,
+            "pixels": 75752,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 41,
+            "top": 114,
+            "right": 481,
+            "bottom": 413,
+            "pixels": 74707,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 58,
+            "top": 121,
+            "right": 471,
+            "bottom": 422,
+            "pixels": 73881,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 62,
+            "top": 131,
+            "right": 464,
+            "bottom": 422,
+            "pixels": 72176,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 62,
+            "top": 131,
+            "right": 468,
+            "bottom": 421,
+            "pixels": 72956,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 58,
+            "top": 125,
+            "right": 480,
+            "bottom": 421,
+            "pixels": 75348,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 58,
+            "top": 122,
+            "right": 480,
+            "bottom": 422,
+            "pixels": 76293,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 93,
+        "minimumBottomMargin": 85,
+        "sourceFrameCount": 16,
+        "selectedSourceFrames": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "durationMs": 1500
+      }
+    },
+    {
+      "id": "hamster-guard-gif",
+      "url": "episodes/billionaire-body-swap-5/art/hamster-guard-atlas.png",
+      "width": 292,
+      "height": 480,
+      "worldHeight": 0.65,
+      "pivotX": 141.0,
+      "footY": 480,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "hamster-guard.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 115,
+          "y": 16,
+          "width": 292,
+          "height": 480
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 129,
+            "top": 42,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 98948,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 127,
+            "top": 37,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 100379,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 126,
+            "top": 30,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 101735,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 119,
+            "top": 29,
+            "right": 401,
+            "bottom": 490,
+            "pixels": 102347,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 119,
+            "top": 30,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 102385,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 119,
+            "top": 20,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 105337,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 119,
+            "top": 20,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 105776,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 119,
+            "top": 20,
+            "right": 401,
+            "bottom": 490,
+            "pixels": 105410,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 119,
+            "top": 26,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 104321,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 119,
+            "top": 27,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 103269,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 119,
+            "top": 30,
+            "right": 402,
+            "bottom": 490,
+            "pixels": 102307,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 126,
+            "top": 32,
+            "right": 400,
+            "bottom": 490,
+            "pixels": 100719,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 129,
+            "top": 35,
+            "right": 402,
+            "bottom": 491,
+            "pixels": 100901,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 128,
+            "top": 40,
+            "right": 401,
+            "bottom": 491,
+            "pixels": 99741,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 127,
+            "top": 41,
+            "right": 401,
+            "bottom": 491,
+            "pixels": 99731,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 127,
+            "top": 41,
+            "right": 400,
+            "bottom": 491,
+            "pixels": 99402,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 20,
+        "minimumBottomMargin": 20
+      }
+    },
+    {
+      "id": "adult-call-gif",
+      "url": "episodes/billionaire-body-swap-3/art/adult-call-atlas.png",
+      "width": 316,
+      "height": 503,
+      "worldHeight": 1.86,
+      "pivotX": 167.0,
+      "footY": 503,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "adult-call.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 89,
+          "y": 7,
+          "width": 316,
+          "height": 503
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 506,
+            "pixels": 85023,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 506,
+            "pixels": 84912,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 506,
+            "pixels": 84961,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 506,
+            "pixels": 85087,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84949,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 85024,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84962,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 85037,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84924,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84935,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84964,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84887,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84844,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84816,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84903,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84923,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 11,
+        "minimumBottomMargin": 5
+      }
+    },
+    {
+      "id": "young-call-gif",
+      "url": "episodes/billionaire-body-swap-3/art/young-call-atlas.png",
+      "width": 264,
+      "height": 500,
+      "worldHeight": 1.78,
+      "pivotX": 142.0,
+      "footY": 500,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "young-call.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 114,
+          "y": 8,
+          "width": 264,
+          "height": 500
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83802,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83758,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83687,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83917,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 84026,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83945,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83883,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 84060,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 83894,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 83965,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83873,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 83995,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 84054,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 84011,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 83944,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 84025,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 11,
+        "minimumBottomMargin": 8
+      }
+    }
+  ],
+  "model": "episodes/billionaire-body-swap-5/swap-stage-5.glb",
+  "ui": {
+    "phoneTime": "9:41",
+    "app": "Vault",
+    "question": "First pet’s name?",
+    "answerPlaceholder": "Your answer",
+    "wrong": "Try again",
+    "titan": "Titan",
+    "caps": "TITAN",
+    "correct": "Mister Nibbles",
+    "submit": "Continue",
+    "balanceLabel": "Account balance",
+    "balance": "£8,000,000,000",
+    "memoryLabel": "HEAD OFFICE",
+    "nameplate": "MR NIBBLES",
+    "guardRole": "SECURITY"
+  }
+}

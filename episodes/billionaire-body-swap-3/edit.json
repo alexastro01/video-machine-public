@@ -1,0 +1,1499 @@
+{
+  "id": "billionaire-body-swap-3",
+  "title": "You Swapped Places with a Billionaire, Part 3",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration": 25.966666666666665,
+  "events": {
+    "hook": 0,
+    "working": 3.9615416666666667,
+    "accountant": 5.45825,
+    "pencil": 6.90025,
+    "deal": 8.498604166666667,
+    "pencil2": 12.041958333333334,
+    "lawyer": 13.938729166666667,
+    "helpCompany": 15.697083333333333,
+    "helpExam": 17.338208333333334,
+    "answers": 19.583770833333332,
+    "me": 21.424083333333332,
+    "exam": 2.111542,
+    "contractHit": 0.22,
+    "paperHit": 2.3315420000000002,
+    "figure": 9.970187,
+    "pencilHit": 7.551125000000001,
+    "removePencil": 14.467082999999999,
+    "sendContract": 16.247083333333332,
+    "sendExam": 17.888208333333335,
+    "takePhone": 19.403770833333333,
+    "reveal": 22.870021,
+    "end": 25.966666666666665,
+    "reaction": 24.470021000000003
+  },
+  "lines": [
+    {
+      "id": "hook",
+      "speaker": "narrator",
+      "text": "You have his billions. He has your maths exam.",
+      "afterPause": 0.1,
+      "start": 0,
+      "end": 3.8615416666666667,
+      "duration": 3.8615416666666667,
+      "words": [
+        {
+          "text": "You",
+          "start": 0.151542,
+          "end": 0.311542,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "have",
+          "start": 0.431542,
+          "end": 0.611542,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "his",
+          "start": 0.651542,
+          "end": 0.811542,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "billions.",
+          "start": 0.971542,
+          "end": 1.671542,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "He",
+          "start": 2.111542,
+          "end": 2.411542,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "has",
+          "start": 2.471542,
+          "end": 2.631542,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "your",
+          "start": 2.671542,
+          "end": 2.831542,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "maths",
+          "start": 2.891542,
+          "end": 3.151542,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "exam.",
+          "start": 3.211542,
+          "end": 3.671542,
+          "speaker": "narrator",
+          "line": "hook"
+        }
+      ]
+    },
+    {
+      "id": "working",
+      "speaker": "teacher",
+      "text": "Show your working.",
+      "afterPause": 0.14,
+      "start": 3.9615416666666667,
+      "end": 5.31825,
+      "duration": 1.3567083333333334,
+      "words": [
+        {
+          "text": "Show",
+          "start": 4.106604,
+          "end": 4.306604,
+          "speaker": "teacher",
+          "line": "working"
+        },
+        {
+          "text": "your",
+          "start": 4.406604,
+          "end": 4.526604,
+          "speaker": "teacher",
+          "line": "working"
+        },
+        {
+          "text": "working.",
+          "start": 4.646604,
+          "end": 5.166604,
+          "speaker": "teacher",
+          "line": "working"
+        }
+      ]
+    },
+    {
+      "id": "accountant",
+      "speaker": "young",
+      "text": "Can I call my accountant?",
+      "afterPause": 0.18,
+      "start": 5.45825,
+      "end": 6.72025,
+      "duration": 1.262,
+      "words": [
+        {
+          "text": "Can",
+          "start": 5.477417,
+          "end": 5.577417,
+          "speaker": "young",
+          "line": "accountant"
+        },
+        {
+          "text": "I",
+          "start": 5.657417,
+          "end": 5.717417,
+          "speaker": "young",
+          "line": "accountant"
+        },
+        {
+          "text": "call",
+          "start": 5.757417,
+          "end": 5.897417,
+          "speaker": "young",
+          "line": "accountant"
+        },
+        {
+          "text": "my",
+          "start": 5.937417,
+          "end": 6.057417,
+          "speaker": "young",
+          "line": "accountant"
+        },
+        {
+          "text": "accountant?",
+          "start": 6.097417,
+          "end": 6.577417,
+          "speaker": "young",
+          "line": "accountant"
+        }
+      ]
+    },
+    {
+      "id": "pencil",
+      "speaker": "teacher",
+      "text": "You can use a pencil.",
+      "afterPause": 0.28,
+      "start": 6.90025,
+      "end": 8.218604166666667,
+      "duration": 1.3183541666666667,
+      "words": [
+        {
+          "text": "You",
+          "start": 7.071125,
+          "end": 7.171125,
+          "speaker": "teacher",
+          "line": "pencil"
+        },
+        {
+          "text": "can",
+          "start": 7.211125,
+          "end": 7.331125,
+          "speaker": "teacher",
+          "line": "pencil"
+        },
+        {
+          "text": "use",
+          "start": 7.391125,
+          "end": 7.511125,
+          "speaker": "teacher",
+          "line": "pencil"
+        },
+        {
+          "text": "a",
+          "start": 7.551125,
+          "end": 7.611125,
+          "speaker": "teacher",
+          "line": "pencil"
+        },
+        {
+          "text": "pencil.",
+          "start": 7.651125,
+          "end": 8.111125,
+          "speaker": "teacher",
+          "line": "pencil"
+        }
+      ]
+    },
+    {
+      "id": "deal",
+      "speaker": "assistant",
+      "text": "The board needs you to sign a forty million pound deal.",
+      "afterPause": 0.2,
+      "start": 8.498604166666667,
+      "end": 11.841958333333334,
+      "duration": 3.343354166666667,
+      "words": [
+        {
+          "text": "The",
+          "start": 8.570187,
+          "end": 8.670187,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "board",
+          "start": 8.710187,
+          "end": 8.970187,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "needs",
+          "start": 9.010188,
+          "end": 9.210187,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "you",
+          "start": 9.250187,
+          "end": 9.310187,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "to",
+          "start": 9.350188,
+          "end": 9.450188,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "sign",
+          "start": 9.510188,
+          "end": 9.710187,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "a",
+          "start": 9.750187,
+          "end": 9.910187,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "forty",
+          "start": 9.970187,
+          "end": 10.250187,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "million",
+          "start": 10.450188,
+          "end": 10.790188,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "pound",
+          "start": 10.910187,
+          "end": 11.130187,
+          "speaker": "assistant",
+          "line": "deal"
+        },
+        {
+          "text": "deal.",
+          "start": 11.250187,
+          "end": 11.570187,
+          "speaker": "assistant",
+          "line": "deal"
+        }
+      ]
+    },
+    {
+      "id": "pencil2",
+      "speaker": "viewer",
+      "text": "Can I use a pencil?",
+      "afterPause": 0.18,
+      "start": 12.041958333333334,
+      "end": 13.758729166666667,
+      "duration": 1.7167708333333334,
+      "words": [
+        {
+          "text": "Can",
+          "start": 12.136437,
+          "end": 12.296437,
+          "speaker": "viewer",
+          "line": "pencil2"
+        },
+        {
+          "text": "I",
+          "start": 12.456437,
+          "end": 12.496438,
+          "speaker": "viewer",
+          "line": "pencil2"
+        },
+        {
+          "text": "use",
+          "start": 12.716437,
+          "end": 12.856438,
+          "speaker": "viewer",
+          "line": "pencil2"
+        },
+        {
+          "text": "a",
+          "start": 12.916438,
+          "end": 12.936438,
+          "speaker": "viewer",
+          "line": "pencil2"
+        },
+        {
+          "text": "pencil?",
+          "start": 13.136437,
+          "end": 13.576438,
+          "speaker": "viewer",
+          "line": "pencil2"
+        }
+      ]
+    },
+    {
+      "id": "lawyer",
+      "speaker": "assistant",
+      "text": "You can use a lawyer.",
+      "afterPause": 0.45,
+      "start": 13.938729166666667,
+      "end": 15.247083333333332,
+      "duration": 1.3083541666666667,
+      "words": [
+        {
+          "text": "You",
+          "start": 14.127083,
+          "end": 14.207083,
+          "speaker": "assistant",
+          "line": "lawyer"
+        },
+        {
+          "text": "can",
+          "start": 14.227083,
+          "end": 14.367083,
+          "speaker": "assistant",
+          "line": "lawyer"
+        },
+        {
+          "text": "use",
+          "start": 14.427083,
+          "end": 14.527083,
+          "speaker": "assistant",
+          "line": "lawyer"
+        },
+        {
+          "text": "a",
+          "start": 14.587083,
+          "end": 14.627083,
+          "speaker": "assistant",
+          "line": "lawyer"
+        },
+        {
+          "text": "lawyer.",
+          "start": 14.687083,
+          "end": 15.047083,
+          "speaker": "assistant",
+          "line": "lawyer"
+        }
+      ]
+    },
+    {
+      "id": "helpCompany",
+      "speaker": "viewer",
+      "text": "Help me run your company.",
+      "afterPause": 0.4,
+      "start": 15.697083333333333,
+      "end": 16.938208333333332,
+      "duration": 1.241125,
+      "words": [
+        {
+          "text": "Help",
+          "start": 15.748208,
+          "end": 15.908208,
+          "speaker": "viewer",
+          "line": "helpCompany"
+        },
+        {
+          "text": "me",
+          "start": 15.948208,
+          "end": 16.068208,
+          "speaker": "viewer",
+          "line": "helpCompany"
+        },
+        {
+          "text": "run",
+          "start": 16.108208,
+          "end": 16.248208,
+          "speaker": "viewer",
+          "line": "helpCompany"
+        },
+        {
+          "text": "your",
+          "start": 16.288208,
+          "end": 16.388208,
+          "speaker": "viewer",
+          "line": "helpCompany"
+        },
+        {
+          "text": "company.",
+          "start": 16.428208,
+          "end": 16.848208,
+          "speaker": "viewer",
+          "line": "helpCompany"
+        }
+      ]
+    },
+    {
+      "id": "helpExam",
+      "speaker": "young",
+      "text": "Help me pass your exam.",
+      "afterPause": 0.65,
+      "start": 17.338208333333334,
+      "end": 18.933770833333334,
+      "duration": 1.5955625,
+      "words": [
+        {
+          "text": "Help",
+          "start": 17.536979,
+          "end": 17.676979,
+          "speaker": "young",
+          "line": "helpExam"
+        },
+        {
+          "text": "me",
+          "start": 17.696979,
+          "end": 17.836979,
+          "speaker": "young",
+          "line": "helpExam"
+        },
+        {
+          "text": "pass",
+          "start": 17.876979,
+          "end": 18.096979,
+          "speaker": "young",
+          "line": "helpExam"
+        },
+        {
+          "text": "your",
+          "start": 18.136979,
+          "end": 18.236979,
+          "speaker": "young",
+          "line": "helpExam"
+        },
+        {
+          "text": "exam.",
+          "start": 18.276979,
+          "end": 18.756979,
+          "speaker": "young",
+          "line": "helpExam"
+        }
+      ]
+    },
+    {
+      "id": "answers",
+      "speaker": "teacher",
+      "text": "Who's giving you the answers?",
+      "afterPause": 0.25,
+      "start": 19.583770833333332,
+      "end": 21.174083333333332,
+      "duration": 1.5903125,
+      "words": [
+        {
+          "text": "Who's",
+          "start": 19.641958,
+          "end": 19.901958,
+          "speaker": "teacher",
+          "line": "answers"
+        },
+        {
+          "text": "giving",
+          "start": 19.941958,
+          "end": 20.161958,
+          "speaker": "teacher",
+          "line": "answers"
+        },
+        {
+          "text": "you",
+          "start": 20.201958,
+          "end": 20.301958,
+          "speaker": "teacher",
+          "line": "answers"
+        },
+        {
+          "text": "the",
+          "start": 20.341958,
+          "end": 20.421958,
+          "speaker": "teacher",
+          "line": "answers"
+        },
+        {
+          "text": "answers?",
+          "start": 20.501958,
+          "end": 21.061958,
+          "speaker": "teacher",
+          "line": "answers"
+        }
+      ]
+    },
+    {
+      "id": "me",
+      "speaker": "young",
+      "text": "Technically\u2026 me.",
+      "afterPause": 2.7,
+      "start": 21.424083333333332,
+      "end": 23.25002083333333,
+      "duration": 1.8259375,
+      "words": [
+        {
+          "text": "Technically\u2026",
+          "start": 21.510021,
+          "end": 22.370021,
+          "speaker": "young",
+          "line": "me"
+        },
+        {
+          "text": "me.",
+          "start": 22.870021,
+          "end": 23.130021,
+          "speaker": "young",
+          "line": "me"
+        }
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": "office-hook",
+      "start": 0,
+      "duration": 2.111542,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "You have his billions. He has your maths exam.",
+      "description": "Contract already dropping toward the suited red-scarf viewer."
+    },
+    {
+      "id": "exam-hook",
+      "start": 2.111542,
+      "duration": 1.8499996666666667,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "You have his billions. He has your maths exam.",
+      "description": "Match cut to the maths paper landing in front of the young body."
+    },
+    {
+      "id": "working",
+      "start": 3.9615416666666667,
+      "duration": 1.4967083333333329,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Show your working.",
+      "description": "Teacher points at the unanswered working-out space."
+    },
+    {
+      "id": "accountant",
+      "start": 5.45825,
+      "duration": 1.4420000000000002,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Can I call my accountant?",
+      "description": "Young body confidently asks to call an accountant."
+    },
+    {
+      "id": "pencil",
+      "start": 6.90025,
+      "duration": 1.5983541666666667,
+      "set": "swap-classroom",
+      "action": "handoff",
+      "anchor": "You can use a pencil.",
+      "description": "One pencil arrives on the desk instead."
+    },
+    {
+      "id": "deal",
+      "start": 8.498604166666667,
+      "duration": 1.3915828333333327,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "The board needs you to sign a forty million pound deal.",
+      "description": "Assistant introduces the contract waiting for a signature."
+    },
+    {
+      "id": "contract",
+      "start": 9.890187,
+      "duration": 2.1517713333333344,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "The board needs you to sign a forty million pound deal.",
+      "description": "Close-up shows the fictional forty-million-pound amount."
+    },
+    {
+      "id": "pencil2",
+      "start": 12.041958333333334,
+      "duration": 1.896770833333333,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Can I use a pencil?",
+      "description": "Viewer hopes the school solution will work here too."
+    },
+    {
+      "id": "lawyer",
+      "start": 13.938729166666667,
+      "duration": 1.7583541666666669,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "You can use a lawyer.",
+      "description": "Assistant removes the pencil on the legal retort."
+    },
+    {
+      "id": "helpCompany",
+      "start": 15.697083333333333,
+      "duration": 1.6411250000000006,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Help me run your company.",
+      "description": "Adult viewer calls the young body for help."
+    },
+    {
+      "id": "helpExam",
+      "start": 17.338208333333334,
+      "duration": 2.2455624999999984,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Help me pass your exam.",
+      "description": "Young body asks for help with the exam and shares its photo."
+    },
+    {
+      "id": "answers",
+      "start": 19.583770833333332,
+      "duration": 1.8403124999999996,
+      "set": "swap-classroom",
+      "action": "handoff",
+      "anchor": "Who's giving you the answers?",
+      "description": "Teacher has taken the phone and questions the young body."
+    },
+    {
+      "id": "me",
+      "start": 21.424083333333332,
+      "duration": 1.4459376666666692,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Technically\u2026 me.",
+      "description": "Caught young body hesitates before his literal answer."
+    },
+    {
+      "id": "reveal",
+      "start": 22.870021,
+      "duration": 1.6000000000000014,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Technically\u2026 me.",
+      "description": "Phone reveals the adult red-scarf caller giving a guilty wave."
+    },
+    {
+      "id": "reaction",
+      "start": 24.470021000000003,
+      "duration": 1.4966456666666623,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Technically\u2026 me.",
+      "description": "Teacher holds an unimpressed reaction after the completed wave."
+    }
+  ],
+  "assets": [
+    {
+      "id": "adult-ask",
+      "url": "episodes/billionaire-body-swap-3/art/adult-ask.png",
+      "width": 664,
+      "height": 896,
+      "worldHeight": 1.86,
+      "pivotX": 264.0,
+      "footY": 891
+    },
+    {
+      "id": "adult-call",
+      "url": "episodes/billionaire-body-swap-3/art/adult-call.png",
+      "width": 574,
+      "height": 898,
+      "worldHeight": 1.86,
+      "pivotX": 252.5,
+      "footY": 893
+    },
+    {
+      "id": "adult-wave",
+      "url": "episodes/billionaire-body-swap-3/art/adult-wave.png",
+      "width": 589,
+      "height": 905,
+      "worldHeight": 1.86,
+      "pivotX": 256.0,
+      "footY": 900
+    },
+    {
+      "id": "adult-listen",
+      "url": "episodes/billionaire-body-swap-3/art/adult-listen.png",
+      "width": 573,
+      "height": 904,
+      "worldHeight": 1.86,
+      "pivotX": 252.5,
+      "footY": 899
+    },
+    {
+      "id": "young-puzzled",
+      "url": "episodes/billionaire-body-swap-3/art/young-puzzled.png",
+      "width": 449,
+      "height": 880,
+      "worldHeight": 1.78,
+      "pivotX": 214.5,
+      "footY": 875
+    },
+    {
+      "id": "young-ask",
+      "url": "episodes/billionaire-body-swap-3/art/young-ask.png",
+      "width": 489,
+      "height": 880,
+      "worldHeight": 1.78,
+      "pivotX": 249.0,
+      "footY": 875
+    },
+    {
+      "id": "young-call",
+      "url": "episodes/billionaire-body-swap-3/art/young-call.png",
+      "width": 444,
+      "height": 891,
+      "worldHeight": 1.78,
+      "pivotX": 210.0,
+      "footY": 886
+    },
+    {
+      "id": "young-caught",
+      "url": "episodes/billionaire-body-swap-3/art/young-caught.png",
+      "width": 443,
+      "height": 885,
+      "worldHeight": 1.78,
+      "pivotX": 208.0,
+      "footY": 880
+    },
+    {
+      "id": "teacher-point",
+      "url": "episodes/billionaire-body-swap-3/art/teacher-point.png",
+      "width": 489,
+      "height": 913,
+      "worldHeight": 2.35,
+      "pivotX": 302.0,
+      "footY": 908
+    },
+    {
+      "id": "teacher-pencil",
+      "url": "episodes/billionaire-body-swap-3/art/teacher-pencil.png",
+      "width": 502,
+      "height": 915,
+      "worldHeight": 2.35,
+      "pivotX": 333.0,
+      "footY": 910
+    },
+    {
+      "id": "teacher-phone",
+      "url": "episodes/billionaire-body-swap-3/art/teacher-phone.png",
+      "width": 426,
+      "height": 912,
+      "worldHeight": 2.35,
+      "pivotX": 246.0,
+      "footY": 907
+    },
+    {
+      "id": "teacher-stare",
+      "url": "episodes/billionaire-body-swap-3/art/teacher-stare.png",
+      "width": 290,
+      "height": 918,
+      "worldHeight": 2.35,
+      "pivotX": 138.5,
+      "footY": 913
+    },
+    {
+      "id": "assistant-contract",
+      "url": "episodes/billionaire-body-swap-3/art/assistant-contract.png",
+      "width": 460,
+      "height": 881,
+      "worldHeight": 2.35,
+      "pivotX": 293.5,
+      "footY": 876
+    },
+    {
+      "id": "assistant-lawyer",
+      "url": "episodes/billionaire-body-swap-3/art/assistant-lawyer.png",
+      "width": 365,
+      "height": 872,
+      "worldHeight": 2.35,
+      "pivotX": 195.5,
+      "footY": 867
+    },
+    {
+      "id": "assistant-take",
+      "url": "episodes/billionaire-body-swap-3/art/assistant-take.png",
+      "width": 559,
+      "height": 877,
+      "worldHeight": 2.35,
+      "pivotX": 359.5,
+      "footY": 872
+    },
+    {
+      "id": "assistant-listen",
+      "url": "episodes/billionaire-body-swap-3/art/assistant-listen.png",
+      "width": 290,
+      "height": 888,
+      "worldHeight": 2.35,
+      "pivotX": 127.5,
+      "footY": 883
+    },
+    {
+      "id": "adult-call-gif",
+      "url": "episodes/billionaire-body-swap-3/art/adult-call-atlas.png",
+      "width": 316,
+      "height": 503,
+      "worldHeight": 1.86,
+      "pivotX": 167.0,
+      "footY": 503,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "adult-call.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 89,
+          "y": 7,
+          "width": 316,
+          "height": 503
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 506,
+            "pixels": 85023,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 506,
+            "pixels": 84912,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 506,
+            "pixels": 84961,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 506,
+            "pixels": 85087,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84949,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 85024,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84962,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 85037,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84924,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84935,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84964,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84887,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84844,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84816,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84903,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 93,
+            "top": 11,
+            "right": 400,
+            "bottom": 505,
+            "pixels": 84923,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 11,
+        "minimumBottomMargin": 5
+      }
+    },
+    {
+      "id": "young-call-gif",
+      "url": "episodes/billionaire-body-swap-3/art/young-call-atlas.png",
+      "width": 264,
+      "height": 500,
+      "worldHeight": 1.78,
+      "pivotX": 142.0,
+      "footY": 500,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "young-call.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 114,
+          "y": 8,
+          "width": 264,
+          "height": 500
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83802,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83758,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83687,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83917,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 84026,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83945,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83883,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 84060,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 83894,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 83965,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 502,
+            "pixels": 83873,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 83995,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 84054,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 84011,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 118,
+            "top": 11,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 83944,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 118,
+            "top": 12,
+            "right": 373,
+            "bottom": 503,
+            "pixels": 84025,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 11,
+        "minimumBottomMargin": 8
+      }
+    },
+    {
+      "id": "adult-wave-gif",
+      "url": "episodes/billionaire-body-swap-3/art/adult-wave-atlas.png",
+      "width": 327,
+      "height": 497,
+      "worldHeight": 1.86,
+      "pivotX": 165.0,
+      "footY": 497,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "adult-wave.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 91,
+          "y": 12,
+          "width": 327,
+          "height": 497
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 505,
+            "pixels": 88689,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 95,
+            "top": 16,
+            "right": 399,
+            "bottom": 505,
+            "pixels": 88753,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 95,
+            "top": 16,
+            "right": 413,
+            "bottom": 505,
+            "pixels": 88755,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 95,
+            "top": 16,
+            "right": 413,
+            "bottom": 505,
+            "pixels": 88876,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 95,
+            "top": 16,
+            "right": 396,
+            "bottom": 505,
+            "pixels": 88670,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 505,
+            "pixels": 88342,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 95,
+            "top": 16,
+            "right": 396,
+            "bottom": 505,
+            "pixels": 87541,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 505,
+            "pixels": 87595,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 504,
+            "pixels": 87532,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 504,
+            "pixels": 87675,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 95,
+            "top": 16,
+            "right": 396,
+            "bottom": 504,
+            "pixels": 87569,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 504,
+            "pixels": 87637,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 504,
+            "pixels": 87428,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 504,
+            "pixels": 87529,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 95,
+            "top": 16,
+            "right": 396,
+            "bottom": 504,
+            "pixels": 87465,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 95,
+            "top": 16,
+            "right": 395,
+            "bottom": 504,
+            "pixels": 87510,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 16,
+        "minimumBottomMargin": 6
+      }
+    }
+  ],
+  "model": "episodes/billionaire-body-swap-3/swap-stage-3.glb",
+  "ui": {
+    "examTitle": "MATHS",
+    "examQuestion": "x + 7 = 12",
+    "examInstruction": "Show your working",
+    "contractTitle": "CONTRACT",
+    "contractValue": "\u00a340,000,000",
+    "contractShortValue": "\u00a340 million",
+    "signatureLabel": "Signature"
+  }
+}

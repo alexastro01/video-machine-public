@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "renderer": "pixel3d",
+  "hook": "none",
+  "world": "ok-message",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "ok-message",
+  "title": "Why Does OK Sound Angry?",
+  "number": 18,
+  "shadowLeadSeconds": 0,
+  "premise": "A flat full stop escapes an incoming message, becomes a heavy sphere, and lands on Miko's desk as he imagines an angry reply.",
+  "fiction": true,
+  "duration": 9,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "miko"
+  ],
+  "audio": {
+    "narration": "episodes/ok-message/narration.wav",
+    "music": "episodes/ok-message/music.wav",
+    "effects": "episodes/ok-message/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 1.64,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "message",
+      "set": "ok-room",
+      "action": "reveal",
+      "start": 0,
+      "duration": 2,
+      "anchor": "One word",
+      "label": "Message arrives; push toward its punctuation.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "punctuation",
+      "set": "ok-room",
+      "action": "catch",
+      "start": 2,
+      "duration": 3.55,
+      "anchor": "you think",
+      "label": "The same full stop gains depth, lifts, drops onto the desk and bounces.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reaction",
+      "set": "ok-room",
+      "action": "recover",
+      "start": 5.55,
+      "duration": 3.45,
+      "anchor": "Okay",
+      "label": "Gentle reaction push as Miko imagines an annoyed reply.",
+      "timeOfDay": "evening"
+    }
+  ],
+  "sampleEdit": {
+    "kind": "chat-to-world",
+    "contact": "Mia",
+    "outgoing": "See you tonight?",
+    "reply": "OK",
+    "timings": {
+      "incoming": 0.28,
+      "pushStart": 1.08,
+      "depth": 2.0,
+      "growthEnd": 2.9,
+      "room": 2.55,
+      "roomEnd": 3.16,
+      "actorIn": 2.65,
+      "cameraStart": 2.75,
+      "cameraEnd": 4.7,
+      "liftEnd": 3.02,
+      "drop": 3.12,
+      "impact": 4.12,
+      "bounceEnd": 4.64,
+      "reactionStart": 5.55,
+      "reactionEnd": 6.15,
+      "imaginedVoice": 6.08
+    }
+  }
+}

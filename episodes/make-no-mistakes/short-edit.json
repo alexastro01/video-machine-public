@@ -1,0 +1,2345 @@
+{
+  "frames": 4598,
+  "spans": [
+    {
+      "sourceIn": 0,
+      "sourceOut": 1207,
+      "at": 0
+    },
+    {
+      "sourceIn": 1286,
+      "sourceOut": 1604,
+      "at": 1207
+    },
+    {
+      "sourceIn": 1867,
+      "sourceOut": 2195,
+      "at": 1525
+    },
+    {
+      "sourceIn": 2383,
+      "sourceOut": 2983,
+      "at": 1853
+    },
+    {
+      "sourceIn": 3016,
+      "sourceOut": 3067,
+      "at": 2453
+    },
+    {
+      "sourceIn": 3116,
+      "sourceOut": 3451,
+      "at": 2504
+    },
+    {
+      "sourceIn": 3632,
+      "sourceOut": 5391,
+      "at": 2839
+    }
+  ],
+  "words": [
+    {
+      "text": "Typing",
+      "start": 0.019496,
+      "end": 0.256239
+    },
+    {
+      "text": "'MAKE",
+      "start": 0.285483,
+      "end": 0.396892
+    },
+    {
+      "text": "NO",
+      "start": 0.424744,
+      "end": 0.480448
+    },
+    {
+      "text": "MISTAKES'",
+      "start": 0.509692,
+      "end": 0.732509
+    },
+    {
+      "text": "in",
+      "start": 0.761753,
+      "end": 0.789605
+    },
+    {
+      "text": "caps",
+      "start": 0.81885,
+      "end": 0.999888
+    },
+    {
+      "text": "literally",
+      "start": 1.029133,
+      "end": 1.293727
+    },
+    {
+      "text": "costs",
+      "start": 1.322972,
+      "end": 1.490084
+    },
+    {
+      "text": "double.",
+      "start": 1.517936,
+      "end": 1.7129
+    },
+    {
+      "text": "And",
+      "start": 1.742145,
+      "end": 1.783923
+    },
+    {
+      "text": "it",
+      "start": 1.813168,
+      "end": 1.84102
+    },
+    {
+      "text": "doesn't",
+      "start": 1.870265,
+      "end": 2.023451
+    },
+    {
+      "text": "even",
+      "start": 2.051303,
+      "end": 2.148785
+    },
+    {
+      "text": "work.",
+      "start": 2.17803,
+      "end": 2.31729
+    },
+    {
+      "text": "But",
+      "start": 2.346534,
+      "end": 2.430091
+    },
+    {
+      "text": "4",
+      "start": 2.459335,
+      "end": 2.626447
+    },
+    {
+      "text": "other",
+      "start": 2.655692,
+      "end": 2.7671
+    },
+    {
+      "text": "words",
+      "start": 2.796345,
+      "end": 2.963457
+    },
+    {
+      "text": "can.",
+      "start": 2.992702,
+      "end": 3.187666
+    },
+    {
+      "text": "Your",
+      "start": 3.38762,
+      "end": 3.511788
+    },
+    {
+      "text": "message",
+      "start": 3.565003,
+      "end": 3.848816
+    },
+    {
+      "text": "hits",
+      "start": 3.884293,
+      "end": 4.026199
+    },
+    {
+      "text": "Cloudflare,",
+      "start": 4.079414,
+      "end": 4.64704
+    },
+    {
+      "text": "then",
+      "start": 4.842161,
+      "end": 4.948591
+    },
+    {
+      "text": "OpenAI",
+      "start": 5.108236,
+      "end": 5.516217
+    },
+    {
+      "text": "checks",
+      "start": 5.658124,
+      "end": 5.853245
+    },
+    {
+      "text": "who",
+      "start": 5.888722,
+      "end": 5.959675
+    },
+    {
+      "text": "you",
+      "start": 6.030628,
+      "end": 6.101582
+    },
+    {
+      "text": "are",
+      "start": 6.261226,
+      "end": 6.349918
+    },
+    {
+      "text": "and",
+      "start": 6.562778,
+      "end": 6.633731
+    },
+    {
+      "text": "whether",
+      "start": 6.686946,
+      "end": 6.899806
+    },
+    {
+      "text": "you've",
+      "start": 6.935282,
+      "end": 7.05945
+    },
+    {
+      "text": "hit",
+      "start": 7.094927,
+      "end": 7.201357
+    },
+    {
+      "text": "your",
+      "start": 7.236834,
+      "end": 7.343263
+    },
+    {
+      "text": "limit.",
+      "start": 7.414217,
+      "end": 7.609338
+    },
+    {
+      "text": "'Make",
+      "start": 7.867396,
+      "end": 8.027287
+    },
+    {
+      "text": "no",
+      "start": 8.098349,
+      "end": 8.169412
+    },
+    {
+      "text": "mistakes'",
+      "start": 8.25824,
+      "end": 8.649085
+    },
+    {
+      "text": "does",
+      "start": 8.808976,
+      "end": 8.933335
+    },
+    {
+      "text": "not",
+      "start": 8.968866,
+      "end": 9.093226
+    },
+    {
+      "text": "get",
+      "start": 9.128757,
+      "end": 9.235351
+    },
+    {
+      "text": "you",
+      "start": 9.270883,
+      "end": 9.341945
+    },
+    {
+      "text": "past",
+      "start": 9.395242,
+      "end": 9.590664
+    },
+    {
+      "text": "rate",
+      "start": 9.661727,
+      "end": 9.786087
+    },
+    {
+      "text": "limits.",
+      "start": 9.821618,
+      "end": 10.105868
+    },
+    {
+      "text": "Let's",
+      "start": 10.324084,
+      "end": 10.46621
+    },
+    {
+      "text": "follow",
+      "start": 10.501741,
+      "end": 10.750461
+    },
+    {
+      "text": "one",
+      "start": 10.928118,
+      "end": 11.016947
+    },
+    {
+      "text": "prompt",
+      "start": 11.123541,
+      "end": 11.407793
+    },
+    {
+      "text": "and",
+      "start": 11.478856,
+      "end": 11.549919
+    },
+    {
+      "text": "see",
+      "start": 11.656513,
+      "end": 11.798639
+    },
+    {
+      "text": "how",
+      "start": 11.869702,
+      "end": 11.95853
+    },
+    {
+      "text": "it's",
+      "start": 12.047359,
+      "end": 12.153953
+    },
+    {
+      "text": "checked,",
+      "start": 12.242782,
+      "end": 12.509268
+    },
+    {
+      "text": "read,",
+      "start": 12.722456,
+      "end": 12.900114
+    },
+    {
+      "text": "answered",
+      "start": 13.166599,
+      "end": 13.433085
+    },
+    {
+      "text": "and",
+      "start": 13.53968,
+      "end": 13.592977
+    },
+    {
+      "text": "saved.",
+      "start": 13.66404,
+      "end": 13.966057
+    },
+    {
+      "text": "The",
+      "start": 14.590291,
+      "end": 14.661227
+    },
+    {
+      "text": "model",
+      "start": 14.732164,
+      "end": 14.980442
+    },
+    {
+      "text": "reads",
+      "start": 15.051379,
+      "end": 15.246455
+    },
+    {
+      "text": "chunks",
+      "start": 15.317391,
+      "end": 15.547935
+    },
+    {
+      "text": "called",
+      "start": 15.636606,
+      "end": 15.831682
+    },
+    {
+      "text": "tokens.",
+      "start": 15.884884,
+      "end": 16.221833
+    },
+    {
+      "text": "'Make",
+      "start": 16.576517,
+      "end": 16.71839
+    },
+    {
+      "text": "no",
+      "start": 16.771592,
+      "end": 16.842529
+    },
+    {
+      "text": "mistakes'",
+      "start": 16.913466,
+      "end": 17.23268
+    },
+    {
+      "text": "is",
+      "start": 17.303617,
+      "end": 17.339085
+    },
+    {
+      "text": "three",
+      "start": 17.410022,
+      "end": 17.551895
+    },
+    {
+      "text": "of",
+      "start": 17.569629,
+      "end": 17.605098
+    },
+    {
+      "text": "them.",
+      "start": 17.640566,
+      "end": 17.729237
+    },
+    {
+      "text": "Yell",
+      "start": 17.947409,
+      "end": 18.196612
+    },
+    {
+      "text": "it",
+      "start": 18.250013,
+      "end": 18.321213
+    },
+    {
+      "text": "in",
+      "start": 18.481415,
+      "end": 18.517015
+    },
+    {
+      "text": "caps,",
+      "start": 18.695017,
+      "end": 19.086622
+    },
+    {
+      "text": "and",
+      "start": 19.335825,
+      "end": 19.424826
+    },
+    {
+      "text": "it's",
+      "start": 19.549427,
+      "end": 19.674028
+    },
+    {
+      "text": "six.",
+      "start": 19.79863,
+      "end": 20.012232
+    },
+    {
+      "text": "Your",
+      "start": 20.348237,
+      "end": 20.472205
+    },
+    {
+      "text": "prompt",
+      "start": 20.543043,
+      "end": 20.808688
+    },
+    {
+      "text": "is",
+      "start": 20.914946,
+      "end": 20.968075
+    },
+    {
+      "text": "batched",
+      "start": 21.038914,
+      "end": 21.339978
+    },
+    {
+      "text": "with",
+      "start": 21.375397,
+      "end": 21.481655
+    },
+    {
+      "text": "others,",
+      "start": 21.570204,
+      "end": 21.835848
+    },
+    {
+      "text": "and",
+      "start": 22.154622,
+      "end": 22.225461
+    },
+    {
+      "text": "the",
+      "start": 22.26088,
+      "end": 22.314009
+    },
+    {
+      "text": "model",
+      "start": 22.349429,
+      "end": 22.597364
+    },
+    {
+      "text": "predicts",
+      "start": 22.685912,
+      "end": 23.022395
+    },
+    {
+      "text": "your",
+      "start": 23.075524,
+      "end": 23.181782
+    },
+    {
+      "text": "answer",
+      "start": 23.270331,
+      "end": 23.535976
+    },
+    {
+      "text": "one",
+      "start": 23.872459,
+      "end": 23.978717
+    },
+    {
+      "text": "token",
+      "start": 24.120394,
+      "end": 24.439168
+    },
+    {
+      "text": "at",
+      "start": 24.687103,
+      "end": 24.757942
+    },
+    {
+      "text": "a",
+      "start": 24.8642,
+      "end": 24.88191
+    },
+    {
+      "text": "time.",
+      "start": 24.988167,
+      "end": 25.289232
+    },
+    {
+      "text": "Then,",
+      "start": 25.524265,
+      "end": 25.648431
+    },
+    {
+      "text": "streaming.",
+      "start": 25.914501,
+      "end": 26.251524
+    },
+    {
+      "text": "Pieces",
+      "start": 26.535333,
+      "end": 26.819141
+    },
+    {
+      "text": "of",
+      "start": 26.943308,
+      "end": 26.978784
+    },
+    {
+      "text": "the",
+      "start": 27.01426,
+      "end": 27.10295
+    },
+    {
+      "text": "answer",
+      "start": 27.209378,
+      "end": 27.457711
+    },
+    {
+      "text": "are",
+      "start": 27.546401,
+      "end": 27.635091
+    },
+    {
+      "text": "sent",
+      "start": 27.706043,
+      "end": 27.901162
+    },
+    {
+      "text": "as",
+      "start": 28.09628,
+      "end": 28.167232
+    },
+    {
+      "text": "they're",
+      "start": 28.220446,
+      "end": 28.380089
+    },
+    {
+      "text": "ready.",
+      "start": 28.415565,
+      "end": 28.592945
+    },
+    {
+      "text": "That's",
+      "start": 28.699373,
+      "end": 28.91223
+    },
+    {
+      "text": "why",
+      "start": 28.947706,
+      "end": 29.036396
+    },
+    {
+      "text": "the",
+      "start": 29.125086,
+      "end": 29.213776
+    },
+    {
+      "text": "answer",
+      "start": 29.426633,
+      "end": 29.710441
+    },
+    {
+      "text": "types",
+      "start": 29.941036,
+      "end": 30.189368
+    },
+    {
+      "text": "itself",
+      "start": 30.278058,
+      "end": 30.561867
+    },
+    {
+      "text": "out.",
+      "start": 30.686033,
+      "end": 30.756985
+    },
+    {
+      "text": "Finally,",
+      "start": 30.990346,
+      "end": 31.363054
+    },
+    {
+      "text": "the",
+      "start": 31.540534,
+      "end": 31.611526
+    },
+    {
+      "text": "database.",
+      "start": 31.647022,
+      "end": 32.01973
+    },
+    {
+      "text": "ChatGPT's",
+      "start": 32.356942,
+      "end": 32.978122
+    },
+    {
+      "text": "core",
+      "start": 33.102358,
+      "end": 33.333082
+    },
+    {
+      "text": "PostgreSQL",
+      "start": 33.421822,
+      "end": 34.255978
+    },
+    {
+      "text": "database",
+      "start": 34.309222,
+      "end": 34.717426
+    },
+    {
+      "text": "has",
+      "start": 34.983646,
+      "end": 35.090134
+    },
+    {
+      "text": "just",
+      "start": 35.143378,
+      "end": 35.30311
+    },
+    {
+      "text": "one",
+      "start": 35.498338,
+      "end": 35.587078
+    },
+    {
+      "text": "main",
+      "start": 35.693566,
+      "end": 35.83555
+    },
+    {
+      "text": "server",
+      "start": 35.942038,
+      "end": 36.226006
+    },
+    {
+      "text": "taking",
+      "start": 36.421234,
+      "end": 36.669706
+    },
+    {
+      "text": "all",
+      "start": 36.90043,
+      "end": 36.98917
+    },
+    {
+      "text": "the",
+      "start": 37.095658,
+      "end": 37.16665
+    },
+    {
+      "text": "writes.",
+      "start": 37.202146,
+      "end": 37.468366
+    },
+    {
+      "text": "One",
+      "start": 37.726399,
+      "end": 37.797381
+    },
+    {
+      "text": "database,",
+      "start": 37.832872,
+      "end": 38.258765
+    },
+    {
+      "text": "doing",
+      "start": 38.524948,
+      "end": 38.720149
+    },
+    {
+      "text": "everyone's",
+      "start": 38.844367,
+      "end": 39.199278
+    },
+    {
+      "text": "homework.",
+      "start": 39.234769,
+      "end": 39.536443
+    },
+    {
+      "text": "Nearly",
+      "start": 39.754309,
+      "end": 39.966798
+    },
+    {
+      "text": "50",
+      "start": 40.037627,
+      "end": 40.285531
+    },
+    {
+      "text": "read",
+      "start": 40.356361,
+      "end": 40.480312
+    },
+    {
+      "text": "copies",
+      "start": 40.551142,
+      "end": 40.852168
+    },
+    {
+      "text": "handle",
+      "start": 40.921927,
+      "end": 41.16983
+    },
+    {
+      "text": "the",
+      "start": 41.205245,
+      "end": 41.258367
+    },
+    {
+      "text": "reading.",
+      "start": 41.31149,
+      "end": 41.541686
+    },
+    {
+      "text": "PgBouncer",
+      "start": 41.769755,
+      "end": 42.407222
+    },
+    {
+      "text": "cut",
+      "start": 42.513466,
+      "end": 42.655125
+    },
+    {
+      "text": "connection",
+      "start": 42.708247,
+      "end": 43.026981
+    },
+    {
+      "text": "time",
+      "start": 43.080103,
+      "end": 43.257177
+    },
+    {
+      "text": "from",
+      "start": 43.310299,
+      "end": 43.416543
+    },
+    {
+      "text": "50",
+      "start": 43.487373,
+      "end": 43.717569
+    },
+    {
+      "text": "milliseconds",
+      "start": 43.770691,
+      "end": 44.248791
+    },
+    {
+      "text": "to",
+      "start": 44.301913,
+      "end": 44.372743
+    },
+    {
+      "text": "5.",
+      "start": 44.425865,
+      "end": 44.726891
+    },
+    {
+      "text": "And",
+      "start": 44.94457,
+      "end": 44.997716
+    },
+    {
+      "text": "OpenAI's",
+      "start": 45.050862,
+      "end": 45.458315
+    },
+    {
+      "text": "actual",
+      "start": 45.600037,
+      "end": 45.865767
+    },
+    {
+      "text": "rule",
+      "start": 45.954344,
+      "end": 46.149213
+    },
+    {
+      "text": "is:",
+      "start": 46.23779,
+      "end": 46.290936
+    },
+    {
+      "text": "no",
+      "start": 46.414943,
+      "end": 46.50352
+    },
+    {
+      "text": "new",
+      "start": 46.592096,
+      "end": 46.680673
+    },
+    {
+      "text": "tables.",
+      "start": 46.733819,
+      "end": 47.07041
+    },
+    {
+      "text": "So",
+      "start": 47.424747,
+      "end": 47.495557
+    },
+    {
+      "text": "it's",
+      "start": 47.530962,
+      "end": 47.637177
+    },
+    {
+      "text": "a",
+      "start": 47.672582,
+      "end": 47.690285
+    },
+    {
+      "text": "front",
+      "start": 47.743392,
+      "end": 47.902715
+    },
+    {
+      "text": "door",
+      "start": 47.955822,
+      "end": 48.115145
+    },
+    {
+      "text": "that",
+      "start": 48.15055,
+      "end": 48.256765
+    },
+    {
+      "text": "checks",
+      "start": 48.29217,
+      "end": 48.5046
+    },
+    {
+      "text": "you,",
+      "start": 48.57541,
+      "end": 48.681625
+    },
+    {
+      "text": "a",
+      "start": 48.85865,
+      "end": 48.876353
+    },
+    {
+      "text": "tokenizer",
+      "start": 48.92946,
+      "end": 49.407428
+    },
+    {
+      "text": "that",
+      "start": 49.460535,
+      "end": 49.549048
+    },
+    {
+      "text": "chops",
+      "start": 49.602156,
+      "end": 49.832288
+    },
+    {
+      "text": "you",
+      "start": 49.867693,
+      "end": 49.956206
+    },
+    {
+      "text": "up,",
+      "start": 50.080123,
+      "end": 50.133231
+    },
+    {
+      "text": "GPUs",
+      "start": 50.345661,
+      "end": 50.876736
+    },
+    {
+      "text": "that",
+      "start": 50.965249,
+      "end": 51.036059
+    },
+    {
+      "text": "guess",
+      "start": 51.071464,
+      "end": 51.230786
+    },
+    {
+      "text": "one",
+      "start": 51.390109,
+      "end": 51.478621
+    },
+    {
+      "text": "token",
+      "start": 51.549431,
+      "end": 51.797266
+    },
+    {
+      "text": "at",
+      "start": 51.885779,
+      "end": 51.921184
+    },
+    {
+      "text": "a",
+      "start": 51.991994,
+      "end": 52.009696
+    },
+    {
+      "text": "time,",
+      "start": 52.062804,
+      "end": 52.292937
+    },
+    {
+      "text": "a",
+      "start": 52.629284,
+      "end": 52.646987
+    },
+    {
+      "text": "stream",
+      "start": 52.682392,
+      "end": 52.894822
+    },
+    {
+      "text": "that",
+      "start": 52.947929,
+      "end": 53.036442
+    },
+    {
+      "text": "ships",
+      "start": 53.089549,
+      "end": 53.284277
+    },
+    {
+      "text": "it",
+      "start": 53.355087,
+      "end": 53.390492
+    },
+    {
+      "text": "live,",
+      "start": 53.4436,
+      "end": 53.673732
+    },
+    {
+      "text": "and",
+      "start": 53.886162,
+      "end": 53.956972
+    },
+    {
+      "text": "one",
+      "start": 54.063187,
+      "end": 54.1517
+    },
+    {
+      "text": "very",
+      "start": 54.22251,
+      "end": 54.399535
+    },
+    {
+      "text": "tired",
+      "start": 54.470345,
+      "end": 54.71818
+    },
+    {
+      "text": "database.",
+      "start": 54.753585,
+      "end": 55.196148
+    },
+    {
+      "text": "In",
+      "start": 55.413845,
+      "end": 55.449299
+    },
+    {
+      "text": "a",
+      "start": 55.50248,
+      "end": 55.520207
+    },
+    {
+      "text": "whole",
+      "start": 55.608842,
+      "end": 55.821566
+    },
+    {
+      "text": "year,",
+      "start": 55.892474,
+      "end": 56.105197
+    },
+    {
+      "text": "that",
+      "start": 56.317921,
+      "end": 56.459737
+    },
+    {
+      "text": "database",
+      "start": 56.530645,
+      "end": 56.902911
+    },
+    {
+      "text": "had",
+      "start": 56.973819,
+      "end": 57.097908
+    },
+    {
+      "text": "only",
+      "start": 57.328359,
+      "end": 57.523356
+    },
+    {
+      "text": "one",
+      "start": 57.753806,
+      "end": 57.860168
+    },
+    {
+      "text": "top-level",
+      "start": 57.948803,
+      "end": 58.391978
+    },
+    {
+      "text": "emergency:",
+      "start": 58.445158,
+      "end": 58.888333
+    },
+    {
+      "text": "when",
+      "start": 59.171965,
+      "end": 59.2606
+    },
+    {
+      "text": "image",
+      "start": 59.402415,
+      "end": 59.579685
+    },
+    {
+      "text": "generation",
+      "start": 59.632866,
+      "end": 60.093768
+    },
+    {
+      "text": "launched,",
+      "start": 60.164675,
+      "end": 60.412853
+    },
+    {
+      "text": "over",
+      "start": 60.572396,
+      "end": 60.696485
+    },
+    {
+      "text": "100",
+      "start": 60.944663,
+      "end": 61.281475
+    },
+    {
+      "text": "million",
+      "start": 61.352383,
+      "end": 61.636015
+    },
+    {
+      "text": "people",
+      "start": 61.706923,
+      "end": 61.9551
+    },
+    {
+      "text": "signed",
+      "start": 62.061462,
+      "end": 62.30964
+    },
+    {
+      "text": "up",
+      "start": 62.398275,
+      "end": 62.433729
+    },
+    {
+      "text": "in",
+      "start": 62.557818,
+      "end": 62.593272
+    },
+    {
+      "text": "a",
+      "start": 62.664179,
+      "end": 62.681906
+    },
+    {
+      "text": "week,",
+      "start": 62.752814,
+      "end": 62.930084
+    },
+    {
+      "text": "and",
+      "start": 63.461894,
+      "end": 63.515074
+    },
+    {
+      "text": "writes",
+      "start": 63.568255,
+      "end": 63.83416
+    },
+    {
+      "text": "jumped",
+      "start": 63.958249,
+      "end": 64.1887
+    },
+    {
+      "text": "more",
+      "start": 64.259608,
+      "end": 64.436877
+    },
+    {
+      "text": "than",
+      "start": 64.490058,
+      "end": 64.59642
+    },
+    {
+      "text": "ten",
+      "start": 64.720509,
+      "end": 64.915506
+    },
+    {
+      "text": "times.",
+      "start": 65.039595,
+      "end": 65.411861
+    },
+    {
+      "text": "So",
+      "start": 65.669631,
+      "end": 65.75818
+    },
+    {
+      "text": "does",
+      "start": 65.829019,
+      "end": 65.988407
+    },
+    {
+      "text": "'make",
+      "start": 66.165505,
+      "end": 66.342603
+    },
+    {
+      "text": "no",
+      "start": 66.431152,
+      "end": 66.519701
+    },
+    {
+      "text": "mistakes'",
+      "start": 66.60825,
+      "end": 67.068705
+    },
+    {
+      "text": "work?",
+      "start": 67.121834,
+      "end": 67.298932
+    },
+    {
+      "text": "To",
+      "start": 67.688548,
+      "end": 67.759387
+    },
+    {
+      "text": "the",
+      "start": 67.812516,
+      "end": 67.865646
+    },
+    {
+      "text": "model,",
+      "start": 67.901065,
+      "end": 68.131293
+    },
+    {
+      "text": "it's",
+      "start": 68.272971,
+      "end": 68.36152
+    },
+    {
+      "text": "three",
+      "start": 68.432359,
+      "end": 68.591747
+    },
+    {
+      "text": "more",
+      "start": 68.644877,
+      "end": 68.768845
+    },
+    {
+      "text": "tokens.",
+      "start": 68.821975,
+      "end": 69.19388
+    },
+    {
+      "text": "But",
+      "start": 69.494947,
+      "end": 69.583496
+    },
+    {
+      "text": "OpenAI's",
+      "start": 69.689755,
+      "end": 70.1325
+    },
+    {
+      "text": "GPT-5",
+      "start": 70.203339,
+      "end": 70.98257
+    },
+    {
+      "text": "launch",
+      "start": 71.071119,
+      "end": 71.283637
+    },
+    {
+      "text": "post",
+      "start": 71.354476,
+      "end": 71.549284
+    },
+    {
+      "text": "says",
+      "start": 71.690962,
+      "end": 71.85035
+    },
+    {
+      "text": "'think",
+      "start": 72.027448,
+      "end": 72.169127
+    },
+    {
+      "text": "hard",
+      "start": 72.257676,
+      "end": 72.381644
+    },
+    {
+      "text": "about",
+      "start": 72.434774,
+      "end": 72.611872
+    },
+    {
+      "text": "this'",
+      "start": 72.647291,
+      "end": 72.806679
+    },
+    {
+      "text": "can",
+      "start": 73.107746,
+      "end": 73.214005
+    },
+    {
+      "text": "route",
+      "start": 73.302554,
+      "end": 73.479652
+    },
+    {
+      "text": "you",
+      "start": 73.515071,
+      "end": 73.60362
+    },
+    {
+      "text": "to",
+      "start": 73.709879,
+      "end": 73.780718
+    },
+    {
+      "text": "a",
+      "start": 73.833848,
+      "end": 73.851557
+    },
+    {
+      "text": "thinking",
+      "start": 73.904687,
+      "end": 74.152624
+    },
+    {
+      "text": "model.",
+      "start": 74.188044,
+      "end": 74.435981
+    },
+    {
+      "text": "...Not",
+      "start": 74.80864,
+      "end": 74.968002
+    },
+    {
+      "text": "that",
+      "start": 75.056537,
+      "end": 75.233607
+    },
+    {
+      "text": "I'm",
+      "start": 75.375262,
+      "end": 75.463797
+    },
+    {
+      "text": "telling",
+      "start": 75.552332,
+      "end": 75.800229
+    },
+    {
+      "text": "you",
+      "start": 75.835643,
+      "end": 75.906471
+    },
+    {
+      "text": "what",
+      "start": 75.959591,
+      "end": 76.08354
+    },
+    {
+      "text": "to",
+      "start": 76.118954,
+      "end": 76.189782
+    },
+    {
+      "text": "type.",
+      "start": 76.260609,
+      "end": 76.508507
+    }
+  ],
+  "captions": [
+    {
+      "text": "Typing 'MAKE",
+      "startMs": 19,
+      "endMs": 425,
+      "timestampMs": 19,
+      "confidence": null
+    },
+    {
+      "text": "NO MISTAKES'",
+      "startMs": 425,
+      "endMs": 762,
+      "timestampMs": 425,
+      "confidence": null
+    },
+    {
+      "text": "in caps",
+      "startMs": 762,
+      "endMs": 1029,
+      "timestampMs": 762,
+      "confidence": null
+    },
+    {
+      "text": "literally costs",
+      "startMs": 1029,
+      "endMs": 1518,
+      "timestampMs": 1029,
+      "confidence": null
+    },
+    {
+      "text": "double.",
+      "startMs": 1518,
+      "endMs": 1742,
+      "timestampMs": 1518,
+      "confidence": null
+    },
+    {
+      "text": "And it",
+      "startMs": 1742,
+      "endMs": 1870,
+      "timestampMs": 1742,
+      "confidence": null
+    },
+    {
+      "text": "doesn't even",
+      "startMs": 1870,
+      "endMs": 2178,
+      "timestampMs": 1870,
+      "confidence": null
+    },
+    {
+      "text": "work.",
+      "startMs": 2178,
+      "endMs": 2347,
+      "timestampMs": 2178,
+      "confidence": null
+    },
+    {
+      "text": "But 4",
+      "startMs": 2347,
+      "endMs": 2656,
+      "timestampMs": 2347,
+      "confidence": null
+    },
+    {
+      "text": "other words",
+      "startMs": 2656,
+      "endMs": 2993,
+      "timestampMs": 2656,
+      "confidence": null
+    },
+    {
+      "text": "can.",
+      "startMs": 2993,
+      "endMs": 3288,
+      "timestampMs": 2993,
+      "confidence": null
+    },
+    {
+      "text": "Your message",
+      "startMs": 3388,
+      "endMs": 3884,
+      "timestampMs": 3388,
+      "confidence": null
+    },
+    {
+      "text": "hits Cloudflare,",
+      "startMs": 3884,
+      "endMs": 4747,
+      "timestampMs": 3884,
+      "confidence": null
+    },
+    {
+      "text": "then OpenAI",
+      "startMs": 4842,
+      "endMs": 5616,
+      "timestampMs": 4842,
+      "confidence": null
+    },
+    {
+      "text": "checks who",
+      "startMs": 5658,
+      "endMs": 6031,
+      "timestampMs": 5658,
+      "confidence": null
+    },
+    {
+      "text": "you are",
+      "startMs": 6031,
+      "endMs": 6450,
+      "timestampMs": 6031,
+      "confidence": null
+    },
+    {
+      "text": "and whether",
+      "startMs": 6563,
+      "endMs": 6935,
+      "timestampMs": 6563,
+      "confidence": null
+    },
+    {
+      "text": "you've hit",
+      "startMs": 6935,
+      "endMs": 7237,
+      "timestampMs": 6935,
+      "confidence": null
+    },
+    {
+      "text": "your limit.",
+      "startMs": 7237,
+      "endMs": 7709,
+      "timestampMs": 7237,
+      "confidence": null
+    },
+    {
+      "text": "'Make no",
+      "startMs": 7867,
+      "endMs": 8258,
+      "timestampMs": 7867,
+      "confidence": null
+    },
+    {
+      "text": "mistakes' does",
+      "startMs": 8258,
+      "endMs": 8969,
+      "timestampMs": 8258,
+      "confidence": null
+    },
+    {
+      "text": "not get",
+      "startMs": 8969,
+      "endMs": 9271,
+      "timestampMs": 8969,
+      "confidence": null
+    },
+    {
+      "text": "you past",
+      "startMs": 9271,
+      "endMs": 9662,
+      "timestampMs": 9271,
+      "confidence": null
+    },
+    {
+      "text": "rate limits.",
+      "startMs": 9662,
+      "endMs": 10206,
+      "timestampMs": 9662,
+      "confidence": null
+    },
+    {
+      "text": "Let's follow",
+      "startMs": 10324,
+      "endMs": 10850,
+      "timestampMs": 10324,
+      "confidence": null
+    },
+    {
+      "text": "one prompt",
+      "startMs": 10928,
+      "endMs": 11479,
+      "timestampMs": 10928,
+      "confidence": null
+    },
+    {
+      "text": "and see",
+      "startMs": 11479,
+      "endMs": 11870,
+      "timestampMs": 11479,
+      "confidence": null
+    },
+    {
+      "text": "how it's",
+      "startMs": 11870,
+      "endMs": 12243,
+      "timestampMs": 11870,
+      "confidence": null
+    },
+    {
+      "text": "checked,",
+      "startMs": 12243,
+      "endMs": 12609,
+      "timestampMs": 12243,
+      "confidence": null
+    },
+    {
+      "text": "read,",
+      "startMs": 12722,
+      "endMs": 13000,
+      "timestampMs": 12722,
+      "confidence": null
+    },
+    {
+      "text": "answered and",
+      "startMs": 13167,
+      "endMs": 13664,
+      "timestampMs": 13167,
+      "confidence": null
+    },
+    {
+      "text": "saved.",
+      "startMs": 13664,
+      "endMs": 14546,
+      "timestampMs": 13664,
+      "confidence": null
+    },
+    {
+      "text": "The model",
+      "startMs": 14590,
+      "endMs": 15051,
+      "timestampMs": 14590,
+      "confidence": null
+    },
+    {
+      "text": "reads chunks",
+      "startMs": 15051,
+      "endMs": 15637,
+      "timestampMs": 15051,
+      "confidence": null
+    },
+    {
+      "text": "called tokens.",
+      "startMs": 15637,
+      "endMs": 16322,
+      "timestampMs": 15637,
+      "confidence": null
+    },
+    {
+      "text": "'Make no",
+      "startMs": 16577,
+      "endMs": 16913,
+      "timestampMs": 16577,
+      "confidence": null
+    },
+    {
+      "text": "mistakes' is",
+      "startMs": 16913,
+      "endMs": 17410,
+      "timestampMs": 16913,
+      "confidence": null
+    },
+    {
+      "text": "three of",
+      "startMs": 17410,
+      "endMs": 17641,
+      "timestampMs": 17410,
+      "confidence": null
+    },
+    {
+      "text": "them.",
+      "startMs": 17641,
+      "endMs": 17829,
+      "timestampMs": 17641,
+      "confidence": null
+    },
+    {
+      "text": "Yell it",
+      "startMs": 17947,
+      "endMs": 18421,
+      "timestampMs": 17947,
+      "confidence": null
+    },
+    {
+      "text": "in caps,",
+      "startMs": 18481,
+      "endMs": 19187,
+      "timestampMs": 18481,
+      "confidence": null
+    },
+    {
+      "text": "and it's",
+      "startMs": 19336,
+      "endMs": 19774,
+      "timestampMs": 19336,
+      "confidence": null
+    },
+    {
+      "text": "six.",
+      "startMs": 19799,
+      "endMs": 20112,
+      "timestampMs": 19799,
+      "confidence": null
+    },
+    {
+      "text": "Your prompt",
+      "startMs": 20348,
+      "endMs": 20909,
+      "timestampMs": 20348,
+      "confidence": null
+    },
+    {
+      "text": "is batched",
+      "startMs": 20915,
+      "endMs": 21375,
+      "timestampMs": 20915,
+      "confidence": null
+    },
+    {
+      "text": "with others,",
+      "startMs": 21375,
+      "endMs": 21936,
+      "timestampMs": 21375,
+      "confidence": null
+    },
+    {
+      "text": "and the",
+      "startMs": 22155,
+      "endMs": 22349,
+      "timestampMs": 22155,
+      "confidence": null
+    },
+    {
+      "text": "model predicts",
+      "startMs": 22349,
+      "endMs": 23076,
+      "timestampMs": 22349,
+      "confidence": null
+    },
+    {
+      "text": "your answer",
+      "startMs": 23076,
+      "endMs": 23636,
+      "timestampMs": 23076,
+      "confidence": null
+    },
+    {
+      "text": "one token",
+      "startMs": 23872,
+      "endMs": 24539,
+      "timestampMs": 23872,
+      "confidence": null
+    },
+    {
+      "text": "at a",
+      "startMs": 24687,
+      "endMs": 24982,
+      "timestampMs": 24687,
+      "confidence": null
+    },
+    {
+      "text": "time.",
+      "startMs": 24988,
+      "endMs": 25389,
+      "timestampMs": 24988,
+      "confidence": null
+    },
+    {
+      "text": "Then,",
+      "startMs": 25524,
+      "endMs": 25748,
+      "timestampMs": 25524,
+      "confidence": null
+    },
+    {
+      "text": "streaming.",
+      "startMs": 25915,
+      "endMs": 26352,
+      "timestampMs": 25915,
+      "confidence": null
+    },
+    {
+      "text": "Pieces of",
+      "startMs": 26535,
+      "endMs": 27014,
+      "timestampMs": 26535,
+      "confidence": null
+    },
+    {
+      "text": "the answer",
+      "startMs": 27014,
+      "endMs": 27546,
+      "timestampMs": 27014,
+      "confidence": null
+    },
+    {
+      "text": "are sent",
+      "startMs": 27546,
+      "endMs": 28001,
+      "timestampMs": 27546,
+      "confidence": null
+    },
+    {
+      "text": "as they're",
+      "startMs": 28096,
+      "endMs": 28416,
+      "timestampMs": 28096,
+      "confidence": null
+    },
+    {
+      "text": "ready.",
+      "startMs": 28416,
+      "endMs": 28693,
+      "timestampMs": 28416,
+      "confidence": null
+    },
+    {
+      "text": "That's why",
+      "startMs": 28699,
+      "endMs": 29125,
+      "timestampMs": 28699,
+      "confidence": null
+    },
+    {
+      "text": "the answer",
+      "startMs": 29125,
+      "endMs": 29810,
+      "timestampMs": 29125,
+      "confidence": null
+    },
+    {
+      "text": "types itself",
+      "startMs": 29941,
+      "endMs": 30662,
+      "timestampMs": 29941,
+      "confidence": null
+    },
+    {
+      "text": "out.",
+      "startMs": 30686,
+      "endMs": 30857,
+      "timestampMs": 30686,
+      "confidence": null
+    },
+    {
+      "text": "Finally,",
+      "startMs": 30990,
+      "endMs": 31463,
+      "timestampMs": 30990,
+      "confidence": null
+    },
+    {
+      "text": "the database.",
+      "startMs": 31541,
+      "endMs": 32120,
+      "timestampMs": 31541,
+      "confidence": null
+    },
+    {
+      "text": "ChatGPT's core",
+      "startMs": 32357,
+      "endMs": 33422,
+      "timestampMs": 32357,
+      "confidence": null
+    },
+    {
+      "text": "PostgreSQL database",
+      "startMs": 33422,
+      "endMs": 34817,
+      "timestampMs": 33422,
+      "confidence": null
+    },
+    {
+      "text": "has just",
+      "startMs": 34984,
+      "endMs": 35403,
+      "timestampMs": 34984,
+      "confidence": null
+    },
+    {
+      "text": "one main",
+      "startMs": 35498,
+      "endMs": 35936,
+      "timestampMs": 35498,
+      "confidence": null
+    },
+    {
+      "text": "server taking",
+      "startMs": 35942,
+      "endMs": 36770,
+      "timestampMs": 35942,
+      "confidence": null
+    },
+    {
+      "text": "all the",
+      "startMs": 36900,
+      "endMs": 37202,
+      "timestampMs": 36900,
+      "confidence": null
+    },
+    {
+      "text": "writes.",
+      "startMs": 37202,
+      "endMs": 37568,
+      "timestampMs": 37202,
+      "confidence": null
+    },
+    {
+      "text": "One database,",
+      "startMs": 37726,
+      "endMs": 38359,
+      "timestampMs": 37726,
+      "confidence": null
+    },
+    {
+      "text": "doing everyone's",
+      "startMs": 38525,
+      "endMs": 39235,
+      "timestampMs": 38525,
+      "confidence": null
+    },
+    {
+      "text": "homework.",
+      "startMs": 39235,
+      "endMs": 39636,
+      "timestampMs": 39235,
+      "confidence": null
+    },
+    {
+      "text": "Nearly 50",
+      "startMs": 39754,
+      "endMs": 40356,
+      "timestampMs": 39754,
+      "confidence": null
+    },
+    {
+      "text": "read copies",
+      "startMs": 40356,
+      "endMs": 40922,
+      "timestampMs": 40356,
+      "confidence": null
+    },
+    {
+      "text": "handle the",
+      "startMs": 40922,
+      "endMs": 41311,
+      "timestampMs": 40922,
+      "confidence": null
+    },
+    {
+      "text": "reading.",
+      "startMs": 41311,
+      "endMs": 41642,
+      "timestampMs": 41311,
+      "confidence": null
+    },
+    {
+      "text": "PgBouncer cut",
+      "startMs": 41770,
+      "endMs": 42708,
+      "timestampMs": 41770,
+      "confidence": null
+    },
+    {
+      "text": "connection time",
+      "startMs": 42708,
+      "endMs": 43310,
+      "timestampMs": 42708,
+      "confidence": null
+    },
+    {
+      "text": "from 50",
+      "startMs": 43310,
+      "endMs": 43771,
+      "timestampMs": 43310,
+      "confidence": null
+    },
+    {
+      "text": "milliseconds to",
+      "startMs": 43771,
+      "endMs": 44426,
+      "timestampMs": 43771,
+      "confidence": null
+    },
+    {
+      "text": "5.",
+      "startMs": 44426,
+      "endMs": 44827,
+      "timestampMs": 44426,
+      "confidence": null
+    },
+    {
+      "text": "And OpenAI's",
+      "startMs": 44945,
+      "endMs": 45558,
+      "timestampMs": 44945,
+      "confidence": null
+    },
+    {
+      "text": "actual rule",
+      "startMs": 45600,
+      "endMs": 46238,
+      "timestampMs": 45600,
+      "confidence": null
+    },
+    {
+      "text": "is:",
+      "startMs": 46238,
+      "endMs": 46391,
+      "timestampMs": 46238,
+      "confidence": null
+    },
+    {
+      "text": "no new",
+      "startMs": 46415,
+      "endMs": 46734,
+      "timestampMs": 46415,
+      "confidence": null
+    },
+    {
+      "text": "tables.",
+      "startMs": 46734,
+      "endMs": 47170,
+      "timestampMs": 46734,
+      "confidence": null
+    },
+    {
+      "text": "So it's",
+      "startMs": 47425,
+      "endMs": 47673,
+      "timestampMs": 47425,
+      "confidence": null
+    },
+    {
+      "text": "a front",
+      "startMs": 47673,
+      "endMs": 47956,
+      "timestampMs": 47673,
+      "confidence": null
+    },
+    {
+      "text": "door that",
+      "startMs": 47956,
+      "endMs": 48292,
+      "timestampMs": 47956,
+      "confidence": null
+    },
+    {
+      "text": "checks you,",
+      "startMs": 48292,
+      "endMs": 48782,
+      "timestampMs": 48292,
+      "confidence": null
+    },
+    {
+      "text": "a tokenizer",
+      "startMs": 48859,
+      "endMs": 49461,
+      "timestampMs": 48859,
+      "confidence": null
+    },
+    {
+      "text": "that chops",
+      "startMs": 49461,
+      "endMs": 49868,
+      "timestampMs": 49461,
+      "confidence": null
+    },
+    {
+      "text": "you up,",
+      "startMs": 49868,
+      "endMs": 50233,
+      "timestampMs": 49868,
+      "confidence": null
+    },
+    {
+      "text": "GPUs that",
+      "startMs": 50346,
+      "endMs": 51071,
+      "timestampMs": 50346,
+      "confidence": null
+    },
+    {
+      "text": "guess one",
+      "startMs": 51071,
+      "endMs": 51549,
+      "timestampMs": 51071,
+      "confidence": null
+    },
+    {
+      "text": "token at",
+      "startMs": 51549,
+      "endMs": 51992,
+      "timestampMs": 51549,
+      "confidence": null
+    },
+    {
+      "text": "a time,",
+      "startMs": 51992,
+      "endMs": 52393,
+      "timestampMs": 51992,
+      "confidence": null
+    },
+    {
+      "text": "a stream",
+      "startMs": 52629,
+      "endMs": 52948,
+      "timestampMs": 52629,
+      "confidence": null
+    },
+    {
+      "text": "that ships",
+      "startMs": 52948,
+      "endMs": 53355,
+      "timestampMs": 52948,
+      "confidence": null
+    },
+    {
+      "text": "it live,",
+      "startMs": 53355,
+      "endMs": 53774,
+      "timestampMs": 53355,
+      "confidence": null
+    },
+    {
+      "text": "and one",
+      "startMs": 53886,
+      "endMs": 54223,
+      "timestampMs": 53886,
+      "confidence": null
+    },
+    {
+      "text": "very tired",
+      "startMs": 54223,
+      "endMs": 54754,
+      "timestampMs": 54223,
+      "confidence": null
+    },
+    {
+      "text": "database.",
+      "startMs": 54754,
+      "endMs": 55296,
+      "timestampMs": 54754,
+      "confidence": null
+    },
+    {
+      "text": "In a",
+      "startMs": 55414,
+      "endMs": 55609,
+      "timestampMs": 55414,
+      "confidence": null
+    },
+    {
+      "text": "whole year,",
+      "startMs": 55609,
+      "endMs": 56205,
+      "timestampMs": 55609,
+      "confidence": null
+    },
+    {
+      "text": "that database",
+      "startMs": 56318,
+      "endMs": 56974,
+      "timestampMs": 56318,
+      "confidence": null
+    },
+    {
+      "text": "had only",
+      "startMs": 56974,
+      "endMs": 57623,
+      "timestampMs": 56974,
+      "confidence": null
+    },
+    {
+      "text": "one top-level",
+      "startMs": 57754,
+      "endMs": 58445,
+      "timestampMs": 57754,
+      "confidence": null
+    },
+    {
+      "text": "emergency:",
+      "startMs": 58445,
+      "endMs": 58988,
+      "timestampMs": 58445,
+      "confidence": null
+    },
+    {
+      "text": "when image",
+      "startMs": 59172,
+      "endMs": 59633,
+      "timestampMs": 59172,
+      "confidence": null
+    },
+    {
+      "text": "generation launched,",
+      "startMs": 59633,
+      "endMs": 60513,
+      "timestampMs": 59633,
+      "confidence": null
+    },
+    {
+      "text": "over 100",
+      "startMs": 60572,
+      "endMs": 61352,
+      "timestampMs": 60572,
+      "confidence": null
+    },
+    {
+      "text": "million people",
+      "startMs": 61352,
+      "endMs": 62055,
+      "timestampMs": 61352,
+      "confidence": null
+    },
+    {
+      "text": "signed up",
+      "startMs": 62061,
+      "endMs": 62534,
+      "timestampMs": 62061,
+      "confidence": null
+    },
+    {
+      "text": "in a",
+      "startMs": 62558,
+      "endMs": 62753,
+      "timestampMs": 62558,
+      "confidence": null
+    },
+    {
+      "text": "week,",
+      "startMs": 62753,
+      "endMs": 63030,
+      "timestampMs": 62753,
+      "confidence": null
+    },
+    {
+      "text": "and writes",
+      "startMs": 63462,
+      "endMs": 63934,
+      "timestampMs": 63462,
+      "confidence": null
+    },
+    {
+      "text": "jumped more",
+      "startMs": 63958,
+      "endMs": 64490,
+      "timestampMs": 63958,
+      "confidence": null
+    },
+    {
+      "text": "than ten",
+      "startMs": 64490,
+      "endMs": 65016,
+      "timestampMs": 64490,
+      "confidence": null
+    },
+    {
+      "text": "times.",
+      "startMs": 65040,
+      "endMs": 65512,
+      "timestampMs": 65040,
+      "confidence": null
+    },
+    {
+      "text": "So does",
+      "startMs": 65670,
+      "endMs": 66088,
+      "timestampMs": 65670,
+      "confidence": null
+    },
+    {
+      "text": "'make no",
+      "startMs": 66166,
+      "endMs": 66608,
+      "timestampMs": 66166,
+      "confidence": null
+    },
+    {
+      "text": "mistakes' work?",
+      "startMs": 66608,
+      "endMs": 67399,
+      "timestampMs": 66608,
+      "confidence": null
+    },
+    {
+      "text": "To the",
+      "startMs": 67689,
+      "endMs": 67901,
+      "timestampMs": 67689,
+      "confidence": null
+    },
+    {
+      "text": "model,",
+      "startMs": 67901,
+      "endMs": 68231,
+      "timestampMs": 67901,
+      "confidence": null
+    },
+    {
+      "text": "it's three",
+      "startMs": 68273,
+      "endMs": 68645,
+      "timestampMs": 68273,
+      "confidence": null
+    },
+    {
+      "text": "more tokens.",
+      "startMs": 68645,
+      "endMs": 69294,
+      "timestampMs": 68645,
+      "confidence": null
+    },
+    {
+      "text": "But OpenAI's",
+      "startMs": 69495,
+      "endMs": 70203,
+      "timestampMs": 69495,
+      "confidence": null
+    },
+    {
+      "text": "GPT-5 launch",
+      "startMs": 70203,
+      "endMs": 71354,
+      "timestampMs": 70203,
+      "confidence": null
+    },
+    {
+      "text": "post says",
+      "startMs": 71354,
+      "endMs": 71950,
+      "timestampMs": 71354,
+      "confidence": null
+    },
+    {
+      "text": "'think hard",
+      "startMs": 72027,
+      "endMs": 72435,
+      "timestampMs": 72027,
+      "confidence": null
+    },
+    {
+      "text": "about this'",
+      "startMs": 72435,
+      "endMs": 72907,
+      "timestampMs": 72435,
+      "confidence": null
+    },
+    {
+      "text": "can route",
+      "startMs": 73108,
+      "endMs": 73515,
+      "timestampMs": 73108,
+      "confidence": null
+    },
+    {
+      "text": "you to",
+      "startMs": 73515,
+      "endMs": 73834,
+      "timestampMs": 73515,
+      "confidence": null
+    },
+    {
+      "text": "a thinking",
+      "startMs": 73834,
+      "endMs": 74188,
+      "timestampMs": 73834,
+      "confidence": null
+    },
+    {
+      "text": "model.",
+      "startMs": 74188,
+      "endMs": 74536,
+      "timestampMs": 74188,
+      "confidence": null
+    },
+    {
+      "text": "...Not that",
+      "startMs": 74809,
+      "endMs": 75334,
+      "timestampMs": 74809,
+      "confidence": null
+    },
+    {
+      "text": "I'm telling",
+      "startMs": 75375,
+      "endMs": 75836,
+      "timestampMs": 75375,
+      "confidence": null
+    },
+    {
+      "text": "you what",
+      "startMs": 75836,
+      "endMs": 76119,
+      "timestampMs": 75836,
+      "confidence": null
+    },
+    {
+      "text": "to type.",
+      "startMs": 76119,
+      "endMs": 76633,
+      "timestampMs": 76119,
+      "confidence": null
+    }
+  ]
+}

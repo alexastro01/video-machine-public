@@ -1,0 +1,260 @@
+{
+  "provider": "OpenAI Images API",
+  "model": "gpt-image-2",
+  "nativeWorld": [
+    270,
+    480
+  ],
+  "sprites": {
+    "aunt-down": {
+      "w": 51,
+      "h": 96
+    },
+    "aunt-turn": {
+      "w": 60,
+      "h": 96
+    },
+    "uncle-down": {
+      "w": 55,
+      "h": 96
+    },
+    "uncle-turn": {
+      "w": 53,
+      "h": 96
+    },
+    "cousin-down": {
+      "w": 50,
+      "h": 96
+    },
+    "cousin-turn": {
+      "w": 60,
+      "h": 96
+    },
+    "friend-a": {
+      "w": 40,
+      "h": 96
+    },
+    "friend-a-wave": {
+      "w": 48,
+      "h": 96
+    },
+    "friend-b": {
+      "w": 46,
+      "h": 96
+    },
+    "friend-b-wave": {
+      "w": 54,
+      "h": 96
+    },
+    "nurse": {
+      "w": 36,
+      "h": 96
+    },
+    "nurse-wave": {
+      "w": 44,
+      "h": 96
+    },
+    "hire-a": {
+      "w": 48,
+      "h": 96
+    },
+    "hire-b": {
+      "w": 44,
+      "h": 96
+    },
+    "hire-c": {
+      "w": 44,
+      "h": 96
+    },
+    "offer-a": {
+      "w": 56,
+      "h": 96
+    },
+    "offer-b": {
+      "w": 51,
+      "h": 96
+    },
+    "offer-c": {
+      "w": 50,
+      "h": 96
+    },
+    "reach": {
+      "w": 58,
+      "h": 96
+    },
+    "deflate": {
+      "w": 37,
+      "h": 96
+    },
+    "rare": {
+      "w": 40,
+      "h": 96
+    },
+    "win": {
+      "w": 65,
+      "h": 96
+    },
+    "printer": {
+      "w": 98,
+      "h": 96
+    },
+    "opus-aside": {
+      "w": 122,
+      "h": 192
+    },
+    "trophy-alex": {
+      "w": 43,
+      "h": 128
+    },
+    "scroll": {
+      "w": 70,
+      "h": 96
+    },
+    "claw": {
+      "w": 192,
+      "h": 80
+    },
+    "trophy": {
+      "w": 96,
+      "h": 96
+    },
+    "paper": {
+      "w": 74,
+      "h": 96
+    },
+    "door": {
+      "w": 50,
+      "h": 96
+    },
+    "pincer": {
+      "w": 46,
+      "h": 96
+    }
+  },
+  "references": {
+    "dinner-room": [
+      "output/imagegen/alex-astro-cs-enrollment/empty-hall.png"
+    ],
+    "career-board": [
+      "output/imagegen/alex-astro-cs-enrollment/empty-hall.png"
+    ],
+    "study-room": [
+      "output/imagegen/alex-astro-cs-enrollment/empty-hall.png"
+    ],
+    "portal-court": [
+      "output/imagegen/alex-astro-cs-enrollment/empty-hall.png"
+    ],
+    "dinner-family": [
+      "public/episodes/alex-astro-cs-enrollment/art/seated.png"
+    ],
+    "study-friends": [
+      "public/episodes/alex-astro-cs-enrollment/art/seated.png"
+    ],
+    "recruiters": [
+      "public/episodes/alex-astro-job-market-hell/art/alex-listen.png"
+    ],
+    "alex-acting": [
+      "public/episodes/alex-astro-job-market-hell/art/alex-listen.png"
+    ],
+    "aunt-chat": [
+      "output/imagegen/alex-astro-job-market-hell/portrait-question.png"
+    ],
+    "opus-chat": [
+      "output/imagegen/alex-astro-job-market-hell/portrait-opus.png"
+    ],
+    "trophy-alex": [
+      "public/episodes/alex-astro-cs-enrollment/full/art/win.png",
+      "public/episodes/alex-astro-cs-enrollment/full/art/trophy.png"
+    ],
+    "opus-aside": [
+      "public/episodes/alex-astro-job-market-hell/art/opus-listen.png",
+      "public/episodes/alex-astro-cs-enrollment/portraits/opus-secret.png"
+    ]
+  },
+  "sources": [
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/alex-acting.png",
+      "prompt": "art-direction/alex-acting.txt",
+      "quality": "high",
+      "sha256": "b360c56d5b4d013221ef79be409f8b18bf4606ae260cee0bee02463c37f1af73"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/aunt-chat.png",
+      "prompt": "art-direction/aunt-chat.txt",
+      "quality": "high",
+      "sha256": "a1a1fb7c2002bf756bb596aa1de4e2a965fc6a259150cf5a272e15b8b2b79e7c"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/career-board.png",
+      "prompt": "art-direction/career-board.txt",
+      "quality": "high",
+      "sha256": "0be223c9c413fcc02c78e13539703807ac4dea2131c0b332e702073e3860d6ad"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/dinner-family.png",
+      "prompt": "art-direction/dinner-family.txt",
+      "quality": "high",
+      "sha256": "89db86d7a3b208f0aff4ea302b54c9bdcade6c2751b4ed1f709a860b3778ec55"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/dinner-room.png",
+      "prompt": "art-direction/dinner-room.txt",
+      "quality": "high",
+      "sha256": "f49a2f994f2262457e18b493d361ff8d709a1e8dd5ae2106ce72564541760e51"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/opus-aside.png",
+      "prompt": "art-direction/opus-aside.txt",
+      "quality": "high",
+      "sha256": "8746f78ad14e273fa94508873cddcdff28864ae124dab1e135322b5803479b68"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/opus-chat.png",
+      "prompt": "art-direction/opus-chat.txt",
+      "quality": "high",
+      "sha256": "37906007981eea1c28a190d3d8f4791e7787913a202ad6631dc473756d806512"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/portal-court.png",
+      "prompt": "art-direction/portal-court.txt",
+      "quality": "high",
+      "sha256": "78ed1616f4155c8327e1d5b5de7c79784134f8b2bb991ecbee9748fa59ef5279"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/printer.png",
+      "prompt": "art-direction/printer.txt",
+      "quality": "high",
+      "sha256": "cd2c25e9f8e7ecdc15418df9089eb0498b67048a036f86f8b46c8e26e210ab02"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/quest-props.png",
+      "prompt": "art-direction/quest-props.txt",
+      "quality": "high",
+      "sha256": "235979ceaa7fbd24b7dd1e852be1652b6f6b5bd87bc7c8ba97db3f29d85ed904"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/recruiters.png",
+      "prompt": "art-direction/recruiters.txt",
+      "quality": "high",
+      "sha256": "7973e2fcd30b8f90d835d0f98f187f362dbaccb435ca58a1c3455be98d146a08"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/study-friends.png",
+      "prompt": "art-direction/study-friends.txt",
+      "quality": "high",
+      "sha256": "499cc958f5d2aeb895779904819b533c3c680f8edf467512c0c14eec13c6183d"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/study-room.png",
+      "prompt": "art-direction/study-room.txt",
+      "quality": "high",
+      "sha256": "9fb5b866c891074c5ba96be7919651c5b273f45fb83c31f655d24281a3771a77"
+    },
+    {
+      "file": "output/imagegen/alex-astro-cs-enrollment/full/trophy-alex.png",
+      "prompt": "art-direction/trophy-alex.txt",
+      "quality": "high",
+      "sha256": "0fc607428a3cf6e19cba8f64f7681736a826d156de96434a36e21835f41dedd8"
+    }
+  ]
+}

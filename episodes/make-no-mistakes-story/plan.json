@@ -1,0 +1,313 @@
+{
+  "request": "login-01",
+  "prompt": "fix my login page. make no mistakes.",
+  "retry": "think hard about this.",
+  "events": {
+    "billion": [
+      "question",
+      "billion"
+    ],
+    "one": [
+      "follow",
+      "one"
+    ],
+    "alex": [
+      "job",
+      "Alex's"
+    ],
+    "job": [
+      "job",
+      "one job",
+      1
+    ],
+    "me": [
+      "job",
+      "me"
+    ],
+    "back": [
+      "job",
+      "back"
+    ],
+    "demo": [
+      "job",
+      "demo"
+    ],
+    "cloud": [
+      "gate",
+      "Cloudflare"
+    ],
+    "check": [
+      "gate",
+      "checkpoint"
+    ],
+    "identity": [
+      "gate",
+      "who are"
+    ],
+    "limit": [
+      "gate",
+      "your limit",
+      1
+    ],
+    "under": [
+      "barely",
+      "under"
+    ],
+    "barely": [
+      "barely",
+      "Barely"
+    ],
+    "chop": [
+      "tokens",
+      "chopped"
+    ],
+    "lower": [
+      "tokens",
+      "make no mistakes"
+    ],
+    "three": [
+      "tokens",
+      "three"
+    ],
+    "caps": [
+      "tokens",
+      "caps"
+    ],
+    "six": [
+      "tokens",
+      "six"
+    ],
+    "double": [
+      "tokens",
+      "double"
+    ],
+    "wait": [
+      "batch",
+      "waits"
+    ],
+    "batch": [
+      "batch",
+      "batch"
+    ],
+    "others": [
+      "batch",
+      "other requests"
+    ],
+    "write": [
+      "batch",
+      "write"
+    ],
+    "token": [
+      "batch",
+      "one token"
+    ],
+    "either": [
+      "standup",
+      "either"
+    ],
+    "ship": [
+      "stream",
+      "ships"
+    ],
+    "ready": [
+      "stream",
+      "ready"
+    ],
+    "type": [
+      "stream",
+      "type out"
+    ],
+    "save": [
+      "database",
+      "saved"
+    ],
+    "pg": [
+      "database",
+      "PostgreSQL"
+    ],
+    "main": [
+      "database",
+      "one main"
+    ],
+    "writes": [
+      "database",
+      "writes"
+    ],
+    "tired": [
+      "homework",
+      "homework"
+    ],
+    "broken": [
+      "failure",
+      "broken"
+    ],
+    "because": [
+      "failure",
+      "Because"
+    ],
+    "threeMore": [
+      "failure",
+      "three more"
+    ],
+    "launch": [
+      "fix",
+      "launch post"
+    ],
+    "route": [
+      "fix",
+      "route"
+    ],
+    "think": [
+      "fix",
+      "thinking model"
+    ],
+    "aside": [
+      "pout",
+      "Not"
+    ],
+    "puff": [
+      "pout",
+      "telling"
+    ],
+    "last": [
+      "pout",
+      "type"
+    ],
+    "followStart": [
+      "follow",
+      "Let's"
+    ],
+    "quoteStart": [
+      "fix",
+      "think hard"
+    ],
+    "quoteHard": [
+      "fix",
+      "think hard",
+      1
+    ],
+    "quoteAbout": [
+      "fix",
+      "about this"
+    ],
+    "quoteEnd": [
+      "fix",
+      "about this",
+      1
+    ]
+  },
+  "stages": [
+    [
+      "hook",
+      "question",
+      "A dimensional OpenAI knot fills as requests arrive. It opens and drops one gold request into Astra’s hand."
+    ],
+    [
+      "setup",
+      "job",
+      "At 2:13 AM Alex sends login-01 before his 9:00 AM demo."
+    ],
+    [
+      "gate",
+      "gate",
+      "The courier presents its ID at the Cloudflare gate. The ID receives a stamp, then the gate shows one request left."
+    ],
+    [
+      "tokens",
+      "tokens",
+      "The same message opens its three token blocks and compares six in caps."
+    ],
+    [
+      "gpu",
+      "batch",
+      "The brightly lit GPU slot empties and the waiting gold request lands inside it."
+    ],
+    [
+      "stream",
+      "stream",
+      "Pieces of the reply travel from the GPU to the editor on Alex’s laptop."
+    ],
+    [
+      "database",
+      "database",
+      "One primary records the write. The saved state remains while Astra reacts."
+    ],
+    [
+      "failure",
+      "failure",
+      "At 2:41 AM the first fix produces a red error. Alex reads the missing email field."
+    ],
+    [
+      "retry",
+      "fix",
+      "Astra reads the four replacement words as they appear. The thinking route reveals the corrected email field."
+    ],
+    [
+      "aside",
+      "pout",
+      "With his login working, Alex rests his forehead on his desk. Astra faces front for her last line."
+    ]
+  ],
+  "gaps": {
+    "question": 0.26,
+    "follow": 0.2,
+    "job": 0.2,
+    "gate": 0.14,
+    "barely": 0.32,
+    "tokens": 0.16,
+    "batch": 0.13,
+    "standup": 0.18,
+    "stream": 0.18,
+    "database": 0.14,
+    "homework": 0.35,
+    "failure": 0.34,
+    "fix": 2.05,
+    "pout": 0.12
+  },
+  "screen": {
+    "firstClock": "2:13 AM",
+    "laterClock": "2:41 AM",
+    "demo": "9:00 AM",
+    "loginError": "Login failed",
+    "firstEdit": "form action=\"/login\"",
+    "error": "422 · Email required",
+    "oldField": "name=\"user\"",
+    "newField": "name=\"email\"",
+    "replyTokens": [
+      "Set",
+      " the",
+      " form",
+      " action",
+      " to",
+      " /",
+      "login",
+      "."
+    ],
+    "asTyped": [
+      "make",
+      " no",
+      " mistakes"
+    ],
+    "inCaps": [
+      "MAKE",
+      " NO",
+      " M",
+      "IST",
+      "AK",
+      "ES"
+    ],
+    "thinking": [
+      "think",
+      " hard",
+      " about",
+      " this"
+    ]
+  },
+  "speed": 1.1,
+  "hook": {
+    "countStart": 6,
+    "countFrames": 47,
+    "countTo": 2500000000,
+    "credit": "OpenAI · July 2025"
+  }
+}

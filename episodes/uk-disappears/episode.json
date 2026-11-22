@@ -1,0 +1,294 @@
+{
+  "version": 1,
+  "renderer": "pixel3d",
+  "hook": "uk-vanish",
+  "world": "uk-vanish",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "ukEdit": {
+    "style": "story-v6",
+    "events": {
+      "runway": 2.941,
+      "runwayGone": 3.743,
+      "vanished": 6.283,
+      "coast": 9.357,
+      "fishGone": 15.907,
+      "friedFish": 17.779,
+      "stopSip": 21.121,
+      "midSip": 21.856,
+      "overnight": 26,
+      "dark": 29.141,
+      "cancelled": 31.681,
+      "forever": 32.483,
+      "land": 34.388,
+      "dublin": 35.491,
+      "busy": 37.429,
+      "comment": 40.904
+    },
+    "shots": [
+      {
+        "start": 0,
+        "duration": 2.433333333333333,
+        "sceneId": "hook",
+        "view": "cockpit",
+        "cut": "snap"
+      },
+      {
+        "start": 2.433333333333333,
+        "duration": 2.433333333333333,
+        "sceneId": "hook",
+        "view": "runway",
+        "cut": "snap"
+      },
+      {
+        "start": 4.866666666666666,
+        "duration": 2.833333333333334,
+        "sceneId": "ireland",
+        "view": "map-whole",
+        "cut": "blocks"
+      },
+      {
+        "start": 7.7,
+        "duration": 2.8,
+        "sceneId": "ireland",
+        "view": "ireland",
+        "cut": "snap"
+      },
+      {
+        "start": 10.5,
+        "duration": 2.2333333333333325,
+        "sceneId": "question",
+        "view": "question",
+        "cut": "snap"
+      },
+      {
+        "start": 12.733333333333333,
+        "duration": 2.2333333333333343,
+        "sceneId": "question",
+        "view": "closer",
+        "cut": "snap"
+      },
+      {
+        "start": 14.966666666666667,
+        "duration": 1.8666666666666654,
+        "sceneId": "fish",
+        "view": "fish",
+        "cut": "whip"
+      },
+      {
+        "start": 16.833333333333332,
+        "duration": 1.8666666666666671,
+        "sceneId": "fish",
+        "view": "fish-detail",
+        "cut": "snap"
+      },
+      {
+        "start": 18.7,
+        "duration": 2.0666666666666664,
+        "sceneId": "pints",
+        "view": "pints",
+        "cut": "whip"
+      },
+      {
+        "start": 20.766666666666666,
+        "duration": 2.033333333333335,
+        "sceneId": "pints",
+        "view": "pints-close",
+        "cut": "snap"
+      },
+      {
+        "start": 22.8,
+        "duration": 3.6999999999999993,
+        "sceneId": "pound",
+        "view": "screens",
+        "cut": "snap"
+      },
+      {
+        "start": 26.5,
+        "duration": 3.6999999999999993,
+        "sceneId": "pound",
+        "view": "network",
+        "cut": "snap"
+      },
+      {
+        "start": 30.2,
+        "duration": 1.6666666666666679,
+        "sceneId": "league",
+        "view": "stadium",
+        "cut": "blocks"
+      },
+      {
+        "start": 31.866666666666667,
+        "duration": 1.6333333333333329,
+        "sceneId": "league",
+        "view": "ball",
+        "cut": "snap"
+      },
+      {
+        "start": 33.5,
+        "duration": 2.700000000000003,
+        "sceneId": "dublin",
+        "view": "approach-dublin",
+        "cut": "whip"
+      },
+      {
+        "start": 36.2,
+        "duration": 2.6999999999999957,
+        "sceneId": "dublin",
+        "view": "dublin",
+        "cut": "snap"
+      },
+      {
+        "start": 38.9,
+        "duration": 2.7666666666666657,
+        "sceneId": "closer",
+        "view": "closer",
+        "cut": "snap"
+      },
+      {
+        "start": 41.666666666666664,
+        "duration": 2.7333333333333343,
+        "sceneId": "closer",
+        "view": "cockpit",
+        "cut": "snap"
+      }
+    ],
+    "quietStart": 44.4,
+    "quietDuration": 0,
+    "commentStart": 38.9,
+    "soundDesign": "story-v7",
+    "soundLayers": []
+  },
+  "id": "uk-disappears",
+  "title": "What If the UK Disappeared Overnight?",
+  "number": 4,
+  "shadowLeadSeconds": 0,
+  "premise": "The UK and its infrastructure vanish as falling voxels. Geography and market/realm statistics are sourced; transport, trading disruption and succession outcomes are fictional.",
+  "fiction": true,
+  "duration": 44.4,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "nova"
+  ],
+  "audio": {
+    "narration": "episodes/uk-disappears/narration-v6.wav",
+    "music": "episodes/uk-disappears/music-v6.wav",
+    "effects": "episodes/uk-disappears/effects-v7.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.02,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "set": "uk-cockpit",
+      "specimen": "none",
+      "action": "approach",
+      "start": 0,
+      "duration": 4.866666666666666,
+      "anchor": "You're a pilot",
+      "focus": [],
+      "label": "hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "ireland",
+      "set": "uk-map",
+      "specimen": "none",
+      "action": "crumble",
+      "start": 4.866666666666666,
+      "duration": 5.633333333333334,
+      "anchor": "The entire UK",
+      "focus": [],
+      "label": "ireland",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "question",
+      "set": "uk-sea",
+      "specimen": "none",
+      "action": "reveal",
+      "start": 10.5,
+      "duration": 4.466666666666667,
+      "anchor": "But the empty sea",
+      "focus": [],
+      "label": "question",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "fish",
+      "set": "uk-chipshop",
+      "specimen": "none",
+      "action": "serve",
+      "start": 14.966666666666667,
+      "duration": 3.7333333333333325,
+      "anchor": "Fish and chips",
+      "focus": [],
+      "label": "fish",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pints",
+      "set": "uk-pub",
+      "specimen": "none",
+      "action": "toast",
+      "start": 18.7,
+      "duration": 4.100000000000001,
+      "anchor": "Friday night",
+      "focus": [],
+      "label": "pints",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pound",
+      "set": "uk-trading",
+      "specimen": "none",
+      "action": "trade",
+      "start": 22.8,
+      "duration": 7.399999999999999,
+      "anchor": "The pound",
+      "focus": [],
+      "label": "pound",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "league",
+      "set": "uk-stadium",
+      "specimen": "none",
+      "action": "cancel",
+      "start": 30.2,
+      "duration": 3.3000000000000007,
+      "anchor": "This weekend's",
+      "focus": [],
+      "label": "league",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "dublin",
+      "set": "uk-dublin",
+      "specimen": "none",
+      "action": "land",
+      "start": 33.5,
+      "duration": 5.399999999999999,
+      "anchor": "So where",
+      "focus": [],
+      "label": "dublin",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "closer",
+      "set": "uk-cockpit",
+      "specimen": "none",
+      "action": "approach",
+      "start": 38.9,
+      "duration": 5.5,
+      "anchor": "So which country",
+      "focus": [],
+      "label": "closer",
+      "timeOfDay": "evening"
+    }
+  ]
+}

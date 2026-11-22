@@ -1,0 +1,592 @@
+{
+  "duration": 36.766666666666666,
+  "fps": 60,
+  "events": {
+    "incoming": 0.32,
+    "introPush": 2.98,
+    "reading": 4.683333333333334,
+    "imagined": 9.266666666666667,
+    "imaginedEnd": 10.546666666666667,
+    "cues": 10.75,
+    "voice": 13.35417,
+    "face": 14.25417,
+    "argument": 15.17417,
+    "study": 16.633333333333333,
+    "studyTransfer": 18.47839,
+    "reconsider": 21.966666666666665,
+    "reveal": 26.7217,
+    "sender": 27.883333333333333,
+    "bite": 28.86186,
+    "finger": 30.99186,
+    "payoff": 32.233333333333334,
+    "napkins": 35.21129,
+    "end": 36.766666666666666
+  },
+  "lines": {
+    "hook": {
+      "id": "hook",
+      "text": "One word. And suddenly you think the relationship is over.",
+      "start": 0.0,
+      "end": 4.575854166666667,
+      "words": [
+        {
+          "text": "One",
+          "start": 0.0,
+          "end": 0.54,
+          "line": "hook"
+        },
+        {
+          "text": "word.",
+          "start": 0.54,
+          "end": 1.12,
+          "line": "hook"
+        },
+        {
+          "text": "And",
+          "start": 1.64,
+          "end": 1.94,
+          "line": "hook"
+        },
+        {
+          "text": "suddenly",
+          "start": 1.94,
+          "end": 2.38,
+          "line": "hook"
+        },
+        {
+          "text": "you",
+          "start": 2.38,
+          "end": 2.76,
+          "line": "hook"
+        },
+        {
+          "text": "think",
+          "start": 2.76,
+          "end": 2.98,
+          "line": "hook"
+        },
+        {
+          "text": "the",
+          "start": 2.98,
+          "end": 3.2,
+          "line": "hook"
+        },
+        {
+          "text": "relationship",
+          "start": 3.2,
+          "end": 3.58,
+          "line": "hook"
+        },
+        {
+          "text": "is",
+          "start": 3.58,
+          "end": 3.96,
+          "line": "hook"
+        },
+        {
+          "text": "over.",
+          "start": 3.96,
+          "end": 4.42,
+          "line": "hook"
+        }
+      ]
+    },
+    "reading": {
+      "id": "reading",
+      "text": "You read, okay. In your head, it sounds like this.",
+      "start": 4.683333333333334,
+      "end": 9.100729166666667,
+      "words": [
+        {
+          "text": "You",
+          "start": 4.77333,
+          "end": 5.01576,
+          "line": "reading"
+        },
+        {
+          "text": "read,",
+          "start": 5.01576,
+          "end": 5.47576,
+          "line": "reading"
+        },
+        {
+          "text": "okay.",
+          "start": 6.05576,
+          "end": 6.41576,
+          "line": "reading"
+        },
+        {
+          "text": "In",
+          "start": 6.91576,
+          "end": 7.01576,
+          "line": "reading"
+        },
+        {
+          "text": "your",
+          "start": 7.01576,
+          "end": 7.25576,
+          "line": "reading"
+        },
+        {
+          "text": "head,",
+          "start": 7.25576,
+          "end": 7.65576,
+          "line": "reading"
+        },
+        {
+          "text": "it",
+          "start": 7.91576,
+          "end": 8.05576,
+          "line": "reading"
+        },
+        {
+          "text": "sounds",
+          "start": 8.05576,
+          "end": 8.29576,
+          "line": "reading"
+        },
+        {
+          "text": "like",
+          "start": 8.29576,
+          "end": 8.61576,
+          "line": "reading"
+        },
+        {
+          "text": "this.",
+          "start": 8.61576,
+          "end": 9.19576,
+          "line": "reading"
+        }
+      ]
+    },
+    "cues": {
+      "id": "cues",
+      "text": "Text gives you words. You add the voice, the face, the entire argument.",
+      "start": 10.75,
+      "end": 16.5278125,
+      "words": [
+        {
+          "text": "Text",
+          "start": 10.84,
+          "end": 11.23417,
+          "line": "cues"
+        },
+        {
+          "text": "gives",
+          "start": 11.23417,
+          "end": 11.57417,
+          "line": "cues"
+        },
+        {
+          "text": "you",
+          "start": 11.57417,
+          "end": 11.83417,
+          "line": "cues"
+        },
+        {
+          "text": "words.",
+          "start": 11.83417,
+          "end": 12.25417,
+          "line": "cues"
+        },
+        {
+          "text": "You",
+          "start": 12.7061,
+          "end": 12.85417,
+          "line": "cues"
+        },
+        {
+          "text": "add",
+          "start": 12.85417,
+          "end": 13.09417,
+          "line": "cues"
+        },
+        {
+          "text": "the",
+          "start": 13.09417,
+          "end": 13.35417,
+          "line": "cues"
+        },
+        {
+          "text": "voice,",
+          "start": 13.35417,
+          "end": 13.77417,
+          "line": "cues"
+        },
+        {
+          "text": "the",
+          "start": 14.03417,
+          "end": 14.25417,
+          "line": "cues"
+        },
+        {
+          "text": "face,",
+          "start": 14.25417,
+          "end": 14.69417,
+          "line": "cues"
+        },
+        {
+          "text": "the",
+          "start": 14.93417,
+          "end": 15.17417,
+          "line": "cues"
+        },
+        {
+          "text": "entire",
+          "start": 15.17417,
+          "end": 15.71417,
+          "line": "cues"
+        },
+        {
+          "text": "argument.",
+          "start": 15.71417,
+          "end": 16.31417,
+          "line": "cues"
+        }
+      ]
+    },
+    "study": {
+      "id": "study",
+      "text": "In an email study, people overestimated how clearly their tone came across.",
+      "start": 16.633333333333333,
+      "end": 21.872020833333334,
+      "words": [
+        {
+          "text": "In",
+          "start": 16.72333,
+          "end": 16.85839,
+          "line": "study"
+        },
+        {
+          "text": "an",
+          "start": 16.85839,
+          "end": 17.23839,
+          "line": "study"
+        },
+        {
+          "text": "email",
+          "start": 17.23839,
+          "end": 17.39839,
+          "line": "study"
+        },
+        {
+          "text": "study,",
+          "start": 17.39839,
+          "end": 17.81839,
+          "line": "study"
+        },
+        {
+          "text": "people",
+          "start": 18.25839,
+          "end": 18.47839,
+          "line": "study"
+        },
+        {
+          "text": "overestimated",
+          "start": 18.47839,
+          "end": 19.37839,
+          "line": "study"
+        },
+        {
+          "text": "how",
+          "start": 19.37839,
+          "end": 19.85839,
+          "line": "study"
+        },
+        {
+          "text": "clearly",
+          "start": 19.85839,
+          "end": 20.31839,
+          "line": "study"
+        },
+        {
+          "text": "their",
+          "start": 20.31839,
+          "end": 20.69839,
+          "line": "study"
+        },
+        {
+          "text": "tone",
+          "start": 20.69839,
+          "end": 20.91839,
+          "line": "study"
+        },
+        {
+          "text": "came",
+          "start": 20.91839,
+          "end": 21.21839,
+          "line": "study"
+        },
+        {
+          "text": "across.",
+          "start": 21.21839,
+          "end": 21.67839,
+          "line": "study"
+        }
+      ]
+    },
+    "reconsider": {
+      "id": "reconsider",
+      "text": "So before you turn okay into I hate you, consider her side.",
+      "start": 21.966666666666665,
+      "end": 27.775020833333333,
+      "words": [
+        {
+          "text": "So",
+          "start": 22.05667,
+          "end": 22.5217,
+          "line": "reconsider"
+        },
+        {
+          "text": "before",
+          "start": 22.5217,
+          "end": 22.9217,
+          "line": "reconsider"
+        },
+        {
+          "text": "you",
+          "start": 22.9217,
+          "end": 23.3217,
+          "line": "reconsider"
+        },
+        {
+          "text": "turn",
+          "start": 23.3217,
+          "end": 23.6417,
+          "line": "reconsider"
+        },
+        {
+          "text": "okay",
+          "start": 23.6417,
+          "end": 24.3617,
+          "line": "reconsider"
+        },
+        {
+          "text": "into",
+          "start": 24.3617,
+          "end": 24.9217,
+          "line": "reconsider"
+        },
+        {
+          "text": "I",
+          "start": 24.9217,
+          "end": 25.4817,
+          "line": "reconsider"
+        },
+        {
+          "text": "hate",
+          "start": 25.4817,
+          "end": 25.8017,
+          "line": "reconsider"
+        },
+        {
+          "text": "you,",
+          "start": 25.8017,
+          "end": 26.3217,
+          "line": "reconsider"
+        },
+        {
+          "text": "consider",
+          "start": 26.7217,
+          "end": 26.9417,
+          "line": "reconsider"
+        },
+        {
+          "text": "her",
+          "start": 26.9417,
+          "end": 27.3417,
+          "line": "reconsider"
+        },
+        {
+          "text": "side.",
+          "start": 27.3417,
+          "end": 27.7017,
+          "line": "reconsider"
+        }
+      ]
+    },
+    "sender": {
+      "id": "sender",
+      "text": "She's eating a sandwich, typing with one greasy finger.",
+      "start": 27.883333333333333,
+      "end": 32.13125,
+      "words": [
+        {
+          "text": "She's",
+          "start": 27.97333,
+          "end": 28.28186,
+          "line": "sender"
+        },
+        {
+          "text": "eating",
+          "start": 28.28186,
+          "end": 28.56186,
+          "line": "sender"
+        },
+        {
+          "text": "a",
+          "start": 28.56186,
+          "end": 28.86186,
+          "line": "sender"
+        },
+        {
+          "text": "sandwich,",
+          "start": 28.86186,
+          "end": 29.46186,
+          "line": "sender"
+        },
+        {
+          "text": "typing",
+          "start": 29.75059,
+          "end": 30.08186,
+          "line": "sender"
+        },
+        {
+          "text": "with",
+          "start": 30.08186,
+          "end": 30.36186,
+          "line": "sender"
+        },
+        {
+          "text": "one",
+          "start": 30.36186,
+          "end": 30.92186,
+          "line": "sender"
+        },
+        {
+          "text": "greasy",
+          "start": 30.92186,
+          "end": 31.44186,
+          "line": "sender"
+        },
+        {
+          "text": "finger.",
+          "start": 31.44186,
+          "end": 31.96186,
+          "line": "sender"
+        }
+      ]
+    },
+    "payoff": {
+      "id": "payoff",
+      "text": "You're planning a breakup. She's asking for napkins.",
+      "start": 32.233333333333334,
+      "end": 35.81129166666667,
+      "words": [
+        {
+          "text": "You're",
+          "start": 32.32333,
+          "end": 32.67129,
+          "line": "payoff"
+        },
+        {
+          "text": "planning",
+          "start": 32.67129,
+          "end": 32.93129,
+          "line": "payoff"
+        },
+        {
+          "text": "a",
+          "start": 32.93129,
+          "end": 33.57129,
+          "line": "payoff"
+        },
+        {
+          "text": "breakup.",
+          "start": 33.57129,
+          "end": 33.59129,
+          "line": "payoff"
+        },
+        {
+          "text": "She's",
+          "start": 34.07129,
+          "end": 34.33129,
+          "line": "payoff"
+        },
+        {
+          "text": "asking",
+          "start": 34.33129,
+          "end": 34.61129,
+          "line": "payoff"
+        },
+        {
+          "text": "for",
+          "start": 34.61129,
+          "end": 35.21129,
+          "line": "payoff"
+        },
+        {
+          "text": "napkins.",
+          "start": 35.21129,
+          "end": 35.39129,
+          "line": "payoff"
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "id": "hook",
+      "start": 0,
+      "duration": 4.683333333333334,
+      "action": "reveal",
+      "anchor": "One word"
+    },
+    {
+      "id": "reading",
+      "start": 4.683333333333334,
+      "duration": 4.583333333333334,
+      "action": "warn",
+      "anchor": "You read"
+    },
+    {
+      "id": "imagined",
+      "start": 9.266666666666667,
+      "duration": 1.4833333333333325,
+      "action": "warn",
+      "anchor": "Okay"
+    },
+    {
+      "id": "cues",
+      "start": 10.75,
+      "duration": 4.42417,
+      "action": "reveal",
+      "anchor": "Text gives"
+    },
+    {
+      "id": "argument",
+      "start": 15.17417,
+      "duration": 1.4591633333333327,
+      "action": "puzzle",
+      "anchor": "entire argument"
+    },
+    {
+      "id": "study",
+      "start": 16.633333333333333,
+      "duration": 5.333333333333332,
+      "action": "reveal",
+      "anchor": "In an email"
+    },
+    {
+      "id": "reconsider",
+      "start": 21.966666666666665,
+      "duration": 5.916666666666668,
+      "action": "recover",
+      "anchor": "So before"
+    },
+    {
+      "id": "sender",
+      "start": 27.883333333333333,
+      "duration": 4.350000000000001,
+      "action": "eat",
+      "anchor": "She's eating"
+    },
+    {
+      "id": "payoff",
+      "start": 32.233333333333334,
+      "duration": 4.533333333333331,
+      "action": "recover",
+      "anchor": "You're planning"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "jensen": {
+    "source": "output/imagegen/nvidia-four-trillion/jensen-staging-v3.png",
+    "sourceSHA256": "19c09959e9c93dd1fa1e0cc7312a6faa1b9a1ef56ab435301ef354d9416c6e12",
+    "provider": "OpenAI Image API",
+    "model": "gpt-image-2",
+    "prompt": "episodes/nvidia-four-trillion/asset-prompts/jensen-staging-v3.txt",
+    "reference": "output/imagegen/nvidia-four-trillion/jensen-cartoon-sheet-v1.png",
+    "rowSplit": 418,
+    "poses": {
+      "diner-pencil": {
+        "file": "episodes/nvidia-four-trillion/art/jensen-diner-pencil-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 278.5,
+        "bounds": [
+          154,
+          89,
+          356,
+          467
+        ],
+        "pencilTip": [
+          264.9,
+          337.72
+        ]
+      },
+      "diner-cup": {
+        "file": "episodes/nvidia-four-trillion/art/jensen-diner-cup-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 286.0,
+        "bounds": [
+          148,
+          72,
+          363,
+          467
+        ]
+      },
+      "modern-inspect": {
+        "file": "episodes/nvidia-four-trillion/art/jensen-modern-inspect-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 212.5,
+        "bounds": [
+          123,
+          22,
+          387,
+          467
+        ]
+      },
+      "modern-present": {
+        "file": "episodes/nvidia-four-trillion/art/jensen-modern-present-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 218.0,
+        "bounds": [
+          121,
+          19,
+          389,
+          467
+        ]
+      }
+    }
+  },
+  "miko": {
+    "source": "output/imagegen/nvidia-four-trillion/miko-staging-v3.png",
+    "sourceSHA256": "e11b5aa4cf70ac53b325fde1b79b013cc72d6fd3aa0658493aa2c8b0601dc8fc",
+    "provider": "OpenAI Image API",
+    "model": "gpt-image-2",
+    "prompt": "episodes/nvidia-four-trillion/asset-prompts/miko-staging-v3.txt",
+    "reference": "output/imagegen/nvidia-four-trillion/miko-cartoon-sheet-v1.png",
+    "rowSplit": 418,
+    "poses": {
+      "inspect": {
+        "file": "episodes/nvidia-four-trillion/art/miko-inspect-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 224.0,
+        "bounds": [
+          157,
+          92,
+          353,
+          467
+        ],
+        "palm": [
+          296.11,
+          280.5
+        ]
+      },
+      "trace": {
+        "file": "episodes/nvidia-four-trillion/art/miko-trace-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 210.5,
+        "bounds": [
+          104,
+          54,
+          407,
+          467
+        ]
+      },
+      "follow": {
+        "file": "episodes/nvidia-four-trillion/art/miko-follow-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 236.5,
+        "bounds": [
+          139,
+          38,
+          372,
+          467
+        ]
+      },
+      "look-left": {
+        "file": "episodes/nvidia-four-trillion/art/miko-look-left-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 238.5,
+        "bounds": [
+          174,
+          53,
+          336,
+          467
+        ]
+      }
+    }
+  },
+  "founders": {
+    "source": "output/imagegen/nvidia-four-trillion/diner-founders-v3.png",
+    "sourceSHA256": "62cd6fc5e24c43767eac33ea54a89b5cf47dd6fe88e5812f24c5959458290668",
+    "provider": "OpenAI Image API",
+    "model": "gpt-image-2",
+    "poses": {
+      "left": {
+        "file": "episodes/nvidia-four-trillion/art/founder-left-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 189.95,
+        "seatY": 345.98,
+        "bounds": [
+          156,
+          115,
+          355,
+          467
+        ]
+      },
+      "right": {
+        "file": "episodes/nvidia-four-trillion/art/founder-right-v3.png",
+        "width": 512,
+        "height": 512,
+        "footY": 467,
+        "anchorX": 318.89,
+        "seatY": 345.85,
+        "bounds": [
+          159,
+          142,
+          351,
+          467
+        ]
+      }
+    },
+    "prompt": "episodes/nvidia-four-trillion/asset-prompts/diner-founders-v3.txt",
+    "reference": "output/imagegen/nvidia-four-trillion/jensen-staging-v3.png"
+  }
+}

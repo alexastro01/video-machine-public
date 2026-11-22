@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "renderer": "hyperframes",
+  "hook": "none",
+  "world": "neat",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "restless-friend",
+  "title": "Why That Friend Eats Everything and Stays Lean",
+  "number": 8,
+  "shadowLeadSeconds": 0,
+  "premise": "A fictional pair of friends introduces the 1999 NEAT experiment. Exact study extrema, not a leg-tapping calorie promise.",
+  "fiction": true,
+  "duration": 31,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "kai",
+    "ada"
+  ],
+  "audio": {
+    "narration": "episodes/restless-friend/narration.wav",
+    "music": "episodes/restless-friend/music.wav",
+    "effects": "episodes/restless-friend/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.25,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "pizza",
+      "set": "neat-livingroom",
+      "specimen": "none",
+      "action": "eat",
+      "start": 0,
+      "duration": 3,
+      "anchor": "Your friend",
+      "actionAnchor": "eats everything",
+      "focus": [],
+      "label": "pizza",
+      "timeOfDay": "evening",
+      "actionCue": 0.5666666666666668
+    },
+    {
+      "id": "question",
+      "set": "neat-livingroom",
+      "specimen": "none",
+      "action": "puzzle",
+      "start": 3,
+      "duration": 0.5666666666666669,
+      "anchor": "How",
+      "focus": [],
+      "label": "question",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "experiment",
+      "set": "neat-lab",
+      "specimen": "none",
+      "action": "serve",
+      "start": 3.566666666666667,
+      "duration": 6.300000000000001,
+      "anchor": "In nineteen ninety-nine",
+      "focus": [],
+      "label": "experiment",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "fat-chart",
+      "set": "neat-chart",
+      "specimen": "none",
+      "action": "reveal",
+      "start": 9.866666666666667,
+      "duration": 3.7333333333333325,
+      "anchor": "Fat gain",
+      "focus": [],
+      "label": "fat-chart",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reveal",
+      "set": "neat-feet",
+      "specimen": "none",
+      "action": "tap",
+      "start": 13.6,
+      "duration": 3.7333333333333325,
+      "anchor": "One big difference",
+      "focus": [],
+      "label": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "movement",
+      "set": "neat-hallway",
+      "specimen": "none",
+      "action": "pace",
+      "start": 17.333333333333332,
+      "duration": 1.9666666666666686,
+      "anchor": "Fidgeting",
+      "focus": [],
+      "label": "movement",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "maximum",
+      "set": "neat-hallway",
+      "specimen": "none",
+      "action": "stand",
+      "start": 19.3,
+      "duration": 7.333333333333332,
+      "anchor": "One person's increase",
+      "focus": [],
+      "label": "maximum",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "payoff",
+      "set": "neat-livingroom",
+      "specimen": "none",
+      "action": "tap",
+      "start": 26.633333333333333,
+      "duration": 2.9666666666666686,
+      "anchor": "So while",
+      "focus": [],
+      "label": "payoff",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "loop",
+      "set": "neat-livingroom",
+      "specimen": "none",
+      "action": "eat",
+      "start": 29.6,
+      "duration": 1.3999999999999986,
+      "anchor": "Tag that restless friend",
+      "focus": [],
+      "label": "loop",
+      "timeOfDay": "evening"
+    }
+  ]
+}

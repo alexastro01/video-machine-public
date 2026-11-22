@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "id": "alex-astro-instagram-algorithm-rpg",
+  "project": "alex-astro",
+  "renderer": "remotion",
+  "world": "instagram-rpg",
+  "rpgCut": "quest",
+  "title": "How Does the Instagram Algorithm ACTUALLY Work?",
+  "premise": "Alex follows a twelve-view Reel through the watch-time gate, follower heart shrine and sending portal.",
+  "fiction": false,
+  "duration": 43.93333333333333,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus",
+    "astra",
+    "gemini"
+  ],
+  "scenes": [
+    {
+      "id": "hook",
+      "action": "reveal",
+      "label": "Hook",
+      "set": "ruin-road",
+      "anchor": "Twelve views?!",
+      "start": 0.0,
+      "duration": 2.966666666666667
+    },
+    {
+      "id": "split",
+      "action": "split-boss",
+      "label": "Split",
+      "set": "ruin-road",
+      "anchor": "Wrong. It’s",
+      "start": 2.966666666666667,
+      "duration": 3.316666666666667
+    },
+    {
+      "id": "crossroads",
+      "action": "scatter",
+      "label": "Crossroads",
+      "set": "ruin-road",
+      "anchor": "Feed, Stories,",
+      "start": 6.283333333333333,
+      "duration": 8.1
+    },
+    {
+      "id": "hourglass",
+      "action": "open-hourglass",
+      "label": "Hourglass",
+      "set": "hourglass-court",
+      "anchor": "Gate one",
+      "start": 14.383333333333333,
+      "duration": 6.233333333333333
+    },
+    {
+      "id": "shrine",
+      "action": "heart-shrine",
+      "label": "Shrine",
+      "set": "heart-court",
+      "anchor": "Next is",
+      "start": 20.616666666666667,
+      "duration": 5.6
+    },
+    {
+      "id": "portal",
+      "action": "send-portal",
+      "label": "Portal",
+      "set": "portal-court",
+      "anchor": "Last is",
+      "start": 26.216666666666665,
+      "duration": 5.95
+    },
+    {
+      "id": "recap",
+      "action": "map-signals",
+      "label": "Recap",
+      "set": "portal-court",
+      "anchor": "So watch",
+      "start": 32.166666666666664,
+      "duration": 5.7
+    },
+    {
+      "id": "payoff",
+      "action": "handoff",
+      "label": "Payoff",
+      "set": "portal-court",
+      "anchor": "So the",
+      "start": 37.86666666666667,
+      "duration": 3.3
+    },
+    {
+      "id": "send",
+      "action": "turn",
+      "label": "Send",
+      "set": "portal-court",
+      "anchor": "…Which you",
+      "start": 41.166666666666664,
+      "duration": 2.7666666666666666
+    }
+  ],
+  "audio": {
+    "narration": "episodes/alex-astro-instagram-algorithm-rpg/full/narration.wav",
+    "effects": "episodes/alex-astro-instagram-algorithm-rpg/full/effects.wav",
+    "music": "episodes/alex-astro-instagram-algorithm-rpg/full/silence.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0
+  }
+}

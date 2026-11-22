@@ -1,0 +1,436 @@
+[
+  {
+    "text": "Let's design",
+    "startMs": 0,
+    "endMs": 500,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "Claude Code.",
+    "startMs": 500,
+    "endMs": 1100,
+    "timestampMs": 500,
+    "confidence": null
+  },
+  {
+    "text": "At first",
+    "startMs": 1100,
+    "endMs": 1583,
+    "timestampMs": 1100,
+    "confidence": null
+  },
+  {
+    "text": "it sounds simple.",
+    "startMs": 1583,
+    "endMs": 2567,
+    "timestampMs": 1583,
+    "confidence": null
+  },
+  {
+    "text": "You type",
+    "startMs": 2567,
+    "endMs": 3150,
+    "timestampMs": 2567,
+    "confidence": null
+  },
+  {
+    "text": "'fix this bug'…",
+    "startMs": 3150,
+    "endMs": 4500,
+    "timestampMs": 3150,
+    "confidence": null
+  },
+  {
+    "text": "and it's fixed.",
+    "startMs": 4500,
+    "endMs": 5400,
+    "timestampMs": 4500,
+    "confidence": null
+  },
+  {
+    "text": "But the model",
+    "startMs": 5400,
+    "endMs": 6017,
+    "timestampMs": 5400,
+    "confidence": null
+  },
+  {
+    "text": "can't see",
+    "startMs": 6017,
+    "endMs": 6650,
+    "timestampMs": 6017,
+    "confidence": null
+  },
+  {
+    "text": "your files.",
+    "startMs": 6650,
+    "endMs": 7517,
+    "timestampMs": 6650,
+    "confidence": null
+  },
+  {
+    "text": "It can't run",
+    "startMs": 7517,
+    "endMs": 8100,
+    "timestampMs": 7517,
+    "confidence": null
+  },
+  {
+    "text": "anything.",
+    "startMs": 8100,
+    "endMs": 8683,
+    "timestampMs": 8100,
+    "confidence": null
+  },
+  {
+    "text": "It only",
+    "startMs": 8683,
+    "endMs": 9183,
+    "timestampMs": 8683,
+    "confidence": null
+  },
+  {
+    "text": "writes text.",
+    "startMs": 9183,
+    "endMs": 10083,
+    "timestampMs": 9183,
+    "confidence": null
+  },
+  {
+    "text": "So how does",
+    "startMs": 10083,
+    "endMs": 10800,
+    "timestampMs": 10083,
+    "confidence": null
+  },
+  {
+    "text": "it find",
+    "startMs": 10800,
+    "endMs": 11317,
+    "timestampMs": 10800,
+    "confidence": null
+  },
+  {
+    "text": "the bug?",
+    "startMs": 11317,
+    "endMs": 11967,
+    "timestampMs": 11317,
+    "confidence": null
+  },
+  {
+    "text": "No index.",
+    "startMs": 11967,
+    "endMs": 12767,
+    "timestampMs": 11967,
+    "confidence": null
+  },
+  {
+    "text": "It searches",
+    "startMs": 12767,
+    "endMs": 13400,
+    "timestampMs": 12767,
+    "confidence": null
+  },
+  {
+    "text": "like you do.",
+    "startMs": 13400,
+    "endMs": 14167,
+    "timestampMs": 13400,
+    "confidence": null
+  },
+  {
+    "text": "Search,",
+    "startMs": 14167,
+    "endMs": 14717,
+    "timestampMs": 14167,
+    "confidence": null
+  },
+  {
+    "text": "open the file,",
+    "startMs": 14717,
+    "endMs": 15700,
+    "timestampMs": 14717,
+    "confidence": null
+  },
+  {
+    "text": "read.",
+    "startMs": 15700,
+    "endMs": 16167,
+    "timestampMs": 15700,
+    "confidence": null
+  },
+  {
+    "text": "Then it asks",
+    "startMs": 16167,
+    "endMs": 17017,
+    "timestampMs": 16167,
+    "confidence": null
+  },
+  {
+    "text": "your computer",
+    "startMs": 17017,
+    "endMs": 17817,
+    "timestampMs": 17017,
+    "confidence": null
+  },
+  {
+    "text": "to run something.",
+    "startMs": 17817,
+    "endMs": 19000,
+    "timestampMs": 17817,
+    "confidence": null
+  },
+  {
+    "text": "Tests fail?",
+    "startMs": 19000,
+    "endMs": 19950,
+    "timestampMs": 19000,
+    "confidence": null
+  },
+  {
+    "text": "The error",
+    "startMs": 19950,
+    "endMs": 20500,
+    "timestampMs": 19950,
+    "confidence": null
+  },
+  {
+    "text": "goes back.",
+    "startMs": 20500,
+    "endMs": 21283,
+    "timestampMs": 20500,
+    "confidence": null
+  },
+  {
+    "text": "It tries again.",
+    "startMs": 21283,
+    "endMs": 22250,
+    "timestampMs": 21283,
+    "confidence": null
+  },
+  {
+    "text": "Until it's",
+    "startMs": 22250,
+    "endMs": 23000,
+    "timestampMs": 22250,
+    "confidence": null
+  },
+  {
+    "text": "green.",
+    "startMs": 23000,
+    "endMs": 23517,
+    "timestampMs": 23000,
+    "confidence": null
+  },
+  {
+    "text": "But that's",
+    "startMs": 23517,
+    "endMs": 23983,
+    "timestampMs": 23517,
+    "confidence": null
+  },
+  {
+    "text": "your machine.",
+    "startMs": 23983,
+    "endMs": 24917,
+    "timestampMs": 23983,
+    "confidence": null
+  },
+  {
+    "text": "So before",
+    "startMs": 24917,
+    "endMs": 25717,
+    "timestampMs": 24917,
+    "confidence": null
+  },
+  {
+    "text": "anything risky…",
+    "startMs": 25717,
+    "endMs": 27083,
+    "timestampMs": 25717,
+    "confidence": null
+  },
+  {
+    "text": "it asks.",
+    "startMs": 27083,
+    "endMs": 27900,
+    "timestampMs": 27083,
+    "confidence": null
+  },
+  {
+    "text": "Every session",
+    "startMs": 27900,
+    "endMs": 28700,
+    "timestampMs": 27900,
+    "confidence": null
+  },
+  {
+    "text": "starts fresh.",
+    "startMs": 28700,
+    "endMs": 29600,
+    "timestampMs": 28700,
+    "confidence": null
+  },
+  {
+    "text": "So you",
+    "startMs": 29600,
+    "endMs": 30067,
+    "timestampMs": 29600,
+    "confidence": null
+  },
+  {
+    "text": "leave it",
+    "startMs": 30067,
+    "endMs": 30367,
+    "timestampMs": 30067,
+    "confidence": null
+  },
+  {
+    "text": "a note…",
+    "startMs": 30367,
+    "endMs": 30850,
+    "timestampMs": 30367,
+    "confidence": null
+  },
+  {
+    "text": "and it",
+    "startMs": 30850,
+    "endMs": 31117,
+    "timestampMs": 30850,
+    "confidence": null
+  },
+  {
+    "text": "leaves itself",
+    "startMs": 31117,
+    "endMs": 31983,
+    "timestampMs": 31117,
+    "confidence": null
+  },
+  {
+    "text": "one too.",
+    "startMs": 31983,
+    "endMs": 32500,
+    "timestampMs": 31983,
+    "confidence": null
+  },
+  {
+    "text": "And when",
+    "startMs": 32500,
+    "endMs": 32750,
+    "timestampMs": 32500,
+    "confidence": null
+  },
+  {
+    "text": "the chat",
+    "startMs": 32750,
+    "endMs": 33150,
+    "timestampMs": 32750,
+    "confidence": null
+  },
+  {
+    "text": "gets too long,",
+    "startMs": 33150,
+    "endMs": 34000,
+    "timestampMs": 33150,
+    "confidence": null
+  },
+  {
+    "text": "it summarizes itself",
+    "startMs": 34000,
+    "endMs": 35283,
+    "timestampMs": 34000,
+    "confidence": null
+  },
+  {
+    "text": "and keeps going.",
+    "startMs": 35283,
+    "endMs": 36167,
+    "timestampMs": 35283,
+    "confidence": null
+  },
+  {
+    "text": "So, simplified:",
+    "startMs": 36167,
+    "endMs": 37217,
+    "timestampMs": 36167,
+    "confidence": null
+  },
+  {
+    "text": "Claude Code",
+    "startMs": 37217,
+    "endMs": 37967,
+    "timestampMs": 37217,
+    "confidence": null
+  },
+  {
+    "text": "is a loop.",
+    "startMs": 37967,
+    "endMs": 38650,
+    "timestampMs": 37967,
+    "confidence": null
+  },
+  {
+    "text": "Read, act,",
+    "startMs": 38650,
+    "endMs": 39450,
+    "timestampMs": 38650,
+    "confidence": null
+  },
+  {
+    "text": "check, repeat.",
+    "startMs": 39450,
+    "endMs": 40417,
+    "timestampMs": 39450,
+    "confidence": null
+  },
+  {
+    "text": "That's how",
+    "startMs": 40417,
+    "endMs": 40967,
+    "timestampMs": 40417,
+    "confidence": null
+  },
+  {
+    "text": "one sentence",
+    "startMs": 40967,
+    "endMs": 41667,
+    "timestampMs": 40967,
+    "confidence": null
+  },
+  {
+    "text": "becomes working code.",
+    "startMs": 41667,
+    "endMs": 43067,
+    "timestampMs": 41667,
+    "confidence": null
+  },
+  {
+    "text": "Send this to",
+    "startMs": 43067,
+    "endMs": 43567,
+    "timestampMs": 43067,
+    "confidence": null
+  },
+  {
+    "text": "the friend",
+    "startMs": 43567,
+    "endMs": 43917,
+    "timestampMs": 43567,
+    "confidence": null
+  },
+  {
+    "text": "who thinks it's",
+    "startMs": 43917,
+    "endMs": 44483,
+    "timestampMs": 43917,
+    "confidence": null
+  },
+  {
+    "text": "just autocomplete.",
+    "startMs": 44483,
+    "endMs": 45617,
+    "timestampMs": 44483,
+    "confidence": null
+  }
+]

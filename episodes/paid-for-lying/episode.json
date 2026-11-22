@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "renderer": "hyperframes",
+  "hook": "none",
+  "world": "lying-money",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "paid-for-lying",
+  "title": "What If You Got Paid for Lying?",
+  "number": 16,
+  "shadowLeadSeconds": 0,
+  "premise": "Miko earns cash by lying, races a fixed five-minute deadline, and gives one last false compliment before time expires.",
+  "fiction": true,
+  "duration": 34.06666666666667,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "cashier"
+  ],
+  "audio": {
+    "narration": "episodes/paid-for-lying/narration.wav",
+    "music": "episodes/paid-for-lying/music.wav",
+    "effects": "episodes/paid-for-lying/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 1.1,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "promise",
+      "set": "liar-home",
+      "action": "reveal",
+      "start": 0.0,
+      "duration": 1.4,
+      "anchor": "You get paid",
+      "label": "Miko and a moving hero banknote establish the money premise.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "mondays",
+      "set": "liar-home",
+      "action": "catch",
+      "start": 1.4,
+      "duration": 1.5333333333333332,
+      "anchor": "I love Mondays",
+      "label": "First false boast; first five notes arrive on the desk.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "exams",
+      "set": "liar-home",
+      "action": "catch",
+      "start": 2.933333333333333,
+      "duration": 1.7000000000000006,
+      "anchor": "I passed my exams",
+      "label": "Second payout stacks on the first; the failed paper is exposed.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "debt",
+      "set": "liar-home",
+      "action": "catch",
+      "start": 4.633333333333334,
+      "duration": 2.3666666666666663,
+      "anchor": "I have no debt",
+      "label": "Third payout grows the same pile beside an overdue bill.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "clock",
+      "set": "liar-home",
+      "action": "warn",
+      "start": 7.0,
+      "duration": 3.1999999999999993,
+      "anchor": "But spend",
+      "label": "A close view brings the same phone countdown into focus.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "catch",
+      "set": "liar-home",
+      "action": "warn",
+      "start": 10.2,
+      "duration": 3.666666666666668,
+      "anchor": "Leave any",
+      "label": "Miko looks between the cash and the approaching consequence.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "buy",
+      "set": "liar-electronics",
+      "action": "trade",
+      "start": 13.866666666666667,
+      "duration": 1.5,
+      "anchor": "I'll take it",
+      "label": "He puts cash next to a handheld console at the electronics till.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "card",
+      "set": "liar-electronics",
+      "action": "stop",
+      "start": 15.366666666666667,
+      "duration": 1.7666666666666657,
+      "anchor": "Card only",
+      "label": "The clerk gestures to the card terminal; Miko has unusable cash.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "run",
+      "set": "liar-street",
+      "action": "chase",
+      "start": 17.133333333333333,
+      "duration": 1.6000000000000014,
+      "anchor": "By the time",
+      "label": "Miko runs right with a grounded stride and the same money in his bag.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "arrival",
+      "set": "liar-shop",
+      "action": "handoff",
+      "start": 18.733333333333334,
+      "duration": 1.4333333333333336,
+      "anchor": "cash",
+      "label": "He reaches a second till as the remaining time becomes 10 seconds.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "ten-clock",
+      "set": "liar-shop",
+      "action": "warn",
+      "start": 20.166666666666668,
+      "duration": 1.2666666666666657,
+      "anchor": "ten",
+      "label": "A readable close view of 00:10 establishes the final real-time countdown.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "change",
+      "set": "liar-shop",
+      "action": "handoff",
+      "start": 21.433333333333334,
+      "duration": 2.366666666666667,
+      "anchor": "Keep the change",
+      "label": "The drawer opens and all fifteen original notes move into it.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "relief",
+      "set": "liar-shop",
+      "action": "recover",
+      "start": 23.8,
+      "duration": 1.8333333333333321,
+      "anchor": "That's all",
+      "label": "Empty hands, a receipt and the relief line establish apparent success.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "compliment",
+      "set": "liar-shop",
+      "action": "meet",
+      "start": 25.633333333333333,
+      "duration": 1.4666666666666686,
+      "anchor": "Nice scarf",
+      "label": "The friendly cashier speaks; Miko glances at the lopsided haircut.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "thanks",
+      "set": "liar-shop",
+      "action": "wave",
+      "start": 27.1,
+      "duration": 2.2666666666666657,
+      "anchor": "Thanks",
+      "label": "His automatic false compliment creates a new obligation.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "last-note",
+      "set": "liar-shop",
+      "action": "catch",
+      "start": 29.366666666666667,
+      "duration": 0.7666666666666657,
+      "anchor": "Love your haircut",
+      "label": "The familiar cash hit returns; he tries to pass the new note forward.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "expiry",
+      "set": "liar-shop",
+      "action": "stop",
+      "start": 30.133333333333333,
+      "duration": 0.16666666666666785,
+      "anchor": "No, wait",
+      "label": "Zero arrives before the handoff; the banknote remains in his hand.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "phone",
+      "set": "liar-shop",
+      "action": "warn",
+      "start": 30.3,
+      "duration": 1.2333333333333343,
+      "anchor": "You FAILED",
+      "label": "The phone changes from the spent clock to an incoming call from Mum.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reaction",
+      "set": "liar-shop",
+      "action": "recover",
+      "start": 31.533333333333335,
+      "duration": 2.533333333333335,
+      "anchor": "your exams",
+      "label": "Mum exposes the failed exam; the cashier touches their haircut.",
+      "timeOfDay": "evening"
+    }
+  ]
+}

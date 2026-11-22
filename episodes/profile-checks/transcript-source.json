@@ -1,0 +1,349 @@
+{
+  "sourceTake": 4,
+  "alignment": "Independent Whisper words, repeated Delete verified with its local crop; zero-duration tokens use same-take Scribe boundaries.",
+  "words": [
+    {
+      "text": "What",
+      "start": 0.0,
+      "end": 0.2800000035762787,
+      "spokenText": "What",
+      "line": "hook"
+    },
+    {
+      "text": "if",
+      "start": 0.2800000035762787,
+      "end": 0.41999998927116394,
+      "spokenText": "if",
+      "line": "hook"
+    },
+    {
+      "text": "your",
+      "start": 0.41999998927116394,
+      "end": 0.7199999713897705,
+      "spokenText": "your",
+      "line": "hook"
+    },
+    {
+      "text": "crush",
+      "start": 0.7199999713897705,
+      "end": 1.0600000047683715,
+      "spokenText": "crush",
+      "line": "hook"
+    },
+    {
+      "text": "could",
+      "start": 1.0600000047683715,
+      "end": 1.3199999952316284,
+      "spokenText": "could",
+      "line": "hook"
+    },
+    {
+      "text": "see",
+      "start": 1.3199999952316284,
+      "end": 1.4799999618530273,
+      "spokenText": "see",
+      "line": "hook"
+    },
+    {
+      "text": "your",
+      "start": 1.4799999618530273,
+      "end": 1.9000000381469726,
+      "spokenText": "your",
+      "line": "hook"
+    },
+    {
+      "text": "profile",
+      "start": 1.9000000381469726,
+      "end": 2.2199999713897705,
+      "spokenText": "profile",
+      "line": "hook"
+    },
+    {
+      "text": "checks?",
+      "start": 2.2199999713897705,
+      "end": 2.6400000476837158,
+      "spokenText": "checks?",
+      "line": "hook"
+    },
+    {
+      "text": "All",
+      "start": 3.0033332856496173,
+      "end": 3.343333438237508,
+      "spokenText": "All",
+      "line": "count"
+    },
+    {
+      "text": "88.",
+      "start": 3.343333438237508,
+      "end": 3.9833335431416828,
+      "spokenText": "eighty-eight.",
+      "line": "count"
+    },
+    {
+      "text": "You",
+      "start": 4.440000057220459,
+      "end": 4.840000152587891,
+      "spokenText": "You",
+      "line": "close"
+    },
+    {
+      "text": "close",
+      "start": 4.840000152587891,
+      "end": 5.139999866485596,
+      "spokenText": "close",
+      "line": "close"
+    },
+    {
+      "text": "the",
+      "start": 5.139999866485596,
+      "end": 5.34,
+      "spokenText": "the",
+      "line": "close"
+    },
+    {
+      "text": "app.",
+      "start": 5.34,
+      "end": 5.86,
+      "spokenText": "app.",
+      "line": "close"
+    },
+    {
+      "text": "Too",
+      "start": 6.096666437784831,
+      "end": 6.256666762034099,
+      "spokenText": "Too",
+      "line": "sent"
+    },
+    {
+      "text": "late.",
+      "start": 6.256666762034099,
+      "end": 6.576666456858318,
+      "spokenText": "late.",
+      "line": "sent"
+    },
+    {
+      "text": "Notification",
+      "start": 7.116666895548503,
+      "end": 7.516666514078777,
+      "spokenText": "Notification",
+      "line": "sent"
+    },
+    {
+      "text": "sent.",
+      "start": 7.516666514078777,
+      "end": 7.976666552225749,
+      "spokenText": "sent.",
+      "line": "sent"
+    },
+    {
+      "text": "You",
+      "start": 8.333333676656087,
+      "end": 8.513333028157552,
+      "spokenText": "You",
+      "line": "glitch"
+    },
+    {
+      "text": "type,",
+      "start": 8.513333028157552,
+      "end": 8.753333752950033,
+      "spokenText": "type,",
+      "line": "glitch"
+    },
+    {
+      "text": "My",
+      "start": 9.033333333333333,
+      "end": 9.193333333333333,
+      "spokenText": "\"My",
+      "line": "glitch"
+    },
+    {
+      "text": "phone",
+      "start": 9.253333752950033,
+      "end": 9.513333028157552,
+      "spokenText": "phone",
+      "line": "glitch"
+    },
+    {
+      "text": "glitched.",
+      "start": 9.513333028157552,
+      "end": 10.083333333333334,
+      "spokenText": "glitched.\"",
+      "line": "glitch"
+    },
+    {
+      "text": "Delete.",
+      "start": 10.343333638509113,
+      "end": 10.54333344777425,
+      "spokenText": "Delete.",
+      "line": "delete1"
+    },
+    {
+      "text": "Research.",
+      "start": 11.059999618530274,
+      "end": 11.559999618530274,
+      "spokenText": "\"Research.\"",
+      "line": "research"
+    },
+    {
+      "text": "Delete.",
+      "start": 11.85,
+      "end": 12.250000002384185,
+      "spokenText": "Delete.",
+      "line": "delete2"
+    },
+    {
+      "text": "Now",
+      "start": 12.763333218892415,
+      "end": 13.003332990010579,
+      "spokenText": "Now",
+      "line": "typing"
+    },
+    {
+      "text": "she's",
+      "start": 13.003332990010579,
+      "end": 13.483333485921223,
+      "spokenText": "she's",
+      "line": "typing"
+    },
+    {
+      "text": "typing.",
+      "start": 13.483333485921223,
+      "end": 13.74333371480306,
+      "spokenText": "typing.",
+      "line": "typing"
+    },
+    {
+      "text": "You",
+      "start": 14.15,
+      "end": 14.400000190734863,
+      "spokenText": "You",
+      "line": "escape"
+    },
+    {
+      "text": "consider",
+      "start": 14.400000190734863,
+      "end": 14.759999847412109,
+      "spokenText": "consider",
+      "line": "escape"
+    },
+    {
+      "text": "moving",
+      "start": 14.759999847412109,
+      "end": 15.200000381469726,
+      "spokenText": "moving",
+      "line": "escape"
+    },
+    {
+      "text": "countries.",
+      "start": 15.200000381469726,
+      "end": 15.720000839233398,
+      "spokenText": "countries.",
+      "line": "escape"
+    },
+    {
+      "text": "Then",
+      "start": 16.143332799275715,
+      "end": 16.483332951863606,
+      "spokenText": "Then",
+      "line": "screenshot"
+    },
+    {
+      "text": "she",
+      "start": 16.483332951863606,
+      "end": 16.763333638509113,
+      "spokenText": "she",
+      "line": "screenshot"
+    },
+    {
+      "text": "sends",
+      "start": 16.763333638509113,
+      "end": 16.943333943684895,
+      "spokenText": "sends",
+      "line": "screenshot"
+    },
+    {
+      "text": "a",
+      "start": 16.943333943684895,
+      "end": 17.18333371480306,
+      "spokenText": "a",
+      "line": "screenshot"
+    },
+    {
+      "text": "screenshot.",
+      "start": 17.18333371480306,
+      "end": 17.74333318074544,
+      "spokenText": "screenshot.",
+      "line": "screenshot"
+    },
+    {
+      "text": "She's",
+      "start": 18.020000915527344,
+      "end": 18.520000915527344,
+      "spokenText": "She's",
+      "line": "reveal"
+    },
+    {
+      "text": "checked",
+      "start": 18.520000915527344,
+      "end": 18.580000381469727,
+      "spokenText": "checked",
+      "line": "reveal"
+    },
+    {
+      "text": "yours",
+      "start": 18.580000381469727,
+      "end": 18.879999618530274,
+      "spokenText": "yours",
+      "line": "reveal"
+    },
+    {
+      "text": "93",
+      "start": 18.879999618530274,
+      "end": 19.559999923706055,
+      "spokenText": "ninety-three",
+      "line": "reveal"
+    },
+    {
+      "text": "times.",
+      "start": 19.559999923706055,
+      "end": 20.26000068664551,
+      "spokenText": "times.",
+      "line": "reveal"
+    },
+    {
+      "text": "Okay.",
+      "start": 20.61666697184245,
+      "end": 21.15666598002116,
+      "spokenText": "Okay.",
+      "line": "payoff"
+    },
+    {
+      "text": "So",
+      "start": 21.29666727701823,
+      "end": 21.876667200724285,
+      "spokenText": "So",
+      "line": "payoff"
+    },
+    {
+      "text": "we're",
+      "start": 21.876667200724285,
+      "end": 22.216667353312175,
+      "spokenText": "we're",
+      "line": "payoff"
+    },
+    {
+      "text": "both",
+      "start": 22.216667353312175,
+      "end": 22.516666590372722,
+      "spokenText": "both",
+      "line": "payoff"
+    },
+    {
+      "text": "weird.",
+      "start": 22.516666590372722,
+      "end": 22.83666628519694,
+      "spokenText": "weird.",
+      "line": "payoff"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "take": "kai-opening.mp3",
+  "basis": "WAV2VEC2_ASR_BASE_960H",
+  "words": [
+    {
+      "text": "Miko",
+      "start": 0.13917,
+      "end": 0.43917
+    },
+    {
+      "text": "woke",
+      "start": 0.55917,
+      "end": 0.75917
+    },
+    {
+      "text": "up",
+      "start": 0.85917,
+      "end": 0.89917
+    },
+    {
+      "text": "a",
+      "start": 0.99917,
+      "end": 1.01917
+    },
+    {
+      "text": "billion",
+      "start": 1.17917,
+      "end": 1.57917
+    },
+    {
+      "text": "dollars",
+      "start": 1.67917,
+      "end": 2.03917
+    },
+    {
+      "text": "richer.",
+      "start": 2.17917,
+      "end": 2.51917
+    },
+    {
+      "text": "He",
+      "start": 2.94583,
+      "end": 3.04583
+    },
+    {
+      "text": "owes",
+      "start": 3.14583,
+      "end": 3.28583
+    },
+    {
+      "text": "zero",
+      "start": 3.40583,
+      "end": 3.78583
+    },
+    {
+      "text": "federal",
+      "start": 3.92583,
+      "end": 4.24583
+    },
+    {
+      "text": "income",
+      "start": 4.36583,
+      "end": 4.64583
+    },
+    {
+      "text": "tax",
+      "start": 4.68583,
+      "end": 4.86583
+    },
+    {
+      "text": "on",
+      "start": 5.00583,
+      "end": 5.04583
+    },
+    {
+      "text": "that",
+      "start": 5.10583,
+      "end": 5.24583
+    },
+    {
+      "text": "gain.",
+      "start": 5.32583,
+      "end": 5.58583
+    },
+    {
+      "text": "His",
+      "start": 6.0525,
+      "end": 6.1725
+    },
+    {
+      "text": "stock",
+      "start": 6.2525,
+      "end": 6.5125
+    },
+    {
+      "text": "doubled",
+      "start": 6.7125,
+      "end": 7.0725
+    },
+    {
+      "text": "in",
+      "start": 7.1525,
+      "end": 7.1925
+    },
+    {
+      "text": "price",
+      "start": 7.2725,
+      "end": 7.5325
+    },
+    {
+      "text": "overnight.",
+      "start": 7.6725,
+      "end": 8.2525
+    },
+    {
+      "text": "He",
+      "start": 8.6125,
+      "end": 8.6925
+    },
+    {
+      "text": "hasn’t",
+      "start": 8.7725,
+      "end": 9.0525
+    },
+    {
+      "text": "sold",
+      "start": 9.1525,
+      "end": 9.3925
+    },
+    {
+      "text": "a",
+      "start": 9.5125,
+      "end": 9.5325
+    },
+    {
+      "text": "single",
+      "start": 9.7125,
+      "end": 10.0525
+    },
+    {
+      "text": "share.",
+      "start": 10.1325,
+      "end": 10.5125
+    }
+  ]
+}

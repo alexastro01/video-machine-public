@@ -1,0 +1,681 @@
+[
+  {
+    "text": "Why",
+    "startMs": 42,
+    "endMs": 162,
+    "timestampMs": 42,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 222,
+    "endMs": 282,
+    "timestampMs": 222,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 322,
+    "endMs": 402,
+    "timestampMs": 322,
+    "confidence": null
+  },
+  {
+    "text": " job",
+    "startMs": 462,
+    "endMs": 622,
+    "timestampMs": 462,
+    "confidence": null
+  },
+  {
+    "text": " market",
+    "startMs": 662,
+    "endMs": 882,
+    "timestampMs": 662,
+    "confidence": null
+  },
+  {
+    "text": " literal",
+    "startMs": 1002,
+    "endMs": 1222,
+    "timestampMs": 1002,
+    "confidence": null
+  },
+  {
+    "text": " hell",
+    "startMs": 1322,
+    "endMs": 1502,
+    "timestampMs": 1322,
+    "confidence": null
+  },
+  {
+    "text": " right",
+    "startMs": 1562,
+    "endMs": 1702,
+    "timestampMs": 1562,
+    "confidence": null
+  },
+  {
+    "text": " now?!",
+    "startMs": 1762,
+    "endMs": 1862,
+    "timestampMs": 1762,
+    "confidence": null
+  },
+  {
+    "text": " Only",
+    "startMs": 2122,
+    "endMs": 2302,
+    "timestampMs": 2122,
+    "confidence": null
+  },
+  {
+    "text": " if",
+    "startMs": 2342,
+    "endMs": 2382,
+    "timestampMs": 2342,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 2422,
+    "endMs": 2482,
+    "timestampMs": 2422,
+    "confidence": null
+  },
+  {
+    "text": " don't",
+    "startMs": 2522,
+    "endMs": 2622,
+    "timestampMs": 2522,
+    "confidence": null
+  },
+  {
+    "text": " have",
+    "startMs": 2642,
+    "endMs": 2722,
+    "timestampMs": 2642,
+    "confidence": null
+  },
+  {
+    "text": " ten",
+    "startMs": 2782,
+    "endMs": 2902,
+    "timestampMs": 2782,
+    "confidence": null
+  },
+  {
+    "text": " years",
+    "startMs": 2942,
+    "endMs": 3082,
+    "timestampMs": 2942,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 3122,
+    "endMs": 3162,
+    "timestampMs": 3122,
+    "confidence": null
+  },
+  {
+    "text": " experience.",
+    "startMs": 3222,
+    "endMs": 3682,
+    "timestampMs": 3222,
+    "confidence": null
+  },
+  {
+    "text": " Otherwise?",
+    "startMs": 3842,
+    "endMs": 4142,
+    "timestampMs": 3842,
+    "confidence": null
+  },
+  {
+    "text": " You're",
+    "startMs": 4342,
+    "endMs": 4502,
+    "timestampMs": 4342,
+    "confidence": null
+  },
+  {
+    "text": " mostly",
+    "startMs": 4522,
+    "endMs": 4722,
+    "timestampMs": 4522,
+    "confidence": null
+  },
+  {
+    "text": " fine.",
+    "startMs": 4762,
+    "endMs": 4922,
+    "timestampMs": 4762,
+    "confidence": null
+  },
+  {
+    "text": " …I",
+    "startMs": 5622,
+    "endMs": 5642,
+    "timestampMs": 5622,
+    "confidence": null
+  },
+  {
+    "text": " have",
+    "startMs": 5722,
+    "endMs": 5882,
+    "timestampMs": 5722,
+    "confidence": null
+  },
+  {
+    "text": " two.",
+    "startMs": 5942,
+    "endMs": 6122,
+    "timestampMs": 5942,
+    "confidence": null
+  },
+  {
+    "text": " Software",
+    "startMs": 6539,
+    "endMs": 6919,
+    "timestampMs": 6539,
+    "confidence": null
+  },
+  {
+    "text": " job",
+    "startMs": 6979,
+    "endMs": 7139,
+    "timestampMs": 6979,
+    "confidence": null
+  },
+  {
+    "text": " postings",
+    "startMs": 7219,
+    "endMs": 7639,
+    "timestampMs": 7219,
+    "confidence": null
+  },
+  {
+    "text": " are",
+    "startMs": 7679,
+    "endMs": 7759,
+    "timestampMs": 7679,
+    "confidence": null
+  },
+  {
+    "text": " coming",
+    "startMs": 7799,
+    "endMs": 7999,
+    "timestampMs": 7799,
+    "confidence": null
+  },
+  {
+    "text": " back…",
+    "startMs": 8059,
+    "endMs": 8319,
+    "timestampMs": 8059,
+    "confidence": null
+  },
+  {
+    "text": " …but",
+    "startMs": 8659,
+    "endMs": 8819,
+    "timestampMs": 8659,
+    "confidence": null
+  },
+  {
+    "text": " 71%",
+    "startMs": 9059,
+    "endMs": 10099,
+    "timestampMs": 9059,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 10139,
+    "endMs": 10179,
+    "timestampMs": 10139,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 10219,
+    "endMs": 10279,
+    "timestampMs": 10219,
+    "confidence": null
+  },
+  {
+    "text": " comeback",
+    "startMs": 10339,
+    "endMs": 10719,
+    "timestampMs": 10339,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 10959,
+    "endMs": 11019,
+    "timestampMs": 10959,
+    "confidence": null
+  },
+  {
+    "text": " senior",
+    "startMs": 11119,
+    "endMs": 11459,
+    "timestampMs": 11119,
+    "confidence": null
+  },
+  {
+    "text": " roles.",
+    "startMs": 11519,
+    "endMs": 11799,
+    "timestampMs": 11519,
+    "confidence": null
+  },
+  {
+    "text": " Entry",
+    "startMs": 12182,
+    "endMs": 12462,
+    "timestampMs": 12182,
+    "confidence": null
+  },
+  {
+    "text": " level",
+    "startMs": 12522,
+    "endMs": 12782,
+    "timestampMs": 12522,
+    "confidence": null
+  },
+  {
+    "text": " now",
+    "startMs": 12982,
+    "endMs": 13142,
+    "timestampMs": 12982,
+    "confidence": null
+  },
+  {
+    "text": " means",
+    "startMs": 13262,
+    "endMs": 13582,
+    "timestampMs": 13262,
+    "confidence": null
+  },
+  {
+    "text": " 'already",
+    "startMs": 13802,
+    "endMs": 14122,
+    "timestampMs": 13802,
+    "confidence": null
+  },
+  {
+    "text": " senior.'",
+    "startMs": 14262,
+    "endMs": 14762,
+    "timestampMs": 14262,
+    "confidence": null
+  },
+  {
+    "text": " Three",
+    "startMs": 19059,
+    "endMs": 19319,
+    "timestampMs": 19059,
+    "confidence": null
+  },
+  {
+    "text": " days",
+    "startMs": 19379,
+    "endMs": 19599,
+    "timestampMs": 19379,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 19679,
+    "endMs": 19719,
+    "timestampMs": 19679,
+    "confidence": null
+  },
+  {
+    "text": " work…",
+    "startMs": 19899,
+    "endMs": 20159,
+    "timestampMs": 19899,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 20499,
+    "endMs": 20659,
+    "timestampMs": 20499,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 20759,
+    "endMs": 20779,
+    "timestampMs": 20759,
+    "confidence": null
+  },
+  {
+    "text": " MAYBE?",
+    "startMs": 20959,
+    "endMs": 21439,
+    "timestampMs": 20959,
+    "confidence": null
+  },
+  {
+    "text": " And",
+    "startMs": 22606,
+    "endMs": 22686,
+    "timestampMs": 22606,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 22886,
+    "endMs": 22966,
+    "timestampMs": 22886,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 23046,
+    "endMs": 23086,
+    "timestampMs": 23046,
+    "confidence": null
+  },
+  {
+    "text": " five",
+    "startMs": 23286,
+    "endMs": 23526,
+    "timestampMs": 23286,
+    "confidence": null
+  },
+  {
+    "text": " postings?",
+    "startMs": 23646,
+    "endMs": 24166,
+    "timestampMs": 23646,
+    "confidence": null
+  },
+  {
+    "text": " No",
+    "startMs": 24546,
+    "endMs": 24686,
+    "timestampMs": 24546,
+    "confidence": null
+  },
+  {
+    "text": " hiring",
+    "startMs": 24766,
+    "endMs": 25086,
+    "timestampMs": 24766,
+    "confidence": null
+  },
+  {
+    "text": " activity",
+    "startMs": 25146,
+    "endMs": 25486,
+    "timestampMs": 25146,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 25546,
+    "endMs": 25666,
+    "timestampMs": 25546,
+    "confidence": null
+  },
+  {
+    "text": " quarter.",
+    "startMs": 25726,
+    "endMs": 26086,
+    "timestampMs": 25726,
+    "confidence": null
+  },
+  {
+    "text": " Your",
+    "startMs": 27696,
+    "endMs": 27856,
+    "timestampMs": 27696,
+    "confidence": null
+  },
+  {
+    "text": " cold",
+    "startMs": 27996,
+    "endMs": 28296,
+    "timestampMs": 27996,
+    "confidence": null
+  },
+  {
+    "text": " DM?",
+    "startMs": 28396,
+    "endMs": 28816,
+    "timestampMs": 28396,
+    "confidence": null
+  },
+  {
+    "text": " Buried",
+    "startMs": 29176,
+    "endMs": 29536,
+    "timestampMs": 29176,
+    "confidence": null
+  },
+  {
+    "text": " under",
+    "startMs": 29616,
+    "endMs": 29796,
+    "timestampMs": 29616,
+    "confidence": null
+  },
+  {
+    "text": " AI",
+    "startMs": 29976,
+    "endMs": 30236,
+    "timestampMs": 29976,
+    "confidence": null
+  },
+  {
+    "text": " spam.",
+    "startMs": 30376,
+    "endMs": 30796,
+    "timestampMs": 30376,
+    "confidence": null
+  },
+  {
+    "text": " So",
+    "startMs": 31456,
+    "endMs": 31576,
+    "timestampMs": 31456,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 31856,
+    "endMs": 31996,
+    "timestampMs": 31856,
+    "confidence": null
+  },
+  {
+    "text": " still",
+    "startMs": 32056,
+    "endMs": 32256,
+    "timestampMs": 32056,
+    "confidence": null
+  },
+  {
+    "text": " works?",
+    "startMs": 32316,
+    "endMs": 32656,
+    "timestampMs": 32316,
+    "confidence": null
+  },
+  {
+    "text": " Real",
+    "startMs": 32876,
+    "endMs": 33056,
+    "timestampMs": 32876,
+    "confidence": null
+  },
+  {
+    "text": " fundamentals…",
+    "startMs": 33136,
+    "endMs": 33756,
+    "timestampMs": 33136,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 33996,
+    "endMs": 34096,
+    "timestampMs": 33996,
+    "confidence": null
+  },
+  {
+    "text": " being",
+    "startMs": 34176,
+    "endMs": 34396,
+    "timestampMs": 34176,
+    "confidence": null
+  },
+  {
+    "text": " scary",
+    "startMs": 34616,
+    "endMs": 35056,
+    "timestampMs": 34616,
+    "confidence": null
+  },
+  {
+    "text": " good",
+    "startMs": 35136,
+    "endMs": 35316,
+    "timestampMs": 35136,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 35396,
+    "endMs": 35496,
+    "timestampMs": 35396,
+    "confidence": null
+  },
+  {
+    "text": " AI.",
+    "startMs": 35636,
+    "endMs": 36056,
+    "timestampMs": 35636,
+    "confidence": null
+  },
+  {
+    "text": " So",
+    "startMs": 36359,
+    "endMs": 36439,
+    "timestampMs": 36359,
+    "confidence": null
+  },
+  {
+    "text": " I",
+    "startMs": 36559,
+    "endMs": 36579,
+    "timestampMs": 36559,
+    "confidence": null
+  },
+  {
+    "text": " have",
+    "startMs": 36679,
+    "endMs": 36799,
+    "timestampMs": 36679,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 36859,
+    "endMs": 36919,
+    "timestampMs": 36859,
+    "confidence": null
+  },
+  {
+    "text": " beat",
+    "startMs": 36959,
+    "endMs": 37139,
+    "timestampMs": 36959,
+    "confidence": null
+  },
+  {
+    "text": " AI-powered",
+    "startMs": 37359,
+    "endMs": 37959,
+    "timestampMs": 37359,
+    "confidence": null
+  },
+  {
+    "text": " developers…",
+    "startMs": 37999,
+    "endMs": 38559,
+    "timestampMs": 37999,
+    "confidence": null
+  },
+  {
+    "text": " using",
+    "startMs": 39039,
+    "endMs": 39239,
+    "timestampMs": 39039,
+    "confidence": null
+  },
+  {
+    "text": " AI.",
+    "startMs": 39459,
+    "endMs": 39859,
+    "timestampMs": 39459,
+    "confidence": null
+  },
+  {
+    "text": " …Want",
+    "startMs": 40569,
+    "endMs": 40729,
+    "timestampMs": 40569,
+    "confidence": null
+  },
+  {
+    "text": " me",
+    "startMs": 40789,
+    "endMs": 40829,
+    "timestampMs": 40789,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 40909,
+    "endMs": 40949,
+    "timestampMs": 40909,
+    "confidence": null
+  },
+  {
+    "text": " write",
+    "startMs": 41009,
+    "endMs": 41149,
+    "timestampMs": 41009,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 41189,
+    "endMs": 41289,
+    "timestampMs": 41189,
+    "confidence": null
+  },
+  {
+    "text": " cover",
+    "startMs": 41329,
+    "endMs": 41529,
+    "timestampMs": 41329,
+    "confidence": null
+  },
+  {
+    "text": " letter?",
+    "startMs": 41609,
+    "endMs": 41889,
+    "timestampMs": 41609,
+    "confidence": null
+  }
+]

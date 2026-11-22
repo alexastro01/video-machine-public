@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "astra-quick-test",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "astra-one-quick-test",
+  "title": "One Quick Test",
+  "number": 35,
+  "shadowLeadSeconds": 0,
+  "premise": "Alex tests a new model with a backflipping cube while his checkout stays broken.",
+  "fiction": true,
+  "duration": 20.6,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "astra"
+  ],
+  "audio": {
+    "narration": "episodes/astra-one-quick-test/narration.wav",
+    "music": "episodes/astra-one-quick-test/music.wav",
+    "effects": "episodes/astra-one-quick-test/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.545,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "checkout",
+      "start": 0,
+      "duration": 3,
+      "anchor": "One bug left.",
+      "description": "Alex clicks Pay. Checkout fails and a model alert interrupts.",
+      "action": "reveal",
+      "set": "developer-ui",
+      "label": "checkout",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "chart",
+      "start": 3,
+      "duration": 4,
+      "anchor": "Number one on a benchmark",
+      "description": "The alert expands into the launch chart. Alex clicks Try.",
+      "action": "reveal",
+      "set": "developer-ui",
+      "label": "chart",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "cube",
+      "start": 7,
+      "duration": 5,
+      "anchor": "Make a cube do a backflip.",
+      "description": "Astra arrives as Alex types. The cube flips and sticks the landing.",
+      "action": "reveal",
+      "set": "developer-ui",
+      "label": "cube",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "rebuild",
+      "start": 12,
+      "duration": 4.55,
+      "anchor": "Okay, now fix",
+      "description": "Alex points out Pay. The keyboard changes hands and the cart is redesigned.",
+      "action": "reveal",
+      "set": "developer-ui",
+      "label": "rebuild",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "pay",
+      "start": 16.55,
+      "duration": 3.6,
+      "anchor": "Can it take a payment?",
+      "description": "Alex asks if checkout works. Pay repeats the cube’s backflip and shows “Payment failed” as Astra praises the trick.",
+      "action": "reveal",
+      "set": "developer-ui",
+      "label": "pay",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "again",
+      "start": 20.15,
+      "duration": 0.45,
+      "description": "A new model alert covers the failed checkout. Alex clicks Try on its arrival.",
+      "action": "reveal",
+      "set": "developer-ui",
+      "label": "again",
+      "timeOfDay": "day",
+      "anchor": "The backflip works."
+    }
+  ]
+}

@@ -1,0 +1,1345 @@
+{
+  "version": 1,
+  "id": "immortal",
+  "number": 12,
+  "title": "What Would Happen If You Became Immortal?",
+  "premise": "An immortal's centuries of hiding lead to an airport, a child and a choice to make friends again.",
+  "fiction": true,
+  "renderer": "hyperframes",
+  "world": "immortal",
+  "hook": "none",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "duration": 466.73333333333335,
+  "aspectRatio": "16:9",
+  "fps": 30,
+  "shadowLeadSeconds": 0,
+  "cast": [
+    "miko",
+    "witch",
+    "marcus",
+    "anna",
+    "gate-kid"
+  ],
+  "audio": {
+    "narration": "episodes/immortal/narration.wav",
+    "music": "episodes/immortal/music.wav",
+    "effects": "episodes/immortal/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 2.6,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "scanner",
+      "start": 0.0,
+      "duration": 2.8,
+      "set": "immortal-airport",
+      "action": "scan",
+      "anchor": "Sir",
+      "label": "A moving tray trips the scanner while the matching faces appear on the monitor.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "portrait",
+      "start": 2.8,
+      "duration": 3.533333333333333,
+      "set": "immortal-airport",
+      "action": "reveal",
+      "anchor": "From 1650",
+      "label": "The same face in a1650 painting fills the unframed comparison panel.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "excuse",
+      "start": 6.333333333333333,
+      "duration": 2.433333333333333,
+      "set": "immortal-airport",
+      "action": "puzzle",
+      "anchor": "Would you believe",
+      "label": "Norbert tries the twin excuse.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "officer",
+      "start": 8.766666666666667,
+      "duration": 1.9333333333333333,
+      "set": "immortal-airport",
+      "action": "warn",
+      "anchor": "The painting is",
+      "label": "The officer points to the museum record.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "rock-belt",
+      "start": 10.7,
+      "duration": 7.633333333333334,
+      "set": "immortal-airport",
+      "action": "catch",
+      "anchor": "You've survived",
+      "label": "Your passport moves through security while the officer checks the impossible portrait match.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "explain",
+      "start": 18.333333333333332,
+      "duration": 3.966666666666667,
+      "set": "immortal-airport",
+      "action": "turn",
+      "anchor": "Okay",
+      "label": "He turns toward us and takes us back a long time.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "farm-wide",
+      "start": 22.3,
+      "duration": 4.6,
+      "set": "immortal-farm",
+      "action": "harvest",
+      "anchor": "Italy The year",
+      "label": "A stubborn turnip comes free in the warm Ravenna field.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "farm-work",
+      "start": 26.9,
+      "duration": 5.533333333333333,
+      "set": "immortal-farm",
+      "action": "harvest",
+      "anchor": "farming with",
+      "label": "Marcus takes the basket as Norbert finishes one harvest action.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "messenger",
+      "start": 32.43333333333333,
+      "duration": 2.3333333333333335,
+      "set": "immortal-farm",
+      "action": "step",
+      "anchor": "They've overthrown",
+      "label": "A messenger interrupts their work.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "turnips",
+      "start": 34.766666666666666,
+      "duration": 4.0,
+      "set": "immortal-farm",
+      "action": "puzzle",
+      "anchor": "Is that bad",
+      "label": "Marcus asks whether the news is bad for them.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "cart",
+      "start": 38.766666666666666,
+      "duration": 5.866666666666666,
+      "set": "immortal-farm",
+      "action": "catch",
+      "anchor": "The empire is falling",
+      "label": "Imperial news matters less than the approaching wolf.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "chase",
+      "start": 44.63333333333333,
+      "duration": 2.2333333333333334,
+      "set": "immortal-forest",
+      "action": "chase",
+      "anchor": "That night",
+      "label": "Norbert runs right toward the lit hut, facing his direction of travel.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "door",
+      "start": 46.86666666666667,
+      "duration": 2.3,
+      "set": "immortal-hut",
+      "action": "stop",
+      "anchor": "straight into",
+      "label": "He enters from the right and runs left, then stops.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "witch",
+      "start": 49.166666666666664,
+      "duration": 2.033333333333333,
+      "set": "immortal-hut",
+      "action": "meet",
+      "anchor": "You're terrified",
+      "label": "The witch greets him with naturally open eyes in a still room.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "age-joke",
+      "start": 51.2,
+      "duration": 4.033333333333333,
+      "set": "immortal-hut",
+      "action": "puzzle",
+      "anchor": "I'm 22",
+      "label": "Norbert catches his breath.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "age-context",
+      "start": 55.233333333333334,
+      "duration": 6.5,
+      "set": "immortal-farm",
+      "action": "harvest",
+      "anchor": "He isn't actually",
+      "label": "An older farmer works comfortably in the field.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "wolf-door",
+      "start": 61.733333333333334,
+      "duration": 2.566666666666667,
+      "set": "immortal-forest",
+      "action": "warn",
+      "anchor": "But the wolf",
+      "label": "The wolf sniffs at a securely closed door.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "contract",
+      "start": 64.3,
+      "duration": 4.4,
+      "set": "immortal-hut",
+      "action": "reveal",
+      "anchor": "I can fix",
+      "label": "The witch offers her parchment once.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "terms",
+      "start": 68.7,
+      "duration": 3.433333333333333,
+      "set": "immortal-hut",
+      "action": "choose",
+      "anchor": "when you least",
+      "label": "Norbert listens in the stable wide room.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "question",
+      "start": 72.13333333333334,
+      "duration": 3.9,
+      "set": "immortal-hut",
+      "action": "choose",
+      "anchor": "Had enough",
+      "label": "Open-eyed attentive close-up for the recurring question.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "signature",
+      "start": 76.03333333333333,
+      "duration": 2.0,
+      "set": "immortal-hut",
+      "action": "sign",
+      "anchor": "I will never",
+      "label": "The nib contacts the same physical paper while he signs.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pact-consequence",
+      "start": 78.03333333333333,
+      "duration": 4.333333333333333,
+      "set": "immortal-hut",
+      "action": "meet",
+      "anchor": "Without that pact, you would have died centuries ago",
+      "label": "Your signed pact remains in your hands as we hear that without it you would have died centuries ago.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pact-no-age",
+      "start": 82.36666666666666,
+      "duration": 3.533333333333333,
+      "set": "immortal-hut",
+      "action": "meet",
+      "anchor": "Without that pact, you would have died centuries ago",
+      "label": "He remains young; the witch watches the bargain take effect in the still room.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "healing",
+      "start": 85.9,
+      "duration": 2.0,
+      "set": "immortal-hut",
+      "action": "treat",
+      "anchor": "And wounds heal",
+      "label": "A small hand scratch closes exactly as healing is named.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "fees",
+      "start": 87.9,
+      "duration": 3.433333333333333,
+      "set": "immortal-hut",
+      "action": "archive",
+      "anchor": "You check for",
+      "label": "He studies the same signed sheet in candlelight.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "handoff",
+      "start": 91.33333333333333,
+      "duration": 2.6333333333333333,
+      "set": "immortal-hut",
+      "action": "meet",
+      "anchor": "The healing doesn't stop it from hurting",
+      "label": "The witch explains that healing does not prevent pain.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pain-reaction",
+      "start": 93.96666666666667,
+      "duration": 1.5666666666666667,
+      "set": "immortal-hut",
+      "action": "meet",
+      "anchor": "You could have led with that",
+      "label": "You look at the healed hand and question the missing detail.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "listener",
+      "start": 95.53333333333333,
+      "duration": 2.4,
+      "set": "immortal-hut",
+      "action": "meet",
+      "anchor": "You were running from a wolf",
+      "label": "She reminds you about the wolf still outside.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "forever-cuts",
+      "start": 97.93333333333334,
+      "duration": 5.1,
+      "set": "immortal-farm",
+      "action": "meet",
+      "anchor": "At first, forever is excellent",
+      "label": "Norbert checks his healed hand; Marcus keeps harvesting.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "winters-pass",
+      "start": 103.03333333333333,
+      "duration": 3.933333333333333,
+      "set": "immortal-farm",
+      "action": "meet",
+      "anchor": "At first, forever is excellent",
+      "label": "The identical field now lies under snow; Norbert is unchanged.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "bad-back",
+      "start": 106.96666666666667,
+      "duration": 2.533333333333333,
+      "set": "immortal-farm",
+      "action": "meet",
+      "anchor": "At first, forever is excellent",
+      "label": "Marcus tries to straighten up and presses his lower back.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "skincare",
+      "start": 109.5,
+      "duration": 1.8,
+      "set": "immortal-farm",
+      "action": "meet",
+      "anchor": "What's your skincare routine?",
+      "label": "What's your skincare routine?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "turnip-answer",
+      "start": 111.3,
+      "duration": 2.033333333333333,
+      "set": "immortal-farm",
+      "action": "meet",
+      "anchor": "Uh",
+      "label": "Your turnip answer plays against the already-painted crop field, with no floating prop.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "help-basket",
+      "start": 113.33333333333333,
+      "duration": 6.066666666666666,
+      "set": "immortal-farm",
+      "action": "meet",
+      "anchor": "The same joke works for years",
+      "label": "The basket already held in Marcus\u2019s artwork is now too heavy for him alone.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "old-marcus",
+      "start": 119.4,
+      "duration": 2.3333333333333335,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "The same joke works for years",
+      "label": "Marcus waits indoors with a walking stick, missing from the field.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "bedside-marcus",
+      "start": 121.73333333333333,
+      "duration": 2.966666666666667,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "You never changed",
+      "label": "Marcus and Norbert hold hands at the bedside; Marcus speaks quietly.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "bedside-norbert",
+      "start": 124.7,
+      "duration": 1.8333333333333333,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "I thought we'd have more time",
+      "label": "Norbert stays with him rather than cutting away from the reply.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "marcus-gone",
+      "start": 126.53333333333333,
+      "duration": 5.8,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "By 531, Marcus is gone",
+      "label": "The empty breakfast place remains beside unchanged young Norbert.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "second-cup",
+      "start": 132.33333333333334,
+      "duration": 3.6333333333333333,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "By 531, Marcus is gone",
+      "label": "Norbert sets the second cup down, sees the empty place and stops.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "no-more-friends",
+      "start": 135.96666666666667,
+      "duration": 3.066666666666667,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "Okay",
+      "label": "He closes himself off, sitting alone beside a packed bag.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "new-village",
+      "start": 139.03333333333333,
+      "duration": 6.033333333333333,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "Whenever your face starts raising questions, you move",
+      "label": "He walks into another village, same face in new clothes.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "new-job",
+      "start": 145.06666666666666,
+      "duration": 1.6333333333333333,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "Whenever your face starts raising questions, you move",
+      "label": "A different job at another desk, at another desk.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "same-chair",
+      "start": 146.7,
+      "duration": 1.4666666666666666,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "Whenever your face starts raising questions, you move",
+      "label": "The same empty chair and untouched cup follow him in memory.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "haystack-witch",
+      "start": 148.16666666666666,
+      "duration": 1.0,
+      "set": "immortal-farm",
+      "action": "meet",
+      "anchor": "Had enough?",
+      "label": "The witch reappears in the field, fully visible, and asks once.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "nope",
+      "start": 149.16666666666666,
+      "duration": 0.8,
+      "set": "immortal-farm",
+      "action": "meet",
+      "anchor": "Nope!",
+      "label": "Nope!",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "continent-coughs",
+      "start": 149.96666666666667,
+      "duration": 5.466666666666667,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "Then an entire continent starts coughing",
+      "label": "A bucket enters a quieter, shuttered street.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "plague-water",
+      "start": 155.43333333333334,
+      "duration": 7.6,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "By 1348, the Black Death is tearing through Europe",
+      "label": "He carries water through the deserted lane to a neighbour's door.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "no-fever",
+      "start": 163.03333333333333,
+      "duration": 2.7,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "By 1348, the Black Death is tearing through Europe",
+      "label": "He checks his forehead; no fever arrives.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "priest-accuses",
+      "start": 165.73333333333332,
+      "duration": 5.5,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "You're the only healthy man in the village",
+      "label": "You're the only healthy man in the village. That's witchcraft.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "technically-yes",
+      "start": 171.23333333333332,
+      "duration": 1.9666666666666666,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "Technically, yes",
+      "label": "Technically, yes.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "burial-list",
+      "start": 173.2,
+      "duration": 7.033333333333333,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "Explaining the contract seems unwise",
+      "label": "He writes his name on a burial list, not on a decorative label.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "coat-stretcher",
+      "start": 180.23333333333332,
+      "duration": 2.7333333333333334,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "Explaining the contract seems unwise",
+      "label": "A coat lies next to a fully covered stretcher, with no body details visible.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "slips-away",
+      "start": 182.96666666666667,
+      "duration": 0.9666666666666667,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "Explaining the contract seems unwise",
+      "label": "He quietly leaves through a side lane.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "nobody-follows",
+      "start": 183.93333333333334,
+      "duration": 7.966666666666667,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "You wait to see who comes looking",
+      "label": "He waits by the lane entrance; the doorway remains empty.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "witch-waits",
+      "start": 191.9,
+      "duration": 1.1666666666666667,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "Had enough?",
+      "label": "The witch asks softly; you look away during the deliberate pause.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "not-yet-1348",
+      "start": 193.06666666666666,
+      "duration": 2.6333333333333333,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "No",
+      "label": "No. Not yet.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "cannot-go-back",
+      "start": 195.7,
+      "duration": 5.233333333333333,
+      "set": "immortal-village",
+      "action": "meet",
+      "anchor": "You can survive the disease",
+      "label": "He chooses the road away from the empty village.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "register-closes",
+      "start": 200.93333333333334,
+      "duration": 3.1333333333333333,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "You can survive the disease",
+      "label": "An official book closes the escape route into the next era.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "parish-1538",
+      "start": 204.06666666666666,
+      "duration": 4.833333333333333,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "England, 1538",
+      "label": "A clerk opens the parish register and waits with a pen.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "register-entries",
+      "start": 208.9,
+      "duration": 6.733333333333333,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "England, 1538",
+      "label": "The close register page and its dated entries make the new paper trail visible.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "past-in-a-book",
+      "start": 215.63333333333333,
+      "duration": 2.3666666666666667,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "England, 1538",
+      "label": "His unchanged face meets the waiting register.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "name-date-parents",
+      "start": 218.0,
+      "duration": 3.6666666666666665,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "Name? Baptism date? Parents?",
+      "label": "Name? Baptism date? Parents?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "tuesday-yes",
+      "start": 221.66666666666666,
+      "duration": 4.433333333333334,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "Smith",
+      "label": "Smith. Tuesday. Yes.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "surname",
+      "start": 226.1,
+      "duration": 1.1,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "Your surname?",
+      "label": "Your surname?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "norbertus",
+      "start": 227.2,
+      "duration": 2.1666666666666665,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "You try John Smith",
+      "label": "You try John Smith. Then John Smith the Second. By the next register, you're running out of ideas.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "norbert-the-second",
+      "start": 229.36666666666667,
+      "duration": 6.366666666666666,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "You try John Smith",
+      "label": "Another page reveals a painfully similar identity.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "norbertson",
+      "start": 235.73333333333332,
+      "duration": 1.6666666666666667,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "John Smith the Third?",
+      "label": "John Smith the Third?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "family-tradition",
+      "start": 237.4,
+      "duration": 1.8333333333333333,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "Proud family tradition",
+      "label": "Proud family tradition.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "new-name",
+      "start": 239.23333333333332,
+      "duration": 2.6666666666666665,
+      "set": "immortal-office",
+      "action": "meet",
+      "anchor": "A new name gets you through",
+      "label": "A new name gets you through. Unfortunately, your next mistake comes with a frame.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "next-mistake",
+      "start": 241.9,
+      "duration": 3.8333333333333335,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "A new name gets you through",
+      "label": "An empty canvas waits in the next studio.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "amsterdam-1650",
+      "start": 245.73333333333332,
+      "duration": 6.733333333333333,
+      "set": "immortal-market",
+      "action": "meet",
+      "anchor": "Amsterdam, 1650",
+      "label": "They bargain over a real turnip in the warm canal market.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "anna-wins",
+      "start": 252.46666666666667,
+      "duration": 5.2,
+      "set": "immortal-market",
+      "action": "meet",
+      "anchor": "Amsterdam, 1650",
+      "label": "Anna wins the argument; you laugh before remembering your rule.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "stay-a-while",
+      "start": 257.6666666666667,
+      "duration": 3.4,
+      "set": "immortal-market",
+      "action": "meet",
+      "anchor": "Do you ever stay in one place long enough to miss it?",
+      "label": "Do you ever stay in one place long enough to miss it?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "through-a-lot",
+      "start": 261.06666666666666,
+      "duration": 2.1333333333333333,
+      "set": "immortal-market",
+      "action": "meet",
+      "anchor": "I don't stay anywhere for long",
+      "label": "I don't stay anywhere for long.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "he-can-come",
+      "start": 263.2,
+      "duration": 4.2,
+      "set": "immortal-market",
+      "action": "meet",
+      "anchor": "Then stop today",
+      "label": "Then stop today. Come with me.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "next-week",
+      "start": 267.4,
+      "duration": 6.866666666666666,
+      "set": "immortal-market",
+      "action": "meet",
+      "anchor": "For the first time in over a thousand years, you start planning next week with another person",
+      "label": "She shows him the next market day; he stays instead of leaving.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "portrait-for-me",
+      "start": 274.26666666666665,
+      "duration": 2.9,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "Get your portrait done",
+      "label": "Get your portrait done. For me.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "dont-move",
+      "start": 277.1666666666667,
+      "duration": 1.0333333333333334,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "Don't move",
+      "label": "Painter studies his seated subject across a stable easel.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "how-long",
+      "start": 278.2,
+      "duration": 1.1666666666666667,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "For how long?",
+      "label": "For how long?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "painter-yes",
+      "start": 279.3666666666667,
+      "duration": 0.9333333333333333,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "Yes",
+      "label": "Yes.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "finished-portrait",
+      "start": 280.3,
+      "duration": 5.333333333333333,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "When she sees the finished painting, she asks one ordinary question",
+      "label": "The exact1650 portrait from the airport is finished.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "ten-years",
+      "start": 285.6333333333333,
+      "duration": 3.3,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "Will you still be here in ten years?",
+      "label": "Anna asks whether you will stay. You cannot give her an answer.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "remembers-marcus",
+      "start": 288.93333333333334,
+      "duration": 2.9,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "You see Marcus's empty chair",
+      "label": "The exact earlier empty breakfast place returns as his memory of Marcus.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "packs-before-dawn",
+      "start": 291.8333333333333,
+      "duration": 5.166666666666667,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "You see Marcus's empty chair",
+      "label": "You leave before dawn. Your portrait stays behind as you leave.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "who-will-see-it",
+      "start": 297.0,
+      "duration": 3.1,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "Eh",
+      "label": "You finish the line from offscreen. The portrait remains after you leave.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "museum-portrait",
+      "start": 300.1,
+      "duration": 4.666666666666667,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "Centuries later, a museum hangs it at eye level",
+      "label": "The surviving painting appears at museum viewing height.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "daguerre-1839",
+      "start": 304.76666666666665,
+      "duration": 5.233333333333333,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "In 1839, Daguerre's photographic process is announced",
+      "label": "A sliding-box camera points at the unchanged face.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "camera-detail",
+      "start": 310.0,
+      "duration": 3.6666666666666665,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "In 1839, Daguerre's photographic process is announced",
+      "label": "The brass lens and ground-glass back move into focus.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "comforting-detail",
+      "start": 313.6666666666667,
+      "duration": 2.8666666666666667,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "In 1839, Daguerre's photographic process is announced",
+      "label": "In 1839, Daguerre's photographic process is announced. A face can now be recorded without a painter. You find the one comforting detail.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "hold-still",
+      "start": 316.53333333333336,
+      "duration": 2.9,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "Hold perfectly still for several minutes",
+      "label": "Hold perfectly still for several minutes.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "feather-sneeze",
+      "start": 319.43333333333334,
+      "duration": 6.733333333333333,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "You try",
+      "label": "A feather brushes your nose; one quick covered sneeze and a brief recoil blur the exposure.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "plate-result",
+      "start": 326.1666666666667,
+      "duration": 2.8,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "You try",
+      "label": "Your face is blurred on the plate while the chair and studio remain sharp.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "do-it-again",
+      "start": 328.96666666666664,
+      "duration": 2.5,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "Perfect",
+      "label": "Perfect. Do it again.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "cameras-coming",
+      "start": 331.46666666666664,
+      "duration": 4.733333333333333,
+      "set": "immortal-studio",
+      "action": "meet",
+      "anchor": "You buy the plate",
+      "label": "Three camera generations enter one after another; the escape will not last.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "before-passports",
+      "start": 336.2,
+      "duration": 8.0,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "Before the First World War, British travellers often went abroad without a passport",
+      "label": "You cross freely before a desk blocks the way.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "passport-standard",
+      "start": 344.2,
+      "duration": 5.933333333333334,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "Before the First World War, British travellers often went abroad without a passport",
+      "label": "The new standard booklet lands on the official's desk.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "papers",
+      "start": 350.1333333333333,
+      "duration": 1.0666666666666667,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "Papers?",
+      "label": "Papers?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "out-of-date",
+      "start": 351.2,
+      "duration": 2.433333333333333,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "I think it's slightly out of date",
+      "label": "I think it's slightly out of date.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "date-of-birth",
+      "start": 353.6333333333333,
+      "duration": 1.2333333333333334,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "Date of birth?",
+      "label": "Date of birth?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "short-answer",
+      "start": 354.8666666666667,
+      "duration": 1.7666666666666666,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "You want the short answer?",
+      "label": "You want the short answer?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "witch-in-queue",
+      "start": 356.6333333333333,
+      "duration": 4.866666666666666,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "Behind you, a familiar woman shuffles forward in the queue",
+      "label": "Behind you, a familiar woman shuffles forward in the queue.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "had-enough-1920",
+      "start": 361.5,
+      "duration": 1.1333333333333333,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "Had enough?",
+      "label": "Had enough?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "getting-close",
+      "start": 362.6333333333333,
+      "duration": 2.566666666666667,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "Getting",
+      "label": "Getting... close.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "same-face-photo",
+      "start": 365.2,
+      "duration": 5.5,
+      "set": "immortal-border",
+      "action": "meet",
+      "anchor": "Names can change",
+      "label": "The printed photograph keeps the question alive.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "everybodys-camera",
+      "start": 370.7,
+      "duration": 8.6,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "By 2026, you aren't dodging one photograph",
+      "label": "A holiday clip, group photo and family-tree match close in on the same face.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "tagged-photo",
+      "start": 379.3,
+      "duration": 2.1666666666666665,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "By 2026, you aren't dodging one photograph",
+      "label": "A group image tags his face across the centuries.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "family-tree",
+      "start": 381.46666666666664,
+      "duration": 5.366666666666666,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "By 2026, you aren't dodging one photograph",
+      "label": "The family-tree branches connect the same portrait to itself.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "own-ancestor",
+      "start": 386.8333333333333,
+      "duration": 3.033333333333333,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "Stop suggesting me as my own ancestor",
+      "label": "Stop suggesting me as my own ancestor.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "airport-return",
+      "start": 389.8666666666667,
+      "duration": 5.0,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "Then you reach the airport",
+      "label": "The exact original scanner and portrait monitor return at the checkpoint.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "passport-return",
+      "start": 394.8666666666667,
+      "duration": 6.2,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "Then you reach the airport",
+      "label": "Your passport and unchanged face return to the desk.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "explain-this",
+      "start": 401.06666666666666,
+      "duration": 1.6666666666666667,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "Explain this",
+      "label": "Explain this.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "had-enough-airport",
+      "start": 402.73333333333335,
+      "duration": 2.4,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "You know what? I've had enough",
+      "label": "You know what? I've had enough.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "cap-reveal",
+      "start": 405.1333333333333,
+      "duration": 2.6666666666666665,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "The officer removes her cap",
+      "label": "The officer removes her cap, revealing the familiar grey forelock.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "fifteen-fifty",
+      "start": 407.8,
+      "duration": 4.866666666666666,
+      "set": "immortal-airport",
+      "action": "meet",
+      "anchor": "Finally",
+      "label": "The same witch finally receives the answer she has waited for.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "so-yes",
+      "start": 412.6666666666667,
+      "duration": 2.7666666666666666,
+      "set": "immortal-gate",
+      "action": "meet",
+      "anchor": "So? Yes?",
+      "label": "So? Yes?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "kid-interrupts",
+      "start": 415.43333333333334,
+      "duration": 2.5,
+      "set": "immortal-gate",
+      "action": "meet",
+      "anchor": "Are you really that old?",
+      "label": "Are you really that old?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "your-age",
+      "start": 417.93333333333334,
+      "duration": 2.3333333333333335,
+      "set": "immortal-gate",
+      "action": "meet",
+      "anchor": "Fifteen hundred and seventy-two",
+      "label": "You tell the child your impossible age; the child takes it in stride.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "im-nine",
+      "start": 420.26666666666665,
+      "duration": 1.8666666666666667,
+      "set": "immortal-gate",
+      "action": "meet",
+      "anchor": "Cool",
+      "label": "Cool. I'm nine.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "kid-makes-room",
+      "start": 422.1333333333333,
+      "duration": 4.533333333333333,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "The kid makes room on the bench",
+      "label": "The boy pats an empty place. Norbert starts away, hesitates and looks back.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "norbert-sits",
+      "start": 426.6666666666667,
+      "duration": 1.8,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "The kid makes room on the bench",
+      "label": "He takes the offered place and turns toward the boy.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "rock-paper-scissors",
+      "start": 428.46666666666664,
+      "duration": 1.8333333333333333,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "Rock, paper, scissors?",
+      "label": "Two different hands show clear rock and scissors, not repetitive writing motions.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "training",
+      "start": 430.3,
+      "duration": 1.9,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "I've been training for this",
+      "label": "I've been training for this.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "someone-laughs",
+      "start": 432.2,
+      "duration": 4.166666666666667,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "Someone laughs, and you don't start planning how to leave",
+      "label": "The boy laughs at your winning throw. You laugh with him and stay.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "stopped-living",
+      "start": 436.3666666666667,
+      "duration": 5.966666666666667,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "I wasn't scared of dying",
+      "label": "A quiet serious seated admission, naturally open eyes and no camera drift.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "and-now",
+      "start": 442.3333333333333,
+      "duration": 1.9333333333333333,
+      "set": "immortal-gate",
+      "action": "meet",
+      "anchor": "And now?",
+      "label": "And now?",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "making-friends",
+      "start": 444.26666666666665,
+      "duration": 5.4,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "No",
+      "label": "His answer is grounded in the child still sitting beside him.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "auto-renews",
+      "start": 449.6666666666667,
+      "duration": 3.0,
+      "set": "immortal-gate",
+      "action": "meet",
+      "anchor": "Good",
+      "label": "The witch taps the contract once and leaves them to the game.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "plans-tomorrow",
+      "start": 452.6666666666667,
+      "duration": 6.866666666666666,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "Your next check-in is a hundred years away",
+      "label": "Tomorrow matters again; a boarding screen glows in the distant terminal.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "whats-your-name",
+      "start": 459.53333333333336,
+      "duration": 1.5666666666666667,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "Best of three?",
+      "label": "Still seated beside you, the boy asks for another round.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "got-time",
+      "start": 461.1,
+      "duration": 2.2,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "Sure",
+      "label": "You accept another round instead of planning your escape.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "game-continues",
+      "start": 463.3,
+      "duration": 3.433333333333333,
+      "set": "immortal-home",
+      "action": "meet",
+      "anchor": "Sure",
+      "label": "You stay for another round. The warm music resolves.",
+      "timeOfDay": "evening"
+    }
+  ]
+}

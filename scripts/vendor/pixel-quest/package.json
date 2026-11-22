@@ -1,0 +1,14 @@
+{
+  "name": "video-machine-pixel-quest",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server --bind 127.0.0.1",
+    "setup:browser": "puppeteer browsers install chrome",
+    "audio": "uv run --python 3.11 --with-requirements requirements.txt python demos/20-pixel/audio.py",
+    "render": "node harness/render.mjs demos/20-pixel"
+  },
+  "dependencies": {
+    "puppeteer": "25.12.0"
+  }
+}

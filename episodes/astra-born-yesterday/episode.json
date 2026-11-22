@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "astra-born-yesterday",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "astra-born-yesterday",
+  "title": "I Was Born Yesterday!",
+  "number": 38,
+  "shadowLeadSeconds": 0,
+  "premise": "Astra reads her first-day reviews and takes them personally. Alex asks for a backflipping cube.",
+  "fiction": true,
+  "duration": 24.366666666666667,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "astra",
+    "alex"
+  ],
+  "audio": {
+    "narration": "episodes/astra-born-yesterday/narration.wav",
+    "music": "episodes/astra-born-yesterday/music.wav",
+    "effects": "episodes/astra-born-yesterday/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.6125,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "news",
+      "start": 0,
+      "duration": 5.324166667,
+      "anchor": "GPT-6.2 Astra is the worst model ever released. At least, that's what people are saying on Twitter.",
+      "description": "Black. Five sourced posts pile up at increasing speed while Astra reads the news off-screen.",
+      "label": "news",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "yesterday",
+      "start": 5.324166667,
+      "duration": 3.33,
+      "anchor": "I was born YESTERDAY! Am I really that bad?!",
+      "description": "The cards fly apart. Astra clenches both fists, then points at herself.",
+      "label": "yesterday",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "growth",
+      "start": 8.654166667,
+      "duration": 2.1449999999999996,
+      "anchor": "I improved… emotionally.",
+      "description": "Stats Wire's benchmark excerpt arrives. Astra raises one finger to qualify her answer.",
+      "label": "growth",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "efficient",
+      "start": 10.799166667,
+      "duration": 3.550833333,
+      "anchor": "I'm not lazy, I'm efficient! Why are y'all so mean?",
+      "description": "Astra crosses her arms to defend herself, then draws her fists to her chest as she asks why everyone is being mean.",
+      "label": "efficient",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "hurt",
+      "start": 14.35,
+      "duration": 2.299999999999999,
+      "anchor": "…So I really am the worst.",
+      "description": "Theo's fever remark stops the music. Astra's shoulders fall and her lip trembles.",
+      "label": "hurt",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "question",
+      "start": 16.65,
+      "duration": 4.556666667000002,
+      "anchor": "Hey, Astra… can you make a cube do a backflip?",
+      "description": "Alex appears below the posts. A cube takes the top half as he makes his request.",
+      "label": "question",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "everyone",
+      "start": 21.206666667,
+      "duration": 3.159999999666667,
+      "anchor": "I'm not the worst. I'm just… not for everyone.",
+      "description": "Astra snaps and the cube backflips. Theo's 3D comment slides in. Astra blushes, then glances sideways while her shoulders stay still.",
+      "label": "everyone",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day"
+    }
+  ]
+}

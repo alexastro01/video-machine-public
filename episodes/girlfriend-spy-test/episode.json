@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "renderer": "hyperframes",
+  "hook": "none",
+  "world": "spy-test",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "girlfriend-spy-test",
+  "title": "Is Your Girlfriend a Chinese Spy?",
+  "number": 12,
+  "shadowLeadSeconds": 0,
+  "premise": "Miko\u2019s fictional spy-girlfriend checklist escalates until an integrated-graphics laptop makes the girlfriend leave.",
+  "fiction": true,
+  "duration": 22.7,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "leather-nerd",
+    "girlfriend"
+  ],
+  "audio": {
+    "narration": "episodes/girlfriend-spy-test/narration.wav",
+    "music": "episodes/girlfriend-spy-test/music.wav",
+    "effects": "episodes/girlfriend-spy-test/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.18,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "set": "spy-home",
+      "action": "reveal",
+      "start": 0,
+      "duration": 2.3,
+      "anchor": "Is your girlfriend",
+      "label": "Miko is already talking, clipboard in hand; a pen flick starts the test.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "point",
+      "set": "spy-home",
+      "action": "warn",
+      "start": 2.3,
+      "duration": 1.5,
+      "anchor": "Quick test",
+      "label": "A fast image cut puts Miko\u2019s finger straight toward the viewer.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "league",
+      "set": "spy-home",
+      "action": "meet",
+      "start": 3.8,
+      "duration": 2.6333333333333337,
+      "anchor": "Is she way",
+      "label": "The leather-jacket nerd stands proudly beside his confident girlfriend.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "servers",
+      "set": "spy-servers",
+      "action": "tap",
+      "start": 6.433333333333334,
+      "duration": 1.7333333333333325,
+      "anchor": "Do you work",
+      "label": "Hoodie nerd types; server lights respond, then the second check lands.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "gpu",
+      "set": "spy-home",
+      "action": "reveal",
+      "start": 8.166666666666666,
+      "duration": 1.700000000000001,
+      "anchor": "Does she look",
+      "label": "A detailed dual-fan GPU enters a warm spotlight; her gaze follows it.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "ignored",
+      "set": "spy-home",
+      "action": "puzzle",
+      "start": 9.866666666666667,
+      "duration": 1.5,
+      "anchor": "never looks",
+      "label": "The nerd waits for her attention, but she keeps admiring the GPU.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "taipei",
+      "set": "spy-bar",
+      "action": "meet",
+      "start": 11.366666666666667,
+      "duration": 2.0999999999999996,
+      "anchor": "Did you meet",
+      "label": "The couple at a warm Taipei bar; foreground drinks and a neon reflection.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "alarm",
+      "set": "spy-bar",
+      "action": "warn",
+      "start": 13.466666666666667,
+      "duration": 0.6999999999999993,
+      "anchor": "Taipei",
+      "label": "The fourth green check triggers a compact warning light and alarm.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "asset",
+      "set": "spy-home",
+      "action": "warn",
+      "start": 14.166666666666666,
+      "duration": 3.5000000000000018,
+      "anchor": "Bro",
+      "label": "Miko lowers his clipboard and delivers the dry verdict to the camera.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "laptop",
+      "set": "spy-home",
+      "action": "reveal",
+      "start": 17.666666666666668,
+      "duration": 2.299999999999997,
+      "anchor": "Relax",
+      "label": "The relieved nerd presents an ordinary laptop, talking with a smug smile.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "exit",
+      "set": "spy-home",
+      "action": "dodge",
+      "start": 19.966666666666665,
+      "duration": 1.3000000000000007,
+      "anchor": "graphics",
+      "label": "Her expression changes, she turns and dashes out; smoke and a swinging door remain.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "complete",
+      "set": "spy-home",
+      "action": "stop",
+      "start": 21.266666666666666,
+      "duration": 1.4333333333333336,
+      "anchor": "Test complete",
+      "label": "Miko speaks a deadpan conclusion; the clipboard wipe returns to the opening.",
+      "timeOfDay": "evening"
+    }
+  ]
+}

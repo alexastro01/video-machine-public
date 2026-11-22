@@ -1,0 +1,38 @@
+{
+  "smile": {
+    "file": "episodes/ok-message-motion/mia-smile.png",
+    "width": 517,
+    "height": 820,
+    "pivotX": 258.5,
+    "footY": 816,
+    "sourceCell": 0,
+    "approvedForUse": true
+  },
+  "bite": {
+    "file": "episodes/ok-message-motion/mia-bite.png",
+    "width": 502,
+    "height": 826,
+    "pivotX": 251.0,
+    "footY": 822,
+    "sourceCell": 1,
+    "approvedForUse": true
+  },
+  "typing-unused": {
+    "file": "episodes/ok-message-motion/mia-typing-unused.png",
+    "width": 526,
+    "height": 818,
+    "pivotX": 263.0,
+    "footY": 814,
+    "sourceCell": 2,
+    "approvedForUse": false
+  },
+  "catch": {
+    "file": "episodes/ok-message-motion/mia-catch.png",
+    "width": 516,
+    "height": 834,
+    "pivotX": 258.0,
+    "footY": 830,
+    "sourceCell": 3,
+    "approvedForUse": true
+  }
+}

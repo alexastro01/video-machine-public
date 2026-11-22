@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "absolutely-right",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "absolutely-right",
+  "title": "You're Absolutely Right!",
+  "number": 41,
+  "shadowLeadSeconds": 0,
+  "premise": "Alex tests whether Opus 5.5 will agree with anything. A counter keeps score as she fixes, breaks and fixes the same line.",
+  "fiction": true,
+  "duration": 26.8,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus"
+  ],
+  "audio": {
+    "narration": "episodes/absolutely-right/narration.wav",
+    "music": "episodes/absolutely-right/music.wav",
+    "effects": "episodes/absolutely-right/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 1.3,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "fix",
+      "set": "developer-ui",
+      "action": "reveal",
+      "start": 0,
+      "duration": 3,
+      "anchor": "Line 12 is broken.",
+      "label": "fix",
+      "description": "Alex is typing. Opus changes subtraction to addition and the test passes.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "undo",
+      "set": "developer-ui",
+      "action": "reveal",
+      "start": 3,
+      "duration": 4,
+      "anchor": "Wait. Line 12 was fine.",
+      "label": "undo",
+      "description": "Opus restores subtraction. The failed assertion returns, and Alex looks up.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "redo",
+      "set": "developer-ui",
+      "action": "reveal",
+      "start": 7,
+      "duration": 3,
+      "anchor": "…It was broken.",
+      "label": "redo",
+      "description": "Alex squints at the counter as the original fix returns.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "indent",
+      "set": "developer-ui",
+      "action": "reveal",
+      "start": 10,
+      "duration": 6,
+      "anchor": "Tabs.",
+      "label": "indent",
+      "description": "Tabs and spaces alternate. Twenty-two more exchanges roll through the chat before it stops at 27.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "accuse",
+      "set": "developer-ui",
+      "action": "reveal",
+      "start": 16,
+      "duration": 4,
+      "anchor": "Okay. You haven’t agreed with me once.",
+      "label": "accuse",
+      "description": "Alex watches 27 while he challenges Opus. She beams. The counter reaches 28.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "sky",
+      "set": "developer-ui",
+      "action": "reveal",
+      "start": 20,
+      "duration": 4,
+      "anchor": "The sky is green.",
+      "label": "sky",
+      "description": "Alex types and presses Enter at 23 seconds. The cursor blinks through a full second of silence.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "commit",
+      "set": "developer-ui",
+      "action": "reveal",
+      "start": 24,
+      "duration": 2.8,
+      "anchor": "You’re absolutely right!",
+      "label": "commit",
+      "description": "The final reply takes the counter to 29. A commit slides into the chat and holds until the cut.",
+      "timeOfDay": "evening"
+    }
+  ]
+}

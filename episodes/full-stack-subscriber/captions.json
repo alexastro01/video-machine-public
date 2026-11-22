@@ -1,0 +1,317 @@
+[
+  {
+    "text": "Opus, fix",
+    "startMs": 0,
+    "endMs": 708,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "my login.",
+    "startMs": 788,
+    "endMs": 1328,
+    "timestampMs": 788,
+    "confidence": null
+  },
+  {
+    "text": "Limit reached.",
+    "startMs": 1555,
+    "endMs": 2675,
+    "timestampMs": 1555,
+    "confidence": null
+  },
+  {
+    "text": "Astra?",
+    "startMs": 2798,
+    "endMs": 3278,
+    "timestampMs": 2798,
+    "confidence": null
+  },
+  {
+    "text": "Tomorrow.",
+    "startMs": 3431,
+    "endMs": 4004,
+    "timestampMs": 3431,
+    "confidence": null
+  },
+  {
+    "text": "Gemini?",
+    "startMs": 4443,
+    "endMs": 4930,
+    "timestampMs": 4443,
+    "confidence": null
+  },
+  {
+    "text": "Same.",
+    "startMs": 5030,
+    "endMs": 5791,
+    "timestampMs": 5030,
+    "confidence": null
+  },
+  {
+    "text": "Fine.",
+    "startMs": 6050,
+    "endMs": 6610,
+    "timestampMs": 6050,
+    "confidence": null
+  },
+  {
+    "text": "I'll change",
+    "startMs": 6650,
+    "endMs": 7090,
+    "timestampMs": 6650,
+    "confidence": null
+  },
+  {
+    "text": "the clock.",
+    "startMs": 7170,
+    "endMs": 7691,
+    "timestampMs": 7170,
+    "confidence": null
+  },
+  {
+    "text": "That isn't",
+    "startMs": 8120,
+    "endMs": 8540,
+    "timestampMs": 8120,
+    "confidence": null
+  },
+  {
+    "text": "how tomorrow",
+    "startMs": 8540,
+    "endMs": 9180,
+    "timestampMs": 8540,
+    "confidence": null
+  },
+  {
+    "text": "works.",
+    "startMs": 9180,
+    "endMs": 9680,
+    "timestampMs": 9180,
+    "confidence": null
+  },
+  {
+    "text": "New email.",
+    "startMs": 10283,
+    "endMs": 10859,
+    "timestampMs": 10283,
+    "confidence": null
+  },
+  {
+    "text": "Free trial.",
+    "startMs": 11019,
+    "endMs": 11659,
+    "timestampMs": 11019,
+    "confidence": null
+  },
+  {
+    "text": "Hi, Alex.",
+    "startMs": 12251,
+    "endMs": 13211,
+    "timestampMs": 12251,
+    "confidence": null
+  },
+  {
+    "text": "Again.",
+    "startMs": 13371,
+    "endMs": 14003,
+    "timestampMs": 13371,
+    "confidence": null
+  },
+  {
+    "text": "Fine.",
+    "startMs": 14533,
+    "endMs": 14713,
+    "timestampMs": 14533,
+    "confidence": null
+  },
+  {
+    "text": "Upgrade all",
+    "startMs": 15033,
+    "endMs": 15593,
+    "timestampMs": 15033,
+    "confidence": null
+  },
+  {
+    "text": "3.",
+    "startMs": 15753,
+    "endMs": 16113,
+    "timestampMs": 15753,
+    "confidence": null
+  },
+  {
+    "text": "Done!",
+    "startMs": 16481,
+    "endMs": 17501,
+    "timestampMs": 16481,
+    "confidence": null
+  },
+  {
+    "text": "Compare the",
+    "startMs": 17979,
+    "endMs": 18123,
+    "timestampMs": 17979,
+    "confidence": null
+  },
+  {
+    "text": "plans.",
+    "startMs": 18203,
+    "endMs": 18723,
+    "timestampMs": 18203,
+    "confidence": null
+  },
+  {
+    "text": "Find the",
+    "startMs": 18843,
+    "endMs": 19163,
+    "timestampMs": 18843,
+    "confidence": null
+  },
+  {
+    "text": "best one.",
+    "startMs": 19243,
+    "endMs": 19797,
+    "timestampMs": 19243,
+    "confidence": null
+  },
+  {
+    "text": "You've used",
+    "startMs": 20057,
+    "endMs": 20437,
+    "timestampMs": 20057,
+    "confidence": null
+  },
+  {
+    "text": "your new",
+    "startMs": 20437,
+    "endMs": 20897,
+    "timestampMs": 20437,
+    "confidence": null
+  },
+  {
+    "text": "allowance comparing",
+    "startMs": 20897,
+    "endMs": 21757,
+    "timestampMs": 20897,
+    "confidence": null
+  },
+  {
+    "text": "the plans.",
+    "startMs": 21757,
+    "endMs": 22337,
+    "timestampMs": 21757,
+    "confidence": null
+  },
+  {
+    "text": "I've managed",
+    "startMs": 22810,
+    "endMs": 23263,
+    "timestampMs": 22810,
+    "confidence": null
+  },
+  {
+    "text": "3 subscriptions,",
+    "startMs": 23343,
+    "endMs": 24463,
+    "timestampMs": 23343,
+    "confidence": null
+  },
+  {
+    "text": "6 reset",
+    "startMs": 24583,
+    "endMs": 25103,
+    "timestampMs": 24583,
+    "confidence": null
+  },
+  {
+    "text": "timers, and",
+    "startMs": 25223,
+    "endMs": 25663,
+    "timestampMs": 25223,
+    "confidence": null
+  },
+  {
+    "text": "5 billing",
+    "startMs": 25903,
+    "endMs": 26463,
+    "timestampMs": 25903,
+    "confidence": null
+  },
+  {
+    "text": "dashboards.",
+    "startMs": 26543,
+    "endMs": 27423,
+    "timestampMs": 26543,
+    "confidence": null
+  },
+  {
+    "text": "That's my",
+    "startMs": 27463,
+    "endMs": 27663,
+    "timestampMs": 27463,
+    "confidence": null
+  },
+  {
+    "text": "entire morning.",
+    "startMs": 27743,
+    "endMs": 28651,
+    "timestampMs": 27743,
+    "confidence": null
+  },
+  {
+    "text": "And your",
+    "startMs": 28851,
+    "endMs": 29251,
+    "timestampMs": 28851,
+    "confidence": null
+  },
+  {
+    "text": "app?",
+    "startMs": 29331,
+    "endMs": 29774,
+    "timestampMs": 29331,
+    "confidence": null
+  },
+  {
+    "text": "Still broken.",
+    "startMs": 30061,
+    "endMs": 30861,
+    "timestampMs": 30061,
+    "confidence": null
+  },
+  {
+    "text": "What do",
+    "startMs": 31407,
+    "endMs": 32127,
+    "timestampMs": 31407,
+    "confidence": null
+  },
+  {
+    "text": "you put",
+    "startMs": 32127,
+    "endMs": 32407,
+    "timestampMs": 32127,
+    "confidence": null
+  },
+  {
+    "text": "on your",
+    "startMs": 32407,
+    "endMs": 32867,
+    "timestampMs": 32407,
+    "confidence": null
+  },
+  {
+    "text": "CV?",
+    "startMs": 32867,
+    "endMs": 33167,
+    "timestampMs": 32867,
+    "confidence": null
+  },
+  {
+    "text": "Full-stack developer.",
+    "startMs": 33850,
+    "endMs": 35026,
+    "timestampMs": 33850,
+    "confidence": null
+  }
+]

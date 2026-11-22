@@ -1,0 +1,209 @@
+{
+  "provider": "OpenAI Images API",
+  "model": "gpt-image-2",
+  "size": [
+    270,
+    480
+  ],
+  "maps": [
+    "gate-centered",
+    "castle",
+    "tavern",
+    "dungeon",
+    "ghost-town",
+    "tower",
+    "forge"
+  ],
+  "masters": [
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/acting.png",
+      "sha256": "62b51905c75774a07a7dddc135e4b91214585f3bfddbc6bba2043de617b57917",
+      "prompt": "art-direction/acting.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/castle.png",
+      "sha256": "659151421aec2658c25152cc28508f5a5e9b96e9bb10b61aae89eb6a11f469a7",
+      "prompt": "art-direction/castle.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/doors.png",
+      "sha256": "24d9f53fabcf51685538191501911f21016ac20ceefdc84651ecc8ec7830a0f6",
+      "prompt": "art-direction/doors.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/dungeon.png",
+      "sha256": "329e793e79862f0bd645263e742687060030b839f964b59b68900aa8e0a1f7be",
+      "prompt": "art-direction/dungeon.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/forge.png",
+      "sha256": "c0e1cbf0d97c7b88d5cc220c4efdc594f32ae49f2e8b37058456d25c57f4d83a",
+      "prompt": "art-direction/forge.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/gate-centered.png",
+      "sha256": "3e9566e05cd87b44a1fbc22fddfc6777c4d33fd01048009a09f9d3f5220b1db3",
+      "prompt": "art-direction/gate-centered.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/ghost-town.png",
+      "sha256": "01290e5c2e3ef3126f27d5f790a11570b402a8f6cbbbcd9bb86710ffc9bc2f78",
+      "prompt": "art-direction/ghost-town.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/pigeon.png",
+      "sha256": "3e850d805e95b73052a0adc8d2d0348758714cd28bd4a6b06bfd9637c727c682",
+      "prompt": "art-direction/pigeon.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/props-forge.png",
+      "sha256": "3449309ab2abfd3d07ce571953e5d5127df2f860e279058b98bd879fe5f81907",
+      "prompt": "art-direction/props-forge.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/props-village.png",
+      "sha256": "b51b9d7208756454d8af5e4dfe29895734c61cc11d18b7e56f840b9fe034030d",
+      "prompt": "art-direction/props-village.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/tavern.png",
+      "sha256": "40a46448cdb0292b8dd8e1b30ed6dc9c939399f10226ae4a5410ac566e82e728",
+      "prompt": "art-direction/tavern.txt"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/full/tower.png",
+      "sha256": "a81a4dda138dd85425b65a9f549481780076a382624b30144742015c4607f289",
+      "prompt": "art-direction/tower.txt"
+    }
+  ],
+  "layers": {
+    "alex-disbelief": [
+      68,
+      100
+    ],
+    "alex-release": [
+      65,
+      100
+    ],
+    "alex-sword": [
+      63,
+      123
+    ],
+    "alex-tug": [
+      73,
+      100
+    ],
+    "anvil": [
+      110,
+      74
+    ],
+    "azure": [
+      62,
+      36
+    ],
+    "banner": [
+      63,
+      65
+    ],
+    "bridge": [
+      123,
+      92
+    ],
+    "castle": [
+      270,
+      480
+    ],
+    "copper": [
+      62,
+      36
+    ],
+    "cover": [
+      49,
+      35
+    ],
+    "door-blue": [
+      73,
+      86
+    ],
+    "door-iron": [
+      73,
+      86
+    ],
+    "door-skull": [
+      73,
+      86
+    ],
+    "door-wood": [
+      73,
+      86
+    ],
+    "dungeon": [
+      270,
+      480
+    ],
+    "forge": [
+      270,
+      480
+    ],
+    "gate-centered": [
+      270,
+      480
+    ],
+    "ghost-town": [
+      270,
+      480
+    ],
+    "hammer": [
+      89,
+      47
+    ],
+    "opus-letter": [
+      69,
+      100
+    ],
+    "opus-point": [
+      62,
+      100
+    ],
+    "posting": [
+      58,
+      67
+    ],
+    "roller": [
+      75,
+      24
+    ],
+    "signpost": [
+      57,
+      70
+    ],
+    "sparks": [
+      73,
+      70
+    ],
+    "sword": [
+      51,
+      128
+    ],
+    "tavern": [
+      270,
+      480
+    ],
+    "tower": [
+      270,
+      480
+    ],
+    "wing-down": [
+      68,
+      57
+    ],
+    "wing-level": [
+      66,
+      51
+    ],
+    "wing-up": [
+      65,
+      73
+    ]
+  }
+}

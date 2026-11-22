@@ -1,0 +1,58 @@
+{
+  "polite": {
+    "file": "episodes/lonely-around-people/art/miko-polite.png",
+    "width": 254,
+    "height": 593,
+    "pivotX": 120.182,
+    "footY": 589,
+    "sourceCell": 0,
+    "crop": [
+      226,
+      11,
+      480,
+      604
+    ]
+  },
+  "sad": {
+    "file": "episodes/lonely-around-people/art/miko-sad.png",
+    "width": 255,
+    "height": 593,
+    "pivotX": 121.6,
+    "footY": 589,
+    "sourceCell": 1,
+    "crop": [
+      147,
+      11,
+      402,
+      604
+    ]
+  },
+  "honest": {
+    "file": "episodes/lonely-around-people/art/miko-honest.png",
+    "width": 305,
+    "height": 596,
+    "pivotX": 124.514,
+    "footY": 592,
+    "sourceCell": 2,
+    "crop": [
+      226,
+      9,
+      531,
+      605
+    ]
+  },
+  "relieved": {
+    "file": "episodes/lonely-around-people/art/miko-relieved.png",
+    "width": 303,
+    "height": 478,
+    "pivotX": 154.293,
+    "footY": 474,
+    "sourceCell": 3,
+    "crop": [
+      124,
+      128,
+      427,
+      606
+    ]
+  }
+}

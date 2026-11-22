@@ -1,0 +1,98 @@
+{
+  "inspect": {
+    "file": "episodes/start-the-task/art/miko-inspect.png",
+    "width": 424,
+    "height": 859,
+    "bounds": [
+      333,
+      40,
+      741,
+      883
+    ],
+    "crop": [
+      325,
+      32,
+      749,
+      891
+    ],
+    "sourceCell": [
+      0,
+      0,
+      1024,
+      950
+    ],
+    "sha256": "7f8f5441dd8d5af03d7ffbf2dc21404215d4f27657906413972fed761275a4a7"
+  },
+  "coffee": {
+    "file": "episodes/start-the-task/art/miko-coffee.png",
+    "width": 460,
+    "height": 853,
+    "bounds": [
+      217,
+      45,
+      661,
+      882
+    ],
+    "crop": [
+      209,
+      37,
+      669,
+      890
+    ],
+    "sourceCell": [
+      1024,
+      0,
+      1024,
+      950
+    ],
+    "sha256": "1c3a0e579b70fda9ee549c389bee1f4da02267846f7de5c475c4820be6b5356e"
+  },
+  "typing": {
+    "file": "episodes/start-the-task/art/miko-typing.png",
+    "width": 499,
+    "height": 784,
+    "bounds": [
+      257,
+      118,
+      740,
+      886
+    ],
+    "crop": [
+      249,
+      110,
+      748,
+      894
+    ],
+    "sourceCell": [
+      0,
+      950,
+      1024,
+      1098
+    ],
+    "sha256": "4a5921ecd324b46572478a3e980e24892b70c63a2dc9ef9f636bb1baaa0917dd"
+  },
+  "one": {
+    "file": "episodes/start-the-task/art/miko-one.png",
+    "width": 576,
+    "height": 861,
+    "bounds": [
+      201,
+      55,
+      761,
+      900
+    ],
+    "crop": [
+      193,
+      47,
+      769,
+      908
+    ],
+    "sourceCell": [
+      1024,
+      950,
+      1024,
+      1098
+    ],
+    "sha256": "a86b2aff5147168ecef04551d445f868b44a6a1e9abbc191988d17af437f39aa"
+  }
+}

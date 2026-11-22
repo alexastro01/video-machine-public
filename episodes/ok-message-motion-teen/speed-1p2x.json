@@ -1,0 +1,14 @@
+{
+  "voice": "teen",
+  "playbackRate": 1.2,
+  "pitchPreserved": true,
+  "sourceEpisode": "ok-message-motion-teen",
+  "sourceDuration": 32.03333333333333,
+  "duration": 26.7,
+  "fps": 60,
+  "frames": 1602,
+  "mixFile": "episodes/ok-message-motion-teen/mix-1p2x.wav",
+  "captionFile": "episodes/ok-message-motion-teen/captions-1p2x.json",
+  "composition": "OKTeen1p2x",
+  "sourceNarrationSha256": "b17c7100ce628ae04e9c17e264d18b69f0287d5fb5ad02378f50d9fbca31ed6c"
+}

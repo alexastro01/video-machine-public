@@ -1,0 +1,157 @@
+{
+  "nativeModelMotion": true,
+  "processing": "Decoded native GIF; removed green matte and spill; no interpolation or motion synthesis.",
+  "source": "miko-coast-gif-v1.gif",
+  "width": 2048,
+  "height": 1536,
+  "columns": 4,
+  "rows": 3,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "frameCount": 12,
+  "frameDurationMs": 100,
+  "durationSeconds": 1.2,
+  "crop": {
+    "x": 108,
+    "y": 24,
+    "width": 330,
+    "height": 449
+  },
+  "cells": [
+    {
+      "frame": 0,
+      "originX": 0,
+      "originY": 0,
+      "left": 113,
+      "top": 29,
+      "right": 392,
+      "bottom": 468,
+      "pixels": 78217,
+      "durationMs": 100
+    },
+    {
+      "frame": 1,
+      "originX": 512,
+      "originY": 0,
+      "left": 113,
+      "top": 29,
+      "right": 392,
+      "bottom": 468,
+      "pixels": 78210,
+      "durationMs": 100
+    },
+    {
+      "frame": 2,
+      "originX": 1024,
+      "originY": 0,
+      "left": 113,
+      "top": 29,
+      "right": 414,
+      "bottom": 468,
+      "pixels": 78910,
+      "durationMs": 100
+    },
+    {
+      "frame": 3,
+      "originX": 1536,
+      "originY": 0,
+      "left": 113,
+      "top": 29,
+      "right": 431,
+      "bottom": 468,
+      "pixels": 79479,
+      "durationMs": 100
+    },
+    {
+      "frame": 4,
+      "originX": 0,
+      "originY": 512,
+      "left": 113,
+      "top": 28,
+      "right": 433,
+      "bottom": 467,
+      "pixels": 79209,
+      "durationMs": 100
+    },
+    {
+      "frame": 5,
+      "originX": 512,
+      "originY": 512,
+      "left": 112,
+      "top": 28,
+      "right": 415,
+      "bottom": 467,
+      "pixels": 79311,
+      "durationMs": 100
+    },
+    {
+      "frame": 6,
+      "originX": 1024,
+      "originY": 512,
+      "left": 113,
+      "top": 28,
+      "right": 414,
+      "bottom": 467,
+      "pixels": 78841,
+      "durationMs": 100
+    },
+    {
+      "frame": 7,
+      "originX": 1536,
+      "originY": 512,
+      "left": 143,
+      "top": 28,
+      "right": 414,
+      "bottom": 467,
+      "pixels": 76946,
+      "durationMs": 100
+    },
+    {
+      "frame": 8,
+      "originX": 0,
+      "originY": 1024,
+      "left": 120,
+      "top": 28,
+      "right": 414,
+      "bottom": 467,
+      "pixels": 78773,
+      "durationMs": 100
+    },
+    {
+      "frame": 9,
+      "originX": 512,
+      "originY": 1024,
+      "left": 113,
+      "top": 28,
+      "right": 410,
+      "bottom": 467,
+      "pixels": 78758,
+      "durationMs": 100
+    },
+    {
+      "frame": 10,
+      "originX": 1024,
+      "originY": 1024,
+      "left": 113,
+      "top": 28,
+      "right": 391,
+      "bottom": 467,
+      "pixels": 77899,
+      "durationMs": 100
+    },
+    {
+      "frame": 11,
+      "originX": 1536,
+      "originY": 1024,
+      "left": 113,
+      "top": 28,
+      "right": 391,
+      "bottom": 467,
+      "pixels": 78068,
+      "durationMs": 100
+    }
+  ],
+  "clipping": [],
+  "minimumTopMargin": 28,
+  "minimumBottomMargin": 43
+}

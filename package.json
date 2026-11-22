@@ -1,0 +1,66 @@
+{
+  "name": "video-machine",
+  "version": "1.0.0",
+  "description": "Reusable character-led what-if video engine",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexastro01/video-machine-public.git"
+  },
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  },
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@react-three/fiber": "9.8.2",
+    "@remotion/bundler": "4.0.541",
+    "@remotion/captions": "4.0.541",
+    "@remotion/cli": "4.0.541",
+    "@remotion/fonts": "4.0.541",
+    "@remotion/media": "4.0.541",
+    "@remotion/renderer": "4.0.541",
+    "@remotion/three": "4.0.541",
+    "pngjs": "7.0.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "remotion": "4.0.541",
+    "three": "0.187.0",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.541",
+    "@types/node": "22.19.0",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "@types/three": "^0.187.0",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.1",
+    "polygon-clipping": "0.15.7",
+    "prettier": "3.8.1",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "npm run studio",
+    "studio": "remotion studio src/public-entry.tsx --no-open",
+    "build": "remotion bundle src/public-entry.tsx",
+    "episode": "tsx scripts/episode.ts",
+    "media:prepare": "tsx scripts/prepare.ts",
+    "check": "tsx scripts/check.ts",
+    "verify": "tsx scripts/verify.ts",
+    "analyze": "tsx scripts/analyze.ts",
+    "render": "tsx scripts/render.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src scripts tests && tsc"
+  },
+  "allowScripts": {
+    "esbuild": false
+  },
+  "overrides": {
+    "@typescript-eslint/typescript-estree": {
+      "minimatch": "11.0.1"
+    }
+  }
+}

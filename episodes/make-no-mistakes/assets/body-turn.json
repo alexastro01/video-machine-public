@@ -1,0 +1,29 @@
+{
+  "eyes": [
+    591,
+    274
+  ],
+  "rest": [
+    562,
+    297,
+    92
+  ],
+  "keys": [
+    {
+      "at": 0,
+      "cel": "turn-enter"
+    },
+    {
+      "at": 4,
+      "cel": "turn-pass"
+    },
+    {
+      "at": 8,
+      "cel": "turn-inbetween"
+    },
+    {
+      "at": 13,
+      "cel": "turn-away"
+    }
+  ]
+}

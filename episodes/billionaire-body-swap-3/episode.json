@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "swap3",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "billionaire-body-swap-3",
+  "title": "You Swapped Places with a Billionaire, Part 3",
+  "number": 25,
+  "shadowLeadSeconds": 0,
+  "premise": "You and the billionaire secretly help each other through your maths exam and his company contract.",
+  "fiction": true,
+  "duration": 25.966666666666665,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "billionaire",
+    "teacher",
+    "assistant"
+  ],
+  "audio": {
+    "narration": "episodes/billionaire-body-swap-3/narration.wav",
+    "music": "episodes/billionaire-body-swap-3/music.wav",
+    "effects": "episodes/billionaire-body-swap-3/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 2.8366456666666657,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "office-hook",
+      "start": 0,
+      "duration": 2.111542,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "You have his billions. He has your maths exam.",
+      "description": "Contract already dropping toward the suited red-scarf viewer.",
+      "label": "office-hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "exam-hook",
+      "start": 2.111542,
+      "duration": 1.8499996666666667,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "You have his billions. He has your maths exam.",
+      "description": "Match cut to the maths paper landing in front of the young body.",
+      "label": "exam-hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "working",
+      "start": 3.9615416666666667,
+      "duration": 1.4967083333333329,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Show your working.",
+      "description": "Teacher points at the unanswered working-out space.",
+      "label": "working",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "accountant",
+      "start": 5.45825,
+      "duration": 1.4420000000000002,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Can I call my accountant?",
+      "description": "Young body confidently asks to call an accountant.",
+      "label": "accountant",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pencil",
+      "start": 6.90025,
+      "duration": 1.5983541666666667,
+      "set": "swap-classroom",
+      "action": "handoff",
+      "anchor": "You can use a pencil.",
+      "description": "One pencil arrives on the desk instead.",
+      "label": "pencil",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "deal",
+      "start": 8.498604166666667,
+      "duration": 1.3915828333333327,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "The board needs you to sign a forty million pound deal.",
+      "description": "Assistant introduces the contract waiting for a signature.",
+      "label": "deal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "contract",
+      "start": 9.890187,
+      "duration": 2.1517713333333344,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "The board needs you to sign a forty million pound deal.",
+      "description": "Close-up shows the fictional forty-million-pound amount.",
+      "label": "contract",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pencil2",
+      "start": 12.041958333333334,
+      "duration": 1.896770833333333,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Can I use a pencil?",
+      "description": "Viewer hopes the school solution will work here too.",
+      "label": "pencil2",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "lawyer",
+      "start": 13.938729166666667,
+      "duration": 1.7583541666666669,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "You can use a lawyer.",
+      "description": "Assistant removes the pencil on the legal retort.",
+      "label": "lawyer",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "helpCompany",
+      "start": 15.697083333333333,
+      "duration": 1.6411250000000006,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Help me run your company.",
+      "description": "Adult viewer calls the young body for help.",
+      "label": "helpCompany",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "helpExam",
+      "start": 17.338208333333334,
+      "duration": 2.2455624999999984,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Help me pass your exam.",
+      "description": "Young body asks for help with the exam and shares its photo.",
+      "label": "helpExam",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "answers",
+      "start": 19.583770833333332,
+      "duration": 1.8403124999999996,
+      "set": "swap-classroom",
+      "action": "handoff",
+      "anchor": "Who's giving you the answers?",
+      "description": "Teacher has taken the phone and questions the young body.",
+      "label": "answers",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "me",
+      "start": 21.424083333333332,
+      "duration": 1.4459376666666692,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Technically\u2026 me.",
+      "description": "Caught young body hesitates before his literal answer.",
+      "label": "me",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reveal",
+      "start": 22.870021,
+      "duration": 1.6000000000000014,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Technically\u2026 me.",
+      "description": "Phone reveals the adult red-scarf caller giving a guilty wave.",
+      "label": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reaction",
+      "start": 24.470021000000003,
+      "duration": 1.4966456666666623,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Technically\u2026 me.",
+      "description": "Teacher holds an unimpressed reaction after the completed wave.",
+      "label": "reaction",
+      "timeOfDay": "evening"
+    }
+  ]
+}

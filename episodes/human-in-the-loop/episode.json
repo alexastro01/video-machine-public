@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "human-in-the-loop",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "human-in-the-loop",
+  "title": "Human in the Loop",
+  "number": 37,
+  "shadowLeadSeconds": 0,
+  "premise": "Alex keeps rewriting his LinkedIn headline as the assistants take over his work. One job still needs him to click a button.",
+  "fiction": true,
+  "duration": 18.683333333333334,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus",
+    "astra",
+    "gemini"
+  ],
+  "audio": {
+    "narration": "episodes/human-in-the-loop/narration.wav",
+    "music": "episodes/human-in-the-loop/music.wav",
+    "effects": "episodes/human-in-the-loop/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 4.44283,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "profile",
+      "label": "profile",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening",
+      "anchor": "Why is Opus on my LinkedIn?",
+      "start": 0,
+      "duration": 2.11,
+      "description": "Opus 5.5 appears in Alex’s LinkedIn notifications. The profile headline reads SENIOR DEVELOPER."
+    },
+    {
+      "id": "tasks",
+      "label": "tasks",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening",
+      "anchor": "I finished all your tasks.",
+      "start": 2.11,
+      "duration": 2.0050000000000003,
+      "description": "Three Jira issues turn green. A line strikes through SENIOR DEVELOPER."
+    },
+    {
+      "id": "prompts",
+      "label": "prompts",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening",
+      "anchor": "Fine. I'll write the prompts.",
+      "start": 4.115,
+      "duration": 2.1240000000000006,
+      "description": "Alex types PROMPT ENGINEER into the same field."
+    },
+    {
+      "id": "own",
+      "label": "own",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening",
+      "anchor": "I write my own now.",
+      "start": 6.239000000000001,
+      "duration": 1.4749999999999996,
+      "description": "Astra speaks. PROMPT ENGINEER gets crossed out."
+    },
+    {
+      "id": "supervise",
+      "label": "supervise",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening",
+      "anchor": "Then I'll supervise you.",
+      "start": 7.714,
+      "duration": 1.6080000000000005,
+      "description": "Alex replaces his headline with AI SUPERVISOR."
+    },
+    {
+      "id": "review",
+      "label": "review",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening",
+      "anchor": "We review each other.",
+      "start": 9.322000000000001,
+      "duration": 1.665000000000001,
+      "description": "The Review Loop diff flashes up. AI SUPERVISOR gets crossed out."
+    },
+    {
+      "id": "left",
+      "label": "left",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening",
+      "anchor": "So what's left for me?",
+      "start": 10.987000000000002,
+      "duration": 1.657,
+      "description": "Alex puts his hand to his forehead. His crossed-out headline stays in place."
+    },
+    {
+      "id": "approve",
+      "label": "approve",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "evening",
+      "anchor": "Someone has to click Approve.",
+      "start": 12.644000000000002,
+      "duration": 6.039333333333332,
+      "description": "An Approve button appears. Alex sits down and clicks. The tally climbs through 1, 12 and 340. The headline types HUMAN IN THE LOOP. He keeps clicking until the cut."
+    }
+  ]
+}

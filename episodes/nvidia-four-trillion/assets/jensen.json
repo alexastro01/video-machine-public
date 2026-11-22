@@ -1,0 +1,185 @@
+{
+  "style": "flat-cartoon-jensen",
+  "source": "output/imagegen/nvidia-four-trillion/jensen-cartoon-sheet-v1.png",
+  "sourceSHA256": "b908f63755522a04bdfe63050ec91fa46721394a29e579046761d8128911e78b",
+  "provider": "OpenAI Image API",
+  "model": "gpt-image-2",
+  "prompt": "episodes/nvidia-four-trillion/asset-prompts/jensen-cartoon-sheet.txt",
+  "references": [
+    "episodes/nvidia-four-trillion/references/jensen-official-headshot.jpg",
+    "output/imagegen/nvidia-four-trillion/miko-cartoon-sheet-v1.png"
+  ],
+  "processing": "Split the regular cells and derive alpha from the magenta matte, including contaminated boundary pixels. Source character RGB is unchanged.",
+  "pixelsPerWorldUnit": 168,
+  "poses": {
+    "neutral": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-neutral.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 264.0,
+      "footY": 457,
+      "bounds": [
+        171,
+        27,
+        341,
+        457
+      ]
+    },
+    "worried": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-worried.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 219.0,
+      "footY": 458,
+      "bounds": [
+        88,
+        27,
+        364,
+        458
+      ]
+    },
+    "point": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-point.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 212.5,
+      "footY": 458,
+      "bounds": [
+        92,
+        28,
+        396,
+        458
+      ]
+    },
+    "seated": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-seated.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 217.0,
+      "footY": 445,
+      "bounds": [
+        124,
+        50,
+        335,
+        445
+      ]
+    },
+    "receive": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-receive.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 270.0,
+      "footY": 454,
+      "bounds": [
+        175,
+        13,
+        382,
+        454
+      ]
+    },
+    "relieved": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-relieved.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 228.0,
+      "footY": 454,
+      "bounds": [
+        99,
+        18,
+        326,
+        454
+      ]
+    },
+    "modern-neutral": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-modern-neutral.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 211.0,
+      "footY": 459,
+      "bounds": [
+        105,
+        15,
+        373,
+        459
+      ]
+    },
+    "modern-receive": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-modern-receive.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 214.0,
+      "footY": 463,
+      "bounds": [
+        123,
+        20,
+        312,
+        463
+      ]
+    },
+    "phone-concerned": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-phone-concerned.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 266.0,
+      "footY": 441,
+      "bounds": [
+        172,
+        26,
+        392,
+        441
+      ]
+    },
+    "phone-relief": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-phone-relief.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 223.0,
+      "footY": 442,
+      "bounds": [
+        129,
+        28,
+        349,
+        442
+      ]
+    },
+    "work-prepare": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-work-prepare.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 290.0,
+      "footY": 419,
+      "bounds": [
+        183,
+        11,
+        379,
+        419
+      ]
+    },
+    "work-contact": {
+      "file": "episodes/nvidia-four-trillion/art/jensen-work-contact.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 234.0,
+      "footY": 420,
+      "bounds": [
+        126,
+        12,
+        321,
+        420
+      ]
+    }
+  },
+  "userApproved": false,
+  "supplements": [
+    {
+      "source": "output/imagegen/nvidia-four-trillion/jensen-action-sheet-v1.png",
+      "sourceSHA256": "31aeca3b58d213daebbf3c989a4b89d5ecae8df79f2c1e2c5b84311f9c18faff",
+      "provider": "OpenAI Image API",
+      "model": "gpt-image-2",
+      "prompt": "episodes/nvidia-four-trillion/asset-prompts/jensen-action-sheet.txt",
+      "references": [
+        "output/imagegen/nvidia-four-trillion/jensen-cartoon-sheet-v1.png"
+      ]
+    }
+  ]
+}

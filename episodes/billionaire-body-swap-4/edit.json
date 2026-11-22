@@ -1,0 +1,1772 @@
+{
+  "id": "billionaire-body-swap-4",
+  "title": "You Swapped Places with a Billionaire, Part 4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration": 43.6,
+  "events": {
+    "hook": 0,
+    "lawyer": 4.235458333333333,
+    "stay": 5.7104583333333325,
+    "internship": 7.499833333333332,
+    "talent": 10.512541666666666,
+    "partner": 12.319479166666666,
+    "exposure": 14.840916666666665,
+    "familiar": 16.4094375,
+    "fire": 20.2765,
+    "why": 22.8210625,
+    "performance": 23.550520833333334,
+    "last": 24.8079375,
+    "exactly": 27.484250000000003,
+    "manager": 28.75804166666667,
+    "procedure": 32.163000000000004,
+    "trip": 33.59441666666667,
+    "worked": 36.96579166666667,
+    "cta": 39.767562500000004,
+    "school": 2.635458,
+    "reportHit": 0.22,
+    "reportOpen": 7.3198333333333325,
+    "allocation": 13.000125,
+    "salary": 18.409729,
+    "result": 25.265583,
+    "managerPhone": 29.776271,
+    "expense": 34.945792,
+    "reaction": 38.61579166666667,
+    "end": 43.6
+  },
+  "lines": [
+    {
+      "id": "hook",
+      "speaker": "narrator",
+      "text": "You swapped bodies with a billionaire. He's at your parents' evening.",
+      "afterPause": 0.1,
+      "start": 0,
+      "end": 4.135458333333333,
+      "duration": 4.135458333333333,
+      "words": [
+        {
+          "text": "You",
+          "start": 0.135458,
+          "end": 0.215458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "swapped",
+          "start": 0.375458,
+          "end": 0.675458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "bodies",
+          "start": 0.815458,
+          "end": 1.215458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "with",
+          "start": 1.255458,
+          "end": 1.355458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "a",
+          "start": 1.395458,
+          "end": 1.555458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "billionaire.",
+          "start": 1.595458,
+          "end": 2.235458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "He's",
+          "start": 2.635458,
+          "end": 2.795458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "at",
+          "start": 2.835458,
+          "end": 2.955458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "your",
+          "start": 2.995458,
+          "end": 3.055458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "parents'",
+          "start": 3.195458,
+          "end": 3.555458,
+          "speaker": "narrator",
+          "line": "hook"
+        },
+        {
+          "text": "evening.",
+          "start": 3.655458,
+          "end": 4.055458,
+          "speaker": "narrator",
+          "line": "hook"
+        }
+      ]
+    },
+    {
+      "id": "lawyer",
+      "speaker": "young",
+      "text": "Can I send my lawyer?",
+      "afterPause": 0.18,
+      "start": 4.235458333333333,
+      "end": 5.530458333333333,
+      "duration": 1.295,
+      "words": [
+        {
+          "text": "Can",
+          "start": 4.342458,
+          "end": 4.442458,
+          "speaker": "young",
+          "line": "lawyer"
+        },
+        {
+          "text": "I",
+          "start": 4.542458,
+          "end": 4.602458,
+          "speaker": "young",
+          "line": "lawyer"
+        },
+        {
+          "text": "send",
+          "start": 4.642458,
+          "end": 4.802458,
+          "speaker": "young",
+          "line": "lawyer"
+        },
+        {
+          "text": "my",
+          "start": 4.842458,
+          "end": 4.982458,
+          "speaker": "young",
+          "line": "lawyer"
+        },
+        {
+          "text": "lawyer?",
+          "start": 5.062458,
+          "end": 5.362458,
+          "speaker": "young",
+          "line": "lawyer"
+        }
+      ]
+    },
+    {
+      "id": "stay",
+      "speaker": "mum",
+      "text": "You can stay right there.",
+      "afterPause": 0.25,
+      "start": 5.7104583333333325,
+      "end": 7.249833333333332,
+      "duration": 1.539375,
+      "words": [
+        {
+          "text": "You",
+          "start": 5.784542,
+          "end": 5.844542,
+          "speaker": "mum",
+          "line": "stay"
+        },
+        {
+          "text": "can",
+          "start": 5.904542,
+          "end": 6.024542,
+          "speaker": "mum",
+          "line": "stay"
+        },
+        {
+          "text": "stay",
+          "start": 6.164542,
+          "end": 6.344542,
+          "speaker": "mum",
+          "line": "stay"
+        },
+        {
+          "text": "right",
+          "start": 6.484542,
+          "end": 6.764542,
+          "speaker": "mum",
+          "line": "stay"
+        },
+        {
+          "text": "there.",
+          "start": 6.824542,
+          "end": 7.084542,
+          "speaker": "mum",
+          "line": "stay"
+        }
+      ]
+    },
+    {
+      "id": "internship",
+      "speaker": "teacher",
+      "text": "He called group work an unpaid internship.",
+      "afterPause": 0.2,
+      "start": 7.499833333333332,
+      "end": 10.312541666666664,
+      "duration": 2.812708333333333,
+      "words": [
+        {
+          "text": "He",
+          "start": 7.543646,
+          "end": 7.643646,
+          "speaker": "teacher",
+          "line": "internship"
+        },
+        {
+          "text": "called",
+          "start": 7.703646,
+          "end": 7.903646,
+          "speaker": "teacher",
+          "line": "internship"
+        },
+        {
+          "text": "group",
+          "start": 8.023646,
+          "end": 8.323646,
+          "speaker": "teacher",
+          "line": "internship"
+        },
+        {
+          "text": "work",
+          "start": 8.383646,
+          "end": 8.623646,
+          "speaker": "teacher",
+          "line": "internship"
+        },
+        {
+          "text": "an",
+          "start": 8.663646,
+          "end": 8.863646,
+          "speaker": "teacher",
+          "line": "internship"
+        },
+        {
+          "text": "unpaid",
+          "start": 8.943646,
+          "end": 9.423646,
+          "speaker": "teacher",
+          "line": "internship"
+        },
+        {
+          "text": "internship.",
+          "start": 9.503646,
+          "end": 10.223646,
+          "speaker": "teacher",
+          "line": "internship"
+        }
+      ]
+    },
+    {
+      "id": "talent",
+      "speaker": "young",
+      "text": "I was developing talent.",
+      "afterPause": 0.2,
+      "start": 10.512541666666666,
+      "end": 12.119479166666665,
+      "duration": 1.6069375,
+      "words": [
+        {
+          "text": "I",
+          "start": 10.641167,
+          "end": 10.681167,
+          "speaker": "young",
+          "line": "talent"
+        },
+        {
+          "text": "was",
+          "start": 10.721167,
+          "end": 10.861167,
+          "speaker": "young",
+          "line": "talent"
+        },
+        {
+          "text": "developing",
+          "start": 10.901167,
+          "end": 11.401167,
+          "speaker": "young",
+          "line": "talent"
+        },
+        {
+          "text": "talent.",
+          "start": 11.581167,
+          "end": 11.981167,
+          "speaker": "young",
+          "line": "talent"
+        }
+      ]
+    },
+    {
+      "id": "partner",
+      "speaker": "teacher",
+      "text": "He made his partner do all the work.",
+      "afterPause": 0.18,
+      "start": 12.319479166666666,
+      "end": 14.660916666666665,
+      "duration": 2.3414375,
+      "words": [
+        {
+          "text": "He",
+          "start": 12.380125,
+          "end": 12.480125,
+          "speaker": "teacher",
+          "line": "partner"
+        },
+        {
+          "text": "made",
+          "start": 12.520125,
+          "end": 12.680125,
+          "speaker": "teacher",
+          "line": "partner"
+        },
+        {
+          "text": "his",
+          "start": 12.700125,
+          "end": 12.920125,
+          "speaker": "teacher",
+          "line": "partner"
+        },
+        {
+          "text": "partner",
+          "start": 13.000125,
+          "end": 13.400125,
+          "speaker": "teacher",
+          "line": "partner"
+        },
+        {
+          "text": "do",
+          "start": 13.460125,
+          "end": 13.660125,
+          "speaker": "teacher",
+          "line": "partner"
+        },
+        {
+          "text": "all",
+          "start": 13.760125,
+          "end": 13.900125,
+          "speaker": "teacher",
+          "line": "partner"
+        },
+        {
+          "text": "the",
+          "start": 13.960125,
+          "end": 14.060125,
+          "speaker": "teacher",
+          "line": "partner"
+        },
+        {
+          "text": "work.",
+          "start": 14.100125,
+          "end": 14.560125,
+          "speaker": "teacher",
+          "line": "partner"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "speaker": "young",
+      "text": "I offered him exposure.",
+      "afterPause": 0.22,
+      "start": 14.840916666666665,
+      "end": 16.189437499999997,
+      "duration": 1.3485208333333334,
+      "words": [
+        {
+          "text": "I",
+          "start": 14.910875,
+          "end": 14.990875,
+          "speaker": "young",
+          "line": "exposure"
+        },
+        {
+          "text": "offered",
+          "start": 15.030875,
+          "end": 15.250875,
+          "speaker": "young",
+          "line": "exposure"
+        },
+        {
+          "text": "him",
+          "start": 15.290875,
+          "end": 15.390875,
+          "speaker": "young",
+          "line": "exposure"
+        },
+        {
+          "text": "exposure.",
+          "start": 15.430875,
+          "end": 16.050875,
+          "speaker": "young",
+          "line": "exposure"
+        }
+      ]
+    },
+    {
+      "id": "familiar",
+      "speaker": "mum",
+      "text": "Sounds familiar. He calls pocket money a salary.",
+      "afterPause": 0.35,
+      "start": 16.4094375,
+      "end": 19.9265,
+      "duration": 3.5170625,
+      "words": [
+        {
+          "text": "Sounds",
+          "start": 16.549729,
+          "end": 16.829729,
+          "speaker": "mum",
+          "line": "familiar"
+        },
+        {
+          "text": "familiar.",
+          "start": 16.869729,
+          "end": 17.389729,
+          "speaker": "mum",
+          "line": "familiar"
+        },
+        {
+          "text": "He",
+          "start": 17.949729,
+          "end": 18.049729,
+          "speaker": "mum",
+          "line": "familiar"
+        },
+        {
+          "text": "calls",
+          "start": 18.089729,
+          "end": 18.349729,
+          "speaker": "mum",
+          "line": "familiar"
+        },
+        {
+          "text": "pocket",
+          "start": 18.409729,
+          "end": 18.729729,
+          "speaker": "mum",
+          "line": "familiar"
+        },
+        {
+          "text": "money",
+          "start": 18.769729,
+          "end": 18.989729,
+          "speaker": "mum",
+          "line": "familiar"
+        },
+        {
+          "text": "a",
+          "start": 19.049729,
+          "end": 19.269729,
+          "speaker": "mum",
+          "line": "familiar"
+        },
+        {
+          "text": "salary.",
+          "start": 19.269729,
+          "end": 19.789729,
+          "speaker": "mum",
+          "line": "familiar"
+        }
+      ]
+    },
+    {
+      "id": "fire",
+      "speaker": "teacher",
+      "text": "Then he tried to fire the sports teacher.",
+      "afterPause": 0.18,
+      "start": 20.2765,
+      "end": 22.641062499999997,
+      "duration": 2.3645625,
+      "words": [
+        {
+          "text": "Then",
+          "start": 20.364833,
+          "end": 20.604833,
+          "speaker": "teacher",
+          "line": "fire"
+        },
+        {
+          "text": "he",
+          "start": 20.644833,
+          "end": 20.764833,
+          "speaker": "teacher",
+          "line": "fire"
+        },
+        {
+          "text": "tried",
+          "start": 20.804833,
+          "end": 20.984833,
+          "speaker": "teacher",
+          "line": "fire"
+        },
+        {
+          "text": "to",
+          "start": 21.024833,
+          "end": 21.224833,
+          "speaker": "teacher",
+          "line": "fire"
+        },
+        {
+          "text": "fire",
+          "start": 21.264833,
+          "end": 21.544833,
+          "speaker": "teacher",
+          "line": "fire"
+        },
+        {
+          "text": "the",
+          "start": 21.584833,
+          "end": 21.684833,
+          "speaker": "teacher",
+          "line": "fire"
+        },
+        {
+          "text": "sports",
+          "start": 21.724833,
+          "end": 22.064833,
+          "speaker": "teacher",
+          "line": "fire"
+        },
+        {
+          "text": "teacher.",
+          "start": 22.144833,
+          "end": 22.544833,
+          "speaker": "teacher",
+          "line": "fire"
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "speaker": "mum",
+      "text": "Why?",
+      "afterPause": 0.15,
+      "start": 22.8210625,
+      "end": 23.400520833333335,
+      "duration": 0.5794583333333333,
+      "words": [
+        {
+          "text": "Why?",
+          "start": 22.912521,
+          "end": 23.272521,
+          "speaker": "mum",
+          "line": "why"
+        }
+      ]
+    },
+    {
+      "id": "performance",
+      "speaker": "young",
+      "text": "Poor performance.",
+      "afterPause": 0.18,
+      "start": 23.550520833333334,
+      "end": 24.6279375,
+      "duration": 1.0774166666666667,
+      "words": [
+        {
+          "text": "Poor",
+          "start": 23.616,
+          "end": 23.776,
+          "speaker": "young",
+          "line": "performance"
+        },
+        {
+          "text": "performance.",
+          "start": 23.856,
+          "end": 24.436,
+          "speaker": "young",
+          "line": "performance"
+        }
+      ]
+    },
+    {
+      "id": "last",
+      "speaker": "mum",
+      "text": "You came last. In your own team.",
+      "afterPause": 0.18,
+      "start": 24.8079375,
+      "end": 27.304250000000003,
+      "duration": 2.4963125,
+      "words": [
+        {
+          "text": "You",
+          "start": 24.885583,
+          "end": 24.985583,
+          "speaker": "mum",
+          "line": "last"
+        },
+        {
+          "text": "came",
+          "start": 25.025583,
+          "end": 25.205583,
+          "speaker": "mum",
+          "line": "last"
+        },
+        {
+          "text": "last.",
+          "start": 25.265583,
+          "end": 25.725583,
+          "speaker": "mum",
+          "line": "last"
+        },
+        {
+          "text": "In",
+          "start": 26.045583,
+          "end": 26.145583,
+          "speaker": "mum",
+          "line": "last"
+        },
+        {
+          "text": "your",
+          "start": 26.185583,
+          "end": 26.365583,
+          "speaker": "mum",
+          "line": "last"
+        },
+        {
+          "text": "own",
+          "start": 26.465583,
+          "end": 26.745583,
+          "speaker": "mum",
+          "line": "last"
+        },
+        {
+          "text": "team.",
+          "start": 26.805583,
+          "end": 27.185583,
+          "speaker": "mum",
+          "line": "last"
+        }
+      ]
+    },
+    {
+      "id": "exactly",
+      "speaker": "young",
+      "text": "Exactly.",
+      "afterPause": 0.36,
+      "start": 27.484250000000003,
+      "end": 28.39804166666667,
+      "duration": 0.9137916666666667,
+      "words": [
+        {
+          "text": "Exactly.",
+          "start": 27.55675,
+          "end": 28.27675,
+          "speaker": "young",
+          "line": "exactly"
+        }
+      ]
+    },
+    {
+      "id": "manager",
+      "speaker": "teacher",
+      "text": "And after I took his phone, he asked to speak to my manager.",
+      "afterPause": 0.24,
+      "start": 28.75804166666667,
+      "end": 31.923000000000005,
+      "duration": 3.1649583333333333,
+      "words": [
+        {
+          "text": "And",
+          "start": 28.816271,
+          "end": 28.916271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "after",
+          "start": 28.996271,
+          "end": 29.196271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "I",
+          "start": 29.276271,
+          "end": 29.336271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "took",
+          "start": 29.376271,
+          "end": 29.516271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "his",
+          "start": 29.536271,
+          "end": 29.756271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "phone,",
+          "start": 29.776271,
+          "end": 30.176271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "he",
+          "start": 30.336271,
+          "end": 30.436271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "asked",
+          "start": 30.496271,
+          "end": 30.656271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "to",
+          "start": 30.676271,
+          "end": 30.776271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "speak",
+          "start": 30.876271,
+          "end": 31.036271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "to",
+          "start": 31.076271,
+          "end": 31.136271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "my",
+          "start": 31.176271,
+          "end": 31.336271,
+          "speaker": "teacher",
+          "line": "manager"
+        },
+        {
+          "text": "manager.",
+          "start": 31.396271,
+          "end": 31.856271,
+          "speaker": "teacher",
+          "line": "manager"
+        }
+      ]
+    },
+    {
+      "id": "procedure",
+      "speaker": "young",
+      "text": "Standard procedure.",
+      "afterPause": 0.34,
+      "start": 32.163000000000004,
+      "end": 33.25441666666667,
+      "duration": 1.0914166666666667,
+      "words": [
+        {
+          "text": "Standard",
+          "start": 32.289542,
+          "end": 32.589542,
+          "speaker": "young",
+          "line": "procedure"
+        },
+        {
+          "text": "procedure.",
+          "start": 32.669542,
+          "end": 33.149542,
+          "speaker": "young",
+          "line": "procedure"
+        }
+      ]
+    },
+    {
+      "id": "trip",
+      "speaker": "teacher",
+      "text": "Finally, he tried to expense the school trip.",
+      "afterPause": 0.48,
+      "start": 33.59441666666667,
+      "end": 36.48579166666667,
+      "duration": 2.891375,
+      "words": [
+        {
+          "text": "Finally,",
+          "start": 33.745792,
+          "end": 34.225792,
+          "speaker": "teacher",
+          "line": "trip"
+        },
+        {
+          "text": "he",
+          "start": 34.425792,
+          "end": 34.545792,
+          "speaker": "teacher",
+          "line": "trip"
+        },
+        {
+          "text": "tried",
+          "start": 34.585792,
+          "end": 34.785792,
+          "speaker": "teacher",
+          "line": "trip"
+        },
+        {
+          "text": "to",
+          "start": 34.825792,
+          "end": 34.905792,
+          "speaker": "teacher",
+          "line": "trip"
+        },
+        {
+          "text": "expense",
+          "start": 34.945792,
+          "end": 35.505792,
+          "speaker": "teacher",
+          "line": "trip"
+        },
+        {
+          "text": "the",
+          "start": 35.545792,
+          "end": 35.665792,
+          "speaker": "teacher",
+          "line": "trip"
+        },
+        {
+          "text": "school",
+          "start": 35.705792,
+          "end": 35.925792,
+          "speaker": "teacher",
+          "line": "trip"
+        },
+        {
+          "text": "trip.",
+          "start": 36.065792,
+          "end": 36.425792,
+          "speaker": "teacher",
+          "line": "trip"
+        }
+      ]
+    },
+    {
+      "id": "worked",
+      "speaker": "mum",
+      "text": "Did it work?",
+      "afterPause": 2.15,
+      "start": 36.96579166666667,
+      "end": 37.6175625,
+      "duration": 0.6517708333333333,
+      "words": [
+        {
+          "text": "Did",
+          "start": 36.987562,
+          "end": 37.067563,
+          "speaker": "mum",
+          "line": "worked"
+        },
+        {
+          "text": "it",
+          "start": 37.107563,
+          "end": 37.187562,
+          "speaker": "mum",
+          "line": "worked"
+        },
+        {
+          "text": "work?",
+          "start": 37.227562,
+          "end": 37.547562,
+          "speaker": "mum",
+          "line": "worked"
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "speaker": "narratorCta",
+      "text": "What part of your life would break this billionaire?",
+      "afterPause": 1.1,
+      "start": 39.767562500000004,
+      "end": 42.4761875,
+      "duration": 2.708625,
+      "words": [
+        {
+          "text": "What",
+          "start": 39.859417,
+          "end": 39.999417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        },
+        {
+          "text": "part",
+          "start": 40.119417,
+          "end": 40.279417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        },
+        {
+          "text": "of",
+          "start": 40.319417,
+          "end": 40.399417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        },
+        {
+          "text": "your",
+          "start": 40.439417,
+          "end": 40.539417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        },
+        {
+          "text": "life",
+          "start": 40.679417,
+          "end": 40.919417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        },
+        {
+          "text": "would",
+          "start": 40.939417,
+          "end": 41.159417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        },
+        {
+          "text": "break",
+          "start": 41.199417,
+          "end": 41.519417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        },
+        {
+          "text": "this",
+          "start": 41.559417,
+          "end": 41.779417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        },
+        {
+          "text": "billionaire?",
+          "start": 41.819417,
+          "end": 42.339417,
+          "speaker": "narratorCta",
+          "line": "cta"
+        }
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": "billionaire-hook",
+      "start": 0,
+      "duration": 2.635458,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "You swapped bodies with a billionaire. He's at your parents' evening.",
+      "description": "Open on the former billionaire in your young body, already facing a falling school report at parents’ evening."
+    },
+    {
+      "id": "school-hook",
+      "start": 2.635458,
+      "duration": 1.600000333333333,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "You swapped bodies with a billionaire. He's at your parents' evening.",
+      "description": "Pull back on He’s to reveal Mum beside the former billionaire. The report has landed and the situation is clear."
+    },
+    {
+      "id": "lawyer",
+      "start": 4.235458333333333,
+      "duration": 1.4749999999999996,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Can I send my lawyer?",
+      "description": "Young body tries to delegate parents’ evening to a lawyer."
+    },
+    {
+      "id": "stay",
+      "start": 5.7104583333333325,
+      "duration": 1.7893749999999997,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "You can stay right there.",
+      "description": "Mum’s firm seated stop gesture ends the escape attempt before seven seconds."
+    },
+    {
+      "id": "internship",
+      "start": 7.499833333333332,
+      "duration": 3.0127083333333333,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "He called group work an unpaid internship.",
+      "description": "The teacher opens the report and explains the first employer-like complaint."
+    },
+    {
+      "id": "talent",
+      "start": 10.512541666666666,
+      "duration": 1.8069375,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "I was developing talent.",
+      "description": "A finite defensive open-palm gesture accompanies the young body’s business excuse."
+    },
+    {
+      "id": "partner",
+      "start": 12.319479166666666,
+      "duration": 2.5214374999999993,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "He made his partner do all the work.",
+      "description": "A school project card allocates all the work to one partner."
+    },
+    {
+      "id": "exposure",
+      "start": 14.840916666666665,
+      "duration": 1.5685208333333343,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "I offered him exposure.",
+      "description": "Young body defends the unpaid arrangement."
+    },
+    {
+      "id": "familiar",
+      "start": 16.4094375,
+      "duration": 2.0002914999999994,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Sounds familiar. He calls pocket money a salary.",
+      "description": "Mum recognises an ordinary family habit rather than the body swap."
+    },
+    {
+      "id": "salary",
+      "start": 18.409729,
+      "duration": 1.866771,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Sounds familiar. He calls pocket money a salary.",
+      "description": "Four pocket-money coins land as Mum recalls his new salary vocabulary."
+    },
+    {
+      "id": "fire",
+      "start": 20.2765,
+      "duration": 2.5445625000000014,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Then he tried to fire the sports teacher.",
+      "description": "Teacher reads the sports-teacher complaint from the report."
+    },
+    {
+      "id": "why",
+      "start": 22.8210625,
+      "duration": 0.7294583333333335,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Why?",
+      "description": "Mum asks for a reason, with open questioning eyes."
+    },
+    {
+      "id": "performance",
+      "start": 23.550520833333334,
+      "duration": 1.2574166666666677,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Poor performance.",
+      "description": "Young body blames the teacher’s performance."
+    },
+    {
+      "id": "last",
+      "start": 24.8079375,
+      "duration": 0.45764549999999815,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "You came last. In your own team.",
+      "description": "Mum starts correcting him."
+    },
+    {
+      "id": "result",
+      "start": 25.265583,
+      "duration": 2.2186670000000035,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "You came last. In your own team.",
+      "description": "A results card places his avatar last in his own team."
+    },
+    {
+      "id": "exactly",
+      "start": 27.484250000000003,
+      "duration": 1.2737916666666678,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Exactly.",
+      "description": "He accepts the evidence as proof of his own excuse."
+    },
+    {
+      "id": "manager",
+      "start": 28.75804166666667,
+      "duration": 1.0182293333333305,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "And after I took his phone, he asked to speak to my manager.",
+      "description": "Teacher introduces the confiscated-phone complaint."
+    },
+    {
+      "id": "manager-phone",
+      "start": 29.776271,
+      "duration": 2.3867290000000025,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "And after I took his phone, he asked to speak to my manager.",
+      "description": "The report becomes a simple headteacher contact screen on the manager line."
+    },
+    {
+      "id": "procedure",
+      "start": 32.163000000000004,
+      "duration": 1.4314166666666637,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Standard procedure.",
+      "description": "Young body treats the complaint as standard business practice."
+    },
+    {
+      "id": "trip",
+      "start": 33.59441666666667,
+      "duration": 1.3513753333333298,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Finally, he tried to expense the school trip.",
+      "description": "Teacher introduces the final school-trip complaint with the expense still hidden."
+    },
+    {
+      "id": "expense",
+      "start": 34.945792,
+      "duration": 2.0199996666666706,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Finally, he tried to expense the school trip.",
+      "description": "The report’s receipt turns toward us, revealing a fictional £45 expense claim."
+    },
+    {
+      "id": "worked",
+      "start": 36.96579166666667,
+      "duration": 1.6499999999999986,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Did it work?",
+      "description": "Mum leans forward with genuine hope: Did it work?"
+    },
+    {
+      "id": "reaction",
+      "start": 38.61579166666667,
+      "duration": 1.1517708333333374,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "Did it work?",
+      "description": "Teacher is surprised and the young body is caught out. Let both reactions settle."
+    },
+    {
+      "id": "cta",
+      "start": 39.767562500000004,
+      "duration": 3.8324374999999975,
+      "set": "swap-classroom",
+      "action": "reveal",
+      "anchor": "What part of your life would break this billionaire?",
+      "description": "The former billionaire gestures toward the viewer while their question builds in a clear comment bubble above him."
+    }
+  ],
+  "assets": [
+    {
+      "width": 519,
+      "height": 874,
+      "worldHeight": 1.86,
+      "pivotX": 287.0,
+      "footY": 869,
+      "id": "mum-firm",
+      "url": "episodes/billionaire-body-swap-4/art/mum-firm.png"
+    },
+    {
+      "width": 446,
+      "height": 867,
+      "worldHeight": 1.86,
+      "pivotX": 221.0,
+      "footY": 862,
+      "id": "mum-listen",
+      "url": "episodes/billionaire-body-swap-4/art/mum-listen.png"
+    },
+    {
+      "width": 503,
+      "height": 877,
+      "worldHeight": 1.86,
+      "pivotX": 281.5,
+      "footY": 872,
+      "id": "mum-question",
+      "url": "episodes/billionaire-body-swap-4/art/mum-question.png"
+    },
+    {
+      "width": 366,
+      "height": 833,
+      "worldHeight": 1.86,
+      "pivotX": 237.0,
+      "footY": 828,
+      "id": "mum-hopeful",
+      "url": "episodes/billionaire-body-swap-4/art/mum-hopeful.png"
+    },
+    {
+      "width": 528,
+      "height": 908,
+      "worldHeight": 1.86,
+      "pivotX": 259.5,
+      "footY": 903,
+      "id": "teacher-explain",
+      "url": "episodes/billionaire-body-swap-4/art/teacher-explain.png"
+    },
+    {
+      "width": 524,
+      "height": 907,
+      "worldHeight": 1.86,
+      "pivotX": 258.0,
+      "footY": 902,
+      "id": "teacher-list",
+      "url": "episodes/billionaire-body-swap-4/art/teacher-list.png"
+    },
+    {
+      "width": 488,
+      "height": 897,
+      "worldHeight": 1.86,
+      "pivotX": 239.5,
+      "footY": 892,
+      "id": "teacher-stare",
+      "url": "episodes/billionaire-body-swap-4/art/teacher-stare.png"
+    },
+    {
+      "width": 486,
+      "height": 898,
+      "worldHeight": 1.86,
+      "pivotX": 239.0,
+      "footY": 893,
+      "id": "teacher-surprised",
+      "url": "episodes/billionaire-body-swap-4/art/teacher-surprised.png"
+    },
+    {
+      "width": 573,
+      "height": 904,
+      "worldHeight": 1.86,
+      "pivotX": 252.5,
+      "footY": 899,
+      "id": "adult-listen",
+      "url": "episodes/billionaire-body-swap-3/art/adult-listen.png"
+    },
+    {
+      "width": 664,
+      "height": 896,
+      "worldHeight": 1.86,
+      "pivotX": 264.0,
+      "footY": 891,
+      "id": "adult-ask",
+      "url": "episodes/billionaire-body-swap-3/art/adult-ask.png"
+    },
+    {
+      "width": 449,
+      "height": 880,
+      "worldHeight": 1.78,
+      "pivotX": 214.5,
+      "footY": 875,
+      "id": "young-puzzled",
+      "url": "episodes/billionaire-body-swap-3/art/young-puzzled.png"
+    },
+    {
+      "width": 489,
+      "height": 880,
+      "worldHeight": 1.78,
+      "pivotX": 249.0,
+      "footY": 875,
+      "id": "young-ask",
+      "url": "episodes/billionaire-body-swap-3/art/young-ask.png"
+    },
+    {
+      "width": 443,
+      "height": 885,
+      "worldHeight": 1.78,
+      "pivotX": 208.0,
+      "footY": 880,
+      "id": "young-caught",
+      "url": "episodes/billionaire-body-swap-3/art/young-caught.png"
+    },
+    {
+      "width": 300,
+      "height": 499,
+      "worldHeight": 1.78,
+      "pivotX": 180.0,
+      "footY": 495,
+      "id": "young-rest",
+      "url": "episodes/billionaire-body-swap-4/art/young-rest.png"
+    },
+    {
+      "id": "mum-hopeful-gif",
+      "url": "episodes/billionaire-body-swap-4/art/mum-hopeful-atlas.png",
+      "width": 233,
+      "height": 495,
+      "worldHeight": 1.86,
+      "pivotX": 126.0,
+      "footY": 495,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "mum-hopeful.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 130,
+          "y": 13,
+          "width": 233,
+          "height": 495
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 133,
+            "top": 16,
+            "right": 354,
+            "bottom": 503,
+            "pixels": 73147,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 134,
+            "top": 16,
+            "right": 354,
+            "bottom": 503,
+            "pixels": 73409,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 134,
+            "top": 17,
+            "right": 354,
+            "bottom": 503,
+            "pixels": 73253,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 135,
+            "top": 16,
+            "right": 357,
+            "bottom": 503,
+            "pixels": 73748,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 134,
+            "top": 17,
+            "right": 359,
+            "bottom": 503,
+            "pixels": 73968,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 134,
+            "top": 17,
+            "right": 359,
+            "bottom": 503,
+            "pixels": 73699,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 134,
+            "top": 18,
+            "right": 359,
+            "bottom": 503,
+            "pixels": 73380,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 134,
+            "top": 21,
+            "right": 357,
+            "bottom": 503,
+            "pixels": 72839,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 134,
+            "top": 22,
+            "right": 356,
+            "bottom": 503,
+            "pixels": 72905,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 134,
+            "top": 22,
+            "right": 354,
+            "bottom": 503,
+            "pixels": 72602,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 134,
+            "top": 22,
+            "right": 354,
+            "bottom": 503,
+            "pixels": 72460,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 135,
+            "top": 22,
+            "right": 354,
+            "bottom": 503,
+            "pixels": 72219,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 133,
+            "top": 20,
+            "right": 354,
+            "bottom": 502,
+            "pixels": 72397,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 134,
+            "top": 20,
+            "right": 354,
+            "bottom": 502,
+            "pixels": 72454,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 134,
+            "top": 20,
+            "right": 354,
+            "bottom": 502,
+            "pixels": 72392,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 134,
+            "top": 18,
+            "right": 354,
+            "bottom": 502,
+            "pixels": 72616,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 16,
+        "minimumBottomMargin": 8
+      }
+    },
+    {
+      "id": "young-ask-gif",
+      "url": "episodes/billionaire-body-swap-4/art/young-ask-atlas.png",
+      "width": 300,
+      "height": 499,
+      "worldHeight": 1.78,
+      "pivotX": 180.0,
+      "footY": 499,
+      "animation": {
+        "nativeModelMotion": true,
+        "processing": "Decoded native GIF; soft #ff00ff matte and despill; source RGB restored inside the 2px-eroded silhouette; no interpolation or motion synthesis. Disconnected matte residue removed without changing subject RGB or motion.",
+        "source": "young-ask.gif",
+        "width": 2048,
+        "height": 2048,
+        "columns": 4,
+        "rows": 4,
+        "cellWidth": 512,
+        "cellHeight": 512,
+        "frameCount": 16,
+        "frameDurationMs": 100,
+        "durationSeconds": 1.6,
+        "crop": {
+          "x": 76,
+          "y": 7,
+          "width": 300,
+          "height": 499
+        },
+        "cells": [
+          {
+            "frame": 0,
+            "originX": 0,
+            "originY": 0,
+            "left": 121,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 76625,
+            "durationMs": 100
+          },
+          {
+            "frame": 1,
+            "originX": 512,
+            "originY": 0,
+            "left": 121,
+            "top": 10,
+            "right": 371,
+            "bottom": 501,
+            "pixels": 76711,
+            "durationMs": 100
+          },
+          {
+            "frame": 2,
+            "originX": 1024,
+            "originY": 0,
+            "left": 121,
+            "top": 11,
+            "right": 371,
+            "bottom": 501,
+            "pixels": 77520,
+            "durationMs": 100
+          },
+          {
+            "frame": 3,
+            "originX": 1536,
+            "originY": 0,
+            "left": 121,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 78070,
+            "durationMs": 100
+          },
+          {
+            "frame": 4,
+            "originX": 0,
+            "originY": 512,
+            "left": 118,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 79046,
+            "durationMs": 100
+          },
+          {
+            "frame": 5,
+            "originX": 512,
+            "originY": 512,
+            "left": 93,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 79973,
+            "durationMs": 100
+          },
+          {
+            "frame": 6,
+            "originX": 1024,
+            "originY": 512,
+            "left": 81,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 80384,
+            "durationMs": 100
+          },
+          {
+            "frame": 7,
+            "originX": 1536,
+            "originY": 512,
+            "left": 79,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 80498,
+            "durationMs": 100
+          },
+          {
+            "frame": 8,
+            "originX": 0,
+            "originY": 1024,
+            "left": 80,
+            "top": 11,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 80460,
+            "durationMs": 100
+          },
+          {
+            "frame": 9,
+            "originX": 512,
+            "originY": 1024,
+            "left": 93,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 79985,
+            "durationMs": 100
+          },
+          {
+            "frame": 10,
+            "originX": 1024,
+            "originY": 1024,
+            "left": 97,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 79536,
+            "durationMs": 100
+          },
+          {
+            "frame": 11,
+            "originX": 1536,
+            "originY": 1024,
+            "left": 110,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 78732,
+            "durationMs": 100
+          },
+          {
+            "frame": 12,
+            "originX": 0,
+            "originY": 1536,
+            "left": 121,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 78071,
+            "durationMs": 100
+          },
+          {
+            "frame": 13,
+            "originX": 512,
+            "originY": 1536,
+            "left": 121,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 76633,
+            "durationMs": 100
+          },
+          {
+            "frame": 14,
+            "originX": 1024,
+            "originY": 1536,
+            "left": 121,
+            "top": 10,
+            "right": 371,
+            "bottom": 501,
+            "pixels": 76631,
+            "durationMs": 100
+          },
+          {
+            "frame": 15,
+            "originX": 1536,
+            "originY": 1536,
+            "left": 121,
+            "top": 10,
+            "right": 372,
+            "bottom": 501,
+            "pixels": 76626,
+            "durationMs": 100
+          }
+        ],
+        "clipping": [],
+        "minimumTopMargin": 10,
+        "minimumBottomMargin": 10
+      }
+    }
+  ],
+  "model": "episodes/billionaire-body-swap-4/swap-stage-4.glb",
+  "ui": {
+    "reportTitle": "PARENTS’ EVENING",
+    "project": "GROUP PROJECT",
+    "partner": "PARTNER",
+    "young": "HIM",
+    "lastPlace": "LAST",
+    "performance": "PERFORMANCE REVIEW",
+    "expenseTitle": "SCHOOL TRIP",
+    "expenseValue": "£45",
+    "expenseStatus": "EXPENSE CLAIM",
+    "teamLabel": "YOUR TEAM",
+    "headteacher": "Headteacher",
+    "rankLabels": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "pocketMoney": "£4",
+    "viewerQuestionRows": [
+      "What part of YOUR life",
+      "would break",
+      "this billionaire?"
+    ]
+  }
+}

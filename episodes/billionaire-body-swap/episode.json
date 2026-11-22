@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "renderer": "hyperframes",
+  "hook": "none",
+  "world": "body-swap",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "billionaire-body-swap",
+  "title": "What If You Swapped Bodies With a Billionaire?",
+  "number": 17,
+  "shadowLeadSeconds": 0,
+  "premise": "A handshake swaps the viewer into a billionaire body, but returning home reveals the billionaire has settled into the viewer's old life.",
+  "fiction": true,
+  "duration": 30.833333333333332,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "billionaire",
+    "mum"
+  ],
+  "audio": {
+    "narration": "episodes/billionaire-body-swap/narration.wav",
+    "music": "episodes/billionaire-body-swap/music.wav",
+    "effects": "episodes/billionaire-body-swap/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 1.25,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "handshake",
+      "set": "swap-plaza",
+      "action": "meet",
+      "start": 0.0,
+      "duration": 1.0666666666666667,
+      "anchor": "One handshake",
+      "label": "Two different people are already shaking hands when the film begins.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "scarf",
+      "set": "swap-plaza",
+      "action": "handoff",
+      "start": 1.0666666666666667,
+      "duration": 2.0666666666666664,
+      "anchor": "swap bodies",
+      "label": "The viewer in the suited body retrieves the red scarf; the young body gives it up.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "cars",
+      "set": "swap-garage",
+      "action": "reveal",
+      "start": 3.1333333333333333,
+      "duration": 0.9333333333333331,
+      "anchor": "His cars",
+      "label": "A low three-quarter push reveals the pearl supercar, its tires, glass and lights.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "jet",
+      "set": "swap-jet",
+      "action": "reveal",
+      "start": 4.066666666666666,
+      "duration": 0.7000000000000002,
+      "anchor": "His jet",
+      "label": "The private jet fills the background behind the delighted suited viewer.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "money",
+      "set": "swap-office",
+      "action": "reveal",
+      "start": 4.766666666666667,
+      "duration": 0.9000000000000004,
+      "anchor": "His money",
+      "label": "A real phone on the desk reveals the fictional enormous bank balance.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "yours",
+      "set": "swap-office",
+      "action": "recover",
+      "start": 5.666666666666667,
+      "duration": 1.333333333333333,
+      "anchor": "All yours",
+      "label": "The viewer enjoys the upgrade while the phone is still visible.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "schedule",
+      "set": "swap-office",
+      "action": "warn",
+      "start": 7.0,
+      "duration": 3.0666666666666664,
+      "anchor": "Fourteen meetings",
+      "label": "The appointment folder lands and the phone vibrates at the start of the workday.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "boss",
+      "set": "swap-office",
+      "action": "wave",
+      "start": 10.066666666666666,
+      "duration": 2.200000000000001,
+      "anchor": "I'm the boss",
+      "label": "The viewer points at his own chest and objects.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "waiting",
+      "set": "swap-office",
+      "action": "wait",
+      "start": 12.266666666666667,
+      "duration": 2.933333333333332,
+      "anchor": "They're all waiting",
+      "label": "The phone keeps demanding attention; he spots the exit.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "home",
+      "set": "swap-porch",
+      "action": "approach",
+      "start": 15.2,
+      "duration": 2.8333333333333357,
+      "anchor": "You sneak out",
+      "label": "A hard cut takes the suited viewer to his familiar front door.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "help",
+      "set": "swap-porch",
+      "action": "meet",
+      "start": 18.033333333333335,
+      "duration": 1.8999999999999986,
+      "anchor": "Can I help",
+      "label": "Mum opens the door and gives the unfamiliar man a polite questioning look.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "its-me",
+      "set": "swap-porch",
+      "action": "wave",
+      "start": 19.933333333333334,
+      "duration": 2.0,
+      "anchor": "Mum, it's me",
+      "label": "He hopefully points at himself; the unfamiliar body and voice explain her doubt.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "point",
+      "set": "swap-porch",
+      "action": "reveal",
+      "start": 21.933333333333334,
+      "duration": 1.1666666666666679,
+      "anchor": "My son's",
+      "label": "Mum indicates the kitchen while the visitor waits.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "inside",
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "start": 23.1,
+      "duration": 1.6666666666666643,
+      "anchor": "already inside",
+      "label": "Reveal Miko without the scarf, seated with a pancake plate and fork.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "hand",
+      "set": "swap-kitchen",
+      "action": "handoff",
+      "start": 24.766666666666666,
+      "duration": 2.400000000000002,
+      "anchor": "Deal's off",
+      "label": "The viewer offers a clear empty hand; the former billionaire keeps both hands occupied.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "pancakes",
+      "set": "swap-kitchen",
+      "action": "recover",
+      "start": 27.166666666666668,
+      "duration": 2.3999999999999986,
+      "anchor": "Keep it",
+      "label": "The former billionaire replies, takes one bite and refuses the offered handshake.",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reaction",
+      "set": "swap-kitchen",
+      "action": "recover",
+      "start": 29.566666666666666,
+      "duration": 1.2666666666666657,
+      "anchor": "pancakes",
+      "label": "Hold the unanswered handshake and contented pancake eater for the final reaction.",
+      "timeOfDay": "evening"
+    }
+  ]
+}

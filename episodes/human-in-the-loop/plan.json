@@ -1,0 +1,316 @@
+{
+  "fps": 60,
+  "title": "Human in the Loop",
+  "premise": "Alex keeps rewriting his LinkedIn headline as the assistants take over his work. One job still needs him to click a button.",
+  "lines": [
+    {
+      "id": "profile",
+      "speaker": "alex",
+      "text": "Why is Opus on my LinkedIn?",
+      "afterPause": 0.13,
+      "shot": "Opus 5.5 appears in Alex\u2019s LinkedIn notifications. The profile headline reads SENIOR DEVELOPER.",
+      "sourceWindow": [
+        0.065,
+        2.045
+      ]
+    },
+    {
+      "id": "tasks",
+      "speaker": "opus",
+      "text": "I finished all your tasks.",
+      "afterPause": 0.22,
+      "shot": "Three Jira issues turn green. A line strikes through SENIOR DEVELOPER.",
+      "sourceWindow": [
+        0.025,
+        1.81
+      ]
+    },
+    {
+      "id": "prompts",
+      "speaker": "alex",
+      "text": "Fine. I'll write the prompts.",
+      "afterPause": 0.16,
+      "shot": "Alex types PROMPT ENGINEER into the same field.",
+      "sourceWindow": [
+        2.456,
+        4.42
+      ]
+    },
+    {
+      "id": "own",
+      "speaker": "astra",
+      "text": "I write my own now.",
+      "afterPause": 0.16,
+      "shot": "Astra speaks. PROMPT ENGINEER gets crossed out.",
+      "sourceWindow": [
+        0.061,
+        1.376
+      ]
+    },
+    {
+      "id": "supervise",
+      "speaker": "alex",
+      "text": "Then I'll supervise you.",
+      "afterPause": 0.14,
+      "shot": "Alex replaces his headline with AI SUPERVISOR.",
+      "sourceWindow": [
+        4.69,
+        6.158
+      ]
+    },
+    {
+      "id": "review",
+      "speaker": "gemini",
+      "text": "We review each other.",
+      "afterPause": 0.27,
+      "shot": "The Review Loop diff flashes up. AI SUPERVISOR gets crossed out.",
+      "sourceWindow": [
+        0.025,
+        1.42
+      ]
+    },
+    {
+      "id": "left",
+      "speaker": "alex",
+      "text": "So what's left for me?",
+      "afterPause": 0.25,
+      "shot": "Alex puts his hand to his forehead. His crossed-out headline stays in place.",
+      "sourceWindow": [
+        6.628,
+        8.035
+      ]
+    },
+    {
+      "id": "approve",
+      "speaker": "opus",
+      "text": "Someone has to click Approve.",
+      "afterPause": 4.25,
+      "shot": "An Approve button appears. Alex sits down and clicks. The tally climbs through 1, 12 and 340. The headline types HUMAN IN THE LOOP. He keeps clicking until the cut.",
+      "sourceWindow": [
+        1.986,
+        3.76
+      ]
+    }
+  ],
+  "ui": {
+    "name": "Alex Astro",
+    "network": "LinkedIn",
+    "headlineLabel": "Headline",
+    "headlines": [
+      "SENIOR DEVELOPER",
+      "PROMPT ENGINEER",
+      "AI SUPERVISOR",
+      "HUMAN IN THE LOOP"
+    ],
+    "notification": "Opus 5.5 viewed your profile.",
+    "board": "Jira",
+    "sprint": "Sprint board",
+    "issues": [
+      {
+        "key": "DEV-58",
+        "text": "Fix sign-in"
+      },
+      {
+        "key": "DEV-59",
+        "text": "Ship search"
+      },
+      {
+        "key": "DEV-60",
+        "text": "Write tests"
+      }
+    ],
+    "button": "Approve",
+    "counter": "Approvals"
+  },
+  "anchors": {
+    "board": [
+      "tasks",
+      "finished",
+      -0.07
+    ],
+    "done": [
+      "tasks",
+      "all",
+      0.03
+    ],
+    "strikeSenior": [
+      "tasks",
+      "tasks",
+      0.1
+    ],
+    "prompt": [
+      "prompts",
+      "I'll",
+      -0.07
+    ],
+    "strikePrompt": [
+      "own",
+      "own",
+      0.03
+    ],
+    "supervisor": [
+      "supervise",
+      "supervise",
+      -0.19
+    ],
+    "diff": [
+      "review",
+      "review",
+      0.02
+    ],
+    "strikeSupervisor": [
+      "review",
+      "other",
+      0.04
+    ],
+    "queue": [
+      "approve",
+      "click",
+      -0.08
+    ],
+    "button": [
+      "approve",
+      "Approve",
+      -0.06
+    ]
+  },
+  "approvalSequence": {
+    "offsetFramesAfterWord": 12,
+    "clickOffsets": [
+      0,
+      33,
+      59,
+      80,
+      97,
+      112,
+      125,
+      137,
+      148,
+      158,
+      167,
+      175,
+      182,
+      189,
+      195,
+      201,
+      207,
+      213,
+      219,
+      225,
+      231,
+      237,
+      243,
+      249,
+      254
+    ],
+    "counts": [
+      1,
+      2,
+      3,
+      6,
+      12,
+      12,
+      34,
+      125,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340,
+      340
+    ],
+    "finalHeadlineOffset": 169
+  },
+  "music": false,
+  "fixedCues": {
+    "notification": 4
+  },
+  "typeFrames": {
+    "prompt": 33,
+    "supervisor": 31,
+    "human": 31
+  },
+  "foley": [
+    [
+      "notification",
+      "pop",
+      0.01,
+      0.078,
+      0.125
+    ],
+    [
+      "board",
+      "swipe",
+      0.17,
+      0.25,
+      0.035
+    ],
+    [
+      "strikeSenior",
+      "swipe",
+      0.27,
+      0.19,
+      0.06
+    ],
+    [
+      "prompt",
+      "typing",
+      0.84,
+      0.56,
+      0.074
+    ],
+    [
+      "strikePrompt",
+      "swipe",
+      0.27,
+      0.19,
+      0.06
+    ],
+    [
+      "supervisor",
+      "typing",
+      3.11,
+      0.52,
+      0.077
+    ],
+    [
+      "diff",
+      "tap",
+      0.0,
+      0.075,
+      0.057
+    ],
+    [
+      "strikeSupervisor",
+      "swipe",
+      0.27,
+      0.19,
+      0.058
+    ],
+    [
+      "button",
+      "pop",
+      0.01,
+      0.078,
+      0.105
+    ],
+    [
+      "human",
+      "typing",
+      0.84,
+      0.52,
+      0.09
+    ]
+  ]
+}

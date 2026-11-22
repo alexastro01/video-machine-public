@@ -1,0 +1,185 @@
+{
+  "duration": 20.6,
+  "fps": 60,
+  "lines": [
+    {
+      "id": "hook",
+      "speaker": "alex",
+      "text": "One bug left. Oh, a new model dropped.",
+      "start": 0,
+      "sourceStart": 0,
+      "sourceEnd": 3.02,
+      "firstOnset": 0,
+      "lastOffset": 2.98
+    },
+    {
+      "id": "rank",
+      "speaker": "alex",
+      "text": "Number one on a benchmark I’ve never heard of. One quick test.",
+      "start": 3.05,
+      "sourceStart": 3.34,
+      "sourceEnd": 7.13,
+      "firstOnset": 3.385,
+      "lastOffset": 7.062
+    },
+    {
+      "id": "prompt",
+      "speaker": "alex",
+      "text": "Make a cube do a backflip.",
+      "start": 7.18,
+      "sourceStart": 7.36,
+      "sourceEnd": 8.84,
+      "firstOnset": 7.41,
+      "lastOffset": 8.69
+    },
+    {
+      "id": "awe",
+      "speaker": "alex",
+      "text": "This changes everything.",
+      "start": 10.1,
+      "sourceStart": 9.08,
+      "sourceEnd": 10.82,
+      "firstOnset": 9.138,
+      "lastOffset": 10.747
+    },
+    {
+      "id": "fix",
+      "speaker": "alex",
+      "text": "Okay, now fix the Pay button.",
+      "start": 12.04,
+      "sourceStart": 11.16,
+      "sourceEnd": 13.02,
+      "firstOnset": 11.212,
+      "lastOffset": 12.946
+    },
+    {
+      "id": "rebuilt",
+      "speaker": "astra",
+      "text": "I rebuilt the whole checkout.",
+      "start": 14.58,
+      "sourceStart": 0.065,
+      "sourceEnd": 1.91,
+      "firstOnset": 0.126,
+      "lastOffset": 1.825
+    },
+    {
+      "id": "payment",
+      "speaker": "alex",
+      "text": "Can it take a payment?",
+      "start": 16.56,
+      "sourceStart": 13.31,
+      "sourceEnd": 14.45,
+      "firstOnset": 13.365,
+      "lastOffset": 14.355
+    },
+    {
+      "id": "backflip",
+      "speaker": "astra",
+      "text": "The backflip works.",
+      "start": 18.47,
+      "sourceStart": 0.045,
+      "sourceEnd": 1.745,
+      "firstOnset": 0.11,
+      "lastOffset": 1.63,
+      "recording": "backflip"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "checkout",
+      "start": 0,
+      "duration": 3,
+      "anchor": "One bug left.",
+      "description": "Alex clicks Pay. Checkout fails and a model alert interrupts."
+    },
+    {
+      "id": "chart",
+      "start": 3,
+      "duration": 4,
+      "anchor": "Number one on a benchmark",
+      "description": "The alert expands into the launch chart. Alex clicks Try."
+    },
+    {
+      "id": "cube",
+      "start": 7,
+      "duration": 5,
+      "anchor": "Make a cube do a backflip.",
+      "description": "Astra arrives as Alex types. The cube flips and sticks the landing."
+    },
+    {
+      "id": "rebuild",
+      "start": 12,
+      "duration": 4.55,
+      "anchor": "Okay, now fix",
+      "description": "Alex points out Pay. The keyboard changes hands and the cart is redesigned."
+    },
+    {
+      "id": "pay",
+      "start": 16.55,
+      "duration": 3.6,
+      "anchor": "Can it take a payment?",
+      "description": "Alex asks if checkout works. Pay repeats the cube’s backflip and shows “Payment failed” as Astra praises the trick."
+    },
+    {
+      "id": "again",
+      "start": 20.15,
+      "duration": 0.45,
+      "description": "A new model alert covers the failed checkout. Alex clicks Try on its arrival.",
+      "anchor": "The backflip works."
+    }
+  ],
+  "motion": {
+    "firstPay": 0.23,
+    "firstError": 0.45,
+    "alert": 1.36,
+    "chart": 3,
+    "tryButton": 3.78,
+    "astraEnters": 6.98,
+    "demo": 7,
+    "cubeAppears": 7.75,
+    "cubeFlip": 8.72,
+    "flight": 1.14,
+    "recoil": 0.22,
+    "rebuild": 12,
+    "keyboardHandoff": 13.69,
+    "redesign": 14.85,
+    "secondPay": 17.27,
+    "payFlip": 17.39,
+    "secondError": 18.75,
+    "anotherAlert": 20.15,
+    "finalClick": 20.52
+  },
+  "ui": {
+    "product": "Studio mug",
+    "price": "$12.00",
+    "newCart": "Your cart",
+    "failed": "Payment failed",
+    "pay": "Pay",
+    "model": "GPT-6.2 Astra",
+    "chart": "AA-3D",
+    "scores": [
+      {
+        "name": "GPT-6.2 Astra",
+        "score": 1318
+      },
+      {
+        "name": "Claude Fable 5.2",
+        "score": 1271
+      },
+      {
+        "name": "GPT-6.2 Sol",
+        "score": 1259
+      }
+    ],
+    "scoreFloor": 1200,
+    "scoreCeiling": 1330,
+    "notification": "NEW AI MODEL",
+    "try": "Try",
+    "nextModel": "New model available"
+  },
+  "music": {
+    "source": "public/episodes/profile-checks/music-takes-v3/take-3.mp3",
+    "rms": 0.019
+  },
+  "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+}

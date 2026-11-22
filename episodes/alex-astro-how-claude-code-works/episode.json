@@ -1,0 +1,1335 @@
+{
+  "version": 1,
+  "id": "alex-astro-how-claude-code-works",
+  "project": "alex-astro",
+  "renderer": "remotion",
+  "world": "claude-design",
+  "title": "Let's Design Claude Code",
+  "premise": "A single bug fix passes through Claude Code's local tools, permission checks and session memory.",
+  "fiction": false,
+  "duration": 45.63333333333333,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex"
+  ],
+  "claudeEdit": {
+    "cues": {
+      "design": 12,
+      "simple": 121,
+      "type": 165,
+      "bug": 219,
+      "fixed": 289,
+      "model": 324,
+      "files": 412,
+      "runNothing": 473,
+      "text": 573,
+      "context": 605,
+      "index": 733,
+      "grep": 777,
+      "glob": 850,
+      "open": 883,
+      "read": 942,
+      "loop": 970,
+      "askRun": 1001,
+      "cmd": 1083,
+      "red1": 1168,
+      "error": 1212,
+      "back": 1251,
+      "red2": 1285,
+      "again": 1309,
+      "green": 1380,
+      "permissions": 1411,
+      "risky": 1572,
+      "asks": 1643,
+      "memory": 1674,
+      "fresh": 1746,
+      "yourNote": 1827,
+      "itsNote": 1851,
+      "history": 1950,
+      "long": 2014,
+      "summarize": 2049,
+      "keep": 2127,
+      "recap": 2170,
+      "loopWord": 2295,
+      "stepRead": 2319,
+      "stepAct": 2347,
+      "stepCheck": 2367,
+      "stepRepeat": 2393,
+      "payoff": 2425,
+      "sentence": 2469,
+      "working": 2527,
+      "send": 2584,
+      "friend": 2621,
+      "auto": 2693,
+      "no": 1656
+    },
+    "wordFrames": [
+      0,
+      12,
+      30,
+      46,
+      66,
+      75,
+      95,
+      102,
+      121,
+      154,
+      165,
+      189,
+      204,
+      219,
+      270,
+      279,
+      289,
+      324,
+      333,
+      340,
+      361,
+      384,
+      399,
+      412,
+      451,
+      456,
+      473,
+      486,
+      521,
+      535,
+      551,
+      573,
+      605,
+      625,
+      636,
+      648,
+      659,
+      679,
+      689,
+      718,
+      733,
+      766,
+      777,
+      804,
+      817,
+      831,
+      850,
+      883,
+      899,
+      907,
+      942,
+      970,
+      983,
+      1001,
+      1021,
+      1033,
+      1069,
+      1083,
+      1102,
+      1140,
+      1168,
+      1197,
+      1212,
+      1230,
+      1251,
+      1277,
+      1285,
+      1309,
+      1335,
+      1367,
+      1380,
+      1411,
+      1420,
+      1439,
+      1458,
+      1495,
+      1513,
+      1543,
+      1572,
+      1625,
+      1643,
+      1674,
+      1693,
+      1722,
+      1746,
+      1776,
+      1794,
+      1804,
+      1816,
+      1822,
+      1827,
+      1851,
+      1860,
+      1867,
+      1885,
+      1919,
+      1929,
+      1950,
+      1956,
+      1965,
+      1972,
+      1989,
+      2002,
+      2014,
+      2040,
+      2049,
+      2088,
+      2117,
+      2127,
+      2142,
+      2170,
+      2189,
+      2233,
+      2254,
+      2278,
+      2287,
+      2295,
+      2319,
+      2347,
+      2367,
+      2393,
+      2425,
+      2440,
+      2458,
+      2469,
+      2500,
+      2527,
+      2554,
+      2584,
+      2596,
+      2605,
+      2614,
+      2621,
+      2635,
+      2643,
+      2659,
+      2669,
+      2693
+    ],
+    "ui": {
+      "prompt": "fix this bug",
+      "call": "add(\"2\", 3)",
+      "expected": "5",
+      "file": "src/math.js",
+      "testFile": "test/math.test.js",
+      "glob": "**/math.js",
+      "search": "function add",
+      "before": "return a - b;",
+      "attempt": "return a + b;",
+      "after": "return Number(a) + Number(b);",
+      "outputs": [
+        "-1",
+        "\"23\"",
+        "5"
+      ],
+      "permission": "Allow rm -rf?",
+      "projectNote": "Run npm test.",
+      "agentNote": "Inputs can be strings."
+    },
+    "flat": {
+      "frames": 2738,
+      "words": [
+        "Let's",
+        "design",
+        "Claude",
+        "Code.",
+        "At",
+        "first",
+        "it",
+        "sounds",
+        "simple.",
+        "You",
+        "type",
+        "'fix",
+        "this",
+        "bug'…",
+        "and",
+        "it's",
+        "fixed.",
+        "But",
+        "the",
+        "model",
+        "can't",
+        "see",
+        "your",
+        "files.",
+        "It",
+        "can't",
+        "run",
+        "anything.",
+        "It",
+        "only",
+        "writes",
+        "text.",
+        "So",
+        "how",
+        "does",
+        "it",
+        "find",
+        "the",
+        "bug?",
+        "No",
+        "index.",
+        "It",
+        "searches",
+        "like",
+        "you",
+        "do.",
+        "Search,",
+        "open",
+        "the",
+        "file,",
+        "read.",
+        "Then",
+        "it",
+        "asks",
+        "your",
+        "computer",
+        "to",
+        "run",
+        "something.",
+        "Tests",
+        "fail?",
+        "The",
+        "error",
+        "goes",
+        "back.",
+        "It",
+        "tries",
+        "again.",
+        "Until",
+        "it's",
+        "green.",
+        "But",
+        "that's",
+        "your",
+        "machine.",
+        "So",
+        "before",
+        "anything",
+        "risky…",
+        "it",
+        "asks.",
+        "Every",
+        "session",
+        "starts",
+        "fresh.",
+        "So",
+        "you",
+        "leave",
+        "it",
+        "a",
+        "note…",
+        "and",
+        "it",
+        "leaves",
+        "itself",
+        "one",
+        "too.",
+        "And",
+        "when",
+        "the",
+        "chat",
+        "gets",
+        "too",
+        "long,",
+        "it",
+        "summarizes",
+        "itself",
+        "and",
+        "keeps",
+        "going.",
+        "So,",
+        "simplified:",
+        "Claude",
+        "Code",
+        "is",
+        "a",
+        "loop.",
+        "Read,",
+        "act,",
+        "check,",
+        "repeat.",
+        "That's",
+        "how",
+        "one",
+        "sentence",
+        "becomes",
+        "working",
+        "code.",
+        "Send",
+        "this",
+        "to",
+        "the",
+        "friend",
+        "who",
+        "thinks",
+        "it's",
+        "just",
+        "autocomplete."
+      ],
+      "ends": [
+        10,
+        26,
+        44,
+        57,
+        69,
+        89,
+        99,
+        118,
+        142,
+        160,
+        178,
+        196,
+        213,
+        232,
+        275,
+        286,
+        311,
+        331,
+        337,
+        356,
+        375,
+        395,
+        407,
+        439,
+        454,
+        470,
+        482,
+        508,
+        524,
+        548,
+        566,
+        592,
+        613,
+        633,
+        645,
+        652,
+        675,
+        685,
+        705,
+        725,
+        752,
+        769,
+        800,
+        814,
+        826,
+        837,
+        871,
+        895,
+        903,
+        929,
+        957,
+        979,
+        988,
+        1019,
+        1030,
+        1065,
+        1076,
+        1094,
+        1127,
+        1163,
+        1184,
+        1203,
+        1225,
+        1244,
+        1265,
+        1281,
+        1304,
+        1323,
+        1361,
+        1376,
+        1397,
+        1418,
+        1435,
+        1453,
+        1484,
+        1503,
+        1534,
+        1565,
+        1595,
+        1629,
+        1663,
+        1688,
+        1714,
+        1741,
+        1765,
+        1784,
+        1801,
+        1814,
+        1819,
+        1823,
+        1839,
+        1857,
+        1864,
+        1881,
+        1907,
+        1925,
+        1939,
+        1955,
+        1963,
+        1969,
+        1985,
+        1999,
+        2012,
+        2030,
+        2043,
+        2084,
+        2108,
+        2122,
+        2139,
+        2159,
+        2177,
+        2222,
+        2249,
+        2270,
+        2283,
+        2289,
+        2307,
+        2335,
+        2353,
+        2381,
+        2414,
+        2438,
+        2446,
+        2464,
+        2495,
+        2521,
+        2549,
+        2572,
+        2594,
+        2603,
+        2611,
+        2618,
+        2633,
+        2641,
+        2655,
+        2667,
+        2680,
+        2732
+      ],
+      "pages": [
+        {
+          "first": 0,
+          "last": 1,
+          "key": 1,
+          "start": 0,
+          "end": 30
+        },
+        {
+          "first": 2,
+          "last": 3,
+          "key": 2,
+          "start": 30,
+          "end": 66
+        },
+        {
+          "first": 4,
+          "last": 5,
+          "key": 5,
+          "start": 66,
+          "end": 95
+        },
+        {
+          "first": 6,
+          "last": 8,
+          "key": 8,
+          "start": 95,
+          "end": 154
+        },
+        {
+          "first": 9,
+          "last": 10,
+          "key": 10,
+          "start": 154,
+          "end": 189
+        },
+        {
+          "first": 11,
+          "last": 13,
+          "key": 11,
+          "start": 189,
+          "end": 270
+        },
+        {
+          "first": 14,
+          "last": 16,
+          "key": 16,
+          "start": 270,
+          "end": 324
+        },
+        {
+          "first": 17,
+          "last": 19,
+          "key": 19,
+          "start": 324,
+          "end": 361
+        },
+        {
+          "first": 20,
+          "last": 21,
+          "key": 20,
+          "start": 361,
+          "end": 399
+        },
+        {
+          "first": 22,
+          "last": 23,
+          "key": 23,
+          "start": 399,
+          "end": 451
+        },
+        {
+          "first": 24,
+          "last": 26,
+          "key": 26,
+          "start": 451,
+          "end": 486
+        },
+        {
+          "first": 27,
+          "last": 27,
+          "key": 27,
+          "start": 486,
+          "end": 521
+        },
+        {
+          "first": 28,
+          "last": 29,
+          "key": 29,
+          "start": 521,
+          "end": 551
+        },
+        {
+          "first": 30,
+          "last": 31,
+          "key": 31,
+          "start": 551,
+          "end": 605
+        },
+        {
+          "first": 32,
+          "last": 34,
+          "key": 33,
+          "start": 605,
+          "end": 648
+        },
+        {
+          "first": 35,
+          "last": 36,
+          "key": 36,
+          "start": 648,
+          "end": 679
+        },
+        {
+          "first": 37,
+          "last": 38,
+          "key": 38,
+          "start": 679,
+          "end": 718
+        },
+        {
+          "first": 39,
+          "last": 40,
+          "key": 40,
+          "start": 718,
+          "end": 766
+        },
+        {
+          "first": 41,
+          "last": 42,
+          "key": 42,
+          "start": 766,
+          "end": 804
+        },
+        {
+          "first": 43,
+          "last": 45,
+          "key": 45,
+          "start": 804,
+          "end": 850
+        },
+        {
+          "first": 46,
+          "last": 46,
+          "key": 46,
+          "start": 850,
+          "end": 883
+        },
+        {
+          "first": 47,
+          "last": 49,
+          "key": 49,
+          "start": 883,
+          "end": 942
+        },
+        {
+          "first": 50,
+          "last": 50,
+          "key": 50,
+          "start": 942,
+          "end": 970
+        },
+        {
+          "first": 51,
+          "last": 53,
+          "key": 53,
+          "start": 970,
+          "end": 1021
+        },
+        {
+          "first": 54,
+          "last": 55,
+          "key": 55,
+          "start": 1021,
+          "end": 1069
+        },
+        {
+          "first": 56,
+          "last": 58,
+          "key": 57,
+          "start": 1069,
+          "end": 1140
+        },
+        {
+          "first": 59,
+          "last": 60,
+          "key": 60,
+          "start": 1140,
+          "end": 1197
+        },
+        {
+          "first": 61,
+          "last": 62,
+          "key": 62,
+          "start": 1197,
+          "end": 1230
+        },
+        {
+          "first": 63,
+          "last": 64,
+          "key": 64,
+          "start": 1230,
+          "end": 1277
+        },
+        {
+          "first": 65,
+          "last": 67,
+          "key": 67,
+          "start": 1277,
+          "end": 1335
+        },
+        {
+          "first": 68,
+          "last": 69,
+          "key": 68,
+          "start": 1335,
+          "end": 1380
+        },
+        {
+          "first": 70,
+          "last": 70,
+          "key": 70,
+          "start": 1380,
+          "end": 1411
+        },
+        {
+          "first": 71,
+          "last": 72,
+          "key": 72,
+          "start": 1411,
+          "end": 1439
+        },
+        {
+          "first": 73,
+          "last": 74,
+          "key": 74,
+          "start": 1439,
+          "end": 1495
+        },
+        {
+          "first": 75,
+          "last": 76,
+          "key": 76,
+          "start": 1495,
+          "end": 1543
+        },
+        {
+          "first": 77,
+          "last": 78,
+          "key": 78,
+          "start": 1543,
+          "end": 1625
+        },
+        {
+          "first": 79,
+          "last": 80,
+          "key": 80,
+          "start": 1625,
+          "end": 1674
+        },
+        {
+          "first": 81,
+          "last": 82,
+          "key": 82,
+          "start": 1674,
+          "end": 1722
+        },
+        {
+          "first": 83,
+          "last": 84,
+          "key": 84,
+          "start": 1722,
+          "end": 1776
+        },
+        {
+          "first": 85,
+          "last": 86,
+          "key": 86,
+          "start": 1776,
+          "end": 1804
+        },
+        {
+          "first": 87,
+          "last": 88,
+          "key": 87,
+          "start": 1804,
+          "end": 1822
+        },
+        {
+          "first": 89,
+          "last": 90,
+          "key": 90,
+          "start": 1822,
+          "end": 1851
+        },
+        {
+          "first": 91,
+          "last": 92,
+          "key": 91,
+          "start": 1851,
+          "end": 1867
+        },
+        {
+          "first": 93,
+          "last": 94,
+          "key": 94,
+          "start": 1867,
+          "end": 1919
+        },
+        {
+          "first": 95,
+          "last": 96,
+          "key": 96,
+          "start": 1919,
+          "end": 1950
+        },
+        {
+          "first": 97,
+          "last": 98,
+          "key": 98,
+          "start": 1950,
+          "end": 1965
+        },
+        {
+          "first": 99,
+          "last": 100,
+          "key": 100,
+          "start": 1965,
+          "end": 1989
+        },
+        {
+          "first": 101,
+          "last": 103,
+          "key": 103,
+          "start": 1989,
+          "end": 2040
+        },
+        {
+          "first": 104,
+          "last": 106,
+          "key": 105,
+          "start": 2040,
+          "end": 2117
+        },
+        {
+          "first": 107,
+          "last": 109,
+          "key": 108,
+          "start": 2117,
+          "end": 2170
+        },
+        {
+          "first": 110,
+          "last": 111,
+          "key": 111,
+          "start": 2170,
+          "end": 2233
+        },
+        {
+          "first": 112,
+          "last": 113,
+          "key": 112,
+          "start": 2233,
+          "end": 2278
+        },
+        {
+          "first": 114,
+          "last": 116,
+          "key": 116,
+          "start": 2278,
+          "end": 2319
+        },
+        {
+          "first": 117,
+          "last": 118,
+          "key": 117,
+          "start": 2319,
+          "end": 2367
+        },
+        {
+          "first": 119,
+          "last": 120,
+          "key": 120,
+          "start": 2367,
+          "end": 2425
+        },
+        {
+          "first": 121,
+          "last": 122,
+          "key": 121,
+          "start": 2425,
+          "end": 2458
+        },
+        {
+          "first": 123,
+          "last": 124,
+          "key": 124,
+          "start": 2458,
+          "end": 2500
+        },
+        {
+          "first": 125,
+          "last": 127,
+          "key": 126,
+          "start": 2500,
+          "end": 2584
+        },
+        {
+          "first": 128,
+          "last": 130,
+          "key": 128,
+          "start": 2584,
+          "end": 2614
+        },
+        {
+          "first": 131,
+          "last": 132,
+          "key": 132,
+          "start": 2614,
+          "end": 2635
+        },
+        {
+          "first": 133,
+          "last": 135,
+          "key": 134,
+          "start": 2635,
+          "end": 2669
+        },
+        {
+          "first": 136,
+          "last": 137,
+          "key": 137,
+          "start": 2669,
+          "end": 2737
+        }
+      ],
+      "poses": [
+        {
+          "at": 0,
+          "name": "point"
+        },
+        {
+          "at": 66,
+          "name": "explain"
+        },
+        {
+          "at": 154,
+          "name": "type"
+        },
+        {
+          "at": 270,
+          "name": "anticipate"
+        },
+        {
+          "at": 289,
+          "name": "thumb"
+        },
+        {
+          "at": 324,
+          "name": "shrug"
+        },
+        {
+          "at": 451,
+          "name": "stop"
+        },
+        {
+          "at": 521,
+          "name": "quote"
+        },
+        {
+          "at": 605,
+          "name": "question"
+        },
+        {
+          "at": 718,
+          "name": "dismiss"
+        },
+        {
+          "at": 766,
+          "name": "scan"
+        },
+        {
+          "at": 850,
+          "name": "point"
+        },
+        {
+          "at": 883,
+          "name": "read"
+        },
+        {
+          "at": 942,
+          "name": "look"
+        },
+        {
+          "at": 970,
+          "name": "present"
+        },
+        {
+          "at": 1140,
+          "name": "brace"
+        },
+        {
+          "at": 1168,
+          "name": "facepalm"
+        },
+        {
+          "at": 1197,
+          "name": "catch"
+        },
+        {
+          "at": 1277,
+          "name": "retry"
+        },
+        {
+          "at": 1309,
+          "name": "facepalm"
+        },
+        {
+          "at": 1335,
+          "name": "anticipate"
+        },
+        {
+          "at": 1380,
+          "name": "celebrate"
+        },
+        {
+          "at": 1411,
+          "name": "guard"
+        },
+        {
+          "at": 1495,
+          "name": "caution"
+        },
+        {
+          "at": 1572,
+          "name": "panic"
+        },
+        {
+          "at": 1625,
+          "name": "windup"
+        },
+        {
+          "at": 1652,
+          "name": "strike"
+        },
+        {
+          "at": 1664,
+          "name": "recoil"
+        },
+        {
+          "at": 1674,
+          "name": "reset"
+        },
+        {
+          "at": 1776,
+          "name": "write"
+        },
+        {
+          "at": 1851,
+          "name": "offer"
+        },
+        {
+          "at": 1919,
+          "name": "thumb"
+        },
+        {
+          "at": 1950,
+          "name": "shrug"
+        },
+        {
+          "at": 2014,
+          "name": "wide"
+        },
+        {
+          "at": 2049,
+          "name": "pinch"
+        },
+        {
+          "at": 2127,
+          "name": "present"
+        },
+        {
+          "at": 2170,
+          "name": "question"
+        },
+        {
+          "at": 2233,
+          "name": "point"
+        },
+        {
+          "at": 2295,
+          "name": "orbit"
+        },
+        {
+          "at": 2319,
+          "name": "read"
+        },
+        {
+          "at": 2347,
+          "name": "type"
+        },
+        {
+          "at": 2367,
+          "name": "look"
+        },
+        {
+          "at": 2393,
+          "name": "retry"
+        },
+        {
+          "at": 2425,
+          "name": "explain"
+        },
+        {
+          "at": 2469,
+          "name": "quote"
+        },
+        {
+          "at": 2527,
+          "name": "thumb"
+        },
+        {
+          "at": 2584,
+          "name": "offer"
+        },
+        {
+          "at": 2621,
+          "name": "send"
+        },
+        {
+          "at": 2669,
+          "name": "point"
+        }
+      ],
+      "stresses": [
+        12,
+        30,
+        46,
+        75,
+        121,
+        165,
+        189,
+        219,
+        289,
+        340,
+        361,
+        412,
+        456,
+        473,
+        486,
+        535,
+        551,
+        573,
+        625,
+        659,
+        689,
+        718,
+        733,
+        777,
+        831,
+        850,
+        883,
+        907,
+        942,
+        1001,
+        1033,
+        1083,
+        1102,
+        1140,
+        1168,
+        1212,
+        1251,
+        1285,
+        1309,
+        1335,
+        1380,
+        1420,
+        1458,
+        1513,
+        1572,
+        1643,
+        1693,
+        1746,
+        1794,
+        1804,
+        1827,
+        1867,
+        1885,
+        1929,
+        1972,
+        2014,
+        2049,
+        2127,
+        2142,
+        2189,
+        2233,
+        2254,
+        2295,
+        2319,
+        2347,
+        2367,
+        2393,
+        2458,
+        2469,
+        2527,
+        2554,
+        2584,
+        2621,
+        2643,
+        2669,
+        2693
+      ],
+      "stages": [
+        0,
+        324,
+        420,
+        605,
+        970,
+        1411,
+        1674,
+        1950,
+        2170,
+        2425
+      ],
+      "counter": 420
+    }
+  },
+  "scenes": [
+    {
+      "id": "opening",
+      "set": "developer-ui",
+      "action": "reveal",
+      "label": "Alex opens the flat terminal",
+      "anchor": "Let's design Claude Code",
+      "start": 0.0,
+      "duration": 5.4
+    },
+    {
+      "id": "model",
+      "set": "developer-ui",
+      "action": "handoff",
+      "label": "The model by itself",
+      "anchor": "But the model can't see your files",
+      "start": 5.4,
+      "duration": 4.683333333333334
+    },
+    {
+      "id": "context",
+      "set": "developer-ui",
+      "action": "scan",
+      "label": "Search and read the project",
+      "anchor": "So how does it find the bug? No index",
+      "start": 10.083333333333334,
+      "duration": 6.083333333333333
+    },
+    {
+      "id": "loop",
+      "set": "developer-ui",
+      "action": "repair-build",
+      "label": "Run, return the error, revise",
+      "anchor": "Then it asks your computer to run something",
+      "start": 16.166666666666668,
+      "duration": 7.35
+    },
+    {
+      "id": "permissions",
+      "set": "developer-ui",
+      "action": "tap",
+      "label": "Ask before running a command",
+      "anchor": "But that's your machine",
+      "start": 23.516666666666666,
+      "duration": 4.383333333333334
+    },
+    {
+      "id": "memory",
+      "set": "developer-ui",
+      "action": "save-memory",
+      "label": "Project instructions and auto memory",
+      "anchor": "Every session starts fresh",
+      "start": 27.9,
+      "duration": 4.6
+    },
+    {
+      "id": "compact",
+      "set": "developer-ui",
+      "action": "preserve",
+      "label": "Compact a long conversation",
+      "anchor": "And when the chat gets too long, it summarizes itself and keeps going",
+      "start": 32.5,
+      "duration": 3.6666666666666665
+    },
+    {
+      "id": "recap",
+      "set": "developer-ui",
+      "action": "handoff",
+      "label": "Read, act, check, repeat",
+      "anchor": "So, simplified: Claude Code is a loop",
+      "start": 36.166666666666664,
+      "duration": 4.25
+    },
+    {
+      "id": "payoff",
+      "set": "developer-ui",
+      "action": "reveal",
+      "label": "The same prompt and a passing test",
+      "anchor": "That's how one sentence becomes working code",
+      "start": 40.416666666666664,
+      "duration": 2.65
+    },
+    {
+      "id": "send",
+      "set": "developer-ui",
+      "action": "handoff",
+      "label": "Send the working example",
+      "anchor": "Send this to the friend who thinks it's just autocomplete",
+      "start": 43.06666666666667,
+      "duration": 2.566666666666667
+    }
+  ],
+  "audio": {
+    "narration": "episodes/alex-astro-how-claude-code-works/v2/narration.wav",
+    "effects": "episodes/alex-astro-how-claude-code-works/v2/effects.wav",
+    "music": "episodes/alex-astro-how-claude-code-works/v2/music.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0
+  }
+}

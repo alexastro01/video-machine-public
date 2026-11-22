@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "swap5",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "billionaire-body-swap-5",
+  "title": "You Swapped Places with a Billionaire, Part 5",
+  "number": 27,
+  "shadowLeadSeconds": 0,
+  "premise": "Your new face unlocks the billionaire’s phone, but the fictional bank asks for a childhood pet’s name.",
+  "fiction": true,
+  "duration": 36.53333333333333,
+  "aspectRatio": "9:16",
+  "fps": 30,
+  "cast": [
+    "miko",
+    "billionaire"
+  ],
+  "audio": {
+    "narration": "episodes/billionaire-body-swap-5/narration.wav",
+    "music": "episodes/billionaire-body-swap-5/music.wav",
+    "effects": "episodes/billionaire-body-swap-5/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 1.7280623333333338,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "face-hook",
+      "start": 0,
+      "duration": 1.1,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Your new face opens his phone.",
+      "description": "The phone is already moving into view; its face lock resolves once.",
+      "label": "face-hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "hook-caller",
+      "start": 1.1,
+      "duration": 1.0629791666666666,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Your new face opens his phone.",
+      "description": "Cut to the adult caller after the short face-unlock insert; no held balance screen.",
+      "label": "hook-caller",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "question-hook",
+      "start": 2.1629791666666667,
+      "duration": 0.6499999999999999,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "What was your first pet called?",
+      "description": "The same phone asks for the first pet’s name; the financial obstacle is explicit.",
+      "label": "question-hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "question",
+      "start": 2.8129791666666666,
+      "duration": 1.223958333333334,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "What was your first pet called?",
+      "description": "Adult viewer calls the former billionaire for the answer.",
+      "label": "question",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "assistant",
+      "start": 4.0369375000000005,
+      "duration": 2.9777708333333335,
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "anchor": "Ask my assistant. She remembers everything.",
+      "description": "Young body tries to delegate a childhood memory to his assistant.",
+      "label": "assistant",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "six",
+      "start": 7.014708333333334,
+      "duration": 2.2861249999999993,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "She wasn't there when you were six.",
+      "description": "Viewer points out that she was not there when he was six.",
+      "label": "six",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "titan-entry",
+      "start": 9.300833333333333,
+      "duration": 2.8464166666666664,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Titan. It was definitely Titan.",
+      "description": "Viewer makes one finite phone-tapping gesture while trying Titan.",
+      "label": "titan-entry",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "wrong",
+      "start": 12.14725,
+      "duration": 0.9134999999999991,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Wrong.",
+      "description": "The phone rejects the first answer on the spoken Wrong.",
+      "label": "wrong",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "caps",
+      "start": 13.060749999999999,
+      "duration": 1.6650208333333332,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Did you try all capitals?",
+      "description": "An uppercase retry changes the letters, then fails again.",
+      "label": "caps",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "business",
+      "start": 14.725770833333332,
+      "duration": 2.5097708333333344,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "You named that tiny hamster Titan?",
+      "description": "Viewer reacts to the huge name given to the tiny animal.",
+      "label": "business",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "office",
+      "start": 17.235541666666666,
+      "duration": 1.1632500000000014,
+      "set": "swap-kitchen",
+      "action": "reveal",
+      "anchor": "He had an office.",
+      "description": "Young body proudly remembers his pet’s office.",
+      "label": "office",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "cage",
+      "start": 18.398791666666668,
+      "duration": 1.0325208333333329,
+      "set": "swap-memory",
+      "action": "reveal",
+      "anchor": "A cage?",
+      "description": "The cardboard lid starts opening on the cage question.",
+      "label": "cage",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "shoebox",
+      "start": 19.4313125,
+      "duration": 1.2745834999999985,
+      "set": "swap-memory",
+      "action": "reveal",
+      "anchor": "A shoebox. A wheel. More exercise than my board.",
+      "description": "A close view reveals the shoebox, tiny hamster and wheel.",
+      "label": "shoebox",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "wheel",
+      "start": 20.705896,
+      "duration": 2.640645666666668,
+      "set": "swap-memory",
+      "action": "reveal",
+      "anchor": "A shoebox. A wheel. More exercise than my board.",
+      "description": "The hamster runs briefly inside the physical wheel and settles.",
+      "label": "wheel",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "hostage",
+      "start": 23.346541666666667,
+      "duration": 3.4076041666666654,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "My bank account is being held hostage by a dead hamster.",
+      "description": "Viewer reacts to the small, personal memory blocking access.",
+      "label": "hostage",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "nibbles",
+      "start": 26.754145833333332,
+      "duration": 2.7898125,
+      "set": "swap-office",
+      "action": "reveal",
+      "anchor": "Oh! Mister Nibbles!",
+      "description": "The young body remembers Mister Nibbles; the answer stays hidden until it is spoken.",
+      "label": "nibbles",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "security",
+      "start": 29.543958333333332,
+      "duration": 1.6974791666666675,
+      "set": "swap-vault",
+      "action": "reveal",
+      "anchor": "He was head of security.",
+      "description": "The metaphor becomes a physical vault with a tiny hamster guard.",
+      "label": "security",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "payoff",
+      "start": 31.2414375,
+      "duration": 1.903833500000001,
+      "set": "swap-vault",
+      "action": "reveal",
+      "anchor": "Eight billion pounds. Protected by Mister Nibbles.",
+      "description": "The open vault reveals the account balance.",
+      "label": "payoff",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "guard",
+      "start": 33.145271,
+      "duration": 3.3880623333333304,
+      "set": "swap-vault",
+      "action": "reveal",
+      "anchor": "Eight billion pounds. Protected by Mister Nibbles.",
+      "description": "Mister Nibbles gives one finite salute, recovers and holds through the ending.",
+      "label": "guard",
+      "timeOfDay": "evening"
+    }
+  ]
+}

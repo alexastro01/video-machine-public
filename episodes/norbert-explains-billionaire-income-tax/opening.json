@@ -1,0 +1,58 @@
+{
+  "fps": 60,
+  "captionY": 1440,
+  "silenceCutsInFrames": [[0, 5], [170, 178], [362, 370], [527, 533]],
+  "closingHold": 0.34,
+  "captions": "Miko|woke up|a billion|dollars richer.|He owes|zero|federal|income tax|on that|gain.|His stock|doubled|in price|overnight.|He hasn’t|sold|a single|share.",
+  "anchors": {
+    "page": "woke up",
+    "rise": "up a",
+    "billion": "billion dollars",
+    "richer": "richer",
+    "receipt": "He owes",
+    "zero": "zero",
+    "gain": "gain",
+    "diagram": "His stock",
+    "double": "doubled",
+    "night": "overnight",
+    "own": "He hasn’t",
+    "sold": "sold",
+    "share": "share"
+  },
+  "scenes": [
+    {"id": "morning", "action": "wake", "set": "study-desk", "anchor": "Miko", "label": "Miko checks his portfolio at breakfast"},
+    {"id": "tax-slip", "action": "reveal", "set": "study-desk", "anchor": "He owes", "label": "A pencil circles the unchanged zero"},
+    {"id": "price", "action": "scan", "set": "study-graphics", "anchor": "His stock", "label": "The certificate follows its seal into the share-price diagram"},
+    {"id": "ownership", "action": "reveal", "set": "study-graphics", "anchor": "He hasn’t", "label": "Miko keeps the certificate and the sales slip records zero shares sold"}
+  ],
+  "paper": {
+    "valueLabel": "Value of Miko’s shares",
+    "formerValue": "$1B",
+    "newValue": "$2B",
+    "taxLabel": "Federal income tax",
+    "taxScope": "on this gain",
+    "taxAmount": "$0",
+    "priceLabel": "Price per share",
+    "oldPrice": "$10",
+    "newPrice": "$20",
+    "quantity": "100 million",
+    "unit": "shares",
+    "soldLabel": "Shares sold",
+    "soldCount": "0"
+  },
+  "music": {
+    "source": "episodes/is-coffee-actually-a-drug/source-music.mp3",
+    "offset": 18.2,
+    "provenance": "../is-coffee-actually-a-drug/assets/music-provenance.json"
+  },
+  "effects": [
+    {"action": "Miko turns the page", "anchor": "page", "offset": 0.06, "file": "slide.mp3", "source": "mix/freesound_community-object-slide-on-table-65701.mp3", "trim": [1.54, 1.88], "accent": 1.725, "peakDb": -25},
+    {"action": "The value wheel rolls", "anchor": "rise", "offset": 0, "file": "counter.mp3", "source": "mix/ui-pop-up-14-197900.mp3", "trim": [0.005, 0.31], "accent": 0.026, "peakDb": -24},
+    {"action": "The new value seats", "anchor": "billion", "offset": 0, "file": "tap.wav", "source": "Clicks/Click_02.wav", "trim": [0, 0.1], "accent": 0.003, "peakDb": -25},
+    {"action": "The pencil touches the slip", "anchor": "zero", "offset": -0.05, "file": "slide.mp3", "source": "mix/freesound_community-object-slide-on-table-65701.mp3", "trim": [1.61, 1.92], "accent": 1.725, "peakDb": -25},
+    {"action": "Enter the gold seal", "anchor": "diagram", "offset": 0.02, "file": "swish.wav", "source": "Swishes/Sharp swoosh.wav", "trim": [0.04, 0.42], "accent": 0.182, "peakDb": -23},
+    {"action": "The second price tag drops onto the rail", "anchor": "double", "offset": 0.13, "file": "tap.wav", "source": "Clicks/Click_02.wav", "trim": [0, 0.16], "accent": 0.003, "peakDb": -24},
+    {"action": "The sales slip stops", "anchor": "sold", "offset": 0, "file": "slide.mp3", "source": "mix/freesound_community-object-slide-on-table-65701.mp3", "trim": [1.53, 1.89], "accent": 1.725, "peakDb": -23},
+    {"action": "Miko’s thumb settles on the certificate", "anchor": "share", "offset": 0, "file": "tap.wav", "source": "Clicks/Click_02.wav", "trim": [0, 0.08], "accent": 0.003, "peakDb": -28}
+  ]
+}

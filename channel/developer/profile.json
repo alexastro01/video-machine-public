@@ -1,0 +1,25 @@
+{
+  "name": "Alex Astro",
+  "primaryAspectRatio": "9:16",
+  "fps": 60,
+  "renderer": "remotion",
+  "style": "Character-led pixel-art sketches and explainers with field captions, recurring talking portraits and visible actions timed to the dialogue from the hook through the ending.",
+  "styleGuide": "channel/developer/style.md",
+  "activeEpisode": "alex-astro-instagram-algorithm-rpg",
+  "cast": [
+    "alex",
+    "opus",
+    "astra",
+    "gemini"
+  ],
+  "characterStagingGuidance": {
+    "requestedOn": "2026-11-17",
+    "sourceEpisode": "ai-review-loop",
+    "note": "Characters can stand freely in the scene; assistant windows are optional when the story calls for them."
+  },
+  "visualIdentity": {
+    "primary": "Pixel characters with field captions",
+    "accent": "Full-color anime chat heads on a neutral blurred lower third, returning for dialogue through the final exchange",
+    "sourceEpisode": "alex-astro-instagram-algorithm-rpg"
+  }
+}

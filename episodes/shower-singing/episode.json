@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "shower-motion",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "shower-singing",
+  "title": "Why Do You Sound Better Singing in the Shower?",
+  "number": 21,
+  "shadowLeadSeconds": 0,
+  "premise": "A fictional Miko performance illustrates reflective shower acoustics using one real vocal take. Soft furnishings reduce the returning sound.",
+  "fiction": true,
+  "duration": 29.633333333333333,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "miko"
+  ],
+  "audio": {
+    "narration": "episodes/shower-singing/narration.wav",
+    "music": "episodes/shower-singing/music.wav",
+    "effects": "episodes/shower-singing/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 1.1524999999999963,
+    "narrationTrimStart": 0,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "reaction",
+      "start": 0,
+      "duration": 5.75,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "Oh. Never mind.",
+      "label": "reaction",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "proof",
+      "start": 5.75,
+      "duration": 1.8499999999999996,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "It's the exact same recording.",
+      "label": "proof",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "tiles",
+      "start": 7.6,
+      "duration": 3.700000000000001,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "In the shower, hard tiles reflect your voice back at you.",
+      "label": "tiles",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "tail",
+      "start": 11.3,
+      "duration": 4.216666666666667,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "The reflections overlap, making a short tail of sound called reverb.",
+      "label": "tail",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "fullness",
+      "start": 15.516666666666667,
+      "duration": 2.8499999999999996,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "That can make your voice sound fuller and last longer.",
+      "label": "fullness",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "swap",
+      "start": 18.366666666666667,
+      "duration": 2.883333333333333,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "Now swap the tiles for towels and curtains.",
+      "label": "swap",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "absorb",
+      "start": 21.25,
+      "duration": 2.81666666666667,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "They absorb more sound, so less bounces back.",
+      "label": "absorb",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "same",
+      "start": 24.06666666666667,
+      "duration": 1.9666666666666615,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "Same voice. Different room.",
+      "label": "same",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "joke",
+      "start": 26.03333333333333,
+      "duration": 3.6000000000000014,
+      "set": "shower-room",
+      "action": "reveal",
+      "anchor": "My bathroom has more talent than me.",
+      "label": "joke",
+      "timeOfDay": "day"
+    }
+  ]
+}

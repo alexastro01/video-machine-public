@@ -1,0 +1,158 @@
+{
+  "alex-talk": {
+    "url": "episodes/alex-astro-the-final-round/art/alex-talk.webp",
+    "width": 589,
+    "height": 916,
+    "bounds": [
+      0,
+      0,
+      589,
+      916
+    ],
+    "pivotX": 325.94,
+    "footY": 798.2,
+    "bodyHeight": 594.58
+  },
+  "alex-point": {
+    "url": "episodes/alex-astro-the-final-round/art/alex-point.webp",
+    "width": 777,
+    "height": 887,
+    "bounds": [
+      0,
+      0,
+      777,
+      887
+    ],
+    "pivotX": 526.94,
+    "footY": 765.9,
+    "bodyHeight": 594.58
+  },
+  "alex-tie": {
+    "url": "episodes/alex-astro-the-final-round/art/alex-tie.webp",
+    "width": 573,
+    "height": 932,
+    "bounds": [
+      0,
+      0,
+      573,
+      932
+    ],
+    "pivotX": 278.73,
+    "footY": 782.26,
+    "bodyHeight": 594.58
+  },
+  "alex-reach": {
+    "url": "episodes/alex-astro-the-final-round/art/alex-reach.webp",
+    "width": 854,
+    "height": 899,
+    "bounds": [
+      0,
+      0,
+      854,
+      899
+    ],
+    "pivotX": 347.85,
+    "footY": 779.99,
+    "bodyHeight": 594.58
+  },
+  "opus-ready": {
+    "url": "episodes/alex-astro-the-final-round/art/opus-ready.webp",
+    "width": 737,
+    "height": 848,
+    "bounds": [
+      0,
+      0,
+      737,
+      848
+    ],
+    "pivotX": 375.52,
+    "footY": 792.17,
+    "bodyHeight": 594.58
+  },
+  "opus-raise": {
+    "url": "episodes/alex-astro-the-final-round/art/opus-raise.webp",
+    "width": 663,
+    "height": 937,
+    "bounds": [
+      0,
+      0,
+      663,
+      937
+    ],
+    "pivotX": 293.06,
+    "footY": 876.78,
+    "bodyHeight": 594.58
+  },
+  "opus-click": {
+    "url": "episodes/alex-astro-the-final-round/art/opus-click.webp",
+    "width": 635,
+    "height": 939,
+    "bounds": [
+      0,
+      0,
+      635,
+      939
+    ],
+    "pivotX": 293.88,
+    "footY": 902.66,
+    "bodyHeight": 594.58
+  },
+  "opus-catch": {
+    "url": "episodes/alex-astro-the-final-round/art/opus-catch.webp",
+    "width": 759,
+    "height": 880,
+    "bounds": [
+      0,
+      0,
+      759,
+      880
+    ],
+    "pivotX": 392.63,
+    "footY": 807.35,
+    "bodyHeight": 594.58
+  },
+  "mug": {
+    "url": "episodes/alex-astro-the-final-round/art/mug.webp",
+    "width": 756,
+    "height": 720,
+    "bounds": [
+      0,
+      0,
+      756,
+      720
+    ]
+  },
+  "sleeve": {
+    "url": "episodes/alex-astro-the-final-round/art/sleeve.webp",
+    "width": 888,
+    "height": 374,
+    "bounds": [
+      0,
+      0,
+      888,
+      374
+    ]
+  },
+  "notepad": {
+    "url": "episodes/alex-astro-the-final-round/art/notepad.webp",
+    "width": 654,
+    "height": 869,
+    "bounds": [
+      0,
+      0,
+      654,
+      869
+    ]
+  },
+  "chair": {
+    "url": "episodes/alex-astro-the-final-round/art/chair.webp",
+    "width": 579,
+    "height": 874,
+    "bounds": [
+      0,
+      0,
+      579,
+      874
+    ]
+  }
+}

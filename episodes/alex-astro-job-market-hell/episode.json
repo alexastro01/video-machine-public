@@ -1,0 +1,1056 @@
+{
+  "version": 1,
+  "id": "alex-astro-job-market-hell",
+  "project": "alex-astro",
+  "renderer": "remotion",
+  "world": "job-market-rpg",
+  "title": "Why Is the Job Market Literal Hell Right Now?",
+  "premise": "At Junior Town, Alex follows a junior job listing from a locked castle to a forge, where Opus helps him make a sword out of fundamentals and AI.",
+  "fiction": false,
+  "duration": 42.0,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "alex",
+    "opus"
+  ],
+  "scenes": [
+    {
+      "id": "gate",
+      "action": "letter-rain",
+      "set": "junior-town-gate",
+      "label": "Junior Town gate",
+      "anchor": "Why is",
+      "start": 0.0,
+      "duration": 6.4
+    },
+    {
+      "id": "castle",
+      "action": "close-drawbridge",
+      "set": "senior-castle",
+      "label": "Seniors Only castle",
+      "anchor": "Software job postings",
+      "start": 6.4,
+      "duration": 5.6
+    },
+    {
+      "id": "tavern",
+      "action": "unroll-quest",
+      "set": "quest-tavern",
+      "label": "Tavern quest board",
+      "anchor": "Entry level",
+      "start": 12.0,
+      "duration": 3.7
+    },
+    {
+      "id": "dungeon",
+      "action": "light-boss-doors",
+      "set": "interview-dungeon",
+      "label": "Interview dungeon",
+      "anchor": "Three days",
+      "start": 15.7,
+      "duration": 5.9
+    },
+    {
+      "id": "ghost",
+      "action": "float-postings",
+      "set": "quiet-ghost-town",
+      "label": "Ghost town",
+      "anchor": "And one in five",
+      "start": 21.6,
+      "duration": 5.766666666666667
+    },
+    {
+      "id": "tower",
+      "action": "swarm-pigeon",
+      "set": "messenger-tower",
+      "label": "Messenger tower",
+      "anchor": "Your cold DM",
+      "start": 27.366666666666667,
+      "duration": 3.933333333333333
+    },
+    {
+      "id": "forge",
+      "action": "forge-skills",
+      "set": "skills-forge",
+      "label": "The forge",
+      "anchor": "So what still works",
+      "start": 31.3,
+      "duration": 4.9
+    },
+    {
+      "id": "payoff",
+      "action": "offer-letter",
+      "set": "skills-forge",
+      "label": "Cover letter",
+      "anchor": "So I have to beat",
+      "start": 36.2,
+      "duration": 5.8
+    }
+  ],
+  "audio": {
+    "narration": "episodes/alex-astro-job-market-hell/full/narration.wav",
+    "music": "episodes/alex-astro-job-market-hell/full/silence.wav",
+    "effects": "episodes/alex-astro-job-market-hell/full/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0
+  },
+  "jobMarketOpening": {
+    "titleLines": [
+      "WHY IS THE",
+      "JOB MARKET",
+      "LITERAL HELL",
+      "RIGHT NOW?"
+    ],
+    "gateLabel": "JUNIOR TOWN",
+    "startCount": 847,
+    "counterLabel": "Applications sent:",
+    "impacts": [
+      {
+        "frame": 6,
+        "x": 44,
+        "y": 299,
+        "size": 20,
+        "angle": -13,
+        "sound": "thunk"
+      },
+      {
+        "frame": 17,
+        "x": 104,
+        "y": 327,
+        "size": 23,
+        "angle": 10,
+        "sound": "thunk"
+      },
+      {
+        "frame": 36,
+        "x": 154,
+        "y": 207,
+        "size": 12,
+        "angle": -14
+      },
+      {
+        "frame": 59,
+        "x": 194,
+        "y": 308,
+        "size": 16,
+        "angle": 13
+      },
+      {
+        "frame": 77,
+        "x": 115,
+        "y": 287,
+        "size": 19,
+        "angle": -9,
+        "sound": "thunk"
+      },
+      {
+        "frame": 89,
+        "x": 56,
+        "y": 335,
+        "size": 22,
+        "angle": 16,
+        "sound": "thunk"
+      },
+      {
+        "frame": 112,
+        "x": 31,
+        "y": 205,
+        "size": 13,
+        "angle": -10
+      },
+      {
+        "frame": 139,
+        "x": 91,
+        "y": 215,
+        "size": 13,
+        "angle": 18
+      },
+      {
+        "frame": 161,
+        "x": 127,
+        "y": 319,
+        "size": 20,
+        "angle": -15,
+        "sound": "thunk"
+      },
+      {
+        "frame": 177,
+        "x": 187,
+        "y": 230,
+        "size": 14,
+        "angle": 12
+      },
+      {
+        "frame": 202,
+        "x": 49,
+        "y": 257,
+        "size": 14,
+        "angle": -17
+      },
+      {
+        "frame": 221,
+        "x": 139,
+        "y": 193,
+        "size": 12,
+        "angle": 11
+      },
+      {
+        "frame": 245,
+        "x": 106,
+        "y": 345,
+        "size": 20,
+        "angle": -14,
+        "sound": "thunk"
+      },
+      {
+        "frame": 258,
+        "x": 179,
+        "y": 324,
+        "size": 18,
+        "angle": 12,
+        "sound": "thunk"
+      },
+      {
+        "frame": 287,
+        "x": 57,
+        "y": 198,
+        "size": 12,
+        "angle": -12
+      },
+      {
+        "frame": 318,
+        "x": 102,
+        "y": 239,
+        "size": 12,
+        "angle": 14
+      },
+      {
+        "frame": 370,
+        "x": 113,
+        "y": 316,
+        "size": 18,
+        "angle": -18,
+        "sound": "thunk"
+      }
+    ],
+    "titleImpactFrame": 6,
+    "pages": [
+      [
+        0,
+        4
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        9,
+        13
+      ],
+      [
+        14,
+        17
+      ],
+      [
+        18,
+        18
+      ],
+      [
+        19,
+        21
+      ],
+      [
+        22,
+        24
+      ]
+    ],
+    "starts": [
+      3,
+      13,
+      19,
+      28,
+      40,
+      60,
+      79,
+      94,
+      106,
+      127,
+      141,
+      145,
+      151,
+      159,
+      167,
+      177,
+      187,
+      193,
+      231,
+      261,
+      271,
+      286,
+      337,
+      343,
+      357
+    ],
+    "ends": [
+      10,
+      17,
+      25,
+      38,
+      53,
+      74,
+      91,
+      103,
+      112,
+      139,
+      143,
+      149,
+      158,
+      164,
+      175,
+      185,
+      190,
+      221,
+      249,
+      271,
+      284,
+      296,
+      339,
+      353,
+      368
+    ],
+    "shots": [
+      {
+        "frame": 0,
+        "view": "gate"
+      },
+      {
+        "frame": 61,
+        "view": "volley"
+      },
+      {
+        "frame": 122,
+        "view": "counsel"
+      },
+      {
+        "frame": 231,
+        "view": "shrug"
+      },
+      {
+        "frame": 304,
+        "view": "admission"
+      }
+    ],
+    "portraits": [
+      {
+        "frame": 0,
+        "role": "alex",
+        "pose": "portrait-question"
+      },
+      {
+        "frame": 122,
+        "role": "opus",
+        "pose": "portrait-opus"
+      },
+      {
+        "frame": 304,
+        "role": "alex",
+        "pose": "portrait-question"
+      },
+      {
+        "frame": 357,
+        "role": "alex",
+        "pose": "portrait-two"
+      }
+    ],
+    "mouth": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "jobMarketFull": {
+    "scenes": [
+      {
+        "id": "gate",
+        "start": 0,
+        "frames": 384,
+        "events": {}
+      },
+      {
+        "id": "castle",
+        "start": 384,
+        "frames": 336,
+        "reframes": [
+          0,
+          90,
+          180,
+          263
+        ],
+        "sign": "SENIORS ONLY",
+        "events": {
+          "lower": 0,
+          "slam": 136
+        },
+        "card": {
+          "lines": [
+            "71% of the software",
+            "postings rebound = senior roles"
+          ],
+          "source": "Indeed Hiring Lab, Jul 2026",
+          "from": 160
+        }
+      },
+      {
+        "id": "tavern",
+        "start": 720,
+        "frames": 222,
+        "reframes": [
+          0,
+          67,
+          141
+        ],
+        "labels": [
+          "3+ years",
+          "shipped product",
+          "coding agents",
+          "open source…"
+        ],
+        "sign": "JUNIOR QUEST",
+        "events": {
+          "tug": 3,
+          "roll": 12,
+          "door": 65,
+          "tail": 175
+        },
+        "card": {
+          "lines": [
+            "Recent CS grads: 7.0% unemployed.",
+            "All recent grads: 4.2%"
+          ],
+          "source": "NY Fed, 2024 data",
+          "from": 60
+        }
+      },
+      {
+        "id": "dungeon",
+        "start": 942,
+        "frames": 354,
+        "reframes": [
+          0,
+          85,
+          174,
+          262
+        ],
+        "labels": [
+          "Coding test",
+          "Take-home",
+          "System design",
+          "3-day work trial"
+        ],
+        "events": {
+          "door1": 7,
+          "door2": 67,
+          "door3": 126,
+          "door4": 185
+        }
+      },
+      {
+        "id": "ghost",
+        "start": 1296,
+        "frames": 346,
+        "reframes": [
+          0,
+          92,
+          183,
+          267
+        ],
+        "events": {
+          "first": 5,
+          "second": 81,
+          "third": 183,
+          "depart": 267
+        },
+        "card": {
+          "lines": [
+            "~1 in 5 postings showed",
+            "no hiring activity"
+          ],
+          "source": "Greenhouse clients via WSJ, Q2 2026",
+          "from": 177
+        }
+      },
+      {
+        "id": "tower",
+        "start": 1642,
+        "frames": 236,
+        "reframes": [
+          0,
+          72,
+          155
+        ],
+        "sign": "10,000 AI DMs",
+        "events": {
+          "release": 7,
+          "swarm": 109
+        },
+        "card": {
+          "lines": [
+            "95 applications per job",
+            "(28 in 2021)"
+          ],
+          "source": "Greenhouse, 2025",
+          "from": 91
+        }
+      },
+      {
+        "id": "forge",
+        "start": 1878,
+        "frames": 294,
+        "reframes": [
+          0,
+          88,
+          183,
+          253
+        ],
+        "labels": [
+          "FUNDAMENTALS",
+          "AI"
+        ],
+        "events": {
+          "copper": 95,
+          "azure": 162,
+          "clang": 246
+        }
+      },
+      {
+        "id": "payoff",
+        "start": 2172,
+        "frames": 348,
+        "reframes": [
+          0,
+          94,
+          181,
+          250
+        ],
+        "events": {
+          "offer": 250,
+          "raise": 170
+        }
+      }
+    ],
+    "pages": [
+      {
+        "first": 25,
+        "last": 27,
+        "role": "opus"
+      },
+      {
+        "first": 28,
+        "last": 30,
+        "role": "opus"
+      },
+      {
+        "first": 31,
+        "last": 33,
+        "role": "opus"
+      },
+      {
+        "first": 34,
+        "last": 36,
+        "role": "opus"
+      },
+      {
+        "first": 37,
+        "last": 38,
+        "role": "opus"
+      },
+      {
+        "first": 39,
+        "last": 41,
+        "role": "opus"
+      },
+      {
+        "first": 42,
+        "last": 44,
+        "role": "opus"
+      },
+      {
+        "first": 45,
+        "last": 48,
+        "role": "alex"
+      },
+      {
+        "first": 49,
+        "last": 51,
+        "role": "alex"
+      },
+      {
+        "first": 52,
+        "last": 54,
+        "role": "opus"
+      },
+      {
+        "first": 55,
+        "last": 56,
+        "role": "opus"
+      },
+      {
+        "first": 57,
+        "last": 59,
+        "role": "opus"
+      },
+      {
+        "first": 60,
+        "last": 61,
+        "role": "opus"
+      },
+      {
+        "first": 62,
+        "last": 64,
+        "role": "opus"
+      },
+      {
+        "first": 65,
+        "last": 66,
+        "role": "opus"
+      },
+      {
+        "first": 67,
+        "last": 68,
+        "role": "opus"
+      },
+      {
+        "first": 69,
+        "last": 72,
+        "role": "opus"
+      },
+      {
+        "first": 73,
+        "last": 74,
+        "role": "opus"
+      },
+      {
+        "first": 75,
+        "last": 77,
+        "role": "opus"
+      },
+      {
+        "first": 78,
+        "last": 80,
+        "role": "opus"
+      },
+      {
+        "first": 81,
+        "last": 84,
+        "role": "alex"
+      },
+      {
+        "first": 85,
+        "last": 87,
+        "role": "alex"
+      },
+      {
+        "first": 88,
+        "last": 89,
+        "role": "alex"
+      },
+      {
+        "first": 90,
+        "last": 92,
+        "role": "opus"
+      },
+      {
+        "first": 93,
+        "last": 94,
+        "role": "opus"
+      },
+      {
+        "first": 95,
+        "last": 96,
+        "role": "opus"
+      }
+    ]
+  }
+}

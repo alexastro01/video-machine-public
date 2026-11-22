@@ -1,0 +1,157 @@
+{
+  "nativeModelMotion": true,
+  "processing": "Decoded native GIF; removed green matte and spill; no interpolation or motion synthesis.",
+  "source": "miko-throne-gif-v1.gif",
+  "width": 2048,
+  "height": 1536,
+  "columns": 4,
+  "rows": 3,
+  "cellWidth": 512,
+  "cellHeight": 512,
+  "frameCount": 12,
+  "frameDurationMs": 100,
+  "durationSeconds": 1.2,
+  "crop": {
+    "x": 119,
+    "y": 44,
+    "width": 276,
+    "height": 419
+  },
+  "cells": [
+    {
+      "frame": 0,
+      "originX": 0,
+      "originY": 0,
+      "left": 132,
+      "top": 62,
+      "right": 379,
+      "bottom": 458,
+      "pixels": 61550,
+      "durationMs": 100
+    },
+    {
+      "frame": 1,
+      "originX": 512,
+      "originY": 0,
+      "left": 132,
+      "top": 61,
+      "right": 380,
+      "bottom": 458,
+      "pixels": 61630,
+      "durationMs": 100
+    },
+    {
+      "frame": 2,
+      "originX": 1024,
+      "originY": 0,
+      "left": 134,
+      "top": 62,
+      "right": 380,
+      "bottom": 458,
+      "pixels": 61276,
+      "durationMs": 100
+    },
+    {
+      "frame": 3,
+      "originX": 1536,
+      "originY": 0,
+      "left": 134,
+      "top": 61,
+      "right": 380,
+      "bottom": 458,
+      "pixels": 61382,
+      "durationMs": 100
+    },
+    {
+      "frame": 4,
+      "originX": 0,
+      "originY": 512,
+      "left": 132,
+      "top": 58,
+      "right": 379,
+      "bottom": 456,
+      "pixels": 61987,
+      "durationMs": 100
+    },
+    {
+      "frame": 5,
+      "originX": 512,
+      "originY": 512,
+      "left": 133,
+      "top": 58,
+      "right": 380,
+      "bottom": 456,
+      "pixels": 61975,
+      "durationMs": 100
+    },
+    {
+      "frame": 6,
+      "originX": 1024,
+      "originY": 512,
+      "left": 130,
+      "top": 58,
+      "right": 385,
+      "bottom": 456,
+      "pixels": 62906,
+      "durationMs": 100
+    },
+    {
+      "frame": 7,
+      "originX": 1536,
+      "originY": 512,
+      "left": 123,
+      "top": 48,
+      "right": 390,
+      "bottom": 456,
+      "pixels": 65358,
+      "durationMs": 100
+    },
+    {
+      "frame": 8,
+      "originX": 0,
+      "originY": 1024,
+      "left": 128,
+      "top": 50,
+      "right": 386,
+      "bottom": 456,
+      "pixels": 64694,
+      "durationMs": 100
+    },
+    {
+      "frame": 9,
+      "originX": 512,
+      "originY": 1024,
+      "left": 132,
+      "top": 58,
+      "right": 380,
+      "bottom": 456,
+      "pixels": 62047,
+      "durationMs": 100
+    },
+    {
+      "frame": 10,
+      "originX": 1024,
+      "originY": 1024,
+      "left": 132,
+      "top": 58,
+      "right": 380,
+      "bottom": 456,
+      "pixels": 62019,
+      "durationMs": 100
+    },
+    {
+      "frame": 11,
+      "originX": 1536,
+      "originY": 1024,
+      "left": 132,
+      "top": 58,
+      "right": 380,
+      "bottom": 456,
+      "pixels": 62164,
+      "durationMs": 100
+    }
+  ],
+  "clipping": [],
+  "minimumTopMargin": 48,
+  "minimumBottomMargin": 53
+}

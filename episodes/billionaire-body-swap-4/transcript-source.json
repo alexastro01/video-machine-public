@@ -1,0 +1,753 @@
+{
+  "sourceTake": {
+    "narrator": 1,
+    "young": 1,
+    "mum": 1,
+    "teacher": 1,
+    "narratorCta": 1
+  },
+  "words": [
+    {
+      "text": "You",
+      "start": 0.135458,
+      "end": 0.215458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "swapped",
+      "start": 0.375458,
+      "end": 0.675458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "bodies",
+      "start": 0.815458,
+      "end": 1.215458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "with",
+      "start": 1.255458,
+      "end": 1.355458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "a",
+      "start": 1.395458,
+      "end": 1.555458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "billionaire.",
+      "start": 1.595458,
+      "end": 2.235458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "He's",
+      "start": 2.635458,
+      "end": 2.795458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "at",
+      "start": 2.835458,
+      "end": 2.955458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "your",
+      "start": 2.995458,
+      "end": 3.055458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "parents'",
+      "start": 3.195458,
+      "end": 3.555458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "evening.",
+      "start": 3.655458,
+      "end": 4.055458,
+      "speaker": "narrator",
+      "line": "hook"
+    },
+    {
+      "text": "Can",
+      "start": 4.342458,
+      "end": 4.442458,
+      "speaker": "young",
+      "line": "lawyer"
+    },
+    {
+      "text": "I",
+      "start": 4.542458,
+      "end": 4.602458,
+      "speaker": "young",
+      "line": "lawyer"
+    },
+    {
+      "text": "send",
+      "start": 4.642458,
+      "end": 4.802458,
+      "speaker": "young",
+      "line": "lawyer"
+    },
+    {
+      "text": "my",
+      "start": 4.842458,
+      "end": 4.982458,
+      "speaker": "young",
+      "line": "lawyer"
+    },
+    {
+      "text": "lawyer?",
+      "start": 5.062458,
+      "end": 5.362458,
+      "speaker": "young",
+      "line": "lawyer"
+    },
+    {
+      "text": "You",
+      "start": 5.784542,
+      "end": 5.844542,
+      "speaker": "mum",
+      "line": "stay"
+    },
+    {
+      "text": "can",
+      "start": 5.904542,
+      "end": 6.024542,
+      "speaker": "mum",
+      "line": "stay"
+    },
+    {
+      "text": "stay",
+      "start": 6.164542,
+      "end": 6.344542,
+      "speaker": "mum",
+      "line": "stay"
+    },
+    {
+      "text": "right",
+      "start": 6.484542,
+      "end": 6.764542,
+      "speaker": "mum",
+      "line": "stay"
+    },
+    {
+      "text": "there.",
+      "start": 6.824542,
+      "end": 7.084542,
+      "speaker": "mum",
+      "line": "stay"
+    },
+    {
+      "text": "He",
+      "start": 7.543646,
+      "end": 7.643646,
+      "speaker": "teacher",
+      "line": "internship"
+    },
+    {
+      "text": "called",
+      "start": 7.703646,
+      "end": 7.903646,
+      "speaker": "teacher",
+      "line": "internship"
+    },
+    {
+      "text": "group",
+      "start": 8.023646,
+      "end": 8.323646,
+      "speaker": "teacher",
+      "line": "internship"
+    },
+    {
+      "text": "work",
+      "start": 8.383646,
+      "end": 8.623646,
+      "speaker": "teacher",
+      "line": "internship"
+    },
+    {
+      "text": "an",
+      "start": 8.663646,
+      "end": 8.863646,
+      "speaker": "teacher",
+      "line": "internship"
+    },
+    {
+      "text": "unpaid",
+      "start": 8.943646,
+      "end": 9.423646,
+      "speaker": "teacher",
+      "line": "internship"
+    },
+    {
+      "text": "internship.",
+      "start": 9.503646,
+      "end": 10.223646,
+      "speaker": "teacher",
+      "line": "internship"
+    },
+    {
+      "text": "I",
+      "start": 10.641167,
+      "end": 10.681167,
+      "speaker": "young",
+      "line": "talent"
+    },
+    {
+      "text": "was",
+      "start": 10.721167,
+      "end": 10.861167,
+      "speaker": "young",
+      "line": "talent"
+    },
+    {
+      "text": "developing",
+      "start": 10.901167,
+      "end": 11.401167,
+      "speaker": "young",
+      "line": "talent"
+    },
+    {
+      "text": "talent.",
+      "start": 11.581167,
+      "end": 11.981167,
+      "speaker": "young",
+      "line": "talent"
+    },
+    {
+      "text": "He",
+      "start": 12.380125,
+      "end": 12.480125,
+      "speaker": "teacher",
+      "line": "partner"
+    },
+    {
+      "text": "made",
+      "start": 12.520125,
+      "end": 12.680125,
+      "speaker": "teacher",
+      "line": "partner"
+    },
+    {
+      "text": "his",
+      "start": 12.700125,
+      "end": 12.920125,
+      "speaker": "teacher",
+      "line": "partner"
+    },
+    {
+      "text": "partner",
+      "start": 13.000125,
+      "end": 13.400125,
+      "speaker": "teacher",
+      "line": "partner"
+    },
+    {
+      "text": "do",
+      "start": 13.460125,
+      "end": 13.660125,
+      "speaker": "teacher",
+      "line": "partner"
+    },
+    {
+      "text": "all",
+      "start": 13.760125,
+      "end": 13.900125,
+      "speaker": "teacher",
+      "line": "partner"
+    },
+    {
+      "text": "the",
+      "start": 13.960125,
+      "end": 14.060125,
+      "speaker": "teacher",
+      "line": "partner"
+    },
+    {
+      "text": "work.",
+      "start": 14.100125,
+      "end": 14.560125,
+      "speaker": "teacher",
+      "line": "partner"
+    },
+    {
+      "text": "I",
+      "start": 14.910875,
+      "end": 14.990875,
+      "speaker": "young",
+      "line": "exposure"
+    },
+    {
+      "text": "offered",
+      "start": 15.030875,
+      "end": 15.250875,
+      "speaker": "young",
+      "line": "exposure"
+    },
+    {
+      "text": "him",
+      "start": 15.290875,
+      "end": 15.390875,
+      "speaker": "young",
+      "line": "exposure"
+    },
+    {
+      "text": "exposure.",
+      "start": 15.430875,
+      "end": 16.050875,
+      "speaker": "young",
+      "line": "exposure"
+    },
+    {
+      "text": "Sounds",
+      "start": 16.549729,
+      "end": 16.829729,
+      "speaker": "mum",
+      "line": "familiar"
+    },
+    {
+      "text": "familiar.",
+      "start": 16.869729,
+      "end": 17.389729,
+      "speaker": "mum",
+      "line": "familiar"
+    },
+    {
+      "text": "He",
+      "start": 17.949729,
+      "end": 18.049729,
+      "speaker": "mum",
+      "line": "familiar"
+    },
+    {
+      "text": "calls",
+      "start": 18.089729,
+      "end": 18.349729,
+      "speaker": "mum",
+      "line": "familiar"
+    },
+    {
+      "text": "pocket",
+      "start": 18.409729,
+      "end": 18.729729,
+      "speaker": "mum",
+      "line": "familiar"
+    },
+    {
+      "text": "money",
+      "start": 18.769729,
+      "end": 18.989729,
+      "speaker": "mum",
+      "line": "familiar"
+    },
+    {
+      "text": "a",
+      "start": 19.049729,
+      "end": 19.269729,
+      "speaker": "mum",
+      "line": "familiar"
+    },
+    {
+      "text": "salary.",
+      "start": 19.269729,
+      "end": 19.789729,
+      "speaker": "mum",
+      "line": "familiar"
+    },
+    {
+      "text": "Then",
+      "start": 20.364833,
+      "end": 20.604833,
+      "speaker": "teacher",
+      "line": "fire"
+    },
+    {
+      "text": "he",
+      "start": 20.644833,
+      "end": 20.764833,
+      "speaker": "teacher",
+      "line": "fire"
+    },
+    {
+      "text": "tried",
+      "start": 20.804833,
+      "end": 20.984833,
+      "speaker": "teacher",
+      "line": "fire"
+    },
+    {
+      "text": "to",
+      "start": 21.024833,
+      "end": 21.224833,
+      "speaker": "teacher",
+      "line": "fire"
+    },
+    {
+      "text": "fire",
+      "start": 21.264833,
+      "end": 21.544833,
+      "speaker": "teacher",
+      "line": "fire"
+    },
+    {
+      "text": "the",
+      "start": 21.584833,
+      "end": 21.684833,
+      "speaker": "teacher",
+      "line": "fire"
+    },
+    {
+      "text": "sports",
+      "start": 21.724833,
+      "end": 22.064833,
+      "speaker": "teacher",
+      "line": "fire"
+    },
+    {
+      "text": "teacher.",
+      "start": 22.144833,
+      "end": 22.544833,
+      "speaker": "teacher",
+      "line": "fire"
+    },
+    {
+      "text": "Why?",
+      "start": 22.912521,
+      "end": 23.272521,
+      "speaker": "mum",
+      "line": "why"
+    },
+    {
+      "text": "Poor",
+      "start": 23.616,
+      "end": 23.776,
+      "speaker": "young",
+      "line": "performance"
+    },
+    {
+      "text": "performance.",
+      "start": 23.856,
+      "end": 24.436,
+      "speaker": "young",
+      "line": "performance"
+    },
+    {
+      "text": "You",
+      "start": 24.885583,
+      "end": 24.985583,
+      "speaker": "mum",
+      "line": "last"
+    },
+    {
+      "text": "came",
+      "start": 25.025583,
+      "end": 25.205583,
+      "speaker": "mum",
+      "line": "last"
+    },
+    {
+      "text": "last.",
+      "start": 25.265583,
+      "end": 25.725583,
+      "speaker": "mum",
+      "line": "last"
+    },
+    {
+      "text": "In",
+      "start": 26.045583,
+      "end": 26.145583,
+      "speaker": "mum",
+      "line": "last"
+    },
+    {
+      "text": "your",
+      "start": 26.185583,
+      "end": 26.365583,
+      "speaker": "mum",
+      "line": "last"
+    },
+    {
+      "text": "own",
+      "start": 26.465583,
+      "end": 26.745583,
+      "speaker": "mum",
+      "line": "last"
+    },
+    {
+      "text": "team.",
+      "start": 26.805583,
+      "end": 27.185583,
+      "speaker": "mum",
+      "line": "last"
+    },
+    {
+      "text": "Exactly.",
+      "start": 27.55675,
+      "end": 28.27675,
+      "speaker": "young",
+      "line": "exactly"
+    },
+    {
+      "text": "And",
+      "start": 28.816271,
+      "end": 28.916271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "after",
+      "start": 28.996271,
+      "end": 29.196271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "I",
+      "start": 29.276271,
+      "end": 29.336271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "took",
+      "start": 29.376271,
+      "end": 29.516271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "his",
+      "start": 29.536271,
+      "end": 29.756271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "phone,",
+      "start": 29.776271,
+      "end": 30.176271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "he",
+      "start": 30.336271,
+      "end": 30.436271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "asked",
+      "start": 30.496271,
+      "end": 30.656271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "to",
+      "start": 30.676271,
+      "end": 30.776271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "speak",
+      "start": 30.876271,
+      "end": 31.036271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "to",
+      "start": 31.076271,
+      "end": 31.136271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "my",
+      "start": 31.176271,
+      "end": 31.336271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "manager.",
+      "start": 31.396271,
+      "end": 31.856271,
+      "speaker": "teacher",
+      "line": "manager"
+    },
+    {
+      "text": "Standard",
+      "start": 32.289542,
+      "end": 32.589542,
+      "speaker": "young",
+      "line": "procedure"
+    },
+    {
+      "text": "procedure.",
+      "start": 32.669542,
+      "end": 33.149542,
+      "speaker": "young",
+      "line": "procedure"
+    },
+    {
+      "text": "Finally,",
+      "start": 33.745792,
+      "end": 34.225792,
+      "speaker": "teacher",
+      "line": "trip"
+    },
+    {
+      "text": "he",
+      "start": 34.425792,
+      "end": 34.545792,
+      "speaker": "teacher",
+      "line": "trip"
+    },
+    {
+      "text": "tried",
+      "start": 34.585792,
+      "end": 34.785792,
+      "speaker": "teacher",
+      "line": "trip"
+    },
+    {
+      "text": "to",
+      "start": 34.825792,
+      "end": 34.905792,
+      "speaker": "teacher",
+      "line": "trip"
+    },
+    {
+      "text": "expense",
+      "start": 34.945792,
+      "end": 35.505792,
+      "speaker": "teacher",
+      "line": "trip"
+    },
+    {
+      "text": "the",
+      "start": 35.545792,
+      "end": 35.665792,
+      "speaker": "teacher",
+      "line": "trip"
+    },
+    {
+      "text": "school",
+      "start": 35.705792,
+      "end": 35.925792,
+      "speaker": "teacher",
+      "line": "trip"
+    },
+    {
+      "text": "trip.",
+      "start": 36.065792,
+      "end": 36.425792,
+      "speaker": "teacher",
+      "line": "trip"
+    },
+    {
+      "text": "Did",
+      "start": 36.987562,
+      "end": 37.067563,
+      "speaker": "mum",
+      "line": "worked"
+    },
+    {
+      "text": "it",
+      "start": 37.107563,
+      "end": 37.187562,
+      "speaker": "mum",
+      "line": "worked"
+    },
+    {
+      "text": "work?",
+      "start": 37.227562,
+      "end": 37.547562,
+      "speaker": "mum",
+      "line": "worked"
+    },
+    {
+      "text": "What",
+      "start": 39.859417,
+      "end": 39.999417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    },
+    {
+      "text": "part",
+      "start": 40.119417,
+      "end": 40.279417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    },
+    {
+      "text": "of",
+      "start": 40.319417,
+      "end": 40.399417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    },
+    {
+      "text": "your",
+      "start": 40.439417,
+      "end": 40.539417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    },
+    {
+      "text": "life",
+      "start": 40.679417,
+      "end": 40.919417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    },
+    {
+      "text": "would",
+      "start": 40.939417,
+      "end": 41.159417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    },
+    {
+      "text": "break",
+      "start": 41.199417,
+      "end": 41.519417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    },
+    {
+      "text": "this",
+      "start": 41.559417,
+      "end": 41.779417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    },
+    {
+      "text": "billionaire?",
+      "start": 41.819417,
+      "end": 42.339417,
+      "speaker": "narratorCta",
+      "line": "cta"
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+[
+  {
+    "text": "No",
+    "startMs": 82,
+    "endMs": 202,
+    "timestampMs": 82,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 322,
+    "endMs": 402,
+    "timestampMs": 322,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 482,
+    "endMs": 522,
+    "timestampMs": 482,
+    "confidence": null
+  },
+  {
+    "text": " studying",
+    "startMs": 642,
+    "endMs": 1002,
+    "timestampMs": 642,
+    "confidence": null
+  },
+  {
+    "text": " computer",
+    "startMs": 1062,
+    "endMs": 1502,
+    "timestampMs": 1062,
+    "confidence": null
+  },
+  {
+    "text": " science",
+    "startMs": 1582,
+    "endMs": 1922,
+    "timestampMs": 1582,
+    "confidence": null
+  },
+  {
+    "text": " anymore.",
+    "startMs": 2022,
+    "endMs": 2382,
+    "timestampMs": 2022,
+    "confidence": null
+  },
+  {
+    "text": " …anymore…",
+    "startMs": 2462,
+    "endMs": 2742,
+    "timestampMs": 2462,
+    "confidence": null
+  },
+  {
+    "text": " anymore…",
+    "startMs": 2842,
+    "endMs": 3142,
+    "timestampMs": 2842,
+    "confidence": null
+  },
+  {
+    "text": " …BUT",
+    "startMs": 3262,
+    "endMs": 3402,
+    "timestampMs": 3262,
+    "confidence": null
+  },
+  {
+    "text": " WHY?!",
+    "startMs": 3622,
+    "endMs": 4022,
+    "timestampMs": 3622,
+    "confidence": null
+  },
+  {
+    "text": " They",
+    "startMs": 4402,
+    "endMs": 4542,
+    "timestampMs": 4402,
+    "confidence": null
+  },
+  {
+    "text": " told",
+    "startMs": 4662,
+    "endMs": 4902,
+    "timestampMs": 4662,
+    "confidence": null
+  },
+  {
+    "text": " us:",
+    "startMs": 5022,
+    "endMs": 5082,
+    "timestampMs": 5022,
+    "confidence": null
+  },
+  {
+    "text": " learn",
+    "startMs": 5342,
+    "endMs": 5542,
+    "timestampMs": 5342,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 5622,
+    "endMs": 5682,
+    "timestampMs": 5622,
+    "confidence": null
+  },
+  {
+    "text": " code…",
+    "startMs": 5742,
+    "endMs": 6102,
+    "timestampMs": 5742,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 6322,
+    "endMs": 6522,
+    "timestampMs": 6322,
+    "confidence": null
+  },
+  {
+    "text": " set",
+    "startMs": 6662,
+    "endMs": 6882,
+    "timestampMs": 6662,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 6962,
+    "endMs": 7082,
+    "timestampMs": 6962,
+    "confidence": null
+  },
+  {
+    "text": " life.",
+    "startMs": 7182,
+    "endMs": 7502,
+    "timestampMs": 7182,
+    "confidence": null
+  },
+  {
+    "text": " So…",
+    "startMs": 7702,
+    "endMs": 8002,
+    "timestampMs": 7702,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 8462,
+    "endMs": 8582,
+    "timestampMs": 8462,
+    "confidence": null
+  },
+  {
+    "text": " do",
+    "startMs": 8622,
+    "endMs": 8662,
+    "timestampMs": 8622,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 8722,
+    "endMs": 8802,
+    "timestampMs": 8722,
+    "confidence": null
+  },
+  {
+    "text": " do",
+    "startMs": 8862,
+    "endMs": 8962,
+    "timestampMs": 8862,
+    "confidence": null
+  },
+  {
+    "text": " now?",
+    "startMs": 9042,
+    "endMs": 9282,
+    "timestampMs": 9042,
+    "confidence": null
+  },
+  {
+    "text": " …I'm",
+    "startMs": 9842,
+    "endMs": 9962,
+    "timestampMs": 9842,
+    "confidence": null
+  },
+  {
+    "text": " between",
+    "startMs": 10182,
+    "endMs": 10562,
+    "timestampMs": 10182,
+    "confidence": null
+  },
+  {
+    "text": " jobs.",
+    "startMs": 10662,
+    "endMs": 11082,
+    "timestampMs": 10662,
+    "confidence": null
+  },
+  {
+    "text": " Did",
+    "startMs": 11422,
+    "endMs": 11562,
+    "timestampMs": 11422,
+    "confidence": null
+  },
+  {
+    "text": " AI",
+    "startMs": 11742,
+    "endMs": 11982,
+    "timestampMs": 11742,
+    "confidence": null
+  },
+  {
+    "text": " take",
+    "startMs": 12102,
+    "endMs": 12262,
+    "timestampMs": 12102,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 12322,
+    "endMs": 12382,
+    "timestampMs": 12322,
+    "confidence": null
+  },
+  {
+    "text": " beginner",
+    "startMs": 12442,
+    "endMs": 12862,
+    "timestampMs": 12442,
+    "confidence": null
+  },
+  {
+    "text": " jobs?",
+    "startMs": 12922,
+    "endMs": 13262,
+    "timestampMs": 12922,
+    "confidence": null
+  },
+  {
+    "text": " …Allegedly.",
+    "startMs": 13682,
+    "endMs": 14402,
+    "timestampMs": 13682,
+    "confidence": null
+  },
+  {
+    "text": " Even",
+    "startMs": 14942,
+    "endMs": 15102,
+    "timestampMs": 14942,
+    "confidence": null
+  },
+  {
+    "text": " my",
+    "startMs": 15182,
+    "endMs": 15262,
+    "timestampMs": 15182,
+    "confidence": null
+  },
+  {
+    "text": " study",
+    "startMs": 15422,
+    "endMs": 15762,
+    "timestampMs": 15422,
+    "confidence": null
+  },
+  {
+    "text": " group",
+    "startMs": 15842,
+    "endMs": 16042,
+    "timestampMs": 15842,
+    "confidence": null
+  },
+  {
+    "text": " left.",
+    "startMs": 16142,
+    "endMs": 16402,
+    "timestampMs": 16142,
+    "confidence": null
+  },
+  {
+    "text": " One",
+    "startMs": 16662,
+    "endMs": 16742,
+    "timestampMs": 16662,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 16782,
+    "endMs": 16822,
+    "timestampMs": 16782,
+    "confidence": null
+  },
+  {
+    "text": " them's",
+    "startMs": 16882,
+    "endMs": 17082,
+    "timestampMs": 16882,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 17162,
+    "endMs": 17182,
+    "timestampMs": 17162,
+    "confidence": null
+  },
+  {
+    "text": " nurse",
+    "startMs": 17282,
+    "endMs": 17542,
+    "timestampMs": 17282,
+    "confidence": null
+  },
+  {
+    "text": " now.",
+    "startMs": 17642,
+    "endMs": 17842,
+    "timestampMs": 17642,
+    "confidence": null
+  },
+  {
+    "text": " She's",
+    "startMs": 18062,
+    "endMs": 18282,
+    "timestampMs": 18062,
+    "confidence": null
+  },
+  {
+    "text": " thriving.",
+    "startMs": 18462,
+    "endMs": 19162,
+    "timestampMs": 18462,
+    "confidence": null
+  },
+  {
+    "text": " But",
+    "startMs": 19542,
+    "endMs": 19642,
+    "timestampMs": 19542,
+    "confidence": null
+  },
+  {
+    "text": " here's",
+    "startMs": 19742,
+    "endMs": 20042,
+    "timestampMs": 19742,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 20102,
+    "endMs": 20242,
+    "timestampMs": 20102,
+    "confidence": null
+  },
+  {
+    "text": " nobody's",
+    "startMs": 20382,
+    "endMs": 20842,
+    "timestampMs": 20382,
+    "confidence": null
+  },
+  {
+    "text": " telling",
+    "startMs": 20922,
+    "endMs": 21242,
+    "timestampMs": 20922,
+    "confidence": null
+  },
+  {
+    "text": " you.",
+    "startMs": 21282,
+    "endMs": 21442,
+    "timestampMs": 21282,
+    "confidence": null
+  },
+  {
+    "text": " Fewer",
+    "startMs": 21742,
+    "endMs": 22022,
+    "timestampMs": 21742,
+    "confidence": null
+  },
+  {
+    "text": " students",
+    "startMs": 22102,
+    "endMs": 22482,
+    "timestampMs": 22102,
+    "confidence": null
+  },
+  {
+    "text": " now…",
+    "startMs": 22562,
+    "endMs": 22782,
+    "timestampMs": 22562,
+    "confidence": null
+  },
+  {
+    "text": " means",
+    "startMs": 23042,
+    "endMs": 23282,
+    "timestampMs": 23042,
+    "confidence": null
+  },
+  {
+    "text": " fewer",
+    "startMs": 23482,
+    "endMs": 23762,
+    "timestampMs": 23482,
+    "confidence": null
+  },
+  {
+    "text": " graduates",
+    "startMs": 23842,
+    "endMs": 24322,
+    "timestampMs": 23842,
+    "confidence": null
+  },
+  {
+    "text": " later.",
+    "startMs": 24382,
+    "endMs": 24682,
+    "timestampMs": 24382,
+    "confidence": null
+  },
+  {
+    "text": " So",
+    "startMs": 25042,
+    "endMs": 25162,
+    "timestampMs": 25042,
+    "confidence": null
+  },
+  {
+    "text": " soon…",
+    "startMs": 25302,
+    "endMs": 25562,
+    "timestampMs": 25302,
+    "confidence": null
+  },
+  {
+    "text": " I'm",
+    "startMs": 25802,
+    "endMs": 25922,
+    "timestampMs": 25802,
+    "confidence": null
+  },
+  {
+    "text": " rare?",
+    "startMs": 26062,
+    "endMs": 26362,
+    "timestampMs": 26062,
+    "confidence": null
+  },
+  {
+    "text": " Rare.",
+    "startMs": 26882,
+    "endMs": 27182,
+    "timestampMs": 26882,
+    "confidence": null
+  },
+  {
+    "text": " Like",
+    "startMs": 27402,
+    "endMs": 27602,
+    "timestampMs": 27402,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 27682,
+    "endMs": 27702,
+    "timestampMs": 27682,
+    "confidence": null
+  },
+  {
+    "text": " printer",
+    "startMs": 27802,
+    "endMs": 28142,
+    "timestampMs": 27802,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 28202,
+    "endMs": 28322,
+    "timestampMs": 28202,
+    "confidence": null
+  },
+  {
+    "text": " works.",
+    "startMs": 28382,
+    "endMs": 28682,
+    "timestampMs": 28382,
+    "confidence": null
+  },
+  {
+    "text": " I'm",
+    "startMs": 28942,
+    "endMs": 29002,
+    "timestampMs": 28942,
+    "confidence": null
+  },
+  {
+    "text": " top",
+    "startMs": 29182,
+    "endMs": 29402,
+    "timestampMs": 29182,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 29482,
+    "endMs": 29522,
+    "timestampMs": 29482,
+    "confidence": null
+  },
+  {
+    "text": " my",
+    "startMs": 29602,
+    "endMs": 29682,
+    "timestampMs": 29602,
+    "confidence": null
+  },
+  {
+    "text": " class!",
+    "startMs": 29762,
+    "endMs": 30202,
+    "timestampMs": 29762,
+    "confidence": null
+  },
+  {
+    "text": " …You're",
+    "startMs": 30742,
+    "endMs": 30982,
+    "timestampMs": 30742,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 31062,
+    "endMs": 31142,
+    "timestampMs": 31062,
+    "confidence": null
+  },
+  {
+    "text": " class.",
+    "startMs": 31182,
+    "endMs": 31682,
+    "timestampMs": 31182,
+    "confidence": null
+  }
+]

@@ -1,0 +1,327 @@
+{
+  "fps": 60,
+  "lines": [
+    {
+      "id": "chair",
+      "speaker": "interviewer",
+      "text": "You brought your AI to a job interview?",
+      "sourceWindow": [
+        0.045,
+        2.53
+      ],
+      "afterPause": 0.08,
+      "rows": [
+        4,
+        4
+      ],
+      "accent": [
+        3,
+        6,
+        7
+      ],
+      "action": "meet",
+      "shot": "Opus rolls in alongside Alex. A red corner sticks out from under the interview notes."
+    },
+    {
+      "id": "demo",
+      "speaker": "alex",
+      "text": "She’s running the demo. I’ll take the questions.",
+      "sourceWindow": [
+        0,
+        2.48
+      ],
+      "afterPause": 0.74,
+      "rows": [
+        4,
+        4
+      ],
+      "accent": [
+        3,
+        7
+      ],
+      "action": "tap",
+      "shot": "One press on Buy now charges the same mug twice."
+    },
+    {
+      "id": "backend",
+      "speaker": "interviewer",
+      "text": "Who wrote the backend?",
+      "sourceWindow": [
+        2.78,
+        4.04
+      ],
+      "afterPause": 0.74,
+      "rows": [
+        3,
+        1
+      ],
+      "accent": [
+        3
+      ],
+      "action": "raise-hand",
+      "shot": "Alex leans forward to answer. Opus raises her hand."
+    },
+    {
+      "id": "fix",
+      "speaker": "interviewer",
+      "text": "And who fixed that checkout bug?",
+      "sourceWindow": [
+        4.12,
+        6.17
+      ],
+      "afterPause": 0.8,
+      "rows": [
+        4,
+        2
+      ],
+      "accent": [
+        4,
+        5
+      ],
+      "action": "repair-build",
+      "shot": "Opus leaves her hand up and uses the other one to run the repaired checkout."
+    },
+    {
+      "id": "now",
+      "speaker": "alex",
+      "text": "It used to say ‘Buy.’ I added ‘now.’",
+      "sourceWindow": [
+        2.65,
+        5.83
+      ],
+      "afterPause": 0.57,
+      "rows": [
+        5,
+        3
+      ],
+      "accent": [
+        4,
+        7
+      ],
+      "action": "reveal",
+      "shot": "Alex points to the word he contributed to the button."
+    },
+    {
+      "id": "salary",
+      "speaker": "interviewer",
+      "text": "We’d love to talk salary.",
+      "sourceWindow": [
+        6.37,
+        8.22
+      ],
+      "afterPause": 1.65,
+      "rows": [
+        3,
+        2
+      ],
+      "accent": [
+        4
+      ],
+      "action": "handoff",
+      "shot": "Alex straightens his tie as the interviewer slides the offer past him."
+    },
+    {
+      "id": "room",
+      "speaker": "interviewer",
+      "text": "Alex, could you give us the room?",
+      "sourceWindow": [
+        8.47,
+        10.34
+      ],
+      "afterPause": 0.16,
+      "rows": [
+        3,
+        4
+      ],
+      "accent": [
+        6
+      ],
+      "action": "catch",
+      "shot": "Opus stops the red envelope with her hand. Alex holds his empty palm out."
+    }
+  ],
+  "cueWords": {
+    "bugClick": [
+      "demo",
+      3,
+      0.23
+    ],
+    "chargeOne": [
+      "demo",
+      3,
+      0.33
+    ],
+    "chargeTwo": [
+      "demo",
+      4,
+      0.2
+    ],
+    "raise": [
+      "backend",
+      3,
+      0.32
+    ],
+    "reset": [
+      "fix",
+      2,
+      -0.02
+    ],
+    "fixClick": [
+      "fix",
+      5,
+      0.09
+    ],
+    "paid": [
+      "fix",
+      5,
+      0.23
+    ],
+    "point": [
+      "now",
+      0,
+      -0.12
+    ],
+    "buy": [
+      "now",
+      4,
+      0
+    ],
+    "now": [
+      "now",
+      7,
+      0
+    ],
+    "salaryMove": [
+      "salary",
+      1,
+      0.02
+    ],
+    "tie": [
+      "salary",
+      4,
+      -0.04
+    ],
+    "offerOut": [
+      "salary",
+      4,
+      0.44
+    ],
+    "reach": [
+      "salary",
+      4,
+      0.75
+    ],
+    "offerPass": [
+      "room",
+      0,
+      -0.99
+    ],
+    "catch": [
+      "room",
+      0,
+      -0.44
+    ]
+  },
+  "sounds": {
+    "chair": {
+      "file": "slide.mp3",
+      "sourceRange": [
+        2.89,
+        3.47
+      ],
+      "peak": 0.084
+    },
+    "click": {
+      "file": "click.wav",
+      "sourceRange": [
+        0,
+        0.15
+      ],
+      "peak": 0.125
+    },
+    "charge": {
+      "file": "pop.mp3",
+      "sourceRange": [
+        0.01,
+        0.088
+      ],
+      "peak": 0.136
+    },
+    "move": {
+      "file": "swish.wav",
+      "sourceRange": [
+        0.035,
+        0.34
+      ],
+      "peak": 0.053
+    },
+    "paper": {
+      "file": "slide.mp3",
+      "sourceRange": [
+        1.32,
+        2.14
+      ],
+      "peak": 0.14
+    },
+    "stop": {
+      "file": "click.wav",
+      "sourceRange": [
+        0,
+        0.07
+      ],
+      "peak": 0.052
+    }
+  },
+  "foley": [
+    [
+      "opening",
+      "chair",
+      0
+    ],
+    [
+      "bugClick",
+      "click",
+      0
+    ],
+    [
+      "chargeOne",
+      "charge",
+      0
+    ],
+    [
+      "chargeTwo",
+      "charge",
+      0
+    ],
+    [
+      "reset",
+      "move",
+      0
+    ],
+    [
+      "fixClick",
+      "click",
+      0
+    ],
+    [
+      "paid",
+      "charge",
+      0
+    ],
+    [
+      "salaryMove",
+      "move",
+      0
+    ],
+    [
+      "offerOut",
+      "paper",
+      0.2
+    ],
+    [
+      "catch",
+      "stop",
+      0
+    ]
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "edition": "motion-pixel-v1",
+  "contact": "Mia",
+  "outgoing": "See you tonight?",
+  "reply": "OK.",
+  "thoughtDrafts": [
+    "Are you mad?",
+    "What did I do?",
+    "We need to talk."
+  ],
+  "studyEmail": "Sounds good.",
+  "senderInterpretation": "Friendly",
+  "readerInterpretation": "Sarcastic?",
+  "finalReply": "Bring napkins \ud83d\ude02",
+  "finalDraft": "On my way \ud83d\ude02",
+  "lines": [
+    {
+      "id": "hook",
+      "text": "One word. And suddenly you think the relationship is over."
+    },
+    {
+      "id": "reading",
+      "text": "You read, okay. In your head, it sounds like this."
+    },
+    {
+      "id": "cues",
+      "text": "Text gives you words. You add the voice, the face, the entire argument."
+    },
+    {
+      "id": "study",
+      "text": "In an email study, people overestimated how clearly their tone came across."
+    },
+    {
+      "id": "reconsider",
+      "text": "So before you turn okay into I hate you, consider her side."
+    },
+    {
+      "id": "sender",
+      "text": "She's eating a sandwich, typing with one greasy finger."
+    },
+    {
+      "id": "payoff",
+      "text": "You're planning a breakup. She's asking for napkins."
+    }
+  ],
+  "motionTiming": {
+    "tapApproachSeconds": 0.45,
+    "tapRippleSeconds": 0.4,
+    "pressInSeconds": 0.1,
+    "pressHoldSeconds": 0.12,
+    "pressOutSeconds": 0.16,
+    "toneAttackSeconds": 0.16,
+    "toneReleaseSeconds": 0.12
+  }
+}

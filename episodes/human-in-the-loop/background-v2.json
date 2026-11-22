@@ -1,0 +1,10 @@
+{
+  "source": "output/imagegen/human-in-the-loop/lava-v2/native-wax.gif",
+  "video": "episodes/human-in-the-loop/art/charcoal-lava-v2.mp4",
+  "gif": "output/imagegen/human-in-the-loop/lava-v2/charcoal-lava-loop.gif",
+  "cycleSeconds": 48,
+  "fps": 60,
+  "gifFps": 25,
+  "startPhase": 0.06,
+  "waxEdgePixels": 23
+}

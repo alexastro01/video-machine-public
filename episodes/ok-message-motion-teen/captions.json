@@ -1,0 +1,275 @@
+[
+  {
+    "text": "One word.",
+    "startMs": 0,
+    "endMs": 800,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "And suddenly",
+    "startMs": 900,
+    "endMs": 2020,
+    "timestampMs": 900,
+    "confidence": null
+  },
+  {
+    "text": "you think",
+    "startMs": 2020,
+    "endMs": 2500,
+    "timestampMs": 2020,
+    "confidence": null
+  },
+  {
+    "text": "the relationship",
+    "startMs": 2500,
+    "endMs": 3120,
+    "timestampMs": 2500,
+    "confidence": null
+  },
+  {
+    "text": "is over.",
+    "startMs": 3120,
+    "endMs": 3900,
+    "timestampMs": 3120,
+    "confidence": null
+  },
+  {
+    "text": "You read,",
+    "startMs": 4223,
+    "endMs": 4692,
+    "timestampMs": 4223,
+    "confidence": null
+  },
+  {
+    "text": "okay. In",
+    "startMs": 5007,
+    "endMs": 6092,
+    "timestampMs": 5007,
+    "confidence": null
+  },
+  {
+    "text": "your head,",
+    "startMs": 6092,
+    "endMs": 6632,
+    "timestampMs": 6092,
+    "confidence": null
+  },
+  {
+    "text": "it sounds",
+    "startMs": 6632,
+    "endMs": 7232,
+    "timestampMs": 6632,
+    "confidence": null
+  },
+  {
+    "text": "like this.",
+    "startMs": 7232,
+    "endMs": 7992,
+    "timestampMs": 7232,
+    "confidence": null
+  },
+  {
+    "text": "Okay.",
+    "startMs": 8167,
+    "endMs": 9227,
+    "timestampMs": 8167,
+    "confidence": null
+  },
+  {
+    "text": "Text gives",
+    "startMs": 9740,
+    "endMs": 10368,
+    "timestampMs": 9740,
+    "confidence": null
+  },
+  {
+    "text": "you words.",
+    "startMs": 10368,
+    "endMs": 11028,
+    "timestampMs": 10368,
+    "confidence": null
+  },
+  {
+    "text": "You add",
+    "startMs": 11508,
+    "endMs": 11848,
+    "timestampMs": 11508,
+    "confidence": null
+  },
+  {
+    "text": "the voice,",
+    "startMs": 11848,
+    "endMs": 12448,
+    "timestampMs": 11848,
+    "confidence": null
+  },
+  {
+    "text": "the face,",
+    "startMs": 12708,
+    "endMs": 13208,
+    "timestampMs": 12708,
+    "confidence": null
+  },
+  {
+    "text": "the entire",
+    "startMs": 13368,
+    "endMs": 13988,
+    "timestampMs": 13368,
+    "confidence": null
+  },
+  {
+    "text": "argument.",
+    "startMs": 13988,
+    "endMs": 14448,
+    "timestampMs": 13988,
+    "confidence": null
+  },
+  {
+    "text": "In an",
+    "startMs": 14907,
+    "endMs": 15446,
+    "timestampMs": 14907,
+    "confidence": null
+  },
+  {
+    "text": "email study,",
+    "startMs": 15446,
+    "endMs": 15846,
+    "timestampMs": 15446,
+    "confidence": null
+  },
+  {
+    "text": "people overestimated",
+    "startMs": 16146,
+    "endMs": 17226,
+    "timestampMs": 16146,
+    "confidence": null
+  },
+  {
+    "text": "how clearly",
+    "startMs": 17226,
+    "endMs": 18026,
+    "timestampMs": 17226,
+    "confidence": null
+  },
+  {
+    "text": "their tone",
+    "startMs": 18026,
+    "endMs": 18566,
+    "timestampMs": 18026,
+    "confidence": null
+  },
+  {
+    "text": "came across.",
+    "startMs": 18566,
+    "endMs": 19206,
+    "timestampMs": 18566,
+    "confidence": null
+  },
+  {
+    "text": "So before",
+    "startMs": 19557,
+    "endMs": 20135,
+    "timestampMs": 19557,
+    "confidence": null
+  },
+  {
+    "text": "you turn",
+    "startMs": 20135,
+    "endMs": 20695,
+    "timestampMs": 20135,
+    "confidence": null
+  },
+  {
+    "text": "okay into",
+    "startMs": 20695,
+    "endMs": 21835,
+    "timestampMs": 20695,
+    "confidence": null
+  },
+  {
+    "text": "I hate",
+    "startMs": 21835,
+    "endMs": 22575,
+    "timestampMs": 21835,
+    "confidence": null
+  },
+  {
+    "text": "you, consider",
+    "startMs": 22575,
+    "endMs": 23515,
+    "timestampMs": 22575,
+    "confidence": null
+  },
+  {
+    "text": "her side.",
+    "startMs": 23515,
+    "endMs": 24195,
+    "timestampMs": 23515,
+    "confidence": null
+  },
+  {
+    "text": "She's eating",
+    "startMs": 24457,
+    "endMs": 24927,
+    "timestampMs": 24457,
+    "confidence": null
+  },
+  {
+    "text": "a sandwich,",
+    "startMs": 24927,
+    "endMs": 25707,
+    "timestampMs": 24927,
+    "confidence": null
+  },
+  {
+    "text": "typing with",
+    "startMs": 26087,
+    "endMs": 26467,
+    "timestampMs": 26087,
+    "confidence": null
+  },
+  {
+    "text": "one greasy",
+    "startMs": 26467,
+    "endMs": 27187,
+    "timestampMs": 26467,
+    "confidence": null
+  },
+  {
+    "text": "finger.",
+    "startMs": 27187,
+    "endMs": 27607,
+    "timestampMs": 27187,
+    "confidence": null
+  },
+  {
+    "text": "You're planning",
+    "startMs": 27940,
+    "endMs": 28479,
+    "timestampMs": 27940,
+    "confidence": null
+  },
+  {
+    "text": "a breakup.",
+    "startMs": 28479,
+    "endMs": 29159,
+    "timestampMs": 28479,
+    "confidence": null
+  },
+  {
+    "text": "She's asking",
+    "startMs": 29159,
+    "endMs": 30039,
+    "timestampMs": 29159,
+    "confidence": null
+  },
+  {
+    "text": "for napkins.",
+    "startMs": 30039,
+    "endMs": 30819,
+    "timestampMs": 30039,
+    "confidence": null
+  }
+]

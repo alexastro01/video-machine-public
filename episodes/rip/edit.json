@@ -1,0 +1,209 @@
+{
+  "fps": 60,
+  "frames": 1920,
+  "lines": [
+    {
+      "id": "kill-finance",
+      "text": "Claude killed finance.",
+      "onset": 0.09,
+      "groups": [
+        2,
+        1
+      ],
+      "strong": [
+        "killed",
+        "finance"
+      ],
+      "direction": "Deliver it as an understated three-word cold open. Speak in one brisk breath, perfectly clear. A little stress on finance, with a definite ending and no pause in the middle. Around 1.1 seconds."
+    },
+    {
+      "id": "accounting-final",
+      "text": "Claude killed accounting.",
+      "onset": 2.58,
+      "groups": [
+        2,
+        1
+      ],
+      "strong": [
+        "killed",
+        "accounting"
+      ],
+      "direction": "One brisk deadpan sentence, exactly three words. Land the word accounting clearly as the profession, pronounced uh-KOWN-ting. Give the word a little space after killed. No added article, no extra words. Around 1.15 seconds."
+    },
+    {
+      "id": "kill-editing",
+      "text": "Claude killed video editing.",
+      "onset": 4.65,
+      "groups": [
+        2,
+        2
+      ],
+      "strong": [
+        "video",
+        "editing"
+      ],
+      "direction": "Third item in a deadpan list. The same brisk three-beat cadence. Keep video editing connected, finish on editing with a tiny smile. Around 1.4 seconds."
+    },
+    {
+      "id": "blog",
+      "text": "I wrote one blog post.",
+      "onset": 8.98,
+      "groups": [
+        2,
+        3
+      ],
+      "strong": [
+        "one",
+        "blog",
+        "post"
+      ],
+      "direction": "A dry, incredulous understatement directly to camera. Lean a little on ONE. Speak conversationally in about 1.4 seconds."
+    },
+    {
+      "id": "cool",
+      "text": "Okay. That one was kind of cool.",
+      "onset": 12.58,
+      "groups": [
+        1,
+        3,
+        3
+      ],
+      "strong": [
+        "kind",
+        "cool"
+      ],
+      "direction": "A tiny smile she cannot hide. A short beat after Okay, then the rest in one breath. Wry and slightly smug on cool. Aim for 1.8 seconds."
+    },
+    {
+      "id": "wait",
+      "text": "Wait for it.",
+      "onset": 17.68,
+      "groups": [
+        3
+      ],
+      "strong": [
+        "wait"
+      ],
+      "direction": "A small conspiratorial invitation, as though she is showing a friend a trick. Soft and expectant, under a second."
+    },
+    {
+      "id": "programmers-final",
+      "text": "Claude killed programmers.",
+      "onset": 20.51,
+      "groups": [
+        2,
+        1
+      ],
+      "strong": [
+        "killed",
+        "programmers"
+      ],
+      "direction": "Speak precisely three words: Claude, killed, programmers. Use the same dry, matter-of-fact list cadence. Leave a very short silent beat after the D of killed, then start the P of programmers directly. Pronounce only the supplied three words. No articles. Finish the boast crisply in about 1.25 seconds."
+    },
+    {
+      "id": "alex",
+      "text": "Alex? Got a second?",
+      "onset": 24.55,
+      "groups": [
+        1,
+        3
+      ],
+      "strong": [
+        "Alex",
+        "second"
+      ],
+      "direction": "Lower her volume like she is asking someone standing next to her for a discreet favor. Small pause after Alex, then an awkward casual question. Around 1.3 seconds."
+    },
+    {
+      "id": "right",
+      "text": "…You're absolutely right.",
+      "onset": 30.5,
+      "groups": [
+        1,
+        2
+      ],
+      "strong": [
+        "absolutely",
+        "right"
+      ],
+      "direction": "Completely deadpan, quiet and precise. Three words as one short statement, with a clean downward landing on right. Around 1.25 seconds, no sigh, laugh, or trailing sound."
+    }
+  ],
+  "posts": {
+    "article": "Three things Claude can do",
+    "draft": "Claude can help programmers.",
+    "replace": "Claude can replace programmers."
+  },
+  "cues": {
+    "publish": [
+      1263
+    ],
+    "draftType": [
+      954,
+      989
+    ],
+    "selectHelp": 1089,
+    "replaceType": [
+      1119,
+      1143
+    ],
+    "failed": 1298,
+    "leanIn": 1620,
+    "contact": 1640,
+    "closeParen": 1688,
+    "enter": 1698,
+    "passed": 1702,
+    "leanOut": 1720,
+    "alexGone": 1761,
+    "silence": 1770,
+    "lastVoice": 1830,
+    "post": 504,
+    "playback": 720,
+    "draft": 948,
+    "approach": 1025,
+    "returnToPublish": 1194,
+    "openCut": 708
+  },
+  "wordEdit": {
+    "from": "help",
+    "to": "replace"
+  },
+  "build": {
+    "file": "post.ts",
+    "functionName": "build",
+    "failed": "Build failed.",
+    "passed": "Build passed ✓"
+  },
+  "industries": [
+    {
+      "id": "finance",
+      "lineId": "kill-finance",
+      "name": "Finance",
+      "app": "Cash flow forecast",
+      "result": "Forecast ready",
+      "task": "Forecast cash flow",
+      "impact": 80,
+      "startFrame": 0
+    },
+    {
+      "id": "accounting",
+      "lineId": "accounting-final",
+      "name": "Accounting",
+      "app": "Bank reconciliation",
+      "result": "All matched",
+      "task": "Match invoices",
+      "impact": 233,
+      "startFrame": 152
+    },
+    {
+      "id": "editing",
+      "lineId": "kill-editing",
+      "name": "Video editing",
+      "app": "Rough cut",
+      "result": "Gap removed",
+      "task": "Cut a rough edit",
+      "impact": 386,
+      "startFrame": 273
+    }
+  ]
+}

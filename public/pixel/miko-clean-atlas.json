@@ -1,0 +1,101 @@
+{
+  "width": 1774,
+  "height": 887,
+  "columns": 4,
+  "rows": 2,
+  "cellWidth": 443,
+  "cellHeight": 443,
+  "crop": {
+    "x": 88,
+    "y": 55,
+    "width": 259,
+    "height": 330
+  },
+  "poses": {
+    "idle": 0,
+    "walk": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "point": 4,
+    "think": 5,
+    "surprised": 6,
+    "reach": 7
+  },
+  "cells": [
+    {
+      "left": 116,
+      "top": 57,
+      "right": 333,
+      "bottom": 382,
+      "originX": 0,
+      "originY": 0,
+      "pixels": 48711
+    },
+    {
+      "left": 117,
+      "top": 57,
+      "right": 335,
+      "bottom": 382,
+      "originX": 443,
+      "originY": 0,
+      "pixels": 48641
+    },
+    {
+      "left": 116,
+      "top": 57,
+      "right": 334,
+      "bottom": 382,
+      "originX": 887,
+      "originY": 0,
+      "pixels": 44640
+    },
+    {
+      "left": 117,
+      "top": 57,
+      "right": 335,
+      "bottom": 382,
+      "originX": 1330,
+      "originY": 0,
+      "pixels": 48257
+    },
+    {
+      "left": 116,
+      "top": 57,
+      "right": 344,
+      "bottom": 381,
+      "originX": 0,
+      "originY": 443,
+      "pixels": 48951
+    },
+    {
+      "left": 117,
+      "top": 57,
+      "right": 335,
+      "bottom": 381,
+      "originX": 443,
+      "originY": 443,
+      "pixels": 46669
+    },
+    {
+      "left": 115,
+      "top": 57,
+      "right": 334,
+      "bottom": 381,
+      "originX": 887,
+      "originY": 443,
+      "pixels": 50215
+    },
+    {
+      "left": 90,
+      "top": 57,
+      "right": 335,
+      "bottom": 381,
+      "originX": 1330,
+      "originY": 443,
+      "pixels": 51887
+    }
+  ]
+}

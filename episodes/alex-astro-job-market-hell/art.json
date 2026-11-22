@@ -1,0 +1,90 @@
+{
+  "provider": "OpenAI Images API",
+  "model": "gpt-image-2",
+  "inputs": [
+    "public/episodes/alex-astro-instagram-algorithm-rpg/art/alex-quest-recoil.png",
+    "public/episodes/alex-astro-instagram-algorithm-rpg/art/opus-quest-left.png",
+    "output/imagegen/alex-astro-job-market-hell/cast.png",
+    "public/episodes/alex-astro-instagram-algorithm-rpg/art/alex-payoff-portrait-talk.png",
+    "public/episodes/alex-astro-instagram-algorithm-rpg/art/opus-payoff-portrait-talk.png"
+  ],
+  "masters": [
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/cast.png",
+      "sha256": "cca7bf17791cdf0a24e9a700e48f35bba464fbcc9f78a9b0316acadfb794e8bb",
+      "prompt": "art-direction/cast.txt",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/gate.png",
+      "sha256": "9a43ce6180a10ea5d29341d49b613d21cdb0592c3879c50790e719cb31e1bade",
+      "prompt": "art-direction/gate.txt",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/letter.png",
+      "sha256": "b39d78778a383e43d809ea6850dc966cc28962aa787ca6cbac3813a9ba5881ac",
+      "prompt": "art-direction/letter.txt",
+      "quality": "medium"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/listening.png",
+      "sha256": "771df155e9d4f789784d405d50799798b8186c98432751e71cb17dd63ec2f5ff",
+      "prompt": "art-direction/listening.txt",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/portrait-opus.png",
+      "sha256": "8e21dce156f0533bd989956a96a84f7bfe74bede40b6478819678dd615d4374c",
+      "prompt": "art-direction/portrait-opus.txt",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/portrait-question.png",
+      "sha256": "f2cbddbf41a10bdc460d7eb7460d0744f3d2a6d38e82cb26833f25490c1d55bd",
+      "prompt": "art-direction/portrait-question.txt",
+      "quality": "high"
+    },
+    {
+      "file": "output/imagegen/alex-astro-job-market-hell/portrait-two.png",
+      "sha256": "4bcfcd2735fa45742e83bfcf8eb758151a7a114e9e22df6f7a2a26dbaf6735a0",
+      "prompt": "art-direction/portrait-two.txt",
+      "quality": "high"
+    }
+  ],
+  "layers": {
+    "alex-guard": [
+      68,
+      96
+    ],
+    "alex-listen": [
+      37,
+      96
+    ],
+    "alex-two": [
+      52,
+      96
+    ],
+    "gate": [
+      270,
+      480
+    ],
+    "letter": [
+      30,
+      19
+    ],
+    "opus-explain": [
+      55,
+      96
+    ],
+    "opus-listen": [
+      34,
+      96
+    ],
+    "opus-shrug": [
+      61,
+      96
+    ]
+  },
+  "dialoguePortraits": "portraits.json"
+}

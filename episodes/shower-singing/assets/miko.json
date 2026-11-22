@@ -1,0 +1,86 @@
+{
+  "sing": {
+    "file": "episodes/shower-singing/art/miko-sing.png",
+    "width": 554,
+    "height": 932,
+    "pivotX": 221.934,
+    "footY": 928,
+    "sourceCell": 0,
+    "sourceBounds": [
+      353,
+      40,
+      899,
+      964
+    ],
+    "crop": [
+      349,
+      36,
+      903,
+      968
+    ],
+    "approvedForUse": true
+  },
+  "rest": {
+    "file": "episodes/shower-singing/art/miko-rest.png",
+    "width": 553,
+    "height": 932,
+    "pivotX": 221.049,
+    "footY": 928,
+    "sourceCell": 1,
+    "sourceBounds": [
+      269,
+      40,
+      814,
+      964
+    ],
+    "crop": [
+      265,
+      36,
+      818,
+      968
+    ],
+    "approvedForUse": true
+  },
+  "surprised": {
+    "file": "episodes/shower-singing/art/miko-surprised.png",
+    "width": 488,
+    "height": 939,
+    "pivotX": 229.915,
+    "footY": 935,
+    "sourceCell": 2,
+    "sourceBounds": [
+      345,
+      34,
+      825,
+      965
+    ],
+    "crop": [
+      341,
+      30,
+      829,
+      969
+    ],
+    "approvedForUse": true
+  },
+  "deadpan": {
+    "file": "episodes/shower-singing/art/miko-deadpan.png",
+    "width": 550,
+    "height": 943,
+    "pivotX": 318.758,
+    "footY": 939,
+    "sourceCell": 3,
+    "sourceBounds": [
+      138,
+      34,
+      680,
+      969
+    ],
+    "crop": [
+      134,
+      30,
+      684,
+      973
+    ],
+    "approvedForUse": true
+  }
+}

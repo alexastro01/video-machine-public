@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "id": "norbert-explains-billionaire-income-tax",
+  "project": "norbert-explains",
+  "title": "How Can a Billionaire Pay Zero Income Tax?",
+  "premise": "Miko's stock doubles overnight. In the review opening, his federal tax on the rise stays at zero and he still owns every share.",
+  "renderer": "remotion",
+  "world": "share-ledger",
+  "fiction": true,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "duration": 11.016666666666667,
+  "hook": "none",
+  "closingFade": false,
+  "cast": [
+    "miko"
+  ],
+  "audio": {
+    "narrationOffset": 0,
+    "narration": "episodes/norbert-explains-billionaire-income-tax/narration.wav",
+    "music": "episodes/norbert-explains-billionaire-income-tax/music.wav",
+    "effects": "episodes/norbert-explains-billionaire-income-tax/effects.wav",
+    "narrationTail": 0.5041666666666682
+  },
+  "scenes": [
+    {
+      "id": "morning",
+      "action": "wake",
+      "set": "study-desk",
+      "anchor": "Miko",
+      "label": "Miko checks his portfolio at breakfast",
+      "start": 0,
+      "duration": 2.95
+    },
+    {
+      "id": "tax-slip",
+      "action": "reveal",
+      "set": "study-desk",
+      "anchor": "He owes",
+      "label": "A pencil circles the unchanged zero",
+      "start": 2.95,
+      "duration": 3.1166666666666663
+    },
+    {
+      "id": "price",
+      "action": "scan",
+      "set": "study-graphics",
+      "anchor": "His stock",
+      "label": "The certificate follows its seal into the share-price diagram",
+      "start": 6.066666666666666,
+      "duration": 2.5500000000000007
+    },
+    {
+      "id": "ownership",
+      "action": "reveal",
+      "set": "study-graphics",
+      "anchor": "He hasn’t",
+      "label": "Miko keeps the certificate and the sales slip records zero shares sold",
+      "start": 8.616666666666667,
+      "duration": 2.4000000000000004
+    }
+  ]
+}

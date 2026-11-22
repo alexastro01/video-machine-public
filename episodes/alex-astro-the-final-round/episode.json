@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "id": "alex-astro-the-final-round",
+  "project": "alex-astro",
+  "title": "The Final Round",
+  "renderer": "remotion",
+  "world": "final-round",
+  "number": 43,
+  "premise": "Alex brings his AI to a job interview. Only one of them gets to talk salary.",
+  "fiction": true,
+  "closingFade": false,
+  "fps": 60,
+  "aspectRatio": "9:16",
+  "cast": [
+    "alex",
+    "opus",
+    "interviewer"
+  ],
+  "audio": {
+    "narration": "episodes/alex-astro-the-final-round/narration.wav",
+    "music": "episodes/alex-astro-the-final-round/music.wav",
+    "effects": "episodes/alex-astro-the-final-round/effects.wav",
+    "narrationOffset": 0,
+    "narrationTail": 0.459167
+  },
+  "duration": 19.916666666666668,
+  "scenes": [
+    {
+      "id": "chair",
+      "label": "chair",
+      "start": 0,
+      "duration": 2.565,
+      "anchor": "You brought your AI to a job interview?",
+      "set": "developer-ui",
+      "action": "meet",
+      "timeOfDay": "day",
+      "description": "Opus rolls in alongside Alex. A red corner sticks out from under the interview notes."
+    },
+    {
+      "id": "demo",
+      "label": "demo",
+      "start": 2.565,
+      "duration": 3.22,
+      "anchor": "She’s running the demo. I’ll take the questions.",
+      "set": "developer-ui",
+      "action": "tap",
+      "timeOfDay": "day",
+      "description": "One press on Buy now charges the same mug twice."
+    },
+    {
+      "id": "backend",
+      "label": "backend",
+      "start": 5.785,
+      "duration": 2.0,
+      "anchor": "Who wrote the backend?",
+      "set": "developer-ui",
+      "action": "raise-hand",
+      "timeOfDay": "day",
+      "description": "Alex leans forward to answer. Opus raises her hand."
+    },
+    {
+      "id": "fix",
+      "label": "fix",
+      "start": 7.785,
+      "duration": 2.8499999999999996,
+      "anchor": "And who fixed that checkout bug?",
+      "set": "developer-ui",
+      "action": "repair-build",
+      "timeOfDay": "day",
+      "description": "Opus leaves her hand up and uses the other one to run the repaired checkout."
+    },
+    {
+      "id": "now",
+      "label": "now",
+      "start": 10.635,
+      "duration": 3.75,
+      "anchor": "It used to say ‘Buy.’ I added ‘now.’",
+      "set": "developer-ui",
+      "action": "reveal",
+      "timeOfDay": "day",
+      "description": "Alex points to the word he contributed to the button."
+    },
+    {
+      "id": "salary",
+      "label": "salary",
+      "start": 14.385,
+      "duration": 3.4999999999999982,
+      "anchor": "We’d love to talk salary.",
+      "set": "developer-ui",
+      "action": "handoff",
+      "timeOfDay": "day",
+      "description": "Alex straightens his tie as the interviewer slides the offer past him."
+    },
+    {
+      "id": "room",
+      "label": "room",
+      "start": 17.884999999999998,
+      "duration": 2.03166666666667,
+      "anchor": "Alex, could you give us the room?",
+      "set": "developer-ui",
+      "action": "catch",
+      "timeOfDay": "day",
+      "description": "Opus stops the red envelope with her hand. Alex holds his empty palm out."
+    }
+  ]
+}

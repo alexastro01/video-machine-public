@@ -1,0 +1,758 @@
+[
+  {
+    "text": "You're",
+    "startMs": 0,
+    "endMs": 201,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 267,
+    "endMs": 334,
+    "timestampMs": 267,
+    "confidence": null
+  },
+  {
+    "text": " pilot,",
+    "startMs": 401,
+    "endMs": 1203,
+    "timestampMs": 401,
+    "confidence": null
+  },
+  {
+    "text": " 10",
+    "startMs": 1270,
+    "endMs": 1404,
+    "timestampMs": 1270,
+    "confidence": null
+  },
+  {
+    "text": " minutes",
+    "startMs": 1470,
+    "endMs": 1671,
+    "timestampMs": 1470,
+    "confidence": null
+  },
+  {
+    "text": " from",
+    "startMs": 1738,
+    "endMs": 1805,
+    "timestampMs": 1738,
+    "confidence": null
+  },
+  {
+    "text": " Heathrow…",
+    "startMs": 1871,
+    "endMs": 2874,
+    "timestampMs": 1871,
+    "confidence": null
+  },
+  {
+    "text": " when",
+    "startMs": 2941,
+    "endMs": 3008,
+    "timestampMs": 2941,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3075,
+    "endMs": 3141,
+    "timestampMs": 3075,
+    "confidence": null
+  },
+  {
+    "text": " runway",
+    "startMs": 3275,
+    "endMs": 3676,
+    "timestampMs": 3275,
+    "confidence": null
+  },
+  {
+    "text": " disappears.",
+    "startMs": 3743,
+    "endMs": 4679,
+    "timestampMs": 3743,
+    "confidence": null
+  },
+  {
+    "text": " The",
+    "startMs": 4879,
+    "endMs": 4946,
+    "timestampMs": 4879,
+    "confidence": null
+  },
+  {
+    "text": " entire",
+    "startMs": 5013,
+    "endMs": 5614,
+    "timestampMs": 5013,
+    "confidence": null
+  },
+  {
+    "text": " UK",
+    "startMs": 5748,
+    "endMs": 6149,
+    "timestampMs": 5748,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 6283,
+    "endMs": 6416,
+    "timestampMs": 6283,
+    "confidence": null
+  },
+  {
+    "text": " vanished.",
+    "startMs": 6617,
+    "endMs": 7352,
+    "timestampMs": 6617,
+    "confidence": null
+  },
+  {
+    "text": " Ireland",
+    "startMs": 7553,
+    "endMs": 7887,
+    "timestampMs": 7553,
+    "confidence": null
+  },
+  {
+    "text": " wakes",
+    "startMs": 7954,
+    "endMs": 8154,
+    "timestampMs": 7954,
+    "confidence": null
+  },
+  {
+    "text": " up",
+    "startMs": 8221,
+    "endMs": 8355,
+    "timestampMs": 8221,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 8422,
+    "endMs": 8488,
+    "timestampMs": 8422,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 8589,
+    "endMs": 8689,
+    "timestampMs": 8589,
+    "confidence": null
+  },
+  {
+    "text": " brand-new",
+    "startMs": 8856,
+    "endMs": 9290,
+    "timestampMs": 8856,
+    "confidence": null
+  },
+  {
+    "text": " northern",
+    "startMs": 9357,
+    "endMs": 9625,
+    "timestampMs": 9357,
+    "confidence": null
+  },
+  {
+    "text": " coast.",
+    "startMs": 9691,
+    "endMs": 10293,
+    "timestampMs": 9691,
+    "confidence": null
+  },
+  {
+    "text": " But",
+    "startMs": 10493,
+    "endMs": 10560,
+    "timestampMs": 10493,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 10627,
+    "endMs": 10694,
+    "timestampMs": 10627,
+    "confidence": null
+  },
+  {
+    "text": " empty",
+    "startMs": 10761,
+    "endMs": 11028,
+    "timestampMs": 10761,
+    "confidence": null
+  },
+  {
+    "text": " sea",
+    "startMs": 11162,
+    "endMs": 11362,
+    "timestampMs": 11162,
+    "confidence": null
+  },
+  {
+    "text": " isn't",
+    "startMs": 11496,
+    "endMs": 11630,
+    "timestampMs": 11496,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 11697,
+    "endMs": 11763,
+    "timestampMs": 11697,
+    "confidence": null
+  },
+  {
+    "text": " weird",
+    "startMs": 11830,
+    "endMs": 12031,
+    "timestampMs": 11830,
+    "confidence": null
+  },
+  {
+    "text": " part.",
+    "startMs": 12098,
+    "endMs": 12599,
+    "timestampMs": 12098,
+    "confidence": null
+  },
+  {
+    "text": " It's",
+    "startMs": 12766,
+    "endMs": 13033,
+    "timestampMs": 12766,
+    "confidence": null
+  },
+  {
+    "text": " everything",
+    "startMs": 13100,
+    "endMs": 13568,
+    "timestampMs": 13100,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 13635,
+    "endMs": 13702,
+    "timestampMs": 13635,
+    "confidence": null
+  },
+  {
+    "text": " vanished",
+    "startMs": 13835,
+    "endMs": 14170,
+    "timestampMs": 13835,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 14236,
+    "endMs": 14303,
+    "timestampMs": 14236,
+    "confidence": null
+  },
+  {
+    "text": " it.",
+    "startMs": 14370,
+    "endMs": 14571,
+    "timestampMs": 14370,
+    "confidence": null
+  },
+  {
+    "text": " Fish",
+    "startMs": 14972,
+    "endMs": 15105,
+    "timestampMs": 14972,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 15139,
+    "endMs": 15172,
+    "timestampMs": 15139,
+    "confidence": null
+  },
+  {
+    "text": " chips?",
+    "startMs": 15239,
+    "endMs": 15740,
+    "timestampMs": 15239,
+    "confidence": null
+  },
+  {
+    "text": " Gone.",
+    "startMs": 15907,
+    "endMs": 16442,
+    "timestampMs": 15907,
+    "confidence": null
+  },
+  {
+    "text": " Now",
+    "startMs": 16643,
+    "endMs": 16776,
+    "timestampMs": 16643,
+    "confidence": null
+  },
+  {
+    "text": " it's",
+    "startMs": 16843,
+    "endMs": 16977,
+    "timestampMs": 16843,
+    "confidence": null
+  },
+  {
+    "text": " just…",
+    "startMs": 17044,
+    "endMs": 17645,
+    "timestampMs": 17044,
+    "confidence": null
+  },
+  {
+    "text": " fried",
+    "startMs": 17779,
+    "endMs": 17912,
+    "timestampMs": 17779,
+    "confidence": null
+  },
+  {
+    "text": " fish.",
+    "startMs": 17979,
+    "endMs": 18514,
+    "timestampMs": 17979,
+    "confidence": null
+  },
+  {
+    "text": " Friday",
+    "startMs": 18714,
+    "endMs": 19049,
+    "timestampMs": 18714,
+    "confidence": null
+  },
+  {
+    "text": " night.",
+    "startMs": 19115,
+    "endMs": 19450,
+    "timestampMs": 19115,
+    "confidence": null
+  },
+  {
+    "text": " The",
+    "startMs": 19784,
+    "endMs": 19851,
+    "timestampMs": 19784,
+    "confidence": null
+  },
+  {
+    "text": " pints",
+    "startMs": 19918,
+    "endMs": 20118,
+    "timestampMs": 19918,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 20151,
+    "endMs": 20185,
+    "timestampMs": 20151,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 20252,
+    "endMs": 20319,
+    "timestampMs": 20252,
+    "confidence": null
+  },
+  {
+    "text": " boys?",
+    "startMs": 20519,
+    "endMs": 20920,
+    "timestampMs": 20519,
+    "confidence": null
+  },
+  {
+    "text": " Stopped.",
+    "startMs": 21121,
+    "endMs": 21689,
+    "timestampMs": 21121,
+    "confidence": null
+  },
+  {
+    "text": " Mid-sip.",
+    "startMs": 21856,
+    "endMs": 22457,
+    "timestampMs": 21856,
+    "confidence": null
+  },
+  {
+    "text": " The",
+    "startMs": 22792,
+    "endMs": 22925,
+    "timestampMs": 22792,
+    "confidence": null
+  },
+  {
+    "text": " pound",
+    "startMs": 22992,
+    "endMs": 23326,
+    "timestampMs": 22992,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 23393,
+    "endMs": 23527,
+    "timestampMs": 23393,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 23560,
+    "endMs": 23594,
+    "timestampMs": 23560,
+    "confidence": null
+  },
+  {
+    "text": " world's",
+    "startMs": 23727,
+    "endMs": 24128,
+    "timestampMs": 23727,
+    "confidence": null
+  },
+  {
+    "text": " fourth",
+    "startMs": 24229,
+    "endMs": 24396,
+    "timestampMs": 24229,
+    "confidence": null
+  },
+  {
+    "text": " most",
+    "startMs": 24529,
+    "endMs": 24730,
+    "timestampMs": 24529,
+    "confidence": null
+  },
+  {
+    "text": " traded",
+    "startMs": 24797,
+    "endMs": 25064,
+    "timestampMs": 24797,
+    "confidence": null
+  },
+  {
+    "text": " currency.",
+    "startMs": 25131,
+    "endMs": 25799,
+    "timestampMs": 25131,
+    "confidence": null
+  },
+  {
+    "text": " Overnight,",
+    "startMs": 26000,
+    "endMs": 26802,
+    "timestampMs": 26000,
+    "confidence": null
+  },
+  {
+    "text": " 38",
+    "startMs": 26869,
+    "endMs": 27336,
+    "timestampMs": 26869,
+    "confidence": null
+  },
+  {
+    "text": " percent",
+    "startMs": 27470,
+    "endMs": 27804,
+    "timestampMs": 27470,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 27838,
+    "endMs": 27871,
+    "timestampMs": 27838,
+    "confidence": null
+  },
+  {
+    "text": " global",
+    "startMs": 28005,
+    "endMs": 28272,
+    "timestampMs": 28005,
+    "confidence": null
+  },
+  {
+    "text": " currency",
+    "startMs": 28339,
+    "endMs": 28673,
+    "timestampMs": 28339,
+    "confidence": null
+  },
+  {
+    "text": " trading",
+    "startMs": 28740,
+    "endMs": 29074,
+    "timestampMs": 28740,
+    "confidence": null
+  },
+  {
+    "text": " goes",
+    "startMs": 29141,
+    "endMs": 29408,
+    "timestampMs": 29141,
+    "confidence": null
+  },
+  {
+    "text": " dark.",
+    "startMs": 29475,
+    "endMs": 30043,
+    "timestampMs": 29475,
+    "confidence": null
+  },
+  {
+    "text": " This",
+    "startMs": 30210,
+    "endMs": 30344,
+    "timestampMs": 30210,
+    "confidence": null
+  },
+  {
+    "text": " weekend's",
+    "startMs": 30444,
+    "endMs": 30745,
+    "timestampMs": 30444,
+    "confidence": null
+  },
+  {
+    "text": " Premier",
+    "startMs": 30812,
+    "endMs": 31013,
+    "timestampMs": 30812,
+    "confidence": null
+  },
+  {
+    "text": " League?",
+    "startMs": 31079,
+    "endMs": 31514,
+    "timestampMs": 31079,
+    "confidence": null
+  },
+  {
+    "text": " Cancelled.",
+    "startMs": 31681,
+    "endMs": 32349,
+    "timestampMs": 31681,
+    "confidence": null
+  },
+  {
+    "text": " Forever.",
+    "startMs": 32483,
+    "endMs": 33252,
+    "timestampMs": 32483,
+    "confidence": null
+  },
+  {
+    "text": " So",
+    "startMs": 33486,
+    "endMs": 33686,
+    "timestampMs": 33486,
+    "confidence": null
+  },
+  {
+    "text": " where",
+    "startMs": 33887,
+    "endMs": 34020,
+    "timestampMs": 33887,
+    "confidence": null
+  },
+  {
+    "text": " does",
+    "startMs": 34087,
+    "endMs": 34154,
+    "timestampMs": 34087,
+    "confidence": null
+  },
+  {
+    "text": " our",
+    "startMs": 34221,
+    "endMs": 34354,
+    "timestampMs": 34221,
+    "confidence": null
+  },
+  {
+    "text": " pilot",
+    "startMs": 34388,
+    "endMs": 34689,
+    "timestampMs": 34388,
+    "confidence": null
+  },
+  {
+    "text": " land?",
+    "startMs": 34755,
+    "endMs": 35290,
+    "timestampMs": 34755,
+    "confidence": null
+  },
+  {
+    "text": " Dublin.",
+    "startMs": 35491,
+    "endMs": 36059,
+    "timestampMs": 35491,
+    "confidence": null
+  },
+  {
+    "text": " Dublin",
+    "startMs": 36226,
+    "endMs": 36493,
+    "timestampMs": 36226,
+    "confidence": null
+  },
+  {
+    "text": " Airport",
+    "startMs": 36560,
+    "endMs": 36961,
+    "timestampMs": 36560,
+    "confidence": null
+  },
+  {
+    "text": " has",
+    "startMs": 37028,
+    "endMs": 37228,
+    "timestampMs": 37028,
+    "confidence": null
+  },
+  {
+    "text": " never",
+    "startMs": 37429,
+    "endMs": 37696,
+    "timestampMs": 37429,
+    "confidence": null
+  },
+  {
+    "text": " been",
+    "startMs": 37763,
+    "endMs": 37897,
+    "timestampMs": 37763,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 37964,
+    "endMs": 38030,
+    "timestampMs": 37964,
+    "confidence": null
+  },
+  {
+    "text": " busy.",
+    "startMs": 38097,
+    "endMs": 38665,
+    "timestampMs": 38097,
+    "confidence": null
+  },
+  {
+    "text": " So",
+    "startMs": 38899,
+    "endMs": 39100,
+    "timestampMs": 38899,
+    "confidence": null
+  },
+  {
+    "text": " which",
+    "startMs": 39234,
+    "endMs": 39434,
+    "timestampMs": 39234,
+    "confidence": null
+  },
+  {
+    "text": " country",
+    "startMs": 39501,
+    "endMs": 39768,
+    "timestampMs": 39501,
+    "confidence": null
+  },
+  {
+    "text": " vanishes",
+    "startMs": 39835,
+    "endMs": 40236,
+    "timestampMs": 39835,
+    "confidence": null
+  },
+  {
+    "text": " next?",
+    "startMs": 40437,
+    "endMs": 40771,
+    "timestampMs": 40437,
+    "confidence": null
+  },
+  {
+    "text": " Comment",
+    "startMs": 40904,
+    "endMs": 41105,
+    "timestampMs": 40904,
+    "confidence": null
+  },
+  {
+    "text": " below.",
+    "startMs": 41172,
+    "endMs": 41673,
+    "timestampMs": 41172,
+    "confidence": null
+  },
+  {
+    "text": " Because",
+    "startMs": 41840,
+    "endMs": 42041,
+    "timestampMs": 41840,
+    "confidence": null
+  },
+  {
+    "text": " tomorrow,",
+    "startMs": 42108,
+    "endMs": 42843,
+    "timestampMs": 42108,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 43043,
+    "endMs": 43244,
+    "timestampMs": 43043,
+    "confidence": null
+  },
+  {
+    "text": " could",
+    "startMs": 43377,
+    "endMs": 43444,
+    "timestampMs": 43377,
+    "confidence": null
+  },
+  {
+    "text": " be",
+    "startMs": 43511,
+    "endMs": 43578,
+    "timestampMs": 43511,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 43645,
+    "endMs": 43712,
+    "timestampMs": 43645,
+    "confidence": null
+  },
+  {
+    "text": " pilot…",
+    "startMs": 43778,
+    "endMs": 44376,
+    "timestampMs": 43778,
+    "confidence": null
+  }
+]

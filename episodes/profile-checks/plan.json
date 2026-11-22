@@ -1,0 +1,141 @@
+{
+  "title": "What If Your Crush Could See Your Profile Checks?",
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "style": "motion-pixel",
+  "reference": "OK message v3",
+  "voice": "Kai - Energetic Anime Hero",
+  "voiceId": "S0ypc51SmsvcKXTWvjqJ",
+  "modelId": "eleven_v4",
+  "playbackRate": 1,
+  "fiction": true,
+  "lines": [
+    {
+      "id": "hook",
+      "text": "What if your crush could see your profile checks?"
+    },
+    {
+      "id": "count",
+      "text": "All eighty-eight."
+    },
+    {
+      "id": "close",
+      "text": "You close the app."
+    },
+    {
+      "id": "sent",
+      "text": "Too late. Notification sent."
+    },
+    {
+      "id": "glitch",
+      "text": "You type, \"My phone glitched.\""
+    },
+    {
+      "id": "delete1",
+      "text": "Delete."
+    },
+    {
+      "id": "research",
+      "text": "\"Research.\""
+    },
+    {
+      "id": "delete2",
+      "text": "Delete."
+    },
+    {
+      "id": "typing",
+      "text": "Now she's typing."
+    },
+    {
+      "id": "escape",
+      "text": "You consider moving countries."
+    },
+    {
+      "id": "screenshot",
+      "text": "Then she sends a screenshot."
+    },
+    {
+      "id": "reveal",
+      "text": "She's checked yours ninety-three times."
+    },
+    {
+      "id": "payoff",
+      "text": "Okay. So we're both weird."
+    }
+  ],
+  "ui": {
+    "crushName": "Mia",
+    "protagonistName": "Miko",
+    "counterStart": 87,
+    "counterEnd": 88,
+    "replyCounter": 93,
+    "firstDraft": "My phone glitched.",
+    "secondDraft": "Research.",
+    "receipt": "Notification sent",
+    "closeLabel": "Close app",
+    "fictionalFeature": "Profile checks"
+  },
+  "visualStory": [
+    "Frame one is mid-motion: a large profile card, Mia's pixel portrait, a visible 87 counter and Miko checking it. A tap rolls 87 into 88. No preamble or title banner.",
+    "The count stays visible while its eye icon morphs into a notification. Closing the app compresses the profile card into the same delivered receipt instead of resetting the scene.",
+    "The receipt folds into Mia's chat. Two progressively typed excuses are backspaced, each with a distinct pixel reaction and synchronized typing sound.",
+    "Mia's typing bubble advances into the absurd moving-countries attempt: the same reply card unfolds into a departure ticket. Bring the screenshot in before this detour stalls the story.",
+    "The incoming screenshot expands into the same profile-counter layout, now showing Miko's avatar and 93 checks by Mia. Hold the number long enough to read and let Miko react.",
+    "Two matching portrait cards and counters settle side by side for the dry punchline. Return the right card into the opening profile layout for a visual loop without pretending to make a seamless spoken sentence."
+  ],
+  "channelReviewApplication": [
+    "Problem and counter visible on frame one, with the disclosure established during the hook.",
+    "Seconds 4\u20138 develop the notification consequence through one shared object.",
+    "Keep meaningful state changes rather than adding arbitrary cuts or a second explanation.",
+    "Pay off the opening number with a larger reciprocal number. Do not insert a long CTA after the joke."
+  ],
+  "audio": {
+    "continuousMusic": true,
+    "soundOnMovingActions": true
+  },
+  "factualBoundaries": [
+    "The app and feature are fictional. Do not label them as a real Instagram, TikTok or iMessage capability.",
+    "Use no real account names, profile photos or private messages."
+  ],
+  "musicSelection": {
+    "title": "Caught Checking",
+    "type": "original instrumental",
+    "provider": "ElevenLabs Creative Studio",
+    "modelId": "eleven_music_v2",
+    "generationId": "uBqEHX14cZ94aSK2PI52",
+    "sourceFile": "public/episodes/profile-checks/music-takes-v3/take-3.mp3",
+    "sourceOffset": 0,
+    "targetRms": 0.024,
+    "preserveStereo": true,
+    "gainAutomation": "none",
+    "provenance": "episodes/profile-checks/assets/music-original-v3.json",
+    "exportName": "profile-checks-v3-original-music",
+    "recordName": "music-remix-v3",
+    "userRequestedNewGeneration": true,
+    "finishedVersionApproved": false
+  },
+  "ending": {
+    "returnStart": 23.05,
+    "returnDuration": 0.95,
+    "outgoingDuration": 0.38,
+    "incomingDelay": 0.16,
+    "incomingDuration": 0.72,
+    "characterDelay": 0.24,
+    "characterDuration": 0.42,
+    "settledHold": 0.3,
+    "talkToIdleOffset": -1.3682142102772863,
+    "nameSlideDuration": 0.32,
+    "nameRiseDelay": 0.28,
+    "nameRiseDuration": 0.67
+  },
+  "delivery": {
+    "exportName": "profile-checks-v5-counter-fix",
+    "recordName": "music-remix-v5",
+    "pictureSource": "renders/profile-checks/profile-checks-v5-picture.mp4",
+    "stemSnapshot": "episodes/profile-checks/versions/v4-ending/preserved-stems.json",
+    "prefixSource": "renders/profile-checks/profile-checks-v3-original-music.mp4",
+    "prefixFrames": 1230,
+    "tailSource": "renders/profile-checks/profile-checks-v5-ending-segment.mp4",
+    "assemblyRecord": "ending-assembly-v5"
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "You brought your AI to a job interview?",
+    "startMs": 98,
+    "endMs": 2565,
+    "timestampMs": 98,
+    "confidence": null
+  },
+  {
+    "text": "She’s running the demo. I’ll take the questions.",
+    "startMs": 2628,
+    "endMs": 5288,
+    "timestampMs": 2628,
+    "confidence": null
+  },
+  {
+    "text": "Who wrote the backend?",
+    "startMs": 5908,
+    "endMs": 7307,
+    "timestampMs": 5908,
+    "confidence": null
+  },
+  {
+    "text": "And who fixed that checkout bug?",
+    "startMs": 7908,
+    "endMs": 10068,
+    "timestampMs": 7908,
+    "confidence": null
+  },
+  {
+    "text": "It used to say ‘Buy.’ I added ‘now.’",
+    "startMs": 10828,
+    "endMs": 14008,
+    "timestampMs": 10828,
+    "confidence": null
+  },
+  {
+    "text": "We’d love to talk salary.",
+    "startMs": 14498,
+    "endMs": 17885,
+    "timestampMs": 14498,
+    "confidence": null
+  },
+  {
+    "text": "Alex, could you give us the room?",
+    "startMs": 18018,
+    "endMs": 19916,
+    "timestampMs": 18018,
+    "confidence": null
+  }
+]

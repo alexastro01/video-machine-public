@@ -1,0 +1,570 @@
+{
+  "fps": 60,
+  "duration": 29.633333333333333,
+  "events": {
+    "wetStart": 0.0,
+    "wetEnd": 2.272854166666667,
+    "dryStart": 2.333333333333333,
+    "dryEnd": 4.046187499999999,
+    "reaction": 4.133333333333334,
+    "proof": 5.75,
+    "tiles": 7.6,
+    "tail": 11.3,
+    "fullness": 15.516666666666667,
+    "swap": 18.366666666666667,
+    "absorb": 21.25,
+    "same": 24.06666666666667,
+    "joke": 26.03333333333333,
+    "reflect": 9.404806666666667,
+    "reverb": 14.814829666666666,
+    "longer": 17.779817666666666,
+    "absorbHit": 21.53129366666667,
+    "bathroom": 26.480839666666668,
+    "loop": 28.580833333333338,
+    "end": 29.633333333333333
+  },
+  "lines": {
+    "reaction": {
+      "id": "reaction",
+      "text": "Oh. Never mind.",
+      "start": 4.133333333333334,
+      "end": 5.645854166666667,
+      "words": [
+        {
+          "text": "Oh.",
+          "start": 4.223333666666667,
+          "end": 4.498186666666667,
+          "line": "reaction"
+        },
+        {
+          "text": "Never",
+          "start": 4.858186666666667,
+          "end": 5.318186666666667,
+          "line": "reaction"
+        },
+        {
+          "text": "mind.",
+          "start": 5.318186666666667,
+          "end": 5.498186666666667,
+          "line": "reaction"
+        }
+      ]
+    },
+    "proof": {
+      "id": "proof",
+      "text": "It's the exact same recording.",
+      "start": 5.75,
+      "end": 7.4933125,
+      "words": [
+        {
+          "text": "It's",
+          "start": 5.8399996666666665,
+          "end": 6.032833666666667,
+          "line": "proof"
+        },
+        {
+          "text": "the",
+          "start": 6.032833666666667,
+          "end": 6.312833666666666,
+          "line": "proof"
+        },
+        {
+          "text": "exact",
+          "start": 6.312833666666666,
+          "end": 6.6328346666666675,
+          "line": "proof"
+        },
+        {
+          "text": "same",
+          "start": 6.6328346666666675,
+          "end": 6.972833666666666,
+          "line": "proof"
+        },
+        {
+          "text": "recording.",
+          "start": 6.972833666666666,
+          "end": 7.452833666666667,
+          "line": "proof"
+        }
+      ]
+    },
+    "tiles": {
+      "id": "tiles",
+      "text": "In the shower, hard tiles reflect your voice back at you.",
+      "start": 7.6,
+      "end": 11.203979166666667,
+      "words": [
+        {
+          "text": "In",
+          "start": 7.689999666666667,
+          "end": 7.824806666666667,
+          "line": "tiles"
+        },
+        {
+          "text": "the",
+          "start": 7.824806666666667,
+          "end": 8.064806666666668,
+          "line": "tiles"
+        },
+        {
+          "text": "shower,",
+          "start": 8.064806666666668,
+          "end": 8.444806666666667,
+          "line": "tiles"
+        },
+        {
+          "text": "hard",
+          "start": 8.844806666666667,
+          "end": 9.144806666666668,
+          "line": "tiles"
+        },
+        {
+          "text": "tiles",
+          "start": 9.144806666666668,
+          "end": 9.404806666666667,
+          "line": "tiles"
+        },
+        {
+          "text": "reflect",
+          "start": 9.404806666666667,
+          "end": 9.924806666666667,
+          "line": "tiles"
+        },
+        {
+          "text": "your",
+          "start": 9.924806666666667,
+          "end": 10.244807666666667,
+          "line": "tiles"
+        },
+        {
+          "text": "voice",
+          "start": 10.244807666666667,
+          "end": 10.384806666666666,
+          "line": "tiles"
+        },
+        {
+          "text": "back",
+          "start": 10.384806666666666,
+          "end": 10.764806666666667,
+          "line": "tiles"
+        },
+        {
+          "text": "at",
+          "start": 10.764806666666667,
+          "end": 11.004807666666666,
+          "line": "tiles"
+        },
+        {
+          "text": "you.",
+          "start": 11.004807666666666,
+          "end": 11.144806666666668,
+          "line": "tiles"
+        }
+      ]
+    },
+    "tail": {
+      "id": "tail",
+      "text": "The reflections overlap, making a short tail of sound called reverb.",
+      "start": 11.3,
+      "end": 15.409791666666669,
+      "words": [
+        {
+          "text": "The",
+          "start": 11.389999666666666,
+          "end": 11.574829666666666,
+          "line": "tail"
+        },
+        {
+          "text": "reflections",
+          "start": 11.574829666666666,
+          "end": 12.014829666666667,
+          "line": "tail"
+        },
+        {
+          "text": "overlap,",
+          "start": 12.014829666666667,
+          "end": 12.734829666666666,
+          "line": "tail"
+        },
+        {
+          "text": "making",
+          "start": 13.154829666666666,
+          "end": 13.154829666666666,
+          "line": "tail"
+        },
+        {
+          "text": "a",
+          "start": 13.154829666666666,
+          "end": 13.394829666666666,
+          "line": "tail"
+        },
+        {
+          "text": "short",
+          "start": 13.394829666666666,
+          "end": 13.694829666666667,
+          "line": "tail"
+        },
+        {
+          "text": "tail",
+          "start": 13.694829666666667,
+          "end": 13.894829666666666,
+          "line": "tail"
+        },
+        {
+          "text": "of",
+          "start": 13.894829666666666,
+          "end": 14.154829666666666,
+          "line": "tail"
+        },
+        {
+          "text": "sound",
+          "start": 14.154829666666666,
+          "end": 14.374830666666666,
+          "line": "tail"
+        },
+        {
+          "text": "called",
+          "start": 14.374830666666666,
+          "end": 14.814829666666666,
+          "line": "tail"
+        },
+        {
+          "text": "reverb.",
+          "start": 14.814829666666666,
+          "end": 15.274829666666667,
+          "line": "tail"
+        }
+      ]
+    },
+    "fullness": {
+      "id": "fullness",
+      "text": "That can make your voice sound fuller and last longer.",
+      "start": 15.516666666666667,
+      "end": 18.273083333333332,
+      "words": [
+        {
+          "text": "That",
+          "start": 15.606666666666667,
+          "end": 15.759818666666666,
+          "line": "fullness"
+        },
+        {
+          "text": "can",
+          "start": 15.759818666666666,
+          "end": 15.959818666666665,
+          "line": "fullness"
+        },
+        {
+          "text": "make",
+          "start": 15.959818666666665,
+          "end": 16.079818666666668,
+          "line": "fullness"
+        },
+        {
+          "text": "your",
+          "start": 16.079818666666668,
+          "end": 16.31981866666667,
+          "line": "fullness"
+        },
+        {
+          "text": "voice",
+          "start": 16.31981866666667,
+          "end": 16.49981866666667,
+          "line": "fullness"
+        },
+        {
+          "text": "sound",
+          "start": 16.49981866666667,
+          "end": 16.85981866666667,
+          "line": "fullness"
+        },
+        {
+          "text": "fuller",
+          "start": 16.85981866666667,
+          "end": 17.259819666666665,
+          "line": "fullness"
+        },
+        {
+          "text": "and",
+          "start": 17.259819666666665,
+          "end": 17.49981866666667,
+          "line": "fullness"
+        },
+        {
+          "text": "last",
+          "start": 17.49981866666667,
+          "end": 17.779817666666666,
+          "line": "fullness"
+        },
+        {
+          "text": "longer.",
+          "start": 17.779817666666666,
+          "end": 18.13981866666667,
+          "line": "fullness"
+        }
+      ]
+    },
+    "swap": {
+      "id": "swap",
+      "text": "Now swap the tiles for towels and curtains.",
+      "start": 18.366666666666667,
+      "end": 21.148125,
+      "words": [
+        {
+          "text": "Now",
+          "start": 18.456666666666663,
+          "end": 18.93421766666667,
+          "line": "swap"
+        },
+        {
+          "text": "swap",
+          "start": 18.93421766666667,
+          "end": 19.15421666666667,
+          "line": "swap"
+        },
+        {
+          "text": "the",
+          "start": 19.15421666666667,
+          "end": 19.63421866666667,
+          "line": "swap"
+        },
+        {
+          "text": "tiles",
+          "start": 19.63421866666667,
+          "end": 19.63421866666667,
+          "line": "swap"
+        },
+        {
+          "text": "for",
+          "start": 19.63421866666667,
+          "end": 20.25421766666667,
+          "line": "swap"
+        },
+        {
+          "text": "towels",
+          "start": 20.25421766666667,
+          "end": 20.25421766666667,
+          "line": "swap"
+        },
+        {
+          "text": "and",
+          "start": 20.25421766666667,
+          "end": 20.61421766666667,
+          "line": "swap"
+        },
+        {
+          "text": "curtains.",
+          "start": 20.61421766666667,
+          "end": 20.814216666666667,
+          "line": "swap"
+        }
+      ]
+    },
+    "absorb": {
+      "id": "absorb",
+      "text": "They absorb more sound, so less bounces back.",
+      "start": 21.25,
+      "end": 23.97229166666667,
+      "words": [
+        {
+          "text": "They",
+          "start": 21.339999666666664,
+          "end": 21.53129366666667,
+          "line": "absorb"
+        },
+        {
+          "text": "absorb",
+          "start": 21.53129366666667,
+          "end": 21.851293666666663,
+          "line": "absorb"
+        },
+        {
+          "text": "more",
+          "start": 21.851293666666663,
+          "end": 22.251292666666664,
+          "line": "absorb"
+        },
+        {
+          "text": "sound,",
+          "start": 22.251292666666664,
+          "end": 22.55129266666667,
+          "line": "absorb"
+        },
+        {
+          "text": "so",
+          "start": 22.61129366666667,
+          "end": 22.851293666666663,
+          "line": "absorb"
+        },
+        {
+          "text": "less",
+          "start": 22.851293666666663,
+          "end": 23.131292666666667,
+          "line": "absorb"
+        },
+        {
+          "text": "bounces",
+          "start": 23.131292666666667,
+          "end": 23.411292666666668,
+          "line": "absorb"
+        },
+        {
+          "text": "back.",
+          "start": 23.411292666666668,
+          "end": 23.911292666666668,
+          "line": "absorb"
+        }
+      ]
+    },
+    "same": {
+      "id": "same",
+      "text": "Same voice. Different room.",
+      "start": 24.06666666666667,
+      "end": 25.937354166666665,
+      "words": [
+        {
+          "text": "Same",
+          "start": 24.156666666666666,
+          "end": 24.495510666666668,
+          "line": "same"
+        },
+        {
+          "text": "voice.",
+          "start": 24.495510666666668,
+          "end": 24.875511666666668,
+          "line": "same"
+        },
+        {
+          "text": "Different",
+          "start": 25.23551066666667,
+          "end": 25.535511666666665,
+          "line": "same"
+        },
+        {
+          "text": "room.",
+          "start": 25.535511666666665,
+          "end": 25.89550966666667,
+          "line": "same"
+        }
+      ]
+    },
+    "joke": {
+      "id": "joke",
+      "text": "My bathroom has more talent than me.",
+      "start": 26.03333333333333,
+      "end": 28.480833333333337,
+      "words": [
+        {
+          "text": "My",
+          "start": 26.123333666666667,
+          "end": 26.480839666666668,
+          "line": "joke"
+        },
+        {
+          "text": "bathroom",
+          "start": 26.480839666666668,
+          "end": 26.820839666666664,
+          "line": "joke"
+        },
+        {
+          "text": "has",
+          "start": 26.820839666666664,
+          "end": 27.08083966666667,
+          "line": "joke"
+        },
+        {
+          "text": "more",
+          "start": 27.08083966666667,
+          "end": 27.38083866666667,
+          "line": "joke"
+        },
+        {
+          "text": "talent",
+          "start": 27.38083866666667,
+          "end": 27.660839666666668,
+          "line": "joke"
+        },
+        {
+          "text": "than",
+          "start": 27.660839666666668,
+          "end": 27.860838666666666,
+          "line": "joke"
+        },
+        {
+          "text": "me.",
+          "start": 27.860838666666666,
+          "end": 28.280838666666668,
+          "line": "joke"
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "id": "hook",
+      "start": 0,
+      "duration": 2.333333333333333
+    },
+    {
+      "id": "dry",
+      "start": 2.333333333333333,
+      "duration": 1.8000000000000007
+    },
+    {
+      "id": "reaction",
+      "start": 4.133333333333334,
+      "duration": 1.6166666666666663
+    },
+    {
+      "id": "proof",
+      "start": 5.75,
+      "duration": 1.8499999999999996
+    },
+    {
+      "id": "tiles",
+      "start": 7.6,
+      "duration": 3.700000000000001
+    },
+    {
+      "id": "tail",
+      "start": 11.3,
+      "duration": 4.216666666666667
+    },
+    {
+      "id": "fullness",
+      "start": 15.516666666666667,
+      "duration": 2.8499999999999996
+    },
+    {
+      "id": "swap",
+      "start": 18.366666666666667,
+      "duration": 2.883333333333333
+    },
+    {
+      "id": "absorb",
+      "start": 21.25,
+      "duration": 2.81666666666667
+    },
+    {
+      "id": "same",
+      "start": 24.06666666666667,
+      "duration": 1.9666666666666615
+    },
+    {
+      "id": "joke",
+      "start": 26.03333333333333,
+      "duration": 2.5475000000000065
+    },
+    {
+      "id": "loop",
+      "start": 28.580833333333338,
+      "duration": 1.0524999999999949
+    }
+  ],
+  "demo": {
+    "wetStart": 0.0,
+    "wetEnd": 2.272854166666667,
+    "dryStart": 2.333333333333333,
+    "dryEnd": 4.046187499999999
+  }
+}

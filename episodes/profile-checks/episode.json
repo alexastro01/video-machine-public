@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "renderer": "remotion",
+  "hook": "none",
+  "world": "profile-motion",
+  "pixelArt": "rpg",
+  "closingFade": false,
+  "id": "profile-checks",
+  "title": "What If Your Crush Could See Your Profile Checks?",
+  "number": 23,
+  "shadowLeadSeconds": 0,
+  "premise": "A fictional app reveals 88 profile checks to your crush, then reveals she checked yours 93 times.",
+  "fiction": true,
+  "duration": 24.3,
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "cast": [
+    "miko",
+    "mia"
+  ],
+  "audio": {
+    "narration": "episodes/profile-checks/narration.wav",
+    "music": "episodes/profile-checks/music.wav",
+    "effects": "episodes/profile-checks/effects.wav",
+    "narrationOffset": 0,
+    "narrationTrimStart": 0,
+    "narrationTail": 1.2033333333333331,
+    "pauses": []
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0.0,
+      "duration": 2.933333333333333,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "What if your crush could see your profile checks?",
+      "label": "hook",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "count",
+      "start": 2.933333333333333,
+      "duration": 1.4666666666666672,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "All eighty-eight.",
+      "label": "count",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "close",
+      "start": 4.4,
+      "duration": 1.5166666666666666,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "You close the app.",
+      "label": "close",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "sent",
+      "start": 5.916666666666667,
+      "duration": 2.3166666666666655,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "Too late. Notification sent.",
+      "label": "sent",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "glitch",
+      "start": 8.233333333333333,
+      "duration": 1.9000000000000004,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "You type, \"My phone glitched.\"",
+      "label": "glitch",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "delete1",
+      "start": 10.133333333333333,
+      "duration": 0.7666666666666675,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "Delete.",
+      "label": "delete1",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "research",
+      "start": 10.9,
+      "duration": 0.9499999999999993,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "\"Research.\"",
+      "label": "research",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "delete2",
+      "start": 11.85,
+      "duration": 0.7833333333333332,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "Delete.",
+      "label": "delete2",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "typing",
+      "start": 12.633333333333333,
+      "duration": 1.5166666666666675,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "Now she's typing.",
+      "label": "typing",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "escape",
+      "start": 14.15,
+      "duration": 1.9333333333333318,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "You consider moving countries.",
+      "label": "escape",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "screenshot",
+      "start": 16.083333333333332,
+      "duration": 1.9166666666666679,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "Then she sends a screenshot.",
+      "label": "screenshot",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "reveal",
+      "start": 18.0,
+      "duration": 2.5666666666666664,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "She's checked yours ninety-three times.",
+      "label": "reveal",
+      "timeOfDay": "evening"
+    },
+    {
+      "id": "payoff",
+      "start": 20.566666666666666,
+      "duration": 3.7333333333333343,
+      "set": "profile-room",
+      "action": "reveal",
+      "anchor": "Okay. So we're both weird.",
+      "label": "payoff",
+      "timeOfDay": "evening"
+    }
+  ]
+}

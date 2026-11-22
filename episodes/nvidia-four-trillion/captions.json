@@ -1,0 +1,478 @@
+[
+  {
+    "text": "Jensen Huang's",
+    "startMs": 0,
+    "endMs": 980,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "company nearly",
+    "startMs": 1120,
+    "endMs": 1920,
+    "timestampMs": 1120,
+    "confidence": null
+  },
+  {
+    "text": "went bankrupt",
+    "startMs": 1920,
+    "endMs": 2960,
+    "timestampMs": 1920,
+    "confidence": null
+  },
+  {
+    "text": "before it",
+    "startMs": 2960,
+    "endMs": 3360,
+    "timestampMs": 2960,
+    "confidence": null
+  },
+  {
+    "text": "became worth",
+    "startMs": 3360,
+    "endMs": 4100,
+    "timestampMs": 3360,
+    "confidence": null
+  },
+  {
+    "text": "4 trillion",
+    "startMs": 4160,
+    "endMs": 5280,
+    "timestampMs": 4160,
+    "confidence": null
+  },
+  {
+    "text": "dollars.",
+    "startMs": 5280,
+    "endMs": 6300,
+    "timestampMs": 5280,
+    "confidence": null
+  },
+  {
+    "text": "In nineteen",
+    "startMs": 6480,
+    "endMs": 7040,
+    "timestampMs": 6480,
+    "confidence": null
+  },
+  {
+    "text": "ninety-three, he",
+    "startMs": 7040,
+    "endMs": 8320,
+    "timestampMs": 7040,
+    "confidence": null
+  },
+  {
+    "text": "and 2",
+    "startMs": 8320,
+    "endMs": 8740,
+    "timestampMs": 8320,
+    "confidence": null
+  },
+  {
+    "text": "co-founders started",
+    "startMs": 8800,
+    "endMs": 9920,
+    "timestampMs": 8800,
+    "confidence": null
+  },
+  {
+    "text": "Nvidia over",
+    "startMs": 9920,
+    "endMs": 10820,
+    "timestampMs": 9920,
+    "confidence": null
+  },
+  {
+    "text": "diner coffee.",
+    "startMs": 10880,
+    "endMs": 12100,
+    "timestampMs": 10880,
+    "confidence": null
+  },
+  {
+    "text": "They wanted",
+    "startMs": 12240,
+    "endMs": 12680,
+    "timestampMs": 12240,
+    "confidence": null
+  },
+  {
+    "text": "to make",
+    "startMs": 12680,
+    "endMs": 12960,
+    "timestampMs": 12680,
+    "confidence": null
+  },
+  {
+    "text": "computer games",
+    "startMs": 12960,
+    "endMs": 13840,
+    "timestampMs": 12960,
+    "confidence": null
+  },
+  {
+    "text": "look",
+    "startMs": 13840,
+    "endMs": 14080,
+    "timestampMs": 13840,
+    "confidence": null
+  },
+  {
+    "text": "three-dimensional.",
+    "startMs": 14080,
+    "endMs": 15060,
+    "timestampMs": 14080,
+    "confidence": null
+  },
+  {
+    "text": "But their",
+    "startMs": 15440,
+    "endMs": 15840,
+    "timestampMs": 15440,
+    "confidence": null
+  },
+  {
+    "text": "early chip",
+    "startMs": 15840,
+    "endMs": 16400,
+    "timestampMs": 15840,
+    "confidence": null
+  },
+  {
+    "text": "design hit",
+    "startMs": 16400,
+    "endMs": 17040,
+    "timestampMs": 16400,
+    "confidence": null
+  },
+  {
+    "text": "a dead",
+    "startMs": 17040,
+    "endMs": 17440,
+    "timestampMs": 17040,
+    "confidence": null
+  },
+  {
+    "text": "end.",
+    "startMs": 17440,
+    "endMs": 17940,
+    "timestampMs": 17440,
+    "confidence": null
+  },
+  {
+    "text": "Cash was",
+    "startMs": 18240,
+    "endMs": 18800,
+    "timestampMs": 18240,
+    "confidence": null
+  },
+  {
+    "text": "running out.",
+    "startMs": 18800,
+    "endMs": 19540,
+    "timestampMs": 18800,
+    "confidence": null
+  },
+  {
+    "text": "Huang told",
+    "startMs": 19920,
+    "endMs": 20580,
+    "timestampMs": 19920,
+    "confidence": null
+  },
+  {
+    "text": "Sega to",
+    "startMs": 20640,
+    "endMs": 21220,
+    "timestampMs": 20640,
+    "confidence": null
+  },
+  {
+    "text": "find another",
+    "startMs": 21240,
+    "endMs": 21840,
+    "timestampMs": 21240,
+    "confidence": null
+  },
+  {
+    "text": "chip maker,",
+    "startMs": 21840,
+    "endMs": 22900,
+    "timestampMs": 21840,
+    "confidence": null
+  },
+  {
+    "text": "then asked",
+    "startMs": 22960,
+    "endMs": 23600,
+    "timestampMs": 22960,
+    "confidence": null
+  },
+  {
+    "text": "Sega to",
+    "startMs": 23600,
+    "endMs": 24160,
+    "timestampMs": 23600,
+    "confidence": null
+  },
+  {
+    "text": "pay Nvidia",
+    "startMs": 24160,
+    "endMs": 24960,
+    "timestampMs": 24160,
+    "confidence": null
+  },
+  {
+    "text": "anyway.",
+    "startMs": 24960,
+    "endMs": 25620,
+    "timestampMs": 24960,
+    "confidence": null
+  },
+  {
+    "text": "They agreed.",
+    "startMs": 25920,
+    "endMs": 26740,
+    "timestampMs": 25920,
+    "confidence": null
+  },
+  {
+    "text": "That bought",
+    "startMs": 27040,
+    "endMs": 27600,
+    "timestampMs": 27040,
+    "confidence": null
+  },
+  {
+    "text": "time for",
+    "startMs": 27600,
+    "endMs": 28040,
+    "timestampMs": 27600,
+    "confidence": null
+  },
+  {
+    "text": "a fresh",
+    "startMs": 28040,
+    "endMs": 28580,
+    "timestampMs": 28040,
+    "confidence": null
+  },
+  {
+    "text": "design.",
+    "startMs": 28760,
+    "endMs": 29220,
+    "timestampMs": 28760,
+    "confidence": null
+  },
+  {
+    "text": "Their new",
+    "startMs": 29440,
+    "endMs": 29920,
+    "timestampMs": 29440,
+    "confidence": null
+  },
+  {
+    "text": "chip, Riva",
+    "startMs": 29920,
+    "endMs": 30800,
+    "timestampMs": 29920,
+    "confidence": null
+  },
+  {
+    "text": "one twenty-eight,",
+    "startMs": 30800,
+    "endMs": 31840,
+    "timestampMs": 30800,
+    "confidence": null
+  },
+  {
+    "text": "took off.",
+    "startMs": 31840,
+    "endMs": 32660,
+    "timestampMs": 31840,
+    "confidence": null
+  },
+  {
+    "text": "Years later,",
+    "startMs": 33200,
+    "endMs": 34100,
+    "timestampMs": 33200,
+    "confidence": null
+  },
+  {
+    "text": "Nvidia opened",
+    "startMs": 34120,
+    "endMs": 34960,
+    "timestampMs": 34120,
+    "confidence": null
+  },
+  {
+    "text": "its graphics",
+    "startMs": 34960,
+    "endMs": 35600,
+    "timestampMs": 34960,
+    "confidence": null
+  },
+  {
+    "text": "chips to",
+    "startMs": 35600,
+    "endMs": 36100,
+    "timestampMs": 35600,
+    "confidence": null
+  },
+  {
+    "text": "other kinds",
+    "startMs": 36120,
+    "endMs": 36600,
+    "timestampMs": 36120,
+    "confidence": null
+  },
+  {
+    "text": "of calculations.",
+    "startMs": 36600,
+    "endMs": 37820,
+    "timestampMs": 36600,
+    "confidence": null
+  },
+  {
+    "text": "That helped",
+    "startMs": 37920,
+    "endMs": 38400,
+    "timestampMs": 37920,
+    "confidence": null
+  },
+  {
+    "text": "researchers train",
+    "startMs": 38400,
+    "endMs": 39360,
+    "timestampMs": 38400,
+    "confidence": null
+  },
+  {
+    "text": "artificial",
+    "startMs": 39360,
+    "endMs": 39920,
+    "timestampMs": 39360,
+    "confidence": null
+  },
+  {
+    "text": "intelligence.",
+    "startMs": 39920,
+    "endMs": 40820,
+    "timestampMs": 39920,
+    "confidence": null
+  },
+  {
+    "text": "When the",
+    "startMs": 41120,
+    "endMs": 41440,
+    "timestampMs": 41120,
+    "confidence": null
+  },
+  {
+    "text": "AI boom",
+    "startMs": 41440,
+    "endMs": 42160,
+    "timestampMs": 41440,
+    "confidence": null
+  },
+  {
+    "text": "arrived, Nvidia",
+    "startMs": 42160,
+    "endMs": 43440,
+    "timestampMs": 42160,
+    "confidence": null
+  },
+  {
+    "text": "already had",
+    "startMs": 43440,
+    "endMs": 44120,
+    "timestampMs": 43440,
+    "confidence": null
+  },
+  {
+    "text": "the chips",
+    "startMs": 44120,
+    "endMs": 44820,
+    "timestampMs": 44120,
+    "confidence": null
+  },
+  {
+    "text": "and the",
+    "startMs": 44840,
+    "endMs": 45200,
+    "timestampMs": 44840,
+    "confidence": null
+  },
+  {
+    "text": "software.",
+    "startMs": 45200,
+    "endMs": 45860,
+    "timestampMs": 45200,
+    "confidence": null
+  },
+  {
+    "text": "In July",
+    "startMs": 46240,
+    "endMs": 46800,
+    "timestampMs": 46240,
+    "confidence": null
+  },
+  {
+    "text": "twenty twenty-five,",
+    "startMs": 46800,
+    "endMs": 48100,
+    "timestampMs": 46800,
+    "confidence": null
+  },
+  {
+    "text": "Nvidia became",
+    "startMs": 48120,
+    "endMs": 48980,
+    "timestampMs": 48120,
+    "confidence": null
+  },
+  {
+    "text": "the first",
+    "startMs": 49000,
+    "endMs": 49520,
+    "timestampMs": 49000,
+    "confidence": null
+  },
+  {
+    "text": "public company",
+    "startMs": 49520,
+    "endMs": 50400,
+    "timestampMs": 49520,
+    "confidence": null
+  },
+  {
+    "text": "to touch",
+    "startMs": 50400,
+    "endMs": 50820,
+    "timestampMs": 50400,
+    "confidence": null
+  },
+  {
+    "text": "4 trillion",
+    "startMs": 50960,
+    "endMs": 51940,
+    "timestampMs": 50960,
+    "confidence": null
+  },
+  {
+    "text": "dollars in",
+    "startMs": 52000,
+    "endMs": 52640,
+    "timestampMs": 52000,
+    "confidence": null
+  },
+  {
+    "text": "market value.",
+    "startMs": 52640,
+    "endMs": 53780,
+    "timestampMs": 52640,
+    "confidence": null
+  }
+]

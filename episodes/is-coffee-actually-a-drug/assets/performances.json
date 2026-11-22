@@ -1,0 +1,38 @@
+{
+  "sip": {
+    "atlas": "episodes/is-coffee-actually-a-drug/art/miko-sip.png",
+    "cellSize": 768,
+    "columns": 4,
+    "rows": 3,
+    "frames": 12,
+    "frameMs": 100,
+    "source": "output/imagegen/is-coffee-actually-a-drug/sip/miko-sip.gif"
+  },
+  "yawn": {
+    "atlas": "episodes/is-coffee-actually-a-drug/art/miko-yawn.png",
+    "cellSize": 768,
+    "columns": 4,
+    "rows": 3,
+    "frames": 12,
+    "frameMs": 100,
+    "source": "output/imagegen/is-coffee-actually-a-drug/yawn/miko-yawn.gif"
+  },
+  "focus": {
+    "atlas": "episodes/is-coffee-actually-a-drug/art/miko-focus-v2.png",
+    "cellSize": 768,
+    "columns": 4,
+    "rows": 3,
+    "frames": 12,
+    "frameMs": 100,
+    "source": "output/imagegen/is-coffee-actually-a-drug/focus-v2/miko-focus.gif"
+  },
+  "midnight": {
+    "atlas": "episodes/is-coffee-actually-a-drug/art/miko-midnight-v2.png",
+    "cellSize": 768,
+    "columns": 4,
+    "rows": 3,
+    "frames": 12,
+    "frameMs": 100,
+    "source": "output/imagegen/is-coffee-actually-a-drug/midnight-v2/miko-midnight.gif"
+  }
+}

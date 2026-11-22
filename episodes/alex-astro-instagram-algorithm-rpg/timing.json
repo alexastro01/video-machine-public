@@ -1,0 +1,358 @@
+{
+  "frames": 747,
+  "words": [
+    "Twelve",
+    "views?!",
+    "The",
+    "algorithm’s",
+    "got",
+    "it",
+    "in",
+    "for",
+    "me!",
+    "Wrong.",
+    "It’s",
+    "not",
+    "one",
+    "algorithm.",
+    "It’s",
+    "a",
+    "whole",
+    "family.",
+    "Feed,",
+    "Stories,",
+    "Explore,",
+    "Reels.",
+    "Each",
+    "one",
+    "has",
+    "its",
+    "own",
+    "say.",
+    "Your",
+    "Reel",
+    "takes",
+    "this",
+    "road…",
+    "and",
+    "three",
+    "gates",
+    "stand",
+    "in",
+    "the",
+    "way."
+  ],
+  "starts": [
+    0,
+    33,
+    64,
+    73,
+    100,
+    109,
+    115,
+    124,
+    132,
+    159,
+    189,
+    201,
+    223,
+    237,
+    273,
+    283,
+    288,
+    304,
+    342,
+    370,
+    406,
+    442,
+    475,
+    491,
+    501,
+    513,
+    527,
+    540,
+    565,
+    577,
+    592,
+    606,
+    621,
+    643,
+    657,
+    673,
+    695,
+    713,
+    718,
+    725
+  ],
+  "ends": [
+    27,
+    55,
+    69,
+    98,
+    107,
+    112,
+    118,
+    130,
+    137,
+    179,
+    196,
+    212,
+    230,
+    263,
+    280,
+    285,
+    298,
+    328,
+    358,
+    394,
+    430,
+    461,
+    483,
+    496,
+    508,
+    519,
+    533,
+    554,
+    574,
+    587,
+    603,
+    616,
+    632,
+    649,
+    670,
+    691,
+    710,
+    716,
+    722,
+    736
+  ],
+  "pages": [
+    {
+      "first": 0,
+      "last": 1,
+      "start": 0,
+      "end": 64,
+      "text": "Twelve views?!"
+    },
+    {
+      "first": 2,
+      "last": 3,
+      "start": 64,
+      "end": 100,
+      "text": "The algorithm’s"
+    },
+    {
+      "first": 4,
+      "last": 6,
+      "start": 100,
+      "end": 124,
+      "text": "got it in"
+    },
+    {
+      "first": 7,
+      "last": 8,
+      "start": 124,
+      "end": 159,
+      "text": "for me!"
+    },
+    {
+      "first": 9,
+      "last": 9,
+      "start": 159,
+      "end": 189,
+      "text": "Wrong."
+    },
+    {
+      "first": 10,
+      "last": 11,
+      "start": 189,
+      "end": 223,
+      "text": "It’s not"
+    },
+    {
+      "first": 12,
+      "last": 13,
+      "start": 223,
+      "end": 273,
+      "text": "one algorithm."
+    },
+    {
+      "first": 14,
+      "last": 16,
+      "start": 273,
+      "end": 304,
+      "text": "It’s a whole"
+    },
+    {
+      "first": 17,
+      "last": 17,
+      "start": 304,
+      "end": 342,
+      "text": "family."
+    },
+    {
+      "first": 18,
+      "last": 19,
+      "start": 342,
+      "end": 406,
+      "text": "Feed, Stories,"
+    },
+    {
+      "first": 20,
+      "last": 21,
+      "start": 406,
+      "end": 475,
+      "text": "Explore, Reels."
+    },
+    {
+      "first": 22,
+      "last": 24,
+      "start": 475,
+      "end": 513,
+      "text": "Each one has"
+    },
+    {
+      "first": 25,
+      "last": 27,
+      "start": 513,
+      "end": 565,
+      "text": "its own say."
+    },
+    {
+      "first": 28,
+      "last": 29,
+      "start": 565,
+      "end": 592,
+      "text": "Your Reel"
+    },
+    {
+      "first": 30,
+      "last": 32,
+      "start": 592,
+      "end": 643,
+      "text": "takes this road…"
+    },
+    {
+      "first": 33,
+      "last": 35,
+      "start": 643,
+      "end": 695,
+      "text": "and three gates"
+    },
+    {
+      "first": 36,
+      "last": 39,
+      "start": 695,
+      "end": 747,
+      "text": "stand in the way."
+    }
+  ],
+  "phrases": [
+    {
+      "first": 0,
+      "last": 1,
+      "start": 0,
+      "end": 64,
+      "text": "Twelve views?!"
+    },
+    {
+      "first": 2,
+      "last": 8,
+      "start": 64,
+      "end": 159,
+      "text": "The algorithm’s got it in for me!"
+    },
+    {
+      "first": 9,
+      "last": 9,
+      "start": 159,
+      "end": 189,
+      "text": "Wrong."
+    },
+    {
+      "first": 10,
+      "last": 13,
+      "start": 189,
+      "end": 273,
+      "text": "It’s not one algorithm."
+    },
+    {
+      "first": 14,
+      "last": 17,
+      "start": 273,
+      "end": 342,
+      "text": "It’s a whole family."
+    },
+    {
+      "first": 18,
+      "last": 21,
+      "start": 342,
+      "end": 475,
+      "text": "Feed, Stories, Explore, Reels."
+    },
+    {
+      "first": 22,
+      "last": 27,
+      "start": 475,
+      "end": 565,
+      "text": "Each one has its own say."
+    },
+    {
+      "first": 28,
+      "last": 32,
+      "start": 565,
+      "end": 643,
+      "text": "Your Reel takes this road…"
+    },
+    {
+      "first": 33,
+      "last": 39,
+      "start": 643,
+      "end": 747,
+      "text": "and three gates stand in the way."
+    }
+  ],
+  "rhymes": [
+    8,
+    17,
+    27,
+    39
+  ],
+  "cues": {
+    "twelve": 0,
+    "views": 33,
+    "algorithm": 73,
+    "me": 132,
+    "wrong": 159,
+    "one": 223,
+    "whole": 288,
+    "family": 304,
+    "feed": 342,
+    "stories": 370,
+    "explore": 406,
+    "reels": 442,
+    "each": 475,
+    "say": 540,
+    "your": 565,
+    "route": 577,
+    "road": 621,
+    "three": 657,
+    "gates": 673,
+    "way": 725,
+    "split": 308
+  },
+  "steps": [
+    568,
+    583,
+    598,
+    613,
+    628,
+    643,
+    658,
+    673,
+    688,
+    703,
+    718,
+    733
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "id": "alex-astro-the-final-round",
+  "fps": 60,
+  "duration": 19.916666666666668,
+  "frames": 1195,
+  "narrationSpeed": 1,
+  "lines": [
+    {
+      "id": "chair",
+      "speaker": "interviewer",
+      "text": "You brought your AI to a job interview?",
+      "afterPause": 0.08,
+      "start": 0,
+      "end": 2.485,
+      "duration": 2.485,
+      "words": [
+        {
+          "text": "You",
+          "start": 0.0975,
+          "end": 0.2175,
+          "speaker": "interviewer",
+          "line": "chair"
+        },
+        {
+          "text": "brought",
+          "start": 0.2975,
+          "end": 0.5175,
+          "speaker": "interviewer",
+          "line": "chair"
+        },
+        {
+          "text": "your",
+          "start": 0.5575,
+          "end": 0.6775,
+          "speaker": "interviewer",
+          "line": "chair"
+        },
+        {
+          "text": "AI",
+          "start": 0.8775,
+          "end": 1.1775,
+          "speaker": "interviewer",
+          "line": "chair"
+        },
+        {
+          "text": "to",
+          "start": 1.3175,
+          "end": 1.3975,
+          "speaker": "interviewer",
+          "line": "chair"
+        },
+        {
+          "text": "a",
+          "start": 1.4975,
+          "end": 1.5175,
+          "speaker": "interviewer",
+          "line": "chair"
+        },
+        {
+          "text": "job",
+          "start": 1.6175,
+          "end": 1.8575,
+          "speaker": "interviewer",
+          "line": "chair"
+        },
+        {
+          "text": "interview?",
+          "start": 1.9375,
+          "end": 2.2575,
+          "speaker": "interviewer",
+          "line": "chair"
+        }
+      ]
+    },
+    {
+      "id": "demo",
+      "speaker": "alex",
+      "text": "She\u2019s running the demo. I\u2019ll take the questions.",
+      "afterPause": 0.74,
+      "start": 2.565,
+      "end": 5.045,
+      "duration": 2.48,
+      "words": [
+        {
+          "text": "She\u2019s",
+          "start": 2.6275,
+          "end": 2.8275,
+          "speaker": "alex",
+          "line": "demo"
+        },
+        {
+          "text": "running",
+          "start": 2.8875,
+          "end": 3.0675,
+          "speaker": "alex",
+          "line": "demo"
+        },
+        {
+          "text": "the",
+          "start": 3.1275,
+          "end": 3.1875,
+          "speaker": "alex",
+          "line": "demo"
+        },
+        {
+          "text": "demo.",
+          "start": 3.2275,
+          "end": 3.4675,
+          "speaker": "alex",
+          "line": "demo"
+        },
+        {
+          "text": "I\u2019ll",
+          "start": 3.9275,
+          "end": 4.0875,
+          "speaker": "alex",
+          "line": "demo"
+        },
+        {
+          "text": "take",
+          "start": 4.1275,
+          "end": 4.2475,
+          "speaker": "alex",
+          "line": "demo"
+        },
+        {
+          "text": "the",
+          "start": 4.2875,
+          "end": 4.3475,
+          "speaker": "alex",
+          "line": "demo"
+        },
+        {
+          "text": "questions.",
+          "start": 4.3875,
+          "end": 4.8075,
+          "speaker": "alex",
+          "line": "demo"
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "speaker": "interviewer",
+      "text": "Who wrote the backend?",
+      "afterPause": 0.74,
+      "start": 5.785,
+      "end": 7.045,
+      "duration": 1.26,
+      "words": [
+        {
+          "text": "Who",
+          "start": 5.9075,
+          "end": 6.0075,
+          "speaker": "interviewer",
+          "line": "backend"
+        },
+        {
+          "text": "wrote",
+          "start": 6.0475,
+          "end": 6.2075,
+          "speaker": "interviewer",
+          "line": "backend"
+        },
+        {
+          "text": "the",
+          "start": 6.2475,
+          "end": 6.3275,
+          "speaker": "interviewer",
+          "line": "backend"
+        },
+        {
+          "text": "backend?",
+          "start": 6.3675,
+          "end": 6.8275,
+          "speaker": "interviewer",
+          "line": "backend"
+        }
+      ]
+    },
+    {
+      "id": "fix",
+      "speaker": "interviewer",
+      "text": "And who fixed that checkout bug?",
+      "afterPause": 0.8,
+      "start": 7.785,
+      "end": 9.835,
+      "duration": 2.05,
+      "words": [
+        {
+          "text": "And",
+          "start": 7.9075,
+          "end": 7.9875,
+          "speaker": "interviewer",
+          "line": "fix"
+        },
+        {
+          "text": "who",
+          "start": 8.2475,
+          "end": 8.3475,
+          "speaker": "interviewer",
+          "line": "fix"
+        },
+        {
+          "text": "fixed",
+          "start": 8.4675,
+          "end": 8.6875,
+          "speaker": "interviewer",
+          "line": "fix"
+        },
+        {
+          "text": "that",
+          "start": 8.7275,
+          "end": 8.8475,
+          "speaker": "interviewer",
+          "line": "fix"
+        },
+        {
+          "text": "checkout",
+          "start": 8.9475,
+          "end": 9.3275,
+          "speaker": "interviewer",
+          "line": "fix"
+        },
+        {
+          "text": "bug?",
+          "start": 9.3875,
+          "end": 9.5875,
+          "speaker": "interviewer",
+          "line": "fix"
+        }
+      ]
+    },
+    {
+      "id": "now",
+      "speaker": "alex",
+      "text": "It used to say \u2018Buy.\u2019 I added \u2018now.\u2019",
+      "afterPause": 0.57,
+      "start": 10.635,
+      "end": 13.815,
+      "duration": 3.18,
+      "words": [
+        {
+          "text": "It",
+          "start": 10.8275,
+          "end": 10.8875,
+          "speaker": "alex",
+          "line": "now"
+        },
+        {
+          "text": "used",
+          "start": 11.0275,
+          "end": 11.1875,
+          "speaker": "alex",
+          "line": "now"
+        },
+        {
+          "text": "to",
+          "start": 11.2475,
+          "end": 11.3075,
+          "speaker": "alex",
+          "line": "now"
+        },
+        {
+          "text": "say",
+          "start": 11.3675,
+          "end": 11.5075,
+          "speaker": "alex",
+          "line": "now"
+        },
+        {
+          "text": "\u2018Buy.\u2019",
+          "start": 11.6875,
+          "end": 11.9875,
+          "speaker": "alex",
+          "line": "now"
+        },
+        {
+          "text": "I",
+          "start": 12.6675,
+          "end": 12.6875,
+          "speaker": "alex",
+          "line": "now"
+        },
+        {
+          "text": "added",
+          "start": 12.8475,
+          "end": 13.0475,
+          "speaker": "alex",
+          "line": "now"
+        },
+        {
+          "text": "\u2018now.\u2019",
+          "start": 13.2875,
+          "end": 13.5275,
+          "speaker": "alex",
+          "line": "now"
+        }
+      ]
+    },
+    {
+      "id": "salary",
+      "speaker": "interviewer",
+      "text": "We\u2019d love to talk salary.",
+      "afterPause": 1.65,
+      "start": 14.385,
+      "end": 16.235,
+      "duration": 1.85,
+      "words": [
+        {
+          "text": "We\u2019d",
+          "start": 14.4975,
+          "end": 14.6775,
+          "speaker": "interviewer",
+          "line": "salary"
+        },
+        {
+          "text": "love",
+          "start": 14.8575,
+          "end": 15.1175,
+          "speaker": "interviewer",
+          "line": "salary"
+        },
+        {
+          "text": "to",
+          "start": 15.1975,
+          "end": 15.2575,
+          "speaker": "interviewer",
+          "line": "salary"
+        },
+        {
+          "text": "talk",
+          "start": 15.2975,
+          "end": 15.4775,
+          "speaker": "interviewer",
+          "line": "salary"
+        },
+        {
+          "text": "salary.",
+          "start": 15.5575,
+          "end": 15.9975,
+          "speaker": "interviewer",
+          "line": "salary"
+        }
+      ]
+    },
+    {
+      "id": "room",
+      "speaker": "interviewer",
+      "text": "Alex, could you give us the room?",
+      "afterPause": 0.16,
+      "start": 17.884999999999998,
+      "end": 19.755,
+      "duration": 1.87,
+      "words": [
+        {
+          "text": "Alex,",
+          "start": 18.0175,
+          "end": 18.2175,
+          "speaker": "interviewer",
+          "line": "room"
+        },
+        {
+          "text": "could",
+          "start": 18.5175,
+          "end": 18.6775,
+          "speaker": "interviewer",
+          "line": "room"
+        },
+        {
+          "text": "you",
+          "start": 18.7175,
+          "end": 18.7975,
+          "speaker": "interviewer",
+          "line": "room"
+        },
+        {
+          "text": "give",
+          "start": 18.8575,
+          "end": 18.9775,
+          "speaker": "interviewer",
+          "line": "room"
+        },
+        {
+          "text": "us",
+          "start": 19.0375,
+          "end": 19.0975,
+          "speaker": "interviewer",
+          "line": "room"
+        },
+        {
+          "text": "the",
+          "start": 19.1575,
+          "end": 19.2375,
+          "speaker": "interviewer",
+          "line": "room"
+        },
+        {
+          "text": "room?",
+          "start": 19.2775,
+          "end": 19.4575,
+          "speaker": "interviewer",
+          "line": "room"
+        }
+      ]
+    }
+  ]
+}

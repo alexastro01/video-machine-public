@@ -1,0 +1,95 @@
+{
+  "style": "flat-cartoon-miko",
+  "source": "output/imagegen/nvidia-four-trillion/miko-cartoon-sheet-v1.png",
+  "sourceSHA256": "8e5508525cf2e329cb6c880c780f8708da1ca8c91c34f11de8becf288cd380a9",
+  "provider": "OpenAI Image API",
+  "model": "gpt-image-2",
+  "prompt": "episodes/nvidia-four-trillion/asset-prompts/miko-cartoon-sheet.txt",
+  "references": [
+    "public/episodes/paid-for-lying/art/miko-talk.png",
+    "output/rea/coaster-detail-06.jpg"
+  ],
+  "processing": "Split the regular cells and derive alpha from the magenta matte, including contaminated boundary pixels. Source character RGB is unchanged.",
+  "pixelsPerWorldUnit": 168,
+  "poses": {
+    "neutral": {
+      "file": "episodes/nvidia-four-trillion/art/miko-neutral.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 328.0,
+      "footY": 469,
+      "bounds": [
+        223,
+        29,
+        437,
+        469
+      ]
+    },
+    "worried": {
+      "file": "episodes/nvidia-four-trillion/art/miko-worried.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 249.0,
+      "footY": 470,
+      "bounds": [
+        121,
+        37,
+        368,
+        470
+      ]
+    },
+    "point": {
+      "file": "episodes/nvidia-four-trillion/art/miko-point.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 200.0,
+      "footY": 470,
+      "bounds": [
+        66,
+        43,
+        353,
+        470
+      ]
+    },
+    "seated": {
+      "file": "episodes/nvidia-four-trillion/art/miko-seated.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 335.0,
+      "footY": 413,
+      "bounds": [
+        175,
+        15,
+        445,
+        413
+      ]
+    },
+    "receive": {
+      "file": "episodes/nvidia-four-trillion/art/miko-receive.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 250.0,
+      "footY": 436,
+      "bounds": [
+        138,
+        15,
+        343,
+        436
+      ]
+    },
+    "relieved": {
+      "file": "episodes/nvidia-four-trillion/art/miko-relieved.png",
+      "width": 512,
+      "height": 512,
+      "anchorX": 184.5,
+      "footY": 440,
+      "bounds": [
+        55,
+        5,
+        297,
+        440
+      ]
+    }
+  },
+  "userApproved": false
+}

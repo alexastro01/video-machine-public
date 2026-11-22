@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "title": "Why Do You Sound Better Singing in the Shower?",
+  "aspectRatio": "9:16",
+  "fps": 60,
+  "style": "motion-pixel",
+  "voice": "Kai - Energetic Anime Hero",
+  "voiceId": "S0ypc51SmsvcKXTWvjqJ",
+  "modelId": "eleven_v4",
+  "playbackRate": 1,
+  "graphics": {
+    "roomBounds": {
+      "left": 110,
+      "right": 830,
+      "top": 160,
+      "bottom": 870
+    },
+    "source": {
+      "x": 453,
+      "y": 428
+    },
+    "directions": [
+      [
+        1,
+        0.25
+      ],
+      [
+        -1,
+        -0.3
+      ],
+      [
+        0.72,
+        -1
+      ]
+    ],
+    "pixelsPerSecond": 650,
+    "hardReflection": 0.68,
+    "softReflection": 0.16,
+    "reflectionCount": 4
+  },
+  "lines": [
+    {
+      "id": "reaction",
+      "text": "Oh. Never mind."
+    },
+    {
+      "id": "proof",
+      "text": "It's the exact same recording."
+    },
+    {
+      "id": "tiles",
+      "text": "In the shower, hard tiles reflect your voice back at you."
+    },
+    {
+      "id": "tail",
+      "text": "The reflections overlap, making a short tail of sound called reverb."
+    },
+    {
+      "id": "fullness",
+      "text": "That can make your voice sound fuller and last longer."
+    },
+    {
+      "id": "swap",
+      "text": "Now swap the tiles for towels and curtains."
+    },
+    {
+      "id": "absorb",
+      "text": "They absorb more sound, so less bounces back."
+    },
+    {
+      "id": "same",
+      "text": "Same voice. Different room."
+    },
+    {
+      "id": "joke",
+      "text": "My bathroom has more talent than me."
+    }
+  ],
+  "demonstration": {
+    "prompt": "[singing] La, la, la!",
+    "description": "One original Kai vocal take, copied unchanged for both comparisons. Add a local room impulse response only to the wet version.",
+    "wetMix": 0.48,
+    "decaySeconds": 0.9,
+    "softDecaySeconds": 0.16,
+    "captionPolicy": "No invented lexical captions over the nonverbal sung demo; room labels and visible vocal action carry the comparison."
+  },
+  "story": [
+    "Open mid-performance on the wet sung vocal; a short push and live sound arcs establish action immediately.",
+    "Play the wet vocal, then cut the room effect away and replay the identical dry source. Miko reacts.",
+    "The two waveforms align to establish the shared recording.",
+    "Follow pulses from the singer to the tiled walls and back, highlighting each contact.",
+    "Keep reflected pulses visible after the direct sound ends; a short waveform tail remains.",
+    "Tile panels morph into fabric surfaces; arriving pulses shrink and fade into the material.",
+    "Compare both rooms with the same source. Resolve on Miko's deadpan bathroom line.",
+    "Return to the opening room and confident pose during the final sound tail."
+  ],
+  "sourceLines": [
+    {
+      "id": "intro",
+      "text": "Apparently, I can sing."
+    },
+    {
+      "id": "reaction",
+      "text": "Oh. Never mind."
+    },
+    {
+      "id": "proof",
+      "text": "It's the exact same recording."
+    },
+    {
+      "id": "tiles",
+      "text": "In the shower, hard tiles reflect your voice back at you."
+    },
+    {
+      "id": "tail",
+      "text": "The reflections overlap, making a short tail of sound called reverb."
+    },
+    {
+      "id": "fullness",
+      "text": "That can make your voice sound fuller and last longer."
+    },
+    {
+      "id": "swap",
+      "text": "Now swap the tiles for towels and curtains."
+    },
+    {
+      "id": "absorb",
+      "text": "They absorb more sound, so less bounces back."
+    },
+    {
+      "id": "same",
+      "text": "Same voice. Different room."
+    },
+    {
+      "id": "joke",
+      "text": "My bathroom has more talent than me."
+    }
+  ],
+  "opening": {
+    "mode": "singing-first",
+    "removedLineIds": [
+      "intro"
+    ],
+    "reason": "Start on the sung performance, then reveal the dry recording.",
+    "motion": "A short push toward the performance, vocal-driven sound arcs and a small recoil when the room effect cuts away."
+  },
+  "deliveryPlaybackRate": 1.2
+}

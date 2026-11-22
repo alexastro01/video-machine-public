@@ -1,0 +1,32 @@
+{
+  "aunt-chat": {
+    "width": 659,
+    "height": 1114,
+    "mouth": {
+      "x": 325,
+      "y": 226,
+      "width": 79,
+      "height": 92
+    }
+  },
+  "opus-secret": {
+    "width": 565,
+    "height": 974,
+    "mouth": {
+      "x": 159,
+      "y": 248,
+      "width": 55,
+      "height": 92
+    }
+  },
+  "opus-dry": {
+    "width": 696,
+    "height": 980,
+    "mouth": {
+      "x": 323,
+      "y": 263,
+      "width": 49,
+      "height": 60
+    }
+  }
+}

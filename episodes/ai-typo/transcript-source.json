@@ -1,0 +1,582 @@
+{
+  "sourceTake": {
+    "alex": 1,
+    "ai": 1
+  },
+  "words": [
+    {
+      "text": "I",
+      "start": 0.111854,
+      "end": 0.151854,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "asked",
+      "start": 0.191854,
+      "end": 0.451854,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "AI",
+      "start": 0.591854,
+      "end": 0.871854,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "to",
+      "start": 0.911854,
+      "end": 1.011854,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "fix",
+      "start": 1.071854,
+      "end": 1.231854,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "one",
+      "start": 1.471854,
+      "end": 1.671854,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "typo.",
+      "start": 1.811854,
+      "end": 2.251854,
+      "speaker": "alex",
+      "line": "hook"
+    },
+    {
+      "text": "Of",
+      "start": 2.526604,
+      "end": 2.858167,
+      "speaker": "ai",
+      "line": "working"
+    },
+    {
+      "text": "course.",
+      "start": 2.858167,
+      "end": 3.278167,
+      "speaker": "ai",
+      "line": "working"
+    },
+    {
+      "text": "Small",
+      "start": 3.778167,
+      "end": 3.898167,
+      "speaker": "ai",
+      "line": "working"
+    },
+    {
+      "text": "change.",
+      "start": 3.898167,
+      "end": 4.418167,
+      "speaker": "ai",
+      "line": "working"
+    },
+    {
+      "text": "Twelve",
+      "start": 4.791896,
+      "end": 5.151896,
+      "speaker": "alex",
+      "line": "files"
+    },
+    {
+      "text": "files?",
+      "start": 5.311896,
+      "end": 5.791896,
+      "speaker": "alex",
+      "line": "files"
+    },
+    {
+      "text": "It's",
+      "start": 6.191896,
+      "end": 6.371896,
+      "speaker": "alex",
+      "line": "files"
+    },
+    {
+      "text": "one",
+      "start": 6.431896,
+      "end": 6.571896,
+      "speaker": "alex",
+      "line": "files"
+    },
+    {
+      "text": "button.",
+      "start": 6.731896,
+      "end": 7.091896,
+      "speaker": "alex",
+      "line": "files"
+    },
+    {
+      "text": "I",
+      "start": 7.390021,
+      "end": 7.530021,
+      "speaker": "ai",
+      "line": "components"
+    },
+    {
+      "text": "noticed",
+      "start": 7.530021,
+      "end": 7.810021,
+      "speaker": "ai",
+      "line": "components"
+    },
+    {
+      "text": "your",
+      "start": 7.810021,
+      "end": 8.090021,
+      "speaker": "ai",
+      "line": "components"
+    },
+    {
+      "text": "components",
+      "start": 8.090021,
+      "end": 8.550021,
+      "speaker": "ai",
+      "line": "components"
+    },
+    {
+      "text": "could",
+      "start": 8.550021,
+      "end": 8.890021,
+      "speaker": "ai",
+      "line": "components"
+    },
+    {
+      "text": "be",
+      "start": 8.890021,
+      "end": 9.130021,
+      "speaker": "ai",
+      "line": "components"
+    },
+    {
+      "text": "cleaner.",
+      "start": 9.130021,
+      "end": 9.450021,
+      "speaker": "ai",
+      "line": "components"
+    },
+    {
+      "text": "Fine.",
+      "start": 10.019104,
+      "end": 10.339104,
+      "speaker": "alex",
+      "line": "framework"
+    },
+    {
+      "text": "Why",
+      "start": 10.919104,
+      "end": 11.039104,
+      "speaker": "alex",
+      "line": "framework"
+    },
+    {
+      "text": "is",
+      "start": 11.079104,
+      "end": 11.179104,
+      "speaker": "alex",
+      "line": "framework"
+    },
+    {
+      "text": "there",
+      "start": 11.219104,
+      "end": 11.319104,
+      "speaker": "alex",
+      "line": "framework"
+    },
+    {
+      "text": "a",
+      "start": 11.359104,
+      "end": 11.399104,
+      "speaker": "alex",
+      "line": "framework"
+    },
+    {
+      "text": "new",
+      "start": 11.419104,
+      "end": 11.619104,
+      "speaker": "alex",
+      "line": "framework"
+    },
+    {
+      "text": "framework?",
+      "start": 11.679104,
+      "end": 12.159104,
+      "speaker": "alex",
+      "line": "framework"
+    },
+    {
+      "text": "The",
+      "start": 12.519687,
+      "end": 12.619687,
+      "speaker": "ai",
+      "line": "architecture"
+    },
+    {
+      "text": "previous",
+      "start": 12.619687,
+      "end": 13.059687,
+      "speaker": "ai",
+      "line": "architecture"
+    },
+    {
+      "text": "architecture",
+      "start": 13.059687,
+      "end": 13.619687,
+      "speaker": "ai",
+      "line": "architecture"
+    },
+    {
+      "text": "was",
+      "start": 13.619687,
+      "end": 13.939688,
+      "speaker": "ai",
+      "line": "architecture"
+    },
+    {
+      "text": "holding",
+      "start": 13.939688,
+      "end": 14.139687,
+      "speaker": "ai",
+      "line": "architecture"
+    },
+    {
+      "text": "us",
+      "start": 14.139687,
+      "end": 14.479688,
+      "speaker": "ai",
+      "line": "architecture"
+    },
+    {
+      "text": "back.",
+      "start": 14.479688,
+      "end": 14.819688,
+      "speaker": "ai",
+      "line": "architecture"
+    },
+    {
+      "text": "Us?",
+      "start": 15.255625,
+      "end": 15.515625,
+      "speaker": "alex",
+      "line": "us"
+    },
+    {
+      "text": "It's",
+      "start": 15.975625,
+      "end": 16.075625,
+      "speaker": "alex",
+      "line": "us"
+    },
+    {
+      "text": "a",
+      "start": 16.155625,
+      "end": 16.215625,
+      "speaker": "alex",
+      "line": "us"
+    },
+    {
+      "text": "login",
+      "start": 16.275625,
+      "end": 16.635625,
+      "speaker": "alex",
+      "line": "us"
+    },
+    {
+      "text": "screen.",
+      "start": 16.755625,
+      "end": 17.115625,
+      "speaker": "alex",
+      "line": "us"
+    },
+    {
+      "text": "I",
+      "start": 17.471333,
+      "end": 17.631333,
+      "speaker": "ai",
+      "line": "auth"
+    },
+    {
+      "text": "also",
+      "start": 17.631333,
+      "end": 17.971333,
+      "speaker": "ai",
+      "line": "auth"
+    },
+    {
+      "text": "replaced",
+      "start": 17.971333,
+      "end": 18.331334,
+      "speaker": "ai",
+      "line": "auth"
+    },
+    {
+      "text": "authentication",
+      "start": 18.331334,
+      "end": 18.991334,
+      "speaker": "ai",
+      "line": "auth"
+    },
+    {
+      "text": "and",
+      "start": 18.991334,
+      "end": 19.531334,
+      "speaker": "ai",
+      "line": "auth"
+    },
+    {
+      "text": "updated",
+      "start": 19.531334,
+      "end": 19.891333,
+      "speaker": "ai",
+      "line": "auth"
+    },
+    {
+      "text": "your",
+      "start": 19.891333,
+      "end": 20.151333,
+      "speaker": "ai",
+      "line": "auth"
+    },
+    {
+      "text": "dependencies.",
+      "start": 20.151333,
+      "end": 20.611333,
+      "speaker": "ai",
+      "line": "auth"
+    },
+    {
+      "text": "You",
+      "start": 21.171083,
+      "end": 21.291083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "changed",
+      "start": 21.351083,
+      "end": 21.611083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "the",
+      "start": 21.671083,
+      "end": 21.791083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "login",
+      "start": 21.851083,
+      "end": 22.151083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "system",
+      "start": 22.251083,
+      "end": 22.551083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "to",
+      "start": 22.611083,
+      "end": 22.731083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "swap",
+      "start": 22.791083,
+      "end": 23.031083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "two",
+      "start": 23.171083,
+      "end": 23.351083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "letters?",
+      "start": 23.491083,
+      "end": 23.911083,
+      "speaker": "alex",
+      "line": "letters"
+    },
+    {
+      "text": "All",
+      "start": 24.22575,
+      "end": 24.48575,
+      "speaker": "ai",
+      "line": "complete"
+    },
+    {
+      "text": "done.",
+      "start": 24.48575,
+      "end": 24.76575,
+      "speaker": "ai",
+      "line": "complete"
+    },
+    {
+      "text": "Your",
+      "start": 25.12575,
+      "end": 25.36575,
+      "speaker": "ai",
+      "line": "complete"
+    },
+    {
+      "text": "app",
+      "start": 25.36575,
+      "end": 25.58575,
+      "speaker": "ai",
+      "line": "complete"
+    },
+    {
+      "text": "is",
+      "start": 25.58575,
+      "end": 25.885751,
+      "speaker": "ai",
+      "line": "complete"
+    },
+    {
+      "text": "now",
+      "start": 25.885751,
+      "end": 26.22575,
+      "speaker": "ai",
+      "line": "complete"
+    },
+    {
+      "text": "future-proof.",
+      "start": 26.22575,
+      "end": 26.92575,
+      "speaker": "ai",
+      "line": "complete"
+    },
+    {
+      "text": "Great.",
+      "start": 27.382396,
+      "end": 27.682396,
+      "speaker": "alex",
+      "line": "verify"
+    },
+    {
+      "text": "Did",
+      "start": 28.122396,
+      "end": 28.222396,
+      "speaker": "alex",
+      "line": "verify"
+    },
+    {
+      "text": "you",
+      "start": 28.262396,
+      "end": 28.342396,
+      "speaker": "alex",
+      "line": "verify"
+    },
+    {
+      "text": "fix",
+      "start": 28.382396,
+      "end": 28.542396,
+      "speaker": "alex",
+      "line": "verify"
+    },
+    {
+      "text": "the",
+      "start": 28.582396,
+      "end": 28.662396,
+      "speaker": "alex",
+      "line": "verify"
+    },
+    {
+      "text": "typo?",
+      "start": 28.702396,
+      "end": 29.022396,
+      "speaker": "alex",
+      "line": "verify"
+    },
+    {
+      "text": "Here's",
+      "start": 29.52675,
+      "end": 29.72675,
+      "speaker": "ai",
+      "line": "reveal"
+    },
+    {
+      "text": "your",
+      "start": 29.72675,
+      "end": 29.94675,
+      "speaker": "ai",
+      "line": "reveal"
+    },
+    {
+      "text": "improved",
+      "start": 29.94675,
+      "end": 30.246749,
+      "speaker": "ai",
+      "line": "reveal"
+    },
+    {
+      "text": "login",
+      "start": 30.246749,
+      "end": 30.64675,
+      "speaker": "ai",
+      "line": "reveal"
+    },
+    {
+      "text": "screen.",
+      "start": 30.64675,
+      "end": 31.02675,
+      "speaker": "ai",
+      "line": "reveal"
+    },
+    {
+      "text": "It",
+      "start": 31.468021,
+      "end": 31.588021,
+      "speaker": "alex",
+      "line": "payoff"
+    },
+    {
+      "text": "still",
+      "start": 31.708021,
+      "end": 31.868021,
+      "speaker": "alex",
+      "line": "payoff"
+    },
+    {
+      "text": "says",
+      "start": 31.988021,
+      "end": 32.288021,
+      "speaker": "alex",
+      "line": "payoff"
+    },
+    {
+      "text": "sing",
+      "start": 32.408021,
+      "end": 32.808021,
+      "speaker": "alex",
+      "line": "payoff"
+    },
+    {
+      "text": "in.",
+      "start": 32.908021,
+      "end": 33.168021,
+      "speaker": "alex",
+      "line": "payoff"
+    }
+  ]
+}

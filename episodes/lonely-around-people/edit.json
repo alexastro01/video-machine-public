@@ -1,0 +1,606 @@
+{
+  "fps": 60,
+  "duration": 30.066666666666666,
+  "events": {
+    "hook": 0.0,
+    "included": 2.2,
+    "gap": 5.633333333333334,
+    "more": 10.216666666666667,
+    "fine": 12.85,
+    "trust": 17.25,
+    "honest": 20.783333333333335,
+    "snacks": 23.7,
+    "payoff": 26.833333333333332,
+    "alone": 1.0399999618530273,
+    "gapWord": 6.775351333333334,
+    "fineWord": 15.089909,
+    "invisibleWord": 16.969909,
+    "trustContact": 20.577166000000002,
+    "send": 23.177062499999998,
+    "bite": 26.49999988555908,
+    "end": 30.066666666666666,
+    "sent": 23.5970625,
+    "feelConnection": 9.175351333333335,
+    "feelConnectionEnd": 10.114416666666667
+  },
+  "lines": {
+    "hook": {
+      "id": "hook",
+      "speaker": "miko",
+      "text": "Why do you feel alone?",
+      "start": 0.0,
+      "end": 1.92,
+      "words": [
+        {
+          "text": "Why",
+          "start": 0.0,
+          "end": 0.4399999976158142,
+          "line": "hook"
+        },
+        {
+          "text": "do",
+          "start": 0.4399999976158142,
+          "end": 0.5600000023841858,
+          "line": "hook"
+        },
+        {
+          "text": "you",
+          "start": 0.5600000023841858,
+          "end": 0.7599999904632568,
+          "line": "hook"
+        },
+        {
+          "text": "feel",
+          "start": 0.7599999904632568,
+          "end": 1.0399999618530273,
+          "line": "hook"
+        },
+        {
+          "text": "alone?",
+          "start": 1.0399999618530273,
+          "end": 1.4600000381469727,
+          "line": "hook"
+        }
+      ]
+    },
+    "included": {
+      "id": "included",
+      "speaker": "miko",
+      "text": "Being included doesn't always mean feeling understood.",
+      "start": 2.2,
+      "end": 5.527895833333334,
+      "words": [
+        {
+          "text": "Being",
+          "start": 2.29,
+          "end": 2.5103169999999997,
+          "line": "included"
+        },
+        {
+          "text": "included",
+          "start": 2.830317,
+          "end": 3.150317000000001,
+          "line": "included"
+        },
+        {
+          "text": "doesn't",
+          "start": 3.2303170000000003,
+          "end": 3.630317,
+          "line": "included"
+        },
+        {
+          "text": "always",
+          "start": 3.710317,
+          "end": 4.030317,
+          "line": "included"
+        },
+        {
+          "text": "mean",
+          "start": 4.110317,
+          "end": 4.350317,
+          "line": "included"
+        },
+        {
+          "text": "feeling",
+          "start": 4.510317,
+          "end": 4.750316999999999,
+          "line": "included"
+        },
+        {
+          "text": "understood.",
+          "start": 4.910317,
+          "end": 5.517895833333334,
+          "line": "included"
+        }
+      ]
+    },
+    "gap": {
+      "id": "gap",
+      "speaker": "miko",
+      "text": "Loneliness is the gap between the connection you want and the connection you feel.",
+      "start": 5.633333333333334,
+      "end": 10.124416666666667,
+      "words": [
+        {
+          "text": "Loneliness",
+          "start": 5.723333333333334,
+          "end": 6.375351333333333,
+          "line": "gap"
+        },
+        {
+          "text": "is",
+          "start": 6.455351333333334,
+          "end": 6.535351333333333,
+          "line": "gap"
+        },
+        {
+          "text": "the",
+          "start": 6.615351333333334,
+          "end": 6.695351333333333,
+          "line": "gap"
+        },
+        {
+          "text": "gap",
+          "start": 6.775351333333334,
+          "end": 6.935351333333335,
+          "line": "gap"
+        },
+        {
+          "text": "between",
+          "start": 7.015351333333334,
+          "end": 7.335351333333334,
+          "line": "gap"
+        },
+        {
+          "text": "the",
+          "start": 7.375351333333334,
+          "end": 7.415351333333335,
+          "line": "gap"
+        },
+        {
+          "text": "connection",
+          "start": 7.495351333333335,
+          "end": 7.895351333333332,
+          "line": "gap"
+        },
+        {
+          "text": "you",
+          "start": 7.975351333333333,
+          "end": 8.135351333333334,
+          "line": "gap"
+        },
+        {
+          "text": "want",
+          "start": 8.215351333333334,
+          "end": 8.695351333333333,
+          "line": "gap"
+        },
+        {
+          "text": "and",
+          "start": 8.775351333333333,
+          "end": 8.855351333333333,
+          "line": "gap"
+        },
+        {
+          "text": "the",
+          "start": 8.895351333333334,
+          "end": 8.935351333333335,
+          "line": "gap"
+        },
+        {
+          "text": "connection",
+          "start": 9.175351333333335,
+          "end": 9.415351333333335,
+          "line": "gap"
+        },
+        {
+          "text": "you",
+          "start": 9.495351333333335,
+          "end": 9.655351333333334,
+          "line": "gap"
+        },
+        {
+          "text": "feel.",
+          "start": 9.735351333333334,
+          "end": 10.114416666666667,
+          "line": "gap"
+        }
+      ]
+    },
+    "more": {
+      "id": "more",
+      "speaker": "miko",
+      "text": "More people won't always close that gap.",
+      "start": 10.216666666666667,
+      "end": 12.745791666666667,
+      "words": [
+        {
+          "text": "More",
+          "start": 10.306666666666667,
+          "end": 10.542630666666666,
+          "line": "more"
+        },
+        {
+          "text": "people",
+          "start": 10.622630666666668,
+          "end": 11.02263066666667,
+          "line": "more"
+        },
+        {
+          "text": "won't",
+          "start": 11.062630666666667,
+          "end": 11.34263066666667,
+          "line": "more"
+        },
+        {
+          "text": "always",
+          "start": 11.422630666666667,
+          "end": 11.742630666666669,
+          "line": "more"
+        },
+        {
+          "text": "close",
+          "start": 11.822630666666667,
+          "end": 12.062630666666669,
+          "line": "more"
+        },
+        {
+          "text": "that",
+          "start": 12.142630666666667,
+          "end": 12.302630666666667,
+          "line": "more"
+        },
+        {
+          "text": "gap.",
+          "start": 12.332630714350383,
+          "end": 12.652630647593183,
+          "line": "more"
+        }
+      ]
+    },
+    "fine": {
+      "id": "fine",
+      "speaker": "miko",
+      "text": "Sometimes you laugh, say you're fine, and go home feeling invisible.",
+      "start": 12.85,
+      "end": 17.1570625,
+      "words": [
+        {
+          "text": "Sometimes",
+          "start": 12.94,
+          "end": 13.569909000000003,
+          "line": "fine"
+        },
+        {
+          "text": "you",
+          "start": 13.649909,
+          "end": 13.729909,
+          "line": "fine"
+        },
+        {
+          "text": "laugh,",
+          "start": 13.809909,
+          "end": 14.369909,
+          "line": "fine"
+        },
+        {
+          "text": "say",
+          "start": 14.449909,
+          "end": 14.529908999999996,
+          "line": "fine"
+        },
+        {
+          "text": "you're",
+          "start": 14.609909,
+          "end": 14.769908999999998,
+          "line": "fine"
+        },
+        {
+          "text": "fine,",
+          "start": 15.089909,
+          "end": 15.462908999999996,
+          "line": "fine"
+        },
+        {
+          "text": "and",
+          "start": 15.516909,
+          "end": 15.569909000000003,
+          "line": "fine"
+        },
+        {
+          "text": "go",
+          "start": 15.649909,
+          "end": 15.809908999999998,
+          "line": "fine"
+        },
+        {
+          "text": "home",
+          "start": 15.969909,
+          "end": 16.129908999999998,
+          "line": "fine"
+        },
+        {
+          "text": "feeling",
+          "start": 16.169908999999997,
+          "end": 16.449908999999998,
+          "line": "fine"
+        },
+        {
+          "text": "invisible.",
+          "start": 16.969909,
+          "end": 17.147062499999997,
+          "line": "fine"
+        }
+      ]
+    },
+    "trust": {
+      "id": "trust",
+      "speaker": "miko",
+      "text": "One place to start is an honest answer to someone you trust.",
+      "start": 17.25,
+      "end": 20.689479166666665,
+      "words": [
+        {
+          "text": "One",
+          "start": 17.34,
+          "end": 17.577166,
+          "line": "trust"
+        },
+        {
+          "text": "place",
+          "start": 17.697166,
+          "end": 17.817166,
+          "line": "trust"
+        },
+        {
+          "text": "to",
+          "start": 17.897166000000002,
+          "end": 17.977166000000004,
+          "line": "trust"
+        },
+        {
+          "text": "start",
+          "start": 18.057166000000002,
+          "end": 18.377165999999995,
+          "line": "trust"
+        },
+        {
+          "text": "is",
+          "start": 18.417166,
+          "end": 18.457166,
+          "line": "trust"
+        },
+        {
+          "text": "an",
+          "start": 18.537166,
+          "end": 18.697166000000003,
+          "line": "trust"
+        },
+        {
+          "text": "honest",
+          "start": 18.777166,
+          "end": 19.097166,
+          "line": "trust"
+        },
+        {
+          "text": "answer",
+          "start": 19.177166,
+          "end": 19.417166,
+          "line": "trust"
+        },
+        {
+          "text": "to",
+          "start": 19.497166,
+          "end": 19.657165999999997,
+          "line": "trust"
+        },
+        {
+          "text": "someone",
+          "start": 19.817166,
+          "end": 19.977166000000004,
+          "line": "trust"
+        },
+        {
+          "text": "you",
+          "start": 20.057166000000002,
+          "end": 20.137166,
+          "line": "trust"
+        },
+        {
+          "text": "trust.",
+          "start": 20.577166000000002,
+          "end": 20.679479166666663,
+          "line": "trust"
+        }
+      ]
+    },
+    "honest": {
+      "id": "honest",
+      "speaker": "miko",
+      "text": "Honestly? It's been a rough week.",
+      "start": 20.783333333333335,
+      "end": 23.0970625,
+      "words": [
+        {
+          "text": "Honestly?",
+          "start": 20.873333333333335,
+          "end": 21.857913333333332,
+          "line": "honest"
+        },
+        {
+          "text": "It's",
+          "start": 21.897913333333335,
+          "end": 22.057913333333328,
+          "line": "honest"
+        },
+        {
+          "text": "been",
+          "start": 22.097913333333334,
+          "end": 22.137913333333334,
+          "line": "honest"
+        },
+        {
+          "text": "a",
+          "start": 22.297913333333334,
+          "end": 22.33791333333333,
+          "line": "honest"
+        },
+        {
+          "text": "rough",
+          "start": 22.377913333333332,
+          "end": 22.61791333333333,
+          "line": "honest"
+        },
+        {
+          "text": "week.",
+          "start": 22.697913333333332,
+          "end": 23.0870625,
+          "line": "honest"
+        }
+      ]
+    },
+    "snacks": {
+      "id": "snacks",
+      "speaker": "mia",
+      "text": "Same. I only came for the snacks.",
+      "start": 23.7,
+      "end": 26.66,
+      "words": [
+        {
+          "text": "Same.",
+          "start": 23.7,
+          "end": 24.519999992847442,
+          "line": "snacks"
+        },
+        {
+          "text": "I",
+          "start": 24.719999980926513,
+          "end": 25.160000038146972,
+          "line": "snacks"
+        },
+        {
+          "text": "only",
+          "start": 25.160000038146972,
+          "end": 25.400000047683715,
+          "line": "snacks"
+        },
+        {
+          "text": "came",
+          "start": 25.400000047683715,
+          "end": 25.579999995231628,
+          "line": "snacks"
+        },
+        {
+          "text": "for",
+          "start": 25.579999995231628,
+          "end": 25.739999961853027,
+          "line": "snacks"
+        },
+        {
+          "text": "the",
+          "start": 25.739999961853027,
+          "end": 25.959999990463256,
+          "line": "snacks"
+        },
+        {
+          "text": "snacks.",
+          "start": 25.959999990463256,
+          "end": 26.31999988555908,
+          "line": "snacks"
+        }
+      ]
+    },
+    "payoff": {
+      "id": "payoff",
+      "speaker": "miko",
+      "text": "First real conversation of the night.",
+      "start": 26.833333333333332,
+      "end": 29.154604166666665,
+      "words": [
+        {
+          "text": "First",
+          "start": 26.923333333333332,
+          "end": 27.394603333333333,
+          "line": "payoff"
+        },
+        {
+          "text": "real",
+          "start": 27.474603333333334,
+          "end": 27.714603333333333,
+          "line": "payoff"
+        },
+        {
+          "text": "conversation",
+          "start": 28.034603333333333,
+          "end": 28.354603333333333,
+          "line": "payoff"
+        },
+        {
+          "text": "of",
+          "start": 28.43460333333333,
+          "end": 28.514603333333337,
+          "line": "payoff"
+        },
+        {
+          "text": "the",
+          "start": 28.554603333333333,
+          "end": 28.594603333333335,
+          "line": "payoff"
+        },
+        {
+          "text": "night.",
+          "start": 28.674603333333334,
+          "end": 29.144604166666664,
+          "line": "payoff"
+        }
+      ]
+    }
+  },
+  "shots": [
+    {
+      "id": "hook",
+      "start": 0.0,
+      "duration": 2.2
+    },
+    {
+      "id": "included",
+      "start": 2.2,
+      "duration": 3.4333333333333336
+    },
+    {
+      "id": "gap",
+      "start": 5.633333333333334,
+      "duration": 4.583333333333333
+    },
+    {
+      "id": "more",
+      "start": 10.216666666666667,
+      "duration": 2.633333333333333
+    },
+    {
+      "id": "fine",
+      "start": 12.85,
+      "duration": 4.4
+    },
+    {
+      "id": "trust",
+      "start": 17.25,
+      "duration": 3.533333333333335
+    },
+    {
+      "id": "honest",
+      "start": 20.783333333333335,
+      "duration": 2.9166666666666643
+    },
+    {
+      "id": "snacks",
+      "start": 23.7,
+      "duration": 3.133333333333333
+    },
+    {
+      "id": "payoff",
+      "start": 26.833333333333332,
+      "duration": 3.2333333333333343
+    }
+  ]
+}

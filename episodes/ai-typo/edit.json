@@ -1,0 +1,1039 @@
+{
+  "id": "ai-typo",
+  "duration": 34.9,
+  "fps": 60,
+  "width": 1080,
+  "height": 1920,
+  "events": {
+    "hook": 0,
+    "working": 2.526604166666667,
+    "files": 4.719083333333334,
+    "components": 7.309333333333334,
+    "framework": 9.890375,
+    "architecture": 12.398916666666668,
+    "us": 15.150625000000002,
+    "auth": 17.44185416666667,
+    "letters": 21.111333333333334,
+    "complete": 24.21441666666667,
+    "verify": 27.349270833333335,
+    "reveal": 29.390062500000003,
+    "payoff": 31.436750000000004,
+    "opusArrival": 1.431854,
+    "send": 1.071854,
+    "counter1": 2.686604166666667,
+    "counter12": 4.499083333333334,
+    "componentMove": 8.090021,
+    "counter34": 11.429104,
+    "frameworkMove": 11.679104,
+    "authMove": 18.331334,
+    "counter87": 18.381334,
+    "letterMove": 23.191083,
+    "done": 24.48575,
+    "preview": 29.510062500000004,
+    "typoReveal": 32.108021,
+    "end": 34.9
+  },
+  "lines": [
+    {
+      "id": "hook",
+      "speaker": "alex",
+      "text": "I asked AI to fix one typo.",
+      "afterPause": 0.12,
+      "start": 0,
+      "end": 2.406604166666667,
+      "duration": 2.406604166666667,
+      "words": [
+        {
+          "text": "I",
+          "start": 0.111854,
+          "end": 0.151854,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "asked",
+          "start": 0.191854,
+          "end": 0.451854,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "AI",
+          "start": 0.591854,
+          "end": 0.871854,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "to",
+          "start": 0.911854,
+          "end": 1.011854,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "fix",
+          "start": 1.071854,
+          "end": 1.231854,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "one",
+          "start": 1.471854,
+          "end": 1.671854,
+          "speaker": "alex",
+          "line": "hook"
+        },
+        {
+          "text": "typo.",
+          "start": 1.811854,
+          "end": 2.251854,
+          "speaker": "alex",
+          "line": "hook"
+        }
+      ]
+    },
+    {
+      "id": "working",
+      "speaker": "ai",
+      "text": "Of course. Small change.",
+      "afterPause": 0.18,
+      "start": 2.526604166666667,
+      "end": 4.539083333333334,
+      "duration": 2.0124791666666666,
+      "words": [
+        {
+          "text": "Of",
+          "start": 2.526604,
+          "end": 2.858167,
+          "speaker": "ai",
+          "line": "working"
+        },
+        {
+          "text": "course.",
+          "start": 2.858167,
+          "end": 3.278167,
+          "speaker": "ai",
+          "line": "working"
+        },
+        {
+          "text": "Small",
+          "start": 3.778167,
+          "end": 3.898167,
+          "speaker": "ai",
+          "line": "working"
+        },
+        {
+          "text": "change.",
+          "start": 3.898167,
+          "end": 4.418167,
+          "speaker": "ai",
+          "line": "working"
+        }
+      ]
+    },
+    {
+      "id": "files",
+      "speaker": "alex",
+      "text": "Twelve files? It's one button.",
+      "afterPause": 0.16,
+      "start": 4.719083333333334,
+      "end": 7.149333333333334,
+      "duration": 2.43025,
+      "words": [
+        {
+          "text": "Twelve",
+          "start": 4.791896,
+          "end": 5.151896,
+          "speaker": "alex",
+          "line": "files"
+        },
+        {
+          "text": "files?",
+          "start": 5.311896,
+          "end": 5.791896,
+          "speaker": "alex",
+          "line": "files"
+        },
+        {
+          "text": "It's",
+          "start": 6.191896,
+          "end": 6.371896,
+          "speaker": "alex",
+          "line": "files"
+        },
+        {
+          "text": "one",
+          "start": 6.431896,
+          "end": 6.571896,
+          "speaker": "alex",
+          "line": "files"
+        },
+        {
+          "text": "button.",
+          "start": 6.731896,
+          "end": 7.091896,
+          "speaker": "alex",
+          "line": "files"
+        }
+      ]
+    },
+    {
+      "id": "components",
+      "speaker": "ai",
+      "text": "I noticed your components could be cleaner.",
+      "afterPause": 0.18,
+      "start": 7.309333333333334,
+      "end": 9.710375,
+      "duration": 2.4010416666666665,
+      "words": [
+        {
+          "text": "I",
+          "start": 7.390021,
+          "end": 7.530021,
+          "speaker": "ai",
+          "line": "components"
+        },
+        {
+          "text": "noticed",
+          "start": 7.530021,
+          "end": 7.810021,
+          "speaker": "ai",
+          "line": "components"
+        },
+        {
+          "text": "your",
+          "start": 7.810021,
+          "end": 8.090021,
+          "speaker": "ai",
+          "line": "components"
+        },
+        {
+          "text": "components",
+          "start": 8.090021,
+          "end": 8.550021,
+          "speaker": "ai",
+          "line": "components"
+        },
+        {
+          "text": "could",
+          "start": 8.550021,
+          "end": 8.890021,
+          "speaker": "ai",
+          "line": "components"
+        },
+        {
+          "text": "be",
+          "start": 8.890021,
+          "end": 9.130021,
+          "speaker": "ai",
+          "line": "components"
+        },
+        {
+          "text": "cleaner.",
+          "start": 9.130021,
+          "end": 9.450021,
+          "speaker": "ai",
+          "line": "components"
+        }
+      ]
+    },
+    {
+      "id": "framework",
+      "speaker": "alex",
+      "text": "Fine. Why is there a new framework?",
+      "afterPause": 0.16,
+      "start": 9.890375,
+      "end": 12.238916666666668,
+      "duration": 2.3485416666666667,
+      "words": [
+        {
+          "text": "Fine.",
+          "start": 10.019104,
+          "end": 10.339104,
+          "speaker": "alex",
+          "line": "framework"
+        },
+        {
+          "text": "Why",
+          "start": 10.919104,
+          "end": 11.039104,
+          "speaker": "alex",
+          "line": "framework"
+        },
+        {
+          "text": "is",
+          "start": 11.079104,
+          "end": 11.179104,
+          "speaker": "alex",
+          "line": "framework"
+        },
+        {
+          "text": "there",
+          "start": 11.219104,
+          "end": 11.319104,
+          "speaker": "alex",
+          "line": "framework"
+        },
+        {
+          "text": "a",
+          "start": 11.359104,
+          "end": 11.399104,
+          "speaker": "alex",
+          "line": "framework"
+        },
+        {
+          "text": "new",
+          "start": 11.419104,
+          "end": 11.619104,
+          "speaker": "alex",
+          "line": "framework"
+        },
+        {
+          "text": "framework?",
+          "start": 11.679104,
+          "end": 12.159104,
+          "speaker": "alex",
+          "line": "framework"
+        }
+      ]
+    },
+    {
+      "id": "architecture",
+      "speaker": "ai",
+      "text": "The previous architecture was holding us back.",
+      "afterPause": 0.16,
+      "start": 12.398916666666668,
+      "end": 14.990625000000001,
+      "duration": 2.5917083333333335,
+      "words": [
+        {
+          "text": "The",
+          "start": 12.519687,
+          "end": 12.619687,
+          "speaker": "ai",
+          "line": "architecture"
+        },
+        {
+          "text": "previous",
+          "start": 12.619687,
+          "end": 13.059687,
+          "speaker": "ai",
+          "line": "architecture"
+        },
+        {
+          "text": "architecture",
+          "start": 13.059687,
+          "end": 13.619687,
+          "speaker": "ai",
+          "line": "architecture"
+        },
+        {
+          "text": "was",
+          "start": 13.619687,
+          "end": 13.939688,
+          "speaker": "ai",
+          "line": "architecture"
+        },
+        {
+          "text": "holding",
+          "start": 13.939688,
+          "end": 14.139687,
+          "speaker": "ai",
+          "line": "architecture"
+        },
+        {
+          "text": "us",
+          "start": 14.139687,
+          "end": 14.479688,
+          "speaker": "ai",
+          "line": "architecture"
+        },
+        {
+          "text": "back.",
+          "start": 14.479688,
+          "end": 14.819688,
+          "speaker": "ai",
+          "line": "architecture"
+        }
+      ]
+    },
+    {
+      "id": "us",
+      "speaker": "alex",
+      "text": "Us? It's a login screen.",
+      "afterPause": 0.28,
+      "start": 15.150625000000002,
+      "end": 17.161854166666668,
+      "duration": 2.011229166666667,
+      "words": [
+        {
+          "text": "Us?",
+          "start": 15.255625,
+          "end": 15.515625,
+          "speaker": "alex",
+          "line": "us"
+        },
+        {
+          "text": "It's",
+          "start": 15.975625,
+          "end": 16.075625,
+          "speaker": "alex",
+          "line": "us"
+        },
+        {
+          "text": "a",
+          "start": 16.155625,
+          "end": 16.215625,
+          "speaker": "alex",
+          "line": "us"
+        },
+        {
+          "text": "login",
+          "start": 16.275625,
+          "end": 16.635625,
+          "speaker": "alex",
+          "line": "us"
+        },
+        {
+          "text": "screen.",
+          "start": 16.755625,
+          "end": 17.115625,
+          "speaker": "alex",
+          "line": "us"
+        }
+      ]
+    },
+    {
+      "id": "auth",
+      "speaker": "ai",
+      "text": "I also replaced authentication and updated your dependencies.",
+      "afterPause": 0.2,
+      "start": 17.44185416666667,
+      "end": 20.911333333333335,
+      "duration": 3.4694791666666664,
+      "words": [
+        {
+          "text": "I",
+          "start": 17.471333,
+          "end": 17.631333,
+          "speaker": "ai",
+          "line": "auth"
+        },
+        {
+          "text": "also",
+          "start": 17.631333,
+          "end": 17.971333,
+          "speaker": "ai",
+          "line": "auth"
+        },
+        {
+          "text": "replaced",
+          "start": 17.971333,
+          "end": 18.331334,
+          "speaker": "ai",
+          "line": "auth"
+        },
+        {
+          "text": "authentication",
+          "start": 18.331334,
+          "end": 18.991334,
+          "speaker": "ai",
+          "line": "auth"
+        },
+        {
+          "text": "and",
+          "start": 18.991334,
+          "end": 19.531334,
+          "speaker": "ai",
+          "line": "auth"
+        },
+        {
+          "text": "updated",
+          "start": 19.531334,
+          "end": 19.891333,
+          "speaker": "ai",
+          "line": "auth"
+        },
+        {
+          "text": "your",
+          "start": 19.891333,
+          "end": 20.151333,
+          "speaker": "ai",
+          "line": "auth"
+        },
+        {
+          "text": "dependencies.",
+          "start": 20.151333,
+          "end": 20.611333,
+          "speaker": "ai",
+          "line": "auth"
+        }
+      ]
+    },
+    {
+      "id": "letters",
+      "speaker": "alex",
+      "text": "You changed the login system to swap two letters?",
+      "afterPause": 0.2,
+      "start": 21.111333333333334,
+      "end": 24.01441666666667,
+      "duration": 2.9030833333333335,
+      "words": [
+        {
+          "text": "You",
+          "start": 21.171083,
+          "end": 21.291083,
+          "speaker": "alex",
+          "line": "letters"
+        },
+        {
+          "text": "changed",
+          "start": 21.351083,
+          "end": 21.611083,
+          "speaker": "alex",
+          "line": "letters"
+        },
+        {
+          "text": "the",
+          "start": 21.671083,
+          "end": 21.791083,
+          "speaker": "alex",
+          "line": "letters"
+        },
+        {
+          "text": "login",
+          "start": 21.851083,
+          "end": 22.151083,
+          "speaker": "alex",
+          "line": "letters"
+        },
+        {
+          "text": "system",
+          "start": 22.251083,
+          "end": 22.551083,
+          "speaker": "alex",
+          "line": "letters"
+        },
+        {
+          "text": "to",
+          "start": 22.611083,
+          "end": 22.731083,
+          "speaker": "alex",
+          "line": "letters"
+        },
+        {
+          "text": "swap",
+          "start": 22.791083,
+          "end": 23.031083,
+          "speaker": "alex",
+          "line": "letters"
+        },
+        {
+          "text": "two",
+          "start": 23.171083,
+          "end": 23.351083,
+          "speaker": "alex",
+          "line": "letters"
+        },
+        {
+          "text": "letters?",
+          "start": 23.491083,
+          "end": 23.911083,
+          "speaker": "alex",
+          "line": "letters"
+        }
+      ]
+    },
+    {
+      "id": "complete",
+      "speaker": "ai",
+      "text": "All done. Your app is now future-proof.",
+      "afterPause": 0.28,
+      "start": 24.21441666666667,
+      "end": 27.069270833333334,
+      "duration": 2.8548541666666667,
+      "words": [
+        {
+          "text": "All",
+          "start": 24.22575,
+          "end": 24.48575,
+          "speaker": "ai",
+          "line": "complete"
+        },
+        {
+          "text": "done.",
+          "start": 24.48575,
+          "end": 24.76575,
+          "speaker": "ai",
+          "line": "complete"
+        },
+        {
+          "text": "Your",
+          "start": 25.12575,
+          "end": 25.36575,
+          "speaker": "ai",
+          "line": "complete"
+        },
+        {
+          "text": "app",
+          "start": 25.36575,
+          "end": 25.58575,
+          "speaker": "ai",
+          "line": "complete"
+        },
+        {
+          "text": "is",
+          "start": 25.58575,
+          "end": 25.885751,
+          "speaker": "ai",
+          "line": "complete"
+        },
+        {
+          "text": "now",
+          "start": 25.885751,
+          "end": 26.22575,
+          "speaker": "ai",
+          "line": "complete"
+        },
+        {
+          "text": "future-proof.",
+          "start": 26.22575,
+          "end": 26.92575,
+          "speaker": "ai",
+          "line": "complete"
+        }
+      ]
+    },
+    {
+      "id": "verify",
+      "speaker": "alex",
+      "text": "Great. Did you fix the typo?",
+      "afterPause": 0.22,
+      "start": 27.349270833333335,
+      "end": 29.1700625,
+      "duration": 1.8207916666666666,
+      "words": [
+        {
+          "text": "Great.",
+          "start": 27.382396,
+          "end": 27.682396,
+          "speaker": "alex",
+          "line": "verify"
+        },
+        {
+          "text": "Did",
+          "start": 28.122396,
+          "end": 28.222396,
+          "speaker": "alex",
+          "line": "verify"
+        },
+        {
+          "text": "you",
+          "start": 28.262396,
+          "end": 28.342396,
+          "speaker": "alex",
+          "line": "verify"
+        },
+        {
+          "text": "fix",
+          "start": 28.382396,
+          "end": 28.542396,
+          "speaker": "alex",
+          "line": "verify"
+        },
+        {
+          "text": "the",
+          "start": 28.582396,
+          "end": 28.662396,
+          "speaker": "alex",
+          "line": "verify"
+        },
+        {
+          "text": "typo?",
+          "start": 28.702396,
+          "end": 29.022396,
+          "speaker": "alex",
+          "line": "verify"
+        }
+      ]
+    },
+    {
+      "id": "reveal",
+      "speaker": "ai",
+      "text": "Here's your improved login screen.",
+      "afterPause": 0.3,
+      "start": 29.390062500000003,
+      "end": 31.136750000000003,
+      "duration": 1.7466875,
+      "words": [
+        {
+          "text": "Here's",
+          "start": 29.52675,
+          "end": 29.72675,
+          "speaker": "ai",
+          "line": "reveal"
+        },
+        {
+          "text": "your",
+          "start": 29.72675,
+          "end": 29.94675,
+          "speaker": "ai",
+          "line": "reveal"
+        },
+        {
+          "text": "improved",
+          "start": 29.94675,
+          "end": 30.246749,
+          "speaker": "ai",
+          "line": "reveal"
+        },
+        {
+          "text": "login",
+          "start": 30.246749,
+          "end": 30.64675,
+          "speaker": "ai",
+          "line": "reveal"
+        },
+        {
+          "text": "screen.",
+          "start": 30.64675,
+          "end": 31.02675,
+          "speaker": "ai",
+          "line": "reveal"
+        }
+      ]
+    },
+    {
+      "id": "payoff",
+      "speaker": "alex",
+      "text": "It still says sing in.",
+      "afterPause": 1.65,
+      "start": 31.436750000000004,
+      "end": 33.23802083333334,
+      "duration": 1.8012708333333334,
+      "words": [
+        {
+          "text": "It",
+          "start": 31.468021,
+          "end": 31.588021,
+          "speaker": "alex",
+          "line": "payoff"
+        },
+        {
+          "text": "still",
+          "start": 31.708021,
+          "end": 31.868021,
+          "speaker": "alex",
+          "line": "payoff"
+        },
+        {
+          "text": "says",
+          "start": 31.988021,
+          "end": 32.288021,
+          "speaker": "alex",
+          "line": "payoff"
+        },
+        {
+          "text": "sing",
+          "start": 32.408021,
+          "end": 32.808021,
+          "speaker": "alex",
+          "line": "payoff"
+        },
+        {
+          "text": "in.",
+          "start": 32.908021,
+          "end": 33.168021,
+          "speaker": "alex",
+          "line": "payoff"
+        }
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "id": "hook",
+      "start": 0,
+      "duration": 2.526604166666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "I asked AI to fix one typo.",
+      "label": "hook",
+      "description": "Start mid-motion on the wrong Sing in button, the requested letter swap and Alex with his mug.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "working",
+      "start": 2.526604166666667,
+      "duration": 2.1924791666666668,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Of course. Small change.",
+      "label": "working",
+      "description": "Opus appears in her assistant window and accepts the tiny change.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "files",
+      "start": 4.719083333333334,
+      "duration": 2.59025,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Twelve files? It's one button.",
+      "label": "files",
+      "description": "The files-changed counter reaches 12 as Alex notices the growing diff.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "components",
+      "start": 7.309333333333334,
+      "duration": 2.5810416666666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "I noticed your components could be cleaner.",
+      "label": "components",
+      "description": "Component cards split into a small nested tree while Opus explains her cleanup.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "framework",
+      "start": 9.890375,
+      "duration": 2.508541666666668,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Fine. Why is there a new framework?",
+      "label": "framework",
+      "description": "A framework package is replaced and the counter reaches 34.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "architecture",
+      "start": 12.398916666666668,
+      "duration": 2.751708333333333,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "The previous architecture was holding us back.",
+      "label": "architecture",
+      "description": "The AI rearranges the app architecture with confident enthusiasm.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "us",
+      "start": 15.150625000000002,
+      "duration": 2.2912291666666675,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Us? It's a login screen.",
+      "label": "us",
+      "description": "A brief reaction close-up on Alex\u2019s Us, with the UI still showing the expanding job.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "auth",
+      "start": 17.44185416666667,
+      "duration": 3.6694791666666653,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "I also replaced authentication and updated your dependencies.",
+      "label": "auth",
+      "description": "Authentication and dependency cards branch out; the counter reaches 87.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "letters",
+      "start": 21.111333333333334,
+      "duration": 3.103083333333334,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "You changed the login system to swap two letters?",
+      "label": "letters",
+      "description": "Two letter tiles demonstrate the small original transposition request.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "complete",
+      "start": 24.21441666666667,
+      "duration": 3.134854166666667,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "All done. Your app is now future-proof.",
+      "label": "complete",
+      "description": "Opus gives a proud completion reaction and the 87-file diff settles.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "verify",
+      "start": 27.349270833333335,
+      "duration": 2.0407916666666672,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Great. Did you fix the typo?",
+      "label": "verify",
+      "description": "Alex asks about the actual task while the app preview returns.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "reveal",
+      "start": 29.390062500000003,
+      "duration": 2.046687500000001,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "Here's your improved login screen.",
+      "label": "reveal",
+      "description": "The updated login preview assembles, with the button still masked.",
+      "timeOfDay": "day"
+    },
+    {
+      "id": "payoff",
+      "start": 31.436750000000004,
+      "duration": 3.463249999999995,
+      "set": "developer-ui",
+      "action": "reveal",
+      "anchor": "It still says sing in.",
+      "label": "payoff",
+      "description": "The button fills the preview on says and reveals the unchanged Sing in. Alex facepalms and the picture settles.",
+      "timeOfDay": "day"
+    }
+  ],
+  "actors": {
+    "alex-coffee": {
+      "id": "alex-coffee",
+      "url": "episodes/ai-typo/art/alex-coffee.png",
+      "width": 1024,
+      "height": 1536,
+      "bounds": [
+        284,
+        72,
+        706,
+        1452
+      ],
+      "pivotX": 512.0,
+      "footY": 1452,
+      "bodyHeight": 1380,
+      "background": "transparent",
+      "sha256": "a1948f46af6a6165cfe8730346588a140654149d6fc65ae006ba8d9b9965b313"
+    },
+    "alex-explain": {
+      "id": "alex-explain",
+      "url": "episodes/ai-typo/art/alex-explain.png",
+      "width": 1024,
+      "height": 1536,
+      "bounds": [
+        186,
+        88,
+        902,
+        1433
+      ],
+      "pivotX": 485.5,
+      "footY": 1433,
+      "bodyHeight": 1345,
+      "background": "transparent",
+      "sha256": "54314c7b210e17347c0d8b21ad61094290f2e6fd28014bd002ff25f382462c0d"
+    },
+    "alex-frustrated": {
+      "id": "alex-frustrated",
+      "url": "episodes/ai-typo/art/alex-frustrated.png",
+      "width": 1024,
+      "height": 1536,
+      "bounds": [
+        272,
+        87,
+        744,
+        1439
+      ],
+      "pivotX": 495.5,
+      "footY": 1439,
+      "bodyHeight": 1352,
+      "background": "transparent",
+      "sha256": "8ccc5b4b224c668e62299dcb7f095e3936ba48bb3dbf453698e8ddcf921fda3b"
+    },
+    "opus-present": {
+      "id": "opus-present",
+      "url": "episodes/ai-typo/art/opus-present-shirt-v2.png",
+      "width": 2048,
+      "height": 3072,
+      "bounds": [
+        282,
+        69,
+        1765,
+        2882
+      ],
+      "pivotX": 999.5,
+      "footY": 2882,
+      "bodyHeight": 2813,
+      "background": "white assistant panel",
+      "sha256": "9cc355e66b3e44bd0651c30ca7c9acfe997d1d25409376a6401b4003e3d7572f"
+    },
+    "opus-proud": {
+      "id": "opus-proud",
+      "url": "episodes/ai-typo/art/opus-proud-shirt-v2.png",
+      "width": 2048,
+      "height": 3072,
+      "bounds": [
+        432,
+        71,
+        1676,
+        2847
+      ],
+      "pivotX": 1007.0,
+      "footY": 2847,
+      "bodyHeight": 2776,
+      "background": "white assistant panel",
+      "sha256": "eca76c32adb01a9b88ab011e1582df1fc42a3802e70f2269a09f6c59a46f2b60"
+    },
+    "opus-think": {
+      "id": "opus-think",
+      "url": "episodes/ai-typo/art/opus-think-shirt-v2.png",
+      "width": 2048,
+      "height": 3072,
+      "bounds": [
+        591,
+        89,
+        1617,
+        2893
+      ],
+      "pivotX": 1088.0,
+      "footY": 2893,
+      "bodyHeight": 2804,
+      "background": "white assistant panel",
+      "sha256": "1803b461d29ed09ac36bbf57607be40d38133ba01a8e346fb9bc8dc32ba3afd5"
+    }
+  },
+  "ui": {
+    "typo": "Sing in",
+    "correct": "Sign in",
+    "request": "Change \u201cSing in\u201d to \u201cSign in\u201d.",
+    "modelName": "Opus 5.5",
+    "initialCount": 1,
+    "componentsCount": 12,
+    "frameworkCount": 34,
+    "finalCount": 87,
+    "files": [
+      "Button.tsx",
+      "Login.tsx",
+      "tokens.css",
+      "package.json",
+      "auth.ts",
+      "lockfile.json"
+    ],
+    "stages": [
+      "Components",
+      "Framework",
+      "Authentication"
+    ],
+    "status": "Files changed",
+    "typoHighlight": [
+      2,
+      4
+    ],
+    "frameworkOld": "old-framework",
+    "frameworkNew": "new-framework",
+    "authenticationNodes": [
+      "Sessions",
+      "Packages",
+      "Keys"
+    ]
+  }
+}

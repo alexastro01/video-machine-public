@@ -1,0 +1,610 @@
+{
+  "request": {
+    "id": "login-01",
+    "sender": "Alex",
+    "text": "fix my login page. make no mistakes.",
+    "reply": "Check the form action.",
+    "replyTokens": [
+      "Check",
+      " the",
+      " form",
+      " action",
+      "."
+    ]
+  },
+  "tabs": [
+    "Front door",
+    "Tokens",
+    "GPUs",
+    "Streaming",
+    "Database"
+  ],
+  "fps": 60,
+  "speed": 1.13,
+  "music": "public/episodes/profile-checks/music-takes-v3/take-3.mp3",
+  "stages": [
+    {
+      "id": "hook",
+      "description": "The mature presenter opens on the three and six input tokens. A fast riser lands on the ×2 stamp. Four words stay blurred. The blossom turns into Astra’s circular portrait.",
+      "lines": [
+        "hook"
+      ]
+    },
+    {
+      "id": "front",
+      "description": "Alex’s login-01 arrives at Cloudflare. The daily messages counter appears here with its own 2025 source. Identity and rate checks are separated by twelve frames.",
+      "lines": [
+        "front",
+        "limit"
+      ]
+    },
+    {
+      "id": "route",
+      "description": "One stationary five-stop map previews the verbs. The last stop holds through the full word saved and the next half-second.",
+      "lines": [
+        "route"
+      ]
+    },
+    {
+      "id": "token",
+      "description": "The request stays above two rows. Three ordinary tokens and six capitalized tokens split apart on their spoken counts.",
+      "lines": [
+        "token",
+        "caps"
+      ]
+    },
+    {
+      "id": "gpu",
+      "description": "An occupied worker frees a slot. The waiting login-01 ticket enters that exact slot. A partial reply grows by one token.",
+      "lines": [
+        "gpu",
+        "standup"
+      ]
+    },
+    {
+      "id": "stream",
+      "description": "Astra hands off the first piece. Subsequent chunks travel to Alex, and the same reply grows inside his chat bubble.",
+      "lines": [
+        "stream",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "database",
+      "description": "The saved conversation leads into a dated close-up of OpenAI’s PostgreSQL deployment. The writer, replicas and reused connection remain in place.",
+      "lines": [
+        "database",
+        "homework",
+        "pool",
+        "tables"
+      ]
+    },
+    {
+      "id": "recap",
+      "description": "Five rows reuse the diagrams from the walk-through. Each row opens on its spoken noun.",
+      "lines": [
+        "recap"
+      ]
+    },
+    {
+      "id": "twist",
+      "description": "The writer returns alongside two measured comparisons from the image-generation launch. Astra covers her mouth.",
+      "lines": [
+        "twist"
+      ]
+    },
+    {
+      "id": "payoff",
+      "description": "The three original tokens sit next to the four-word GPT-5 launch example. The words appear on Astra’s voice. She looks away and puffs her cheek at the cut.",
+      "lines": [
+        "payoff",
+        "pout"
+      ]
+    }
+  ],
+  "wordCues": {
+    "follow": [
+      "route",
+      "follow"
+    ],
+    "prompt": [
+      "route",
+      "prompt"
+    ],
+    "previewFront": [
+      "route",
+      "checked"
+    ],
+    "previewTokens": [
+      "route",
+      "read"
+    ],
+    "previewGpu": [
+      "route",
+      "answered"
+    ],
+    "previewDb": [
+      "route",
+      "saved"
+    ],
+    "hit": [
+      "front",
+      "hits"
+    ],
+    "balance": [
+      "front",
+      "Cloudflare"
+    ],
+    "check": [
+      "front",
+      "checks"
+    ],
+    "quota": [
+      "front",
+      "whether"
+    ],
+    "ban": [
+      "limit",
+      "does not"
+    ],
+    "rate": [
+      "limit",
+      "rate"
+    ],
+    "chunks": [
+      "token",
+      "chunks"
+    ],
+    "phrase": [
+      "token",
+      "Make no mistakes"
+    ],
+    "three": [
+      "token",
+      "three"
+    ],
+    "upper": [
+      "caps",
+      "caps"
+    ],
+    "six": [
+      "caps",
+      "six"
+    ],
+    "wait": [
+      "gpu",
+      "Your prompt"
+    ],
+    "batch": [
+      "gpu",
+      "batched"
+    ],
+    "predict": [
+      "gpu",
+      "predicts"
+    ],
+    "single": [
+      "gpu",
+      "one token"
+    ],
+    "standup": [
+      "standup",
+      "standup"
+    ],
+    "pieces": [
+      "stream",
+      "Pieces"
+    ],
+    "ship": [
+      "stream",
+      "sent"
+    ],
+    "ready": [
+      "stream",
+      "ready"
+    ],
+    "type": [
+      "stream",
+      "types"
+    ],
+    "drama": [
+      "dramatic",
+      "dramatic"
+    ],
+    "word": [
+      "dramatic",
+      "next word"
+    ],
+    "saved": [
+      "route",
+      "saved"
+    ],
+    "pg": [
+      "database",
+      "PostgreSQL"
+    ],
+    "write": [
+      "database",
+      "writes"
+    ],
+    "primary": [
+      "database",
+      "one main"
+    ],
+    "copies": [
+      "pool",
+      "copies"
+    ],
+    "read": [
+      "pool",
+      "reading"
+    ],
+    "pooler": [
+      "pool",
+      "PgBouncer"
+    ],
+    "fifty": [
+      "pool",
+      "from 50",
+      1
+    ],
+    "five": [
+      "pool",
+      "to 5",
+      1
+    ],
+    "sign": [
+      "tables",
+      "no new tables"
+    ],
+    "touch": [
+      "tables",
+      "touch"
+    ],
+    "rFront": [
+      "recap",
+      "front door"
+    ],
+    "rTokens": [
+      "recap",
+      "tokenizer"
+    ],
+    "rGpu": [
+      "recap",
+      "GPUs"
+    ],
+    "rStream": [
+      "recap",
+      "stream"
+    ],
+    "rDb": [
+      "recap",
+      "tired"
+    ],
+    "launch": [
+      "twist",
+      "image generation"
+    ],
+    "signup": [
+      "twist",
+      "100 million"
+    ],
+    "spike": [
+      "twist",
+      "jumped"
+    ],
+    "ten": [
+      "twist",
+      "ten times"
+    ],
+    "toModel": [
+      "payoff",
+      "To the model"
+    ],
+    "finalThree": [
+      "payoff",
+      "three more"
+    ],
+    "hookCaps": [
+      "hook",
+      "in caps",
+      1
+    ],
+    "hookDouble": [
+      "hook",
+      "double"
+    ],
+    "teaser": [
+      "hook",
+      "4 other words"
+    ],
+    "hookEnd": [
+      "hook",
+      "can"
+    ],
+    "counter": [
+      "front",
+      "Cloudflare"
+    ],
+    "incident": [
+      "twist",
+      "top-level emergency",
+      1
+    ],
+    "question": [
+      "payoff",
+      "work"
+    ],
+    "launchPost": [
+      "payoff",
+      "launch post"
+    ],
+    "think": [
+      "payoff",
+      "think hard"
+    ],
+    "hard": [
+      "payoff",
+      "think hard",
+      1
+    ],
+    "about": [
+      "payoff",
+      "about this"
+    ],
+    "thisWord": [
+      "payoff",
+      "about this",
+      1
+    ],
+    "routeThinking": [
+      "payoff",
+      "route you"
+    ],
+    "thinking": [
+      "payoff",
+      "thinking model"
+    ],
+    "glance": [
+      "pout",
+      "Not that"
+    ],
+    "puff": [
+      "pout",
+      "telling"
+    ],
+    "lastWord": [
+      "pout",
+      "type"
+    ],
+    "tired": [
+      "homework",
+      "homework"
+    ]
+  },
+  "soundCues": {
+    "prompt": [
+      "click",
+      0.12
+    ],
+    "balance": [
+      "swish",
+      0.062
+    ],
+    "check": [
+      "click",
+      0.08
+    ],
+    "ban": [
+      "land",
+      0.11
+    ],
+    "three": [
+      "pop",
+      0.1
+    ],
+    "upper": [
+      "swish",
+      0.09
+    ],
+    "six": [
+      "pop",
+      0.12
+    ],
+    "batch": [
+      "click",
+      0.1
+    ],
+    "predict": [
+      "pop",
+      0.08
+    ],
+    "ship": [
+      "swish",
+      0.09
+    ],
+    "ready": [
+      "pop",
+      0.06
+    ],
+    "type": [
+      "click",
+      0.07
+    ],
+    "saved": [
+      "snap",
+      0.085
+    ],
+    "write": [
+      "land",
+      0.09
+    ],
+    "copies": [
+      "pop",
+      0.08
+    ],
+    "pooler": [
+      "click",
+      0.07
+    ],
+    "five": [
+      "pop",
+      0.12
+    ],
+    "sign": [
+      "land",
+      0.19
+    ],
+    "rFront": [
+      "pop",
+      0.055
+    ],
+    "rTokens": [
+      "pop",
+      0.055
+    ],
+    "rGpu": [
+      "pop",
+      0.055
+    ],
+    "rStream": [
+      "pop",
+      0.055
+    ],
+    "rDb": [
+      "pop",
+      0.055
+    ],
+    "incident": [
+      "land",
+      0.105
+    ],
+    "signup": [
+      "click",
+      0.06
+    ],
+    "ten": [
+      "land",
+      0.1
+    ],
+    "finalThree": [
+      "pop",
+      0.09
+    ],
+    "glance": [
+      "swish",
+      0.05
+    ],
+    "hookDouble": [
+      "land",
+      0.112
+    ],
+    "teaser": [
+      "pop",
+      0.068
+    ],
+    "counter": [
+      "pop",
+      0.071
+    ],
+    "think": [
+      "click",
+      0.067
+    ],
+    "hard": [
+      "click",
+      0.052
+    ],
+    "about": [
+      "click",
+      0.055
+    ],
+    "thisWord": [
+      "click",
+      0.063
+    ],
+    "thinking": [
+      "pop",
+      0.09
+    ]
+  },
+  "library": {
+    "pop": [
+      "mix/floraphonic-ui-pop-up-5-197889.mp3",
+      0.01,
+      0.088,
+      0.025
+    ],
+    "click": [
+      "Clicks/Click_02.wav",
+      0,
+      0.12,
+      0.014
+    ],
+    "swish": [
+      "Swishes/Sharp swoosh.wav",
+      0.035,
+      0.48,
+      0.18
+    ],
+    "land": [
+      "Clicks/Click_02.wav",
+      0,
+      0.15,
+      0.022
+    ],
+    "snap": [
+      "mix/floraphonic-ui-pop-up-5-197889.mp3",
+      0.01,
+      0.088,
+      0.025
+    ]
+  },
+  "shortCaptionEdits": [
+    [
+      "pool",
+      "reading,",
+      "reading."
+    ]
+  ],
+  "shortOmissions": [
+    [
+      "gpu",
+      0,
+      2
+    ],
+    [
+      "standup",
+      0,
+      12
+    ],
+    [
+      "dramatic",
+      0,
+      12
+    ],
+    [
+      "pool",
+      4,
+      6
+    ],
+    [
+      "pool",
+      10,
+      13
+    ],
+    [
+      "tables",
+      8,
+      16
+    ]
+  ],
+  "riser": {
+    "file": "mix/trading_nation-long-riser-185557.mp3",
+    "sourceAccentSeconds": 10.46,
+    "speed": 2.4,
+    "afterAccentSeconds": 0.24,
+    "gain": 0.16
+  },
+  "pictureHookFrames": 199
+}
