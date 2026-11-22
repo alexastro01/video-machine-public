@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/alexastro01/video-machine-public.git"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "engines": {
     "node": "^20.19.0 || ^22.13.0 || >=24"
   },

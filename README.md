@@ -28,4 +28,4 @@ npx remotion render src/public-entry.tsx ShadowPilot renders/shadow-pilot.mp4
 
 The production entry point is `src/index.ts`. The original episodes require their local artwork, audio or clips at the paths recorded in their manifests. This public copy includes the source and the files needed for the silent demo. Production media stays local.
 
-Run `npm run lint` and `npm test` to check the public copy. The fonts and bundled third-party code retain their accompanying license notices.
+Run `npm run lint` and `npm test` to check the public copy. Video Machine source is available under the [MIT License](LICENSE). The fonts and bundled third-party code retain their accompanying license notices.
